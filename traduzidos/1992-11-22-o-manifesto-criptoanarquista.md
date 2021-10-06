@@ -1,6 +1,6 @@
 ---
 title:  "O Manifesto Criptoanarquista"
-date:   01-01-1992 -0300
+date:   22-11-1992 -0300
 categories:
   - Biblioteca
 tags:
@@ -15,7 +15,9 @@ Aqui está "O Manifesto Criptoanarquista", que eu li na reunião de fundação, 
 
 Há algumas coisas que eu mudaria, mas por razões históricas deixarei como está. Alguns dos termos podem não ser familiares a vocês. Espero que o Cripto Glossário que acabei de distribuir lhe ajude.
 
-(Isto explica todos estes termos crípticos na minha assinatura!) --Tim May ...................................................
+(Isto explica todos estes termos crípticos na minha assinatura!) --Tim May
+
+---
 
 **O MANIFESTO CRIPTOANARQUISTA**
 
@@ -35,17 +37,20 @@ Ergam-se, vocês não têm nada a perder a não ser as cercas de arame farpado! 
 
 
 
-<pre>......................................................................
+```
+......................................................................
 Timothy C. May         | Criptoanarquia: cifra, moedas digitais, money,  
 tcmay@netcom.com       | redes anônimas, pseudônimos digitais, zero
 408-688-5409           | knowledge, reputações, mercados de informação, 
 W.A.S.T.E.: Aptos, CA  | mercados negros, colapso de governos.
-Higher Power: 2^756839 | PGP Public Key: por acordo.</pre>
+Higher Power: 2^756839 | PGP Public Key: por acordo.
+```
 
 
 Fonte:  
-[https://nakamotoinstitute.org/crypto-anarchist-manifesto/](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)  
-[https://www.activism.net/cypherpunk/crypto-anarchy.html](https://www.activism.net/cypherpunk/crypto-anarchy.html)  
+[Nakamoto Institute](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)  
+[Activism.net](https://www.activism.net/cypherpunk/crypto-anarchy.html)  
+[Cryptoanarchy.wiki](https://mailing-list-archive.cryptoanarchy.wiki/archive/1992/11/eda5e66d8aed5985d60a1fa5432c9751789b5e50dc11cf515c7dd67a511a3d78/)  
 
 Versão em vídeo:  
-[https://www.youtube.com/watch?v=Ch8Xp1BgR48](https://www.youtube.com/watch?v=Ch8Xp1BgR48)
+[YouTube](https://www.youtube.com/watch?v=Ch8Xp1BgR48)

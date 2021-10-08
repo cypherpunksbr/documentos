@@ -1,1 +1,1 @@
-## Artigos escritos em pt-BR.
+## Artigos escritos ou traduzidos em pt-BR.

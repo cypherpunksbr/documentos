@@ -1,6 +1,6 @@
 ---
 title:  "Glossário de Contratos inteligentes"
-date:   01-01-1995 -0300
+date:   1995 -0300
 categories:
   - Biblioteca
 tags:
@@ -125,7 +125,7 @@ _Ativo sintético_: Um derivativo construído ou "sintetizado" pela combinação
 
 Fluxo de caixa: A sequência esperada de pagamentos de acordo com os termos de um contrato. Por meio do fluxo de caixa podem ser calculados as metas financeiras básicas de um contrato, como o valor líquido atual.
 
-* * *
+---
 
 Por favor envie seus comentários para nszabo (at) law (dot) gwu (dot) edu
 

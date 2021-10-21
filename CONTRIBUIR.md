@@ -35,7 +35,7 @@ O documento pode estar em qualquer idioma, incluindo o português (pt-br).
 
 **5.** Formate o documento para seguir o padrão dos textos publicados. Formate o texto usando o padrão de sintaxe [```Markdown```](luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md). Tome cuidado para não esquecer de formatar nada, reconstrua as referências de links que estão no site, palavas em itálico, citações, parâgrafos, imagens, tudo! Isso precisa estar muito bem feito para quem venha a traduzir e ler o documento não fique com um texto mal formatado.
 
-**5.** Adicione nosso cabeçalho. Esse cabeçalho serve para que nosso site (feito com jekyll) reconheça informações importantes e agregue isso na exibição ao leitor. Adicione o cabeçalho a seguir no início do documento, alterando as informações pelas informações do seu texto. Caso alguma das informações exigidas não faça sentido para o caso do seu texto, apague a linha:
+**6.** Adicione nosso cabeçalho. Esse cabeçalho serve para que nosso site (feito com jekyll) reconheça informações importantes e agregue isso na exibição ao leitor. Adicione o cabeçalho a seguir no início do documento, alterando as informações pelas informações do seu texto. Caso alguma das informações exigidas não faça sentido para o caso do seu texto, apague a linha:
 
 ```
 ---

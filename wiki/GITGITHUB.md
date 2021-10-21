@@ -29,15 +29,15 @@ git push origin nome_da_branch
 ###### 5. Após o _merge_
 ###### * Delete a _branch_ utilizada
 ```
-git checkout master
+git checkout main
 git push origin :nome_da_branch
 git branch -D nome_da_branch
 ```
 ###### * Atualize seu repositório com o repositório oficial:
 ```
 git fetch upstream
-git rebase upstream/master
-git push -f origin master
+git rebase upstream/main
+git push -f origin main
 ```
 
 ###### 6. Quando iniciar uma nova contribuição, inicie o processo pelo passo #2.
@@ -90,7 +90,7 @@ O comando ```git clone``` pega o repositório como ele está no GitHub, já inic
 ```
 git init
 git remote add origin git@github.com:jeffesonjp/cypherpunks.com.br.git
-git pull origin master
+git pull origin main
 ```
 
 Pronto! Já temos nosso projeto clonado em nossa máquina local! Com esse comando (```git clone```), será criado um diretório com o mesmo nome do repositório. Entrando nele (```cd cypherpunks.com.br```), vamos começar a modificar!
@@ -98,18 +98,18 @@ Pronto! Já temos nosso projeto clonado em nossa máquina local! Com esse comand
 
 ## III - Criando a branch para criar ou modificar algo
 
-Agora vamos criar uma nova branch para a nossa tarefa. Digamos que vamos criar uma _feature_. Vamos criar uma _branch_ com um nome que diga o que será feito. Antes de tudo, garanta que você está na **branch master**, executando o comando:
+Agora vamos criar uma nova branch para a nossa tarefa. Digamos que vamos criar uma _feature_. Vamos criar uma _branch_ com um nome que diga o que será feito. Antes de tudo, garanta que você está na **branch main**, executando o comando:
 
 ```
 git branch
 ```
 A resposta deve ser:
 ```
-* master
+* main
 ```
 
-_Porque precisa estar na master?_
-Por convenção, o _git_ utiliza a **branch master** como padrão, para o código estável do projeto. Então, tudo o que estiver nessa _branch_, em qualquer repositório, -- teóricamente -- é código estável. Logo, você nunca irá mexer diretamente nela, mas em outras _branchs_, para então fazer **merge** com a **master**.
+_Porque precisa estar na main?_
+Por convenção, o _git_ utiliza a **branch main** como padrão, para o código estável do projeto. Então, tudo o que estiver nessa _branch_, em qualquer repositório, -- teóricamente -- é código estável. Logo, você nunca irá mexer diretamente nela, mas em outras _branchs_, para então fazer **merge** com a **main**.
 
 Agora vamos criar a _branch_ com nossa modificação. Temos duas formas de fazer isso. A forma mais rápida é:
 ```
@@ -120,12 +120,12 @@ git checkout -b Atualiza_glossario
 git branch Atualiza_glossario
 git checkout Atualiza_glossario
 ```
-O primeiro comando cria a _branch_. O segundo comando troca da _branch_ **master** para a _branch_ **Atualiza_glossario**
+O primeiro comando cria a _branch_. O segundo comando troca da _branch_ **main** para a _branch_ **Atualiza_glossario**
 
 Mas o primeiro comando que executamos (```git checkout -b Atualiza_glossario```), já faz essas duas coisas em um comando só: cria a _branch_ (```-b```) e já muda para a _branch_ criada (```git checkout```).
 
-_Tá, mas porque eu preciso criar uma nova branch? Se tudo irá para a master, porque não posso modificar direto ali?_
-Como eu disse, a _branch_ **master** é a _branch_ com o código final do projeto, estável. Criando uma nova _branch_, se você submeter o _pull request_ para o repositório original, mas ele não for aceito, as alterações não estarão na sua **branch master**. Dessa forma, se você quiser manter sempre os dois repositórios atualizados e sincronizados, você só precisa apagar a branch que você criou e fez a _feature_. As duas **master** vão continuar iguaizinhas :smile:
+_Tá, mas porque eu preciso criar uma nova branch? Se tudo irá para a main, porque não posso modificar direto ali?_
+Como eu disse, a _branch_ **main** é a _branch_ com o código final do projeto, estável. Criando uma nova _branch_, se você submeter o _pull request_ para o repositório original, mas ele não for aceito, as alterações não estarão na sua **branch main**. Dessa forma, se você quiser manter sempre os dois repositórios atualizados e sincronizados, você só precisa apagar a branch que você criou e fez a _feature_. As duas **main** vão continuar iguaizinhas :smile:
 
 **4.** Após fazer sua alteração, é hora de enviar para o seu _fork_. Primeiro você precisa _commitar_ sua alteração:
 ```
@@ -159,7 +159,7 @@ Após clicar no botão **Compare & pull request**, você será direcionado para 
 
 Na imagem acima você pode ver:
 * Onde diz **base fork** é o diretório padrão. No meu caso, está em **cypherpunksbr/cypherpunks.com.br**.
-* Ao lado, a _branch_ para a qual eu vou enviar meu _pull request_. Vou enviar direto para a master do repositório padrão.
+* Ao lado, a _branch_ para a qual eu vou enviar meu _pull request_. Vou enviar direto para a main do repositório padrão.
 * **head fork** é o seu repositório, que você _forkou_. Na imagem, é o **jeffesonjp/cypherpunks.com.br**.
 * E por fim, a **branch** onde eu fiz a alteração: _Atualiza_glossario_
 
@@ -185,11 +185,11 @@ Como você viu na imagem acima, aparece quantos _commits_ você fez, quanto cód
 
 Caso o autor do repositório tenha aprovado sua **branch** e feito **merge**, siga os seguintes passos:
 ```
-git checkout master
+git checkout main
 git push origin :Atualiza_glossario
 git branch -D Atualiza_glossario
 ```
-Como você bem se lembra, o primeiro comando (```git checkout master```) muda para a _branch master_. O segundo comando (```git push origin :Atualiza_glossario```) envia uma instrução para deletar a _branch_ **Atualiza_glossario** do repositório da sua conta do **GitHub**. Enfim, o terceiro comando deleta a _branch_ do seu repositório local.
+Como você bem se lembra, o primeiro comando (```git checkout main```) muda para a _branch main_. O segundo comando (```git push origin :Atualiza_glossario```) envia uma instrução para deletar a _branch_ **Atualiza_glossario** do repositório da sua conta do **GitHub**. Enfim, o terceiro comando deleta a _branch_ do seu repositório local.
 
 _Mas por que eu deveria apagar minhas branchs, não seria mais fácil eu simplesmente dar **merge** no meu repositório local e no GitHub?_
 Você pode fazer isso, mas se houver outros **commit** aprovados antes do seu, você terá que atualizar o repositório com o oficial depois da mesma forma. Estamos sugerindo apenas que você atualize tudo de uma vez :smile:
@@ -208,23 +208,23 @@ git remote add upstream git@github.com:cypherpunksbr/cypherpunks.com.br.git
 Após isso faça o seguinte:
 ```
 git fetch upstream
-git rebase upstream/master
-git push -f origin master
+git rebase upstream/main
+git push -f origin main
 ```
 
 O comando ```git fetch upstream``` pega os dados do repositório remoto que nomeamos como **upstream**, no nosso caso é o ```git@github.com:cypherpunksbr/cypherpunks.com.br.git```. 
-O comando ```git rebase upstream/master```  rescreve o seu **branch master** de forma que os seus _commits_, que não estão no projeto original, apareçam e os deixem no topo da lista.
+O comando ```git rebase upstream/main```  rescreve o seu **branch main** de forma que os seus _commits_, que não estão no projeto original, apareçam e os deixem no topo da lista.
 
-Se você não quiser reescrever o histórico do seu branch master (talvez porque alguém já o tenha clonado) então você deve substituir o último comando por um ```git merge upstream/master```. No entanto, para fazer com que futuros _pull requests_ fiquem o mais limpos possível, é uma boa ideia fazer o _rebase_.
+Se você não quiser reescrever o histórico do seu branch main (talvez porque alguém já o tenha clonado) então você deve substituir o último comando por um ```git merge upstream/main```. No entanto, para fazer com que futuros _pull requests_ fiquem o mais limpos possível, é uma boa ideia fazer o _rebase_.
 
-Se você fez o **rebase** do seu **branch** a partir de ```upstream/master```, recomendamos você a forçar um push para o seu próprio repositório do **Github**. Você pode fazer isso com ```git push -f origin master```.
+Se você fez o **rebase** do seu **branch** a partir de ```upstream/main```, recomendamos você a forçar um push para o seu próprio repositório do **Github**. Você pode fazer isso com ```git push -f origin main```.
 
 Quando iniciar uma nova contribuição comece pelo passo a partir da criação da **branch**.
 
 Se você entendeu toda a explicação, volte ao começo do texto e faça o [passo a passo simplificado](#passo-a-passo-simplificado).
 
 
-[aqui]: https://github.com/cypherpunksbr/cypherpunks.com.br/blob/master/documentacao/GIT.md
+[aqui]: https://github.com/cypherpunksbr/cypherpunks.com.br/blob/main/documentacao/GIT.md
 [esmague-os]: http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 [_Issue_]: https://github.com/cypherpunksbr/cypherpunks.com.br/issues
-[contribuições]: https://github.com/cypherpunksbr/cypherpunks.com.br/blob/master/CONTRIBUTING.md
+[contribuições]: https://github.com/cypherpunksbr/cypherpunks.com.br/blob/main/CONTRIBUTING.md

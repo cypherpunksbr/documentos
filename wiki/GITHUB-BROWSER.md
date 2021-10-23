@@ -4,38 +4,66 @@
 
 > Trechos deste tutorial foram extraídos de docs.github.com
 
-**Nesse tutorial serão apresentadas algumas operações básicas de github pelo navegador**
+## Nesse tutorial serão apresentadas algumas operações básicas de github pelo navegador:
+  - [Criando um fork](#criando-um-fork)
+  - [Criando uma nova Branch](#criando-uma-nova-branch)
+  - [Renomeando e movendo arquivos](#renomeando-e-movendo-arquivos)
+  - [Criando um Pull Request](#criando-um-pull-request)
+  - [Abrindo uma Issue](#abrindo-uma-issue)
 
 ---
 
 ## Criando um fork
 
-- Dentro do repositório que você quer criar um fork, no canto superior direito clique em ```fork```;
+- Dentro do repositório que você quer criar um fork, no canto superior direito clique em ```fork```
 
 ![gif tutorial](img/github-website-fork.gif)
 
-- Feito isso o fork será criado e você será redirecionado para a página do seu fork.
+- Feito isso o fork será criado e você será redirecionado para a página do seu fork
   
 ---
 
 ## Criando uma nova Branch
 
-- Dentro do repositório que você quer criar a branch (pode ser dentro de seu fork), clique no botão inde são exibidas as branchs;
+- Dentro do repositório que você quer criar a branch (pode ser dentro de seu fork), clique no botão inde são exibidas as branchs
 - Digite um nome para sua nova branch e em seguida clique em ```criar branch: nome-da-branch```
 
 ![gif tutorial](img/github-website-new-branch.gif)
 
-- Quando quiser navegar novamente para essa branch já criada, basta fazer isso clicando no botão de branch e selecionando ela na lista.
+- Quando quiser navegar novamente para essa branch já criada, basta fazer isso clicando no botão de branch e selecionando ela na lista
 
 ---
 
 ## Renomeando e movendo arquivos
 
 - Navegue até o arquivo que deseja mover;
-- No canto superior direito da exibição do arquivo, clique no lápis para abrir o editor de arquivos;
-- Para alterar o nome do arquivo basta ir na barra superior e editar o nome;
+- No canto superior direito da exibição do arquivo, clique no lápis :pencil2: para abrir o editor de arquivos
+- Para alterar o nome do arquivo basta ir na barra superior e editar o nome
 
 ![gif tutorial](img/github-website-rename-move.gif)
 
-- Para mover o arquivo para uma subpasta, digite o nome da pasta desejada, seguido por ```/```. Sua nova pasta é um novo item na navegação estrutural.
-- Para mover o arquivo para um diretório acima da localização atual do arquivo, coloque o cursor no início do campo nome do arquivo e digite ```../``` para pular um nível de diretório inteiro ou pressione a tecla backspace para editar o nome da pasta principal.
+- Para mover o arquivo para uma subpasta, digite o nome da pasta desejada, seguido por ```/```. Sua nova pasta é um novo item na navegação estrutural
+- Para mover o arquivo para um diretório acima da localização atual do arquivo, coloque o cursor no início do campo nome do arquivo e digite ```../``` para pular um nível de diretório inteiro ou pressione a tecla backspace para editar o nome da pasta principal
+
+---
+
+## Criando um Pull Request
+
+- Vá ao repositório e acesse a aba ```Pull requests```
+- Clique em ```Nova Pull Request```
+- Selecione seu ```fork``` e sua ```branch``` que deseja incuir no repositório raiz, conforme o exemplo da GIF
+- Coloque um título e uma descrição para manter as coisas organizadas
+- Confirme a criação do Pull Request pelo botão 
+
+![gif tutorial](img/github-website-pull-request.gif)
+
+---
+
+## Abrindo uma Issue
+
+- Vá ao repositório e acesse a aba ```Issues```
+- Clique em ```Nova Issue```
+- Coloque um título e uma descrição sobre sua contribuição, dúvida, etc.
+- Confirme o envio da Issue pelo botão 
+
+![gif tutorial](img/github-website-issue.gif)

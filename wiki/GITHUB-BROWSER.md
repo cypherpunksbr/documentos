@@ -2,7 +2,7 @@
 
 > rodando no navegador e aplicado ao caso de uso do nosso repositório
 
-> Trechos deste tutorial foram extraídos de docs.github.com
+> Trechos deste tutorial foram extraídos de https://docs.github.com
 
 ## Nesse tutorial serão apresentadas algumas operações básicas de github pelo navegador:
   - [Criando um fork](#criando-um-fork)

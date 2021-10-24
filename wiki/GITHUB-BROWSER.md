@@ -1,6 +1,6 @@
 # Tutorial de uso do GitHub via website 
 
-> rodando no navegador e aplicado ao caso de uso do nosso repositório
+> Rodando no navegador e aplicado ao caso de uso do nosso repositório
 
 > Trechos deste tutorial foram extraídos de https://docs.github.com
 

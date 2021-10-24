@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Títulos Seguros de Propriedade com Autoridade do Proprietário 
 Nick Szabo
 =============================================================
@@ -113,5 +111,3 @@ Por favor, envie seus comentários para nszabo (at) law (dot) gwu (dot) edu
 
 Copyright © 1998,1999,2002,2005 by Nick Szabo
  Permissão para redistribuir sem alteração por este concedida
-
-{% endblock %}

@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 The Playdough Protocols
 Nick Szabo
 =======================
@@ -10,14 +8,16 @@ Nick Szabo
 
 ### Table of Contents
 
--   [Introduction](#introduction)
--   [Seals and Sealing](#seals-and-sealing)
--   [Clay Documents and Envelopes](#clay-documents-and-envelopes)
--   [Tamper Evident Numbers](#tamper-evident-numbers)
--   [Modern Sealing](#modern-sealing)
--   [Conclusion](#conclusion)
--   [References](#references)
--   [Acknowledgements](#acknowledgements)
+- [Nick Szabo](#nick-szabo)
+      - [2002](#2002)
+    - [Table of Contents](#table-of-contents)
+    - [Introduction](#introduction)
+    - [Seals and Sealing](#seals-and-sealing)
+    - [Clay Documents and Envelopes](#clay-documents-and-envelopes)
+    - [Tamper Evident Numbers](#tamper-evident-numbers)
+    - [Modern Sealing](#modern-sealing)
+    - [References](#references)
+    - [Acknowledgements](#acknowledgements)
 
 ### Introduction
 
@@ -144,5 +144,3 @@ My thanks to Andrew Odlyzko and K. Eric Drexler for their insightful comments.
 *Originally published on [Nick Szabo’s Papers and Concise Tutorials](http://szabo.best.vwh.net/seals.html).*
 
 *Please send your comments to nszabo (at) law (dot) gwu (dot) edu*
-
-{% endblock %}

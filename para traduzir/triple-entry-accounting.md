@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Triple Entry Accounting 
 Ian Grigg
 =======================
@@ -279,5 +277,3 @@ References
 14. Using internal money instead of an accounting system is not a new idea but has only been recently experienced: Ian Grigg, [How we raised capital at 0%, saved our creditors from an accounting nightmare, gave our suppliers a discount and got to bed before midnight.](http://iang.org/rants/systemics_psd.html) Informal essay (rant), 7 Jul 2003. [↩](#ref14)
 
 15. James Nesfield and Ian Grigg "[Mutual Funds and Financial Flaws](http://iang.org/papers/mutual_funds.html)," U.S. Senate Finance Subcommittee 27th January, 2004 [↩](#ref15)
-
-{% endblock %}

@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Money, Blockchains, and Social Scalability
 Nick Szabo
 ==========================================
@@ -162,5 +160,3 @@ The rise of the Internet as seen the rise of a variety of online institutions, a
 These initial Internet efforts have been very centralized. Blockchain technology, which implements data integrity via computer science rather than via “call the cops”, has so far made possible trust-minimized money—cryptocurrencies—and will let us make progress in other financial areas as well as other areas where transactions can be based primarily on data available online.
 
 This is not to say that adapting our institutions to our new capabilities will be easy, or indeed in particular cases anything short of difficult and improbable. Utopian schemes are very popular in the blockchain community, but they are not viable options. Reverse-engineering our highly evolved traditional institutions, and even reviving in new form some old ones, will usually work better than designing from scratch, than grand planning and game theory. One important strategy for doing so was demonstrated by Satoshi—sacrifice computational efficiency and scalability—consume more cheap computational resources—in order to reduce and better leverage the great expense in human resources needed to maintain the relationships between strangers involved modern institutions such as markets, large firms, and governments.
-
-{% endblock %}

@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 A Formal Language for Analyzing Contracts 
 Nick Szabo
 =========================================
@@ -836,5 +834,3 @@ Copyright © 2002 by Nick Szabo
 ---
 
 *Editor's note: Some links may be broken.*
-
-{% endblock %}

@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 The Geodesic Market
 Robert Hettinga
 ===================
@@ -1013,5 +1011,3 @@ Even more interesting, if we’re right, government-extorted revenue will cease 
 But that’s probably what Fama and Black had in mind, right?
 
 [Back to table of contents](#contents)
-
-{% endblock %}

@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 The Ricardian Contract 
 Ian Grigg
 ======================
@@ -267,5 +265,3 @@ The form has been in successful use since 1996. Since that time, it has delivere
 Ian Grigg
  *Systemics, Inc.*
  *iang@iang.org*
-
-{% endblock %}

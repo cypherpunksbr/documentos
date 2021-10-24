@@ -213,5 +213,3 @@ Propusemos um sistema para transações eletrônicas sem depender da confiança.
 7.  R.C. Merkle, ["Protocols for public key cryptosystems,"](http://nakamotoinstitute.org/public-key-cryptosystems.pdf) In *Proc. 1980 Symposium on Security and Privacy*, IEEE Computer Society, pages 122-133, April 1980. [↩](#ref7 "Jump back to [7]")
 
 8.  W. Feller, ["An introduction to probability theory and its applications,"](http://nakamotoinstitute.org/introduction-probability-theory-vol-i.pdf) 1957. [↩](#ref8 "Jump back to [8]")
-
-{% endblock %}

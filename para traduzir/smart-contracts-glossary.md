@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Smart Contracts Glossary
 Nick Szabo
 ========================
@@ -120,5 +118,3 @@ Please send your comments to nszabo (at) law (dot) gwu (dot) edu
 
 Copyright © 1995 by Nick Szabo
  Permission to redistribute without alteration hereby granted
-
-{% endblock %}

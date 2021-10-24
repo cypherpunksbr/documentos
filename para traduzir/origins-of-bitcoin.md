@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 On the Origins of Bitcoin:
  Stages of Monetary Evolution
  [Konrad S. Graf](http://konradsgraf.com)
@@ -23,24 +21,42 @@ November 3, 2013
 
 -   [The battle that never was:
     The regression theorem versus Bitcoin](#1)
--   [The “money or nothing” fallacy](#2)
--   [Scarcity by the numbers](#3)
--   [On technical concerns and comparative realism](#4)
--   [Show your work: Narrow logical steps](#5)
--   [The presence of pre-existing price constellations](#6)
--   [Taking it back to steak, eggs, and flour](#7)
--   [120,000 years of “mere” collectibles](#8)
--   [Technical and economic layers always present](#9)
--   [The importance of system and unit perspectives](#10)
--   [A well-documented illustration](#11)
--   [The first emergence of Bitcoin prices for money](#12)
--   [Distinguishing the early value components](#13)
--   [Chalk this one up for the crazy ones too](#14)
--   [Appendix A: Monetary interpretation by year](#Appendix-A)
--   [Appendix B: Five-year price formation chart](#Appendix-B)
--   [References](#References)
--   [About the Author](#About)
--   [Notes](#Notes)
+- [Konrad S. Graf](#konrad-s-graf)
+      - [](#)
+    - [1. The battle that never was:](#1-the-battle-that-never-was)
+    - [2. The “money or nothing” fallacy](#2-the-money-or-nothing-fallacy)
+    - [3. Scarcity by the numbers](#3-scarcity-by-the-numbers)
+    - [4. On technical concerns and comparative realism](#4-on-technical-concerns-and-comparative-realism)
+    - [5. Show your work: Narrow logical steps](#5-show-your-work-narrow-logical-steps)
+    - [6. The presence of pre-existing price constellations](#6-the-presence-of-pre-existing-price-constellations)
+    - [7. Taking it back to steak, eggs, and flour](#7-taking-it-back-to-steak-eggs-and-flour)
+    - [8. 120,000 years of “mere” collectibles](#8-120000-years-of-mere-collectibles)
+    - [9. Technical and economic layers always present](#9-technical-and-economic-layers-always-present)
+    - [10. The importance of system and unit perspectives](#10-the-importance-of-system-and-unit-perspectives)
+    - [11. A well-documented illustration](#11-a-well-documented-illustration)
+    - [12. The first emergence of Bitcoin prices for money](#12-the-first-emergence-of-bitcoin-prices-for-money)
+    - [13. Distinguishing the early value components](#13-distinguishing-the-early-value-components)
+    - [14. Chalk this one up for the crazy ones too](#14-chalk-this-one-up-for-the-crazy-ones-too)
+    - [Appendix A: Monetary interpretation by year](#appendix-a-monetary-interpretation-by-year)
+      - [Bitcoin Year 1 (2009)](#bitcoin-year-1-2009)
+        - [Milestones](#milestones)
+        - [Characterization](#characterization)
+      - [Bitcoin Year 2 (2010)](#bitcoin-year-2-2010)
+        - [Milestones](#milestones-1)
+        - [Characterization](#characterization-1)
+      - [Bitcoin Year 3 (2011)](#bitcoin-year-3-2011)
+        - [Milestones](#milestones-2)
+        - [Characterization](#characterization-2)
+      - [Bitcoin Year 4 (2012)](#bitcoin-year-4-2012)
+        - [Milestones](#milestones-3)
+        - [Characterization](#characterization-3)
+      - [Bitcoin Year 5 (2013–YTD)](#bitcoin-year-5-2013ytd)
+        - [Milestones](#milestones-4)
+        - [Characterization](#characterization-4)
+    - [Appendix B: Five-year price formation chart](#appendix-b-five-year-price-formation-chart)
+    - [References](#references)
+    - [About the Author](#about-the-author)
+    - [Notes](#notes)
 
 ### 1. The battle that never was: 
 The regression theorem versus Bitcoin
@@ -757,5 +773,3 @@ For 2009, NLS explained that its “exchange rate was calculated by dividing \$1
 [←42](#link-42)
 
 No news story I could find specified a purchase date. Here is one [example story](http://news.com.au/money/money-matters/norwegian-student-kristoffer-koch-buys-27-in-bitcoin-in-2009-now-he-owns-an-apartment/story-e6frfmd9-1226748159679).
-
-{% endblock %}

@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Reciprocal Altruism in the Theory of Money 
 Daniel Krawisz
 ==========================================
@@ -232,5 +230,3 @@ Second, the value of money can change relative to the entire economy. In other a
 9.  Trivers, 1985. [↩](#ref-ix "Jump back to footnote 9 in the text.")
 
 10. I follow Graf, K., [“Bitcoin Decrypted Part III: Social theory aspects”](http://konradsgraf.com/bitcoin-decrypted/), KonradSGraf.com, 27 Dec 2013 in treating cryptocurrencies as a separate category from commodity money or fiat money. [↩](#ref-x "Jump back to footnote 9 in the text.")
-
-{% endblock %}

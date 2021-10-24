@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Objetos Escassos 
 Nick Szabo
 ================
@@ -191,5 +189,3 @@ não deve haver necessidade de intervenção manual no processo de tradução de
 Se a informação de preferência ou de mercado não estiver disponível, ou as trocas de títulos e derivativos não estiverem disponíveis, o tradutor do mercado pode reverter para a conversão de moeda automatizada simples.
 
 O tradutor do mercado resolve assim um problema inquietante enfrentado pelas pequenas empresas multinacionais, a cobertura de termos de pagamento usando moedas potencialmente não confiáveis. Em termos mais gerais, o tradutor de mercado construído sobre uma arquitetura de objetos escassa reduzirá a barreira do custo de transação mental para micropagamentos e micro-mercados. Ele converterá habilidades e preferências em microlights e microduties para uso na alocação de recursos e serviços - seja contas de e-mail on-line, colecionáveis ​​de jogos on-line, imóveis na tela, largura de banda de rede e armazenamento em cache ou uma variedade de outros objetos de rede que , graças à escassa arquitetura de objetos, tornam-se objetos econômicos.
-
-{% endblock %}

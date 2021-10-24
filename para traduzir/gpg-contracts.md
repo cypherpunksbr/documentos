@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 GPG Contracts
 Mircea Popescu
 ==============
@@ -90,5 +88,3 @@ Mircea holds court in the [\#bitcoin-assets](http://webchat.freenode.net/?channe
 8.  Which word does not mean, by the way, “marked by slaughter : deadly; especially : mutually destructive” nor “of, relating to, or involving conflict within a group ” ; nor does it mean ” Destructive to both sides in a conflict: “savage internecine warfare”.” as the sorely uncultivated dictionaries available online purport. It simply means damaging within a body organised with a view to do damage without ; conflict within a space constructed for harmony not competition. A civil war, an autoimmune disorder, a quarrel between husband and wife : all fine examples. [↩](#ref-viii "Jump back to footnote 8 in the text.")
 
 9.  As it will no matter of any other consideration, nuclear war followed by nuclear winter would not stop it any more than it would stop the Moon still in its orbit. [↩](#ref-ix "Jump back to footnote 9 in the text.")
-
-{% endblock %}

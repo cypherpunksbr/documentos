@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Advances in Distributed Security 
 Nick Szabo
 ================================
@@ -437,5 +435,3 @@ Copyright © 2003 by Nick Szabo
 ---
 
 *Editor's note: Some links may be broken.*
-
-{% endblock %}

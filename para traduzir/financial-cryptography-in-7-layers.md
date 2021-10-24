@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Financial Cryptography in 7 Layers
 Ian Grigg<sup>[[1]](#fn1)[[2]](#fn2)</sup>
 ==========================================
@@ -557,5 +555,3 @@ Copyright © 1998 Systemics Ltd. All rights reserved
 ---
 
 *Editor's note: Some links may be broken.*
-
-{% endblock %}

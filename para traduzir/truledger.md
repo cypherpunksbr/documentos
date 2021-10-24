@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Truledger 
 Bill St. Clair
 ==============
@@ -314,5 +312,3 @@ Para ser feito
 ---
 
 Copyright © 2008 Bill St. Clair, Todos os direitos reservados.
-
-{% endblock %}

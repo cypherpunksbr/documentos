@@ -1,5 +1,3 @@
-{% extends "doc.html" %} {% block doc %}
-
 Formalizing and Securing Relationships on Public Networks 
 Nick Szabo
 =========================================================
@@ -9,53 +7,54 @@ Nick Szabo
 Contents
 --------
 
--   [Introduction](#introduction)
--   [Contracts Embedded in the World](#contracts-embedded-in-the-world)
--   [Contemporary Practice](#contemporary-practice)
-    -   Accounting Controls
-    -   Electronic Data Interchange
-    -   Automata as Authority
--   [Dimensions of Contract Design](#dimensions-of-contract-design)
-    -   Mental and Computational Transaction Costs
-    -   Contracting Phases
-    -   Observability, Hidden Knowledge, and Hidden Actions
-    -   Online Enforceability
-    -   Observability by Principals
-    -   Verifiability by Adjudicators
-    -   Privity: Protection from Third Parties
-    -   Trading off Contract Design Objectives
--   [Building Blocks of Smart Contract Protocols](#building-blocks-of-smart-contract-protocols)
-    -   Protocols
-    -   The "Physics of Cyberspace"
-    -   Cryptographic Protocols
-    -   Attacks against Smart Contracts
-    -   Public and Secret Key Cryptography
-    -   Public Authentication
-    -   Privy Authenticaion
-    -   Protection of Keys
-    -   Capabilities
-    -   Quora
-    -   Post-Unforgeable Transaction Logs
-    -   Mutually Confidential Computation
--   [Contracts with Bearer](#contracts-with-bearer)
-    -   Bearer Certificates
-    -   Unlinkable Transfer
-    -   Conserved Objects
-    -   Digital Cash
--   [Content Rights Management](#content-rights-management)
-    -   Watermarks
-    -   Controlled CPUs
--   [Reputation Systems](#reputation-systems)
--   [Credit](#credit)
-    -   Local Name Credit Ratings
-    -   Secured Credit
-    -   Ripped Instruments
-    -   Credit Cards
-    -   Interval Instruments
-    -   Known Borrowers of Unknown Amounts
-    -   Pseudonymous Credit Ratings
--   [Conclusion](#conclusion)
--   [Notes](#notes)
+- [Nick Szabo](#nick-szabo)
+      - [Originally published in 1997](#originally-published-in-1997)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+  - [Contracts Embedded in the World](#contracts-embedded-in-the-world)
+  - [Contemporary Practice](#contemporary-practice)
+    - [Accounting Controls](#accounting-controls)
+    - [Electronic Data Interchange](#electronic-data-interchange)
+    - [Automata as Authority](#automata-as-authority)
+  - [Dimensions of Contract Design](#dimensions-of-contract-design)
+    - [Mental and Computational Transaction Costs](#mental-and-computational-transaction-costs)
+    - [Contracting Phases](#contracting-phases)
+    - [Observability, Hidden Knowledge, and Hidden Actions](#observability-hidden-knowledge-and-hidden-actions)
+    - [Online Enforceability](#online-enforceability)
+    - [Verifiability by Adjudicators](#verifiability-by-adjudicators)
+    - [Privity: Protection from Third Parties](#privity-protection-from-third-parties)
+    - [Trading Off Contract Design Objectives](#trading-off-contract-design-objectives)
+  - [Building Blocks of Smart Contract Protocols](#building-blocks-of-smart-contract-protocols)
+    - [Protocols](#protocols)
+    - [The "Physics of Cyberspace"](#the-physics-of-cyberspace)
+    - [Cryptographic Protocols](#cryptographic-protocols)
+    - [Attacks against Smart Contracts](#attacks-against-smart-contracts)
+    - [Public and Secret Key Cryptography](#public-and-secret-key-cryptography)
+    - [Public Authentication](#public-authentication)
+    - [Privy Authentication](#privy-authentication)
+    - [Protection of Keys](#protection-of-keys)
+    - [Capabilities](#capabilities)
+    - [Quora](#quora)
+    - [Post-Unforgeable Transaction Logs](#post-unforgeable-transaction-logs)
+    - [Mutually Confidential Computation](#mutually-confidential-computation)
+  - [Contracts with Bearer](#contracts-with-bearer)
+    - [Bearer Certificates](#bearer-certificates)
+    - [Unlinkable Transfers](#unlinkable-transfers)
+    - [Conserved Objects](#conserved-objects)
+    - [Digital Cash](#digital-cash)
+  - [Content Rights Management](#content-rights-management)
+    - [Watermarks](#watermarks)
+    - [Controlled CPUs](#controlled-cpus)
+  - [Reputation Systems](#reputation-systems)
+  - [Credit](#credit)
+    - [Local Name Credit Ratings](#local-name-credit-ratings)
+    - [Secured Credit](#secured-credit)
+    - [Ripped Instruments](#ripped-instruments)
+    - [Credit Cards](#credit-cards)
+    - [Interval Instruments](#interval-instruments)
+    - [Known Borrowers of Unknown Amounts](#known-borrowers-of-unknown-amounts)
+  - [Conclusion](#conclusion)
+  - [Notes](#notes)
 
 Introduction
 ------------
@@ -604,5 +603,3 @@ Notes
 ---
 
 Please send your comments to nszabo (at) law (dot) gwu (dot) edu
-
-{% endblock %}

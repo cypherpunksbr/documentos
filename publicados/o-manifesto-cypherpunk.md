@@ -1,6 +1,6 @@
 ---
 title:  "O Manifesto Cypherpunk"
-date:   09-03-1997 -0300
+date:   1997-03-09
 categories:
   - Biblioteca 
 tags: 

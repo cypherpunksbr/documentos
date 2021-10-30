@@ -1,6 +1,6 @@
 ---
 title:  "Equívocos de confiança no PGP Web"
-date:   30-03-1994 -0300
+date:   1994-03-30
 categories:
   - Biblioteca
 tags:

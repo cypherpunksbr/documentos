@@ -1,6 +1,6 @@
 ---
 title:  "Auditoria Confidencial"
-date:   01-01-1998 -0300
+date:   1998-01-01
 categories:
   - Biblioteca
 tags:

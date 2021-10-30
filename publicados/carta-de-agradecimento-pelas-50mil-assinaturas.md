@@ -1,6 +1,6 @@
 ---
 title:  "Carta agradecendo pelas 50,000 assinaturas"
-date:   08-08-2018 -0300
+date:   2018-08-08
 categories:
   - Biblioteca
 tags:

@@ -1,6 +1,6 @@
 ---
 title:  "A barreira da contabilidade mental aos micropagamentos"
-date:   01-01-1996 -0300
+date:   1996-01-01
 categories:
   - Biblioteca
 tags:

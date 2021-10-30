@@ -1,6 +1,6 @@
 ---
 title:  "Detectando Gastos Duplos"
-date:   22-11-1992 -0300
+date:   1992-11-22
 categories:
   - Biblioteca
 tags:

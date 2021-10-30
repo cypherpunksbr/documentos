@@ -1,6 +1,6 @@
 ---
 title:  "Carta de Ross para Liberty Forum"
-date:   30-01-2018 -0300
+date:   2018-01-30
 categories:
   - Biblioteca
 tags:

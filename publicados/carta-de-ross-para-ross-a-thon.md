@@ -1,6 +1,6 @@
 ---
 title:  "Carta de Ross para Ross-A-Thon"
-date:   01-12-2016 -0300
+date:   2016-12-01
 categories: 
   - Biblioteca
 tags:

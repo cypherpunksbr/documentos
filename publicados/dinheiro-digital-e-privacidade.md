@@ -1,6 +1,6 @@
 ---
 title:  "Dinheiro Digital e Privacidade"
-date:   19-08-1993 -0300
+date:   1993-08-19
 categories:
   - Biblioteca
 tags: 

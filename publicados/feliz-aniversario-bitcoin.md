@@ -1,6 +1,6 @@
 ---
 title:  "Feliz Aniversário, Bitcoin!"
-date:   31-10-2018 -0300
+date:   2018-10-31
 categories:
   - Biblioteca
 tags:

@@ -1,6 +1,6 @@
 ---
 title:  "O convite de Ross para se juntar a ele na meditação"
-date:   01-06-2017 -0300
+date:   2017-06-01
 categories: 
   - Biblioteca
 tags:

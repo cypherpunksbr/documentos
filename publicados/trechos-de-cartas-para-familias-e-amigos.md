@@ -1,6 +1,6 @@
 ---
 title:  "Trechos das cartas de Ross para amigos e familiares"
-date:   09-05-2016 -0300
+date:   2016-05-09
 categories: 
   - Biblioteca
 tags:

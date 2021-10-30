@@ -1,6 +1,6 @@
 ---
 title:  "A Catedral e o Bazar"
-date:   02-08-2002 -0300
+date:   2002-02-08
 categories:
   - Biblioteca
 tags:

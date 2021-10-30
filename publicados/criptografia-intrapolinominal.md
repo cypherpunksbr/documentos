@@ -1,6 +1,6 @@
 ---
 title:  "Criptografia Intrapolinomial"
-date:   01-01-1999 -0300
+date:   1999-01-01
 categories:
   - Biblioteca
 tags:

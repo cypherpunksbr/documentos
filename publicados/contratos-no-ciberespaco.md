@@ -1,6 +1,6 @@
 ---
 title:  "Contratos no Ciberespaço"
-date:   04-05-2000 -0300
+date:   2000-05-04
 categories:
   - Biblioteca
 tags:

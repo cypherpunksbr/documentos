@@ -1,6 +1,6 @@
 ---
 title:  "Bit Gold"
-date:   29-12-2005 -0300
+date:   2005-12-29
 categories:
   - Biblioteca
 tags:

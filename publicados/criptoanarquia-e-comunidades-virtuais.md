@@ -1,6 +1,6 @@
 ---
 title:  "Criptoanarquia e Comunidades Virtuais"
-date:   01-12-1994 -0300
+date:   1994-12-01
 categories:
   - Biblioteca
 tags: 

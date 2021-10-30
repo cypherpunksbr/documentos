@@ -1,15 +1,12 @@
 ---
 title:  "A ideia de Contratos Inteligentes"
-date:   01-01-1997 -0300
+date: 1997-01-01
 categories:
   - Biblioteca
 tags:
   - Nick Szabo
 ---
 ### Nick Szabo  
-
-
-
 
 Qual o significado e o propósito de “segurança”? Como ela se relaciona com os relacionamentos que temos? Eu argumento que a formalização de nossos relacionamentos—especialmente contratos—fornece o modelo para a segurança ideal.
 

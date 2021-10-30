@@ -1,6 +1,6 @@
 ---
 title:  "Coletânea de textos do Hal Finney"
-date:   30-05-2010 -0300
+date:   2010-05-30
 categories:
   - Biblioteca
 tags:

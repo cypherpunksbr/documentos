@@ -1,6 +1,6 @@
 ---
 title:  "Carta de Ross para a Reason Conference"
-date:   04-03-2018 -0300
+date:   2018-03-04
 categories:
   - Biblioteca
 tags:

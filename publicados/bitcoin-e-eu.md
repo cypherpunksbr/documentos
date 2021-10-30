@@ -1,6 +1,6 @@
 ---
 title:  "Bitcoin e eu"
-date:   2013-03-19 -0300
+date:   2013-03-19
 categories:
   - Biblioteca
 tags:

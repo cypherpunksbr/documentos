@@ -1,6 +1,6 @@
 ---
 title:  "Carta de Ross para o Crypto Show"
-date:   30-07-2015 -0300
+date:   2015-07-30
 categories:
   - Biblioteca
 tags:

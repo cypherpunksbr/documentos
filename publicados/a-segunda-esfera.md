@@ -1,6 +1,6 @@
 ---
 title: "A Segunda Esfera"
-date: 22-03-2021 -0300
+date: 2021-03-22
 categories:
   - Biblioteca
 tags:

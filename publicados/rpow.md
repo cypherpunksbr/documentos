@@ -1,6 +1,6 @@
 ---
 title:  "RPOW – Provas de Trabalho Reutilizáveis"
-date:   15-08-2004 -0300
+date:   2004-08-15
 categories:
   - Biblioteca
 tags:

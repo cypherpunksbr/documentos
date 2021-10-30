@@ -1,6 +1,6 @@
 ---
 title:  "Carta agradecendo pelas 100,000 assinaturas"
-date:   01-11-2018 -0300
+date:   2018-11-01
 categories:
   - Biblioteca
 tags:

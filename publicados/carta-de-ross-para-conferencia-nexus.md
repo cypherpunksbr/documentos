@@ -1,6 +1,6 @@
 ---
 title:  "Carta de Ross para a Conferência Nexus"
-date:   29-08-2017 -0300
+date:   2017-08-29
 categories: 
   - Biblioteca
 tags:

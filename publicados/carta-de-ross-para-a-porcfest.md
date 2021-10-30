@@ -1,6 +1,6 @@
 ---
 title:  "Carta de Ross para a Porcfest"
-date:   01-07-2015 -0300
+date:   2015-07-01
 categories:
   - Biblioteca
 tags:

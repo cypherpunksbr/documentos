@@ -1,6 +1,6 @@
 ---
 title:  "b-money"
-date:   01-11-1998 -0300
+date:   1998-11-01
 categories:
   - Biblioteca
 tags:

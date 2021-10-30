@@ -1,6 +1,6 @@
 ---
 title:  "Contratos com Titular"
-date:   01-01-1997 -0300
+date:   1997-01-01
 categories: 
   - Biblioteca
 tags:

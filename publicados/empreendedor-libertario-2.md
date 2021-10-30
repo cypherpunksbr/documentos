@@ -1,6 +1,6 @@
 ---
 title:  "Criptoanarquia e o empreendedorismo libertário II"
-date:   22-05-2013 -0300
+date:   2013-05-22
 categories:
   - Biblioteca
 tags:

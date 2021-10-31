@@ -4,6 +4,8 @@ date:   1994-04-03
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Timothy C. May
 ---
 

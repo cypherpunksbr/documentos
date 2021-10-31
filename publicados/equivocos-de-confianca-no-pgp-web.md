@@ -4,6 +4,8 @@ date:   1994-03-30
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Hal Finney
 ---
 

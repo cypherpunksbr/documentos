@@ -6,6 +6,8 @@ author:
 categories: 
   - Biblioteca
 tags:
+  -
+author:
   - Philip R. Zimmermann
 ---
 

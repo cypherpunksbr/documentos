@@ -1,15 +1,18 @@
 ---
 title:  "A Catedral e o Bazar"
 date:   2002-02-08
+author:
+  - Eric S. Raymond
 categories:
   - Biblioteca
 tags:
-  - Eric S. Raymond
+  -
 ---
 
 
-<small>Eric S. Raymond  
-Versão 3.0 – 2 de agosto de 2002  
+### Eric S. Raymond
+
+<small>Versão 3.0 – 2 de agosto de 2002  
 (Originalmente publicado em 2000)</small>
 
 

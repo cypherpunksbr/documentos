@@ -3,12 +3,14 @@ title:  "O Manifesto Cypherpunk"
 date:   1997-03-09
 categories:
   - Biblioteca 
-tags: 
+tags:
+  -
+author:
   - Eric Hughes
 ---
 
-<small>Eric Hughes  
-9 de março de 1993</small>
+### Eric Hughes  
+<small>9 de março de 1993</small>
 
 
 Privacidade é necessário para uma sociedade aberta na Era da eletrônica. Privacidade não é segredo. Um assunto privado é algo que não queremos que o mundo inteiro saiba, entretanto um assunto secreto é algo que não queremos que ninguém  saiba. A privacidade é o poder de se revelar seletivamente para o mundo.

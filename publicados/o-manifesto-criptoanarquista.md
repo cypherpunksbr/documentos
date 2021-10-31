@@ -4,6 +4,8 @@ date:   1992-11-22
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Timothy C. May
 ---
 

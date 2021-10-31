@@ -4,11 +4,13 @@ date:   2008-10-31
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Satoshi Nakamoto
 ---
 
 
-Satoshi Nakamoto
+### Satoshi Nakamoto
 31 de outubro de 2008
 
 ---

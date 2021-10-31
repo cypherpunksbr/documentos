@@ -4,12 +4,14 @@ date:   1997-01-01
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Nick Szabo
 ---
 
-<small>Nick Szabo</small>  
+### Nick Szabo 
 
-#### Originalmente publicado em 1997
+<small>Originalmente publicado em 1997</small> 
 
 
 * * *

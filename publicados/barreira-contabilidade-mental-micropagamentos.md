@@ -4,6 +4,8 @@ date:   1996-01-01
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Nick Szabo
 ---
 

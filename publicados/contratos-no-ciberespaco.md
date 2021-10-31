@@ -4,6 +4,8 @@ date:   2000-05-04
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - David Friedman
 ---
 

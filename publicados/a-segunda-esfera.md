@@ -4,6 +4,8 @@ date: 2021-03-22
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Smuggler
   - "XYZ"
   - Anarplex
@@ -21,7 +23,7 @@ _Site original - [Anarplex - The Second Realm](https://anarplex.net/files/second
 * <a href="https://github.com/cypherpunksbr/a-segunda-esfera/raw/master/segundaesfera.epub" target="_blank">segundaesfera.epub</a> e-pub
 * <a href="https://github.com/cypherpunksbr/a-segunda-esfera/raw/master/segundaesfera.mobi" target="_blank">segundaesfera.mobi</a> Mobi
 
-# Notas do Tradutor
+## Notas do Tradutor
 
 O objetivo desse projeto foi manter a tradução acessível ao público geral sem perder a fidelidade com a obra original.
 Vários maneirismos dos autores foram mantidos, algumas expressões não foram traduzidas para facilitar pesquisas por parte do leitor, afinal traduzir uma terminologia técnica resultaria em páginas de pesquisa em branco e quase nenhuma referência.

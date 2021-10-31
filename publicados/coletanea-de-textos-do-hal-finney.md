@@ -4,6 +4,8 @@ date:   2010-05-30
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Hal Finney
 ---
 

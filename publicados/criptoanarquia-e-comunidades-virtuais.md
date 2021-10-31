@@ -3,7 +3,9 @@ title:  "Criptoanarquia e Comunidades Virtuais"
 date:   1994-12-01
 categories:
   - Biblioteca
-tags: 
+tags:
+  -
+author:
   - Timothy C. May
 ---
 

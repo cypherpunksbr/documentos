@@ -1,10 +1,12 @@
 ---
 title:  "A ideia de Contratos Inteligentes"
-date: 1997-01-01
+date:   1997-01-01
+author:
+  - Nick Szabo
 categories:
   - Biblioteca
 tags:
-  - Nick Szabo
+  -
 ---
 ### Nick Szabo  
 

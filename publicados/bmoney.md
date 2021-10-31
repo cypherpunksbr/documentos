@@ -4,6 +4,8 @@ date:   1998-11-01
 categories:
   - Biblioteca
 tags:
+  -
+author:
   - Wei Dai
 ---
 

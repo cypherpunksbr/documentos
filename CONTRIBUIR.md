@@ -44,6 +44,8 @@ title:  "Título do seu Documento aqui" com aspas
 date:   data da publicação no formato dia-mês-ano (exemplo: 31-10-2008) sem aspas
 categories:
   - Biblioteca
+author:
+  -
 tags:
   - tag util 1 sem aspas
   - tag util 2 sem aspas

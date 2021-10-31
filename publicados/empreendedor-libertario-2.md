@@ -17,7 +17,7 @@ author:
 Daniel Krawisz  
 May 22, 2013
 
-![internet](../pages/img/internet.png)
+![internet](../stuff/internet.png)
 
 ### Criptografia de chave simétrica
 
@@ -32,7 +32,7 @@ Pense na ideia de uma cifra de substituição simples, ou seja, a mensagem é um
 
 Duas coisas para se notar aqui. Primeiro, o algoritmo é inseguro. Não importa como as letras foram substituídas, seria fácil de decifrar, principalmente com um computador. Precisaremos de algo muito mais complicado para deixar a mensagem realmente secreta. Mais importante, entretanto, é que sabendo a sequência que foram trocadas é o suficiente tanto para descriptografar e para criptografar uma mensagem. É, de fato, impossível saber como criptografar uma mensagem sem ao mesmo tempo saber como descriptografá-la.
 
-![symetry](../pages/img/symmetric.jpg)
+![symetry](../stuff/symmetric.jpg)
 
 Essa é a essência da criptografia de chave simétrica: é impossível saber como criptografar uma mensagem sem saber como descriptografar ela, e vice e versa. Isso é um grande problema. Se, por exemplo, meu inimigo conseguiu obter uma de minhas mensagens e decifrou ela, ele não apenas vai conseguir ler o resto de minhas mensagens como também vai conseguir fazer novas mensagens, talvez para enganar a mim e meus amigos.
 
@@ -52,7 +52,7 @@ Por exemplo, suponha que você consiga desenhar um algoritmo que pode ser execut
 
 Existe uma melhoria que faria essa ideia ser útil. Suponha que existem dois algoritmos que um é o inverso do outro. Ambos são rápidos para frente, mas lentos no inverso. Um algoritmo pode ser usado para criptografar e o outro para descriptografar. Eu deixo o algoritmo de descriptografar em segredo, mas deixo meus amigos verem o de criptografar. Agora eles podem me enviar mensagens que só eu posso ler, e eu não revelei nenhum segredo que não posso me dar ao luxo de ter comprometido. Na verdade, eu posso deixa meus inimigos verem meu algoritmo de criptografar. Ele não podem fazer nada com ele a não ser mandar mensagens para mim.
 
-![](../pages/img/public-key.jpg)
+![](../stuff/public-key.jpg)
 
 O produto final é que todo mundo tem dois algoritmos. Todos mantem um deles em segredo e o outro publico. Como é que podemos descobrir tantos algoritmos assim? Geralmente, há uma classe de algoritmos, cada um especificado por um número ou chave. Então cada um de nós tem uma chave pública e uma chave privada. Isto é a criptografia de chave privada.
 

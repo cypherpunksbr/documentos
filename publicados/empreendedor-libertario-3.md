@@ -16,7 +16,7 @@ author:
 #### Capitulo 3 - O aplicativo da liberdade  
 22 de Maio, 2013
 
-![](../pages/img/bitcoincarebears.gif)
+![](../stuff/bitcoincarebears.gif)
 ### Como o Bitcoin funciona
 
 O melhor exemplo inquestionável de comunidade que pode ser criada com criptografia foi o [Bitcoin](http://bitcoin.org/), sistema de moeda digital criado por Satoshi Nakamoto, cuja identidade permanece desconhecida. O Bitcoin usa todos princípios que descrevi no últimos capítulos. Ele é baseado em software livre e usa criptografia de chave pública para assegurar a validade das mensagens enviadas nele.
@@ -27,7 +27,7 @@ O histórico de transações de todas as transações do Bitcoin que foram feita
 
 Portanto, criptografia faz com que o Bitcoin se comporte como uma commodity fisicamente escassa, mesmo que ela seja apenas dados em um computador. Não se pode criar um Bitcoin do nada, pois não será possível rastrear para uma válida transação na blockchain. Transações não podem ser falsificadas, pois é necessária a assinatura digital da carteira que criou a transação.
 
-![](../pages/img/transactions.svg)
+![](../stuff/transactions.webp)
 
 A blockchain é criada de tal forma que sempre existe um consenso sobre o histórico de transações. A importância disso é por ser possível fazer duas transações que são válidas, porém incompatíveis. Por exemplo, suponha que alguém tem mais do que um Bitcoin, porém menos do que dois, e ela faz duas transações de um Bitcoin cada ao mesmo tempo. Todo mundo deve concordar qual transação aceitar e qual negar.
 
@@ -49,7 +49,7 @@ No mundo em que vivemos o Bitcoin é uma peça importante no jogo. Ele quebra o 
 
 A rede do Bitcoin demonstra um exemplo de legislação libertária. O protocolo Bitcoin é uma lei, que todos que interagem com a rede devem aderir, caso contrário, a rede não vai aceitar você. O autor não é um representante eleito, mas sim um gênio anônimo que deixou para nós uma proposta para adotarmos.
 
-![](../pages/img/blockchain.png)
+![](../stuff/blockchain.png)
 
 Pensando em uma estratégia libertária, deveriam convencer pessoas a usar criptografia mais criptografia no dia a dia. Podemos fazer isso criando produtos que usam criptografia e de tal jeito que as pessoas adorem eles. Quanto mais gente aceitar a ideia de uma comunidade criptográfica, mas demanda pela comunidade vai existir. Quanto mais comunidades dessas existirem, mais fracos ficaram os opressores. Precisamos de uma bolsa de valores criptográfica, um sistema de resolução de contratos criptográfico, um sistema de cartão de crédito criptográfico, uma rede social criptografica.[5] Todos esses sonhos são possíveis e muito mais coisas além da minha imaginação. Nenhum deles requer vencer uma eleição, mas cada um poderia mudar o mundo.
 

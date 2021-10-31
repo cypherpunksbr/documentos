@@ -27,6 +27,6 @@ Pela Liberdade,
 Ross
 <br />
 
-![Parte 1](/_pages/img/Ross_a_thon_letter_2016_1.jpg)
+![Parte 1](../stuff//Ross_a_thon_letter_2016_1.jpg)
 <br />
-![Parte 2](/_pages/img/Ross_a_thon_letter_2016_2.jpg)
+![Parte 2](../stuff//Ross_a_thon_letter_2016_2.jpg)

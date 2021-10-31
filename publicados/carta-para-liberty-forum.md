@@ -26,4 +26,4 @@ _"Um pódio ou uma prisão são locais, um no alto, outro no ponto mais baixo, m
 
 – Epictetus
 
-![carta para liberty forum](/_pages/img/Liberty_Forum_letter_2018.jpg)
+![carta para liberty forum](../stuff//Liberty_Forum_letter_2018.jpg)

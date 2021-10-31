@@ -18,13 +18,13 @@ author:
 May 22, 2013
 
 
-![networks](../pages/img/distributed.jpg)
+![networks](../stuff/distributed.jpg)
 
 ### Empreendedorismo Libertário
 
 Liberdade é uma ideologia para todos. Ela beneficia todas as pessoas e grupos que o objetivo não requer violência. Todas as objeções a liberdade simplesmente estimularam exercícios mentais sobre o que é possível alcançar com organizações voluntarias e como elas são muito melhores em oferecer serviços que originalmente só eram possíveis pelo governo. Movimentos que em uma época eram considerados incompatíveis com o libertarianismo, como feminismo e ambientalismo [1], agora tem seus próprios braços no libertarianismo. Liberdade é como uma droga.
 
-![](../pages/img/napster.jpg)
+![](../stuff/napster.jpg)
 
 Mesmo assim a maioria das pessoas não escuta. O ideal de liberdade é muito abstrato para eles: a maioria das pessoas necessita experimentar liberdade antes de deseja-la. Por exemplo, quando o Napster foi inventado, repentinamente ao redor do mundo as pessoas ignoraram a opressão dos direitos autorais. Elas experimentaram o doce gosto da liberdade. Uma vez que experimentaram, não conseguiram mais largar.
 
@@ -32,7 +32,7 @@ O objetivo do empreendedor libertário é dar um gosto as pessoas, não influenc
 
 Peguemos, por exemplo, uma empresa que a comunidade adora os serviços de uma empresa que requer que as pessoas renunciem o controle das suas armas e terras para ela. Uma empresa dessas pode continuar, em teoria, sendo voluntaria, porém só um idiota pensaria assim. Uma empresa dessas seria facilmente corrompida ou se transformando em um governo ou fazendo um conluio com um governo existente. Não existe base para criticar uma empresa dessas somente seguindo a ética libertaria, mas a partir do momento que a empresa começar a ser coercitiva, provavelmente será tarde de mais. Um empreendedor libertário deveria se opor a sua forma e urgentemente desenvolver uma alternativa para competir com ela.
 
-![](../pages/img/apple-products.jpg)
+![](../stuff/apple-products.jpg)
 
 O empreendedor libertário deve identificar as industrias com o maior nível de risco e as transformar em algo com menos risco. Existem três modos de que uma indústria pode ser perigosa. Primeiro, se o governo ira ter um grande beneficio controlando ela. Existem algumas industrias que o governo gosta mais do que outras: polícia, educação e transporte são um tanto perigosas. Segundo, se a indústria for centralizada. O governo só tem que fazer um conluio com as maiores empresas para tomar o controle. Terceiro, uma indústria que funciona de tal maneira que aumenta a dependência do consumidores. Se for muito inconveniente de mudar de uma indústria para outra, então as pessoas vão ficar dependentes dela, mesmo que a empresa se corrompa.
 
@@ -40,7 +40,7 @@ Se uma ideia empreendedora for ser adotada, ela deve ser atrativa para pessoas q
 
 ### Criptoanarquia
 
-![](../pages/img/cryptoanarchy.jpeg)
+![](../stuff/cryptoanarchy.jpeg)
 
 O movimento criptoanarquista [3], que no começo foi influenciando por teorias anarco capitalistas [4], pode ser resumido em que criptografia nos oferece uma enorme oportunidade para espalhar o gosto da liberdade. Criptoanarquia não é um braço da teoria libertária e sim uma estratégia. É um método de ação. As ferramentas criptográficas que temos atualmente são baratas, poderosas e profundamente individuais. Ninguém pode ameaçar uma equação com uma arma. Um software criptográfico vai funcionar de acordo com as leis da matemática, não importa a vontade do governo. Enquanto for possível distribuir software, vai ser possível, através desse software, dar o gosto de liberdade as pessoas.
 

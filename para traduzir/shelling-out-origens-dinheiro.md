@@ -35,7 +35,7 @@ Desde o primeiro momento, as colônias Inglesas do século 17 na América tinham
 
 A solução para os colonos estava às mãos, mas levaram alguns anos para reconhecê-la. Os nativos tinham dinheiro, mas era uma forma bem diferente do dinheiro que os Europeus estavam acostumados. Índios Americanos estavam usando dinheiro por milênios, e dinheiro que se tornou muito útil aos Europeus recém-chegados – apesar do preconceito de alguns que achavam que somente metal com o rosto de seus líderes políticos estampado que constitui dinheiro de verdade. Pior, os nativos de New England não usavam nem ouro nem prata. Em vez disso, usavam o dinheiro mais apropriado que pode ser encontrado no meio ambiente – partes de esqueleto duráveis de suas presas. Especificamente, eles usavam wampum, conchas do molusco venus mercenaria e seus semelhantes, amarrados como pingentes em um colar.
 
-![](../pages/img/Wampum.jpg)
+![](../stuff/Wampum.jpg)
  *Colar de wampum. Durante o comércio, as miçangas eram contadas, removidas, e remontadas em novos colares. As contas de concha dos Nativo-americanos eram também tecidas em cintos ou outros dispositivos cerimoniais e mnemônicos que demonstravam a riqueza e o comprometimento de uma tribo à um tratado.*
 
 Mexilhões, são encontrados apenas no oceano, porém wampum foi comercializada bem no interior. Dinheiro de concha marítima de uma variedade de tipos podia ser encontrado em tribos por todo continente Americano. Os Iroqueses3 conseguiram coletar o maior tesouro de wampum de qualquer tribo, sem nunca ter se aventurado em qualquer lugar perto do habitat do molusco.<sup>[[D94]](#fnD94)</sup> Apenas algumas tribos, como os Narragansett, especializaram-se em manufaturar wampum, enquanto que centenas de outras tribos, muitas de caçadores/coletores, o usavam. Colares de wampum vinham em uma variedade de tamanhos, com o número de contas proporcional ao tamanho. As contas poderiam ser cortadas ou juntadas para formar um colar de tamanho igual ao preço pago.
@@ -51,19 +51,19 @@ O dinheiro nativo americano teve várias formas além de conchas. Peles, dentes,
 
 Os nativos americanos não tinham, no entanto, sido os primeiros a fazer lâminas artísticas4 porém inúteis, e também não inventaram dinheiro de concha. Nem os Europeus aliás, embora eles também tivessem, em eras passadas, usado conchas e dentes amplamente como dinheiro – para não mencionar gado, ouro, prata, armas, e muito mais. Os asiáticos usaram tudo aquilo e faux axes5 emitidos por governos além disso, mas eles também importaram essa instituição. Pois arqueólogos encontraram pingentes de conchas datando do início do Paleolítico que poderiam facilmente ter substituído o dinheiro Nativo Americano.
 
-![blombosbeads2](../pages/img/blombosbeads2.gif)
+![blombosbeads2](../stuff/blombosbeads2.gif)
  *Contas feitas por conchas da lesma Nassarius kraussianus do tamanho de uma ervilha, que viviam num estuário próximo. Blombos Cave, África do Sul, 75,000 A.P.<sup>[[B04]](#fnB04)</sup>*
 
 No final dos anos 90 o arqueólogo Stanley Ambrose descobriu, em um abrigo de pedra no Vale Rift do Quênia, um cachê6 contendo contas feitas de casca de ovo de avestruz, lacunas vazias, e fragmentos de conchas. Elas são datadas usando a relação argônio-argônio (40Ar/39Ar) de pelo menos 40.000 anos de idade<sup>[[A98]](#fnA98)</sup>. Dentes furados de animais foram encontrados na Espanha também datando desse período.<sup>[[W95]](#fnW95)</sup> Conchas perfuradas também tem sido recuperadas de sítios do início do Paleolítico no Líbano[G95]. Recentemente, conchas comuns, preparadas em cordões de contas e ainda mais antigas, de 75.000 AP, foram encontradas em Blombos Cave, na África do Sul.<sup>[[B04]](#fnB04)</sup>
 
-![beads](../pages/img/beads.jpg)
+![beads](../stuff/beads.jpg)
  *Contas de ovos de Avestruz, Rift Valley - Quênia, 40,000 A.P. (Cortesia Stanley Ambrose)*
 
 Nossas subespécies modernas haviam imigrado para a Europa e colares de conchas e dentes apareceram lá, de 40.000 A.P. em diante. Pingentes de conchas e dentes apareceram na Austrália de 30.000 A.P em diante<sup>[[M93]](#fnM93)</sup>. Em todos os casos, o trabalho é altamente habilidoso, indicando uma prática que provavelmente data de muito mais tempo atrás. A origem de colecionar e decorar é muito possivelmente a África, a pátria originária de todas as subespécies anatomicamente modernas. Colecionar e fazer colares deve ter tido um importante benefício de seleção, uma vez que era custoso – a manufatura dessas conchas exigia tanto habilidade quanto tempo durante uma era em que os humanos viviam constantemente à beira da fome<sup>[[C94]](#fnC94)</sup>.
 
 Praticamente todas culturas humanas, até aquelas que não se envolvem em nenhum comércio substancial ou que usam formas mais modernas de dinheiro, fazem e apreciam joias, e valorizam certos objetos mais por suas qualidades herdadas ou artísticas do que por sua utilidade. Nós humanos colecionamos colares de conchas e outros tipo de jóias – por bel prazer. Para os psicólogos evolucionistas uma explicação que humanos pelo “bel prazer” é, de fato, explicação nenhuma – mas o posicionamento de um problema. Por que tantas pessoas acham a coleção e o uso de jóias agradável? Para o psicólogo evolucionista, a questão se torna – o que causou esse prazer a evoluir?
 
-![beadsdetail](../pages/img/beadsdetail.jpg)
+![beadsdetail](../stuff/beadsdetail.jpg)
  *Detalhes de colar de um sepultamento em Sungir, Rússia, 28.000 AP. Contas interligadas e intercambiáveis. Cada conta de marfim de Mamute pode ter exigido uma ou duas horas de trabalho para manufaturar.<sup>[[W97]](#fnW97)</sup>*
 
 Evolução, Cooperação, e Colecionáveis
@@ -134,13 +134,13 @@ Todos esses tipos de transferência de valor ocorreram em muitas culturas da pr�
 
 ### O Circuito Kula
 
-![KulaRing](../pages/img/KulaRing.gif)
+![KulaRing](../stuff/KulaRing.gif)
  *A rede de trocas de Kula da Melanésia pré-colonial. Os objetos de valor de kula dobraram como dinheiro de “alta potência” e mnemônicos para estórias e fofoca. Muitos dos bens trocados, a maioria produtos agrícolas, estavam disponíveis em diferentes épocas, e então não poderiam ser trocados em espécie. Os colecionáveis de Kula resolviam esse problema da dupla coincidência como um dinheiro custosamente inforjavel, vestível (para a segurança), e circulado (literalmente). Colares circulavam no sentido horário, braceletes no sentido anti-horário, e um padrão bastante regular. Ao resolver o problema da dupla coincidência um bracelete ou colar se provaria mais valioso que seu custo depois de apenas algumas trocas, mas poderia circular por décadas. As fofocas e estórias sobre os donos anteriores dos colecionáveis ainda fornecia informações sobre crédito e liquidez upstream1. Em outras culturas Neolíticas, os colecionáveis, usualmente conchas, circularam em um padrão menos regular mas tinham propósitos e atributos similares.<sup>[[L94]](#fnL94)</sup>*
 
-![KulaRingArmshellMwali](../pages/img/KulaRingArmshellMwali.jpg)
+![KulaRingArmshellMwali](../stuff/KulaRingArmshellMwali.jpg)
  *Bracelete de Kula (mwali).*
 
-![KulaRingNecklacesbagi](../pages/img/KulaRingNecklacesbagi.jpg)
+![KulaRingNecklacesbagi](../stuff/KulaRingNecklacesbagi.jpg)
  *Colares de Kula (bagi).*
 
 Para qualquer instituição na qual a transferência de riqueza é um componente importante, nós perguntaremos as seguintes questões:
@@ -189,10 +189,10 @@ Os !Kung San do Sul da África, como todos outros remanescentes modernos das cul
 
 Como a maioria dos caçadores-coletores, os !Kung passam a maior parte do ano em bandos pequenos e dispersos e algumas semanas do ano em agregação com vários outros bandos. A agregação é como uma feira com algumas características a mais – o comércio é realizado, as alianças são cimentadas, as parcerias fortalecidas e os casamentos transacionados. A preparação para a agregação é cheia de manufatura de itens comercializáveis, parcialmente utilitários mas majoritariamente de natureza colecionável. O sistema de troca, chamado pelo !Kung de *hxaro*, envolve um troca substancial em jóias de contas, incluindo pingentes de casca de ovo de avestruz bastante semelhantes aos encontrados na África há 40.000 anos.
 
-![HxaroExchangeKinship](../pages/img/HxaroExchangeKinship.gif)
+![HxaroExchangeKinship](../stuff/HxaroExchangeKinship.gif)
  *[Padrão de trocas hxaro e relações familiares](http://www.mpi-fg-koeln.mpg.de/~lk/netvis/kunggenetic.html) entre tribos vizinhas dos caçadores-coletores !Kung San. (em azul escuro: somente troca | em vermelho: somente parentesco | em azul-turquesa: ambos)*
 
-![KungSanNecklace](../pages/img/KungSanNecklace.gif)
+![KungSanNecklace](../stuff/KungSanNecklace.gif)
  *Colares usados nas trocas hxaro.*
 
 Uma das coisas mais importantes que os !Kung compram e vendem com seus colecionáveis são os direitos abstratos de entrar no território de outro bando e caçar ou coletar alimentos lá. O comércio desses direitos é especialmente vivo durante a escassez local, que pode ser aliviada pela busca de alimentos no território de um vizinho.<sup>[[W77]](#fnW77)</sup><sup>[[W82]](#fnW82)</sup> Os bandos de !Kung marcam seus territórios com flechas; invadir sem ter comprado o direito de entrar e forragear equivale a uma declaração de guerra. Como o comércio de alimentos discutido acima, o uso de colecionáveis para adquirir direitos de forrageamento constitui uma “política de seguro contra a fome”, para usar a frase de Stanley Ambrose<sup>[[A98]](#fnA98)</sup>.
@@ -300,14 +300,14 @@ There are many puzzling instances of useless or at least unused flints with *hom
 
 Pederneiras foram muito provavelmente os primeiros colecionáveis, precedendo colecionáveis de propósito especial como jóias. De fato, os primeiros colecionáveis de pederneira teriam sido feitos por sua utilidade de corte. Seu valor agregado como meio de transferência de riqueza foi um efeito colateral fortuito que permitiu que as instituições descritas neste artigo florescessem. Essas instituições, por sua vez, teriam motivado a fabricação de colecionáveis de propósito especial, a princípio pederneiras que não precisam ter uso real como ferramentas de corte, e então a grande variedade de outros tipos de colecionáveis que foram desenvolvidos pelo *Homo sapiens sapiens*.
 
-![SumerianShellMoney](../pages/img/SumerianShellMoney.jpg)
+![SumerianShellMoney](../stuff/SumerianShellMoney.jpg)
  *Dinheiro de conchas de Sumer, c. 3.000 B.C*
 
 Durante a era Neolítica, em muitas partes do Oriente Médio e Europa, alguns tipo de jóias se tornaram mais padronizadas – ao ponto que tamanhos padrão e a facilidade de avaliação eram, geralmente, mais valorizados do que a beleza. Em áreas comerciais, a quantidade dessas jóias às vezes excedia em muito a das jóias tradicionais. Este é um passo intermediário entre jóias e moedas, quando alguns colecionáveis assumiram uma forma fungível. Por volta de 700 a.c., os reis lídios começaram a emitir moedas, conforme descrito acima. O custo imponderável de pesos padrão de metais preciosos poderia agora ser "analisado" em um mercado, por assalariados ou por cobradores de impostos via marca registrada, por exemplo, confiança na marca da casa da moeda, em vez de “cortar o fio enrolado” em um local selecionado aleatoriamente.
 
 Não é coincidência que os atributos dos colecionáveis são compartilhados com metais preciosos, moedas, e commodities de reserva que sustentaram a maioria da moedas não-fiduciárias. O dinheiro propriamente dito implementou essas propriedades de forma mais pura do que os colecionáveis usados durante quase toda a pré-história humana.
 
-![coilcash](../pages/img/coilcash.jpg)
+![coilcash](../stuff/coilcash.jpg)
  *Anel de prata e dinheiro da bobina de Sumer, c. 2.500 a.C. Observe o tamanho padrão das seções cruzadas. Muitas das peças tinham um peso padrão, variando de um décimo de um shekel a sessenta shekels. Para testar um anel ou bobina, ele poderia ser pesado e cortado em locais aleatórios. (Cortesia Oriental Institute, Universidade de Chicago)*
 
 Uma novidade do século XX foi a questão das moedas fiduciárias pelos governos. ("Fiat" significa não apoiado por qualquer mercadoria de reserva, como eram as moedas baseadas em ouro e prata dos séculos anteriores). Embora geralmente excelente como meios de troca, as moedas fiduciárias provaram ser muitos pobres reservas de valor. A inflação tem destruído muitas poupanças. Não é coincidência que os mercados de objetos raros e trabalhos artísticos únicos – usualmente compartilhando os atributos dos colecionáveis descritos acima – aproveitaram uma renascença durante o último século. Um dos nossos marketplaces mais avançados tecnologicamente, o EBay, é centrado em volta desses objetos de qualidades econômicas primordiais. O mercado de colecionáveis está maior do que nunca, mesmo se a fração de nossa riqueza investida neles for menor do que quando eles foram cruciais para o sucesso evolucionário. Os colecionáveis satisfazem nossos impulsos instintivos e permanecem úteis em seu papel ancestral como uma reserva segura de valor.
@@ -319,7 +319,7 @@ Muitos tipos de transferências de riqueza – unidirecional ou mútua, voluntá
 
 Os colecionáveis aumentaram nossos grandes cérebros e a linguagem como soluções ao Dilema do Prisioneiro que impedem quase todos os animais de cooperar via reciprocidade atrasada com não familiares. Crenças de reputação podem sofrer de dois tipos principais de erros – erros sobre qual pessoa fez o que, e erros em avaliar o valor ou danos causados por aquele ato. Dentro dos clãs (o grupo de parentesco pequeno e imediatamente local, ou família extensa, que formava um subconjunto de uma tribo), nosso cérebro poderia minimizar esses erros, de modo que a reputação pública e as sanções coercitivas superaram a motivação limitada proporcionada pela capacidade da contraparte de cooperar ou desertar no futuro como o principal responsável pela reciprocidade tardia. Em ambos, *Homo sapiens neanderthalis* e *Homo sapiens sapiens*, com o mesmo cérebro grande, é bem provável que cada membro de clã local mantinha registro de todos os favores dos outros membros do clã. O uso de colecionáveis para trocas dentro do pequeno grupo familiar pode ter sido mínimo. Entre clãs dentro de uma tribo, ambos, colecionáveis e registro, eram usados. Entre tribos, os colecionáveis substituíram completamente a reputação como o responsável pela reciprocidade, embora a violência ainda desempenhasse um papel importante na imposição de direitos assim como era um alto custo de transação que prevenia a maioria dos tipos de comércio.
 
-![VenetianTradeBeads16th17thCenturyMaliAfrica](../pages/img/VenetianTradeBeads16th17thCenturyMaliAfrica.jpg)
+![VenetianTradeBeads16th17thCenturyMaliAfrica](../stuff/VenetianTradeBeads16th17thCenturyMaliAfrica.jpg)
  ***Quando o alto custo se torna forjável** – Contas de vidro, manufaturadas em Veneza no século XVI ou XVII, escavados em Mali, África. Tais contas eram muito populares onde quer que os colonialistas europeus encontrassem culturas neolíticas ou de caçadores-coletores.*
 
 Para ser útil como uma reserva de valor de uso geral e meio de transferência de riqueza, um colecionável tinha de ser incorporado em pelo menos uma instituição com um ciclo de loop fechado, para que o custo de descobrir e/ou manufaturar o objeto fosse amortizado em várias transações. Além disso, um colecionável não era apenas qualquer tipo de objeto decorativo bonito. Tinha de ter certas propriedades funcionais, tais como a segurança de ser vestível na pessoa, compacto para ser escondido ou enterrado, e custo não forjável. O alto custo deveria ser verificável pelo recebedor da transferência – usando muitas das mesmas habilidade que colecionadores usam para avaliar colecionáveis hoje.

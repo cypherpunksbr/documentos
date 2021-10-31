@@ -26,4 +26,4 @@ Eu não estava me sentindo esperançoso no tempo em que estou preso, Obrigado! �
 
 Se você ainda não assinou o pedido de clemência de Ross, pode assinar [aqui](https://www.change.org/p/freerosspetition-we-seek-potus-s-clemency-for-ross-ulbricht-serving-double-life-for-a-website-realdonaldtrump-free-ross).
 
-![](../pages/img/Ross_100k_note.jpg)
+![](../stuff/Ross_100k_note.jpg)

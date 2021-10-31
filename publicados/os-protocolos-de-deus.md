@@ -22,7 +22,7 @@ Infelizmente, no nosso mundo temporal lidamos com humanos, em vez de divindades.
 
 ## Terceiro Confiável
 
-![terceiro confiavel](../pages/img/mutually.gif)
+![terceiro confiavel](../stuff/mutually.gif)
 
 Os teóricos de segurança de redes resolveram recentemente esse problema de maneira surpreendente. Eles desenvolveram protocolos que criam máquinas virtuais entre duas ou mais partes. A computação segura multipartidária permite que qualquer número de partes compartilhe uma computação, cada uma aprendendo apenas o que pode ser inferido a partir de suas próprias entradas e da saída da computação. Essas máquinas virtuais têm a interessante propriedade de que as informações de cada parte são altamente confidenciais das outras partes. O programa e a saída são compartilhados pelas partes.
 
@@ -30,7 +30,7 @@ Por exemplo, poderíamos executar uma planilha na Internet neste computador virt
 
 ## Protocolo Matematicamente Confiável
 
-![protocolo matematicamente confiavel](../pages/img/virtual.gif)
+![protocolo matematicamente confiavel](../stuff/virtual.gif)
 
 Existem três grandes limitações. A primeira é que esse computador virtual é muito lento: em alguns casos, um cálculo aritmético por mensagem de rede. Atualmente, ele é, na melhor das hipóteses, prático apenas para lógica pequena ou cálculos aritméticos usados como complemento ou componente de cálculos e protocolos mais eficientes.
 

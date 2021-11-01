@@ -3,11 +3,13 @@
 ## Como contribuir?
 
 ### Existem diversas formas de contribuir com nosso projeto. Vamos listar algumas:
-> clique no item para ir direto ao guia prático
+
+> Clique no item para ir direto ao guia prático.  
+> Se você nunca usou o Github, dê uma olhada [neste tópico](wiki/GITHUB-BROWSER.md).
 
 - [Adicionando novos Documentos](#add-new-docs)
 - [Traduzindo Documentos para Português (pt-br)](#translate-docs-ptbr)
-- Revisando e corrigindo Documentos já traduzidos
+- [Revisando e corrigindo Documentos já traduzidos](#review-translated-docs)
 - Melhorando ou criando tutoriais sobre qualquer assunto relacionado ao movimento cypherpunk
 - Melhorando nosso site ```cypherpunks.com.br```
 - Divulgando o projeto Cypherpunks Brasil
@@ -23,11 +25,11 @@
 Você pode adicionar qualquer tipo de documento relacionado ao movimento cypherpunk à nossa biblioteca
 
 ### Mão na massa:
-> dica: algumas palavras contém links que se você clicar nelas você será levado a uma explicação de como fazer
+> Dica: algumas palavras contém links que se você clicar nelas você será levado a uma explicação de como fazer
 
 **1.** Faça um [Fork](wiki/GITHUB-BROWSER.md#criando-um-fork) do nosso repositório no github.
 
-**2.** Dentro de seu fork, crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que espeficique o objetivo. Por exemplo ```adiciona-bitcoin-whitepaper```. Após criar essa branch, é dentro dela que você irá trabalhar.
+**2.** Dentro de seu Fork, crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que especifique o objetivo. Por exemplo ```adiciona-bitcoin-whitepaper```. Após criar essa branch, é dentro dela que você irá trabalhar.
 
 **3.** Encontre o documento que deseja traduzir na internet, em livros, qualquer lugar, ou escreva você mesmo um texto autoral. Salve as informações importantes (link para a página web, nome do livro, autor, data de publicação), elas serão usadas nas próximas etapas.
 O documento pode estar em qualquer idioma, incluindo o português (pt-br).
@@ -64,7 +66,7 @@ tags:
 Você pode traduzir qualquer documento presente na pasta [```/para traduzir/```](para%20traduzir/) ou então caso queira traduzir um documento que não está nessa pasta você pode primeiro [adicionar novos Documentos à biblioteca](#add-new-docs)
 
 ### Mão na massa:
-> dica: algumas palavras contém links que se você clicar nelas você será levado a uma explicação de como fazer
+> Dica: algumas palavras contém links que se você clicar nelas você será levado a uma explicação de como fazer
 
 **1.** Faça um [Fork](wiki/GITHUB-BROWSER.md#criando-um-fork) do nosso repositório no github.
 
@@ -87,3 +89,29 @@ Você pode traduzir qualquer documento presente na pasta [```/para traduzir/```]
 **7.** [Mova](wiki/GITHUB-BROWSER.md#renomeando-e-movendo-arquivos) novamente o documento de pasta. Agora você já finalizou a tradução e irá mover o documento para a pasta onde acontece a revisão. Para isso você deve mover o arquivo do seu documento que está na pasta [```/sendo traduzidos/```](sendo%20traduzidos/) para a pasta [```/para revisar/```](para%20revisar/)
 
 **8.** Após ter traduzido e movido, o documento está pronto para ser incluído no repositório raiz do projeto no GitHub. Para incluí-lo é necessário realizar um [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) da sua branch para a branch main do repositório raiz, exemplo: ```cypherpunksbr/documentos|main``` ```<--``` ```matheusbach/documentos|traduz-bitcoin-whitepaper```. Após ter feito o PR, aguarde um dos membros da organização revisar suas alterações e aprovar seu trabalho. Obrigado por colaborar com o projeto!
+
+---
+
+<div id='review-translation'/>
+
+## Revisando e corrigindo Documentos já traduzidos:
+
+Você pode revisar um documento que já esteja traduzido e disponível na pasta [```/para revisar/```](para%20revisar) ou que já possua pelo menos uma revisão na pasta [```/sendo revisados/```](sendo%20revisados).
+
+### Mão na massa:
+
+> Dica: algumas palavras contém links que te levam a uma explicação de como fazer!
+
+**1.** Faça uma cópia ([Fork](wiki/GITHUB-BROWSER.md#criando-um-fork)) do nosso repositório no Github.
+
+**2.** Dentro de seu Fork (```github.com/seu-nome-de-usuário/documentos```), crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que espeficique o objetivo. Por exemplo: ```revisa-bitcoin-whitepaper```.
+
+**3.** Encontre o documento que deseja revisar na pasta [```/para revisar/```](para%20revisar). Caso o documento que deseja revisar já possua pelo menos uma revisão, ele deverá estar na pasta [```/sendo revisados/```](sendo%20revisados).
+
+> Diferentemente do processo de tradução, o processo de revisão acontece mais de uma vez. Sendo assim, se você deseja revisar um documento que ainda está em [```/para revisar/```](para%20revisar/), primeiro você deve [move-lo](wiki/GITHUB-BROWSER.md#renomeando-e-movendo-arquivos) para a pasta [```/sendo revisados/```](sendo%20revisados/) e fazer uma [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request). Caso já exista pelo menos uma revisão deste documento, alguém já o terá movido, então ele deverá estar na pasta [```/sendo revisados/```](sendo%20revisados/)
+
+**4.** Na pasta correta, clique no nome do documento escolhido e habilite o modo de edição do Github clicando no lápis :pencil2: (canto superior direito da tela)
+
+**5.** Faça as alterações que achar necessárias
+
+**6.** Terminou sua revisão? Agora você pode começar a [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request)! Não se esqueça de seguir o passo a passo corretamente, escrevendo uma boa mensagem de commit e conferindo se esta "enviando" suas alterações da sua Branch para a Branch raiz. ex.: ```cypherpunksbr/documentos|main``` ``` <-- ``` ```seu-nome-de-usuário/documentos|revisa-bitcoin-whitepaper```

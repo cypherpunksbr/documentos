@@ -9,7 +9,7 @@
 
 - [Adicionando novos Documentos](#add-new-docs)
 - [Traduzindo Documentos para Português (pt-br)](#translate-docs-ptbr)
-- [Revisando e corrigindo Documentos já traduzidos](#review-translated-docs)
+- [Revisando e corrigindo Documentos já traduzidos](#review-translation)
 - Melhorando ou criando tutoriais sobre qualquer assunto relacionado ao movimento cypherpunk
 - Melhorando nosso site ```cypherpunks.com.br```
 - Divulgando o projeto Cypherpunks Brasil
@@ -106,7 +106,7 @@ Você pode revisar um documento que já esteja traduzido e disponível na pasta 
 
 **2.** Dentro de seu Fork (```github.com/seu-nome-de-usuário/documentos```), crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que espeficique o objetivo. Por exemplo: ```revisa-bitcoin-whitepaper```.
 
-**3.** Encontre o documento que deseja revisar na pasta [```/para revisar/```](para%20revisar). Caso o documento que deseja revisar já possua pelo menos uma revisão, ele deverá estar na pasta [```/sendo revisados/```](sendo%20revisados).
+**3.** Encontre o documento que deseja revisar na pasta [```/para revisar/```](para%20revisar). Caso este documento já possua pelo menos uma revisão, ele deverá estar na pasta [```/sendo revisados/```](sendo%20revisados).
 
 > Diferentemente do processo de tradução, o processo de revisão acontece mais de uma vez. Sendo assim, se você deseja revisar um documento que ainda está em [```/para revisar/```](para%20revisar/), primeiro você deve [move-lo](wiki/GITHUB-BROWSER.md#renomeando-e-movendo-arquivos) para a pasta [```/sendo revisados/```](sendo%20revisados/) e fazer uma [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request). Caso já exista pelo menos uma revisão deste documento, alguém já o terá movido, então ele deverá estar na pasta [```/sendo revisados/```](sendo%20revisados/)
 
@@ -114,4 +114,4 @@ Você pode revisar um documento que já esteja traduzido e disponível na pasta 
 
 **5.** Faça as alterações que achar necessárias
 
-**6.** Terminou sua revisão? Agora você pode começar a [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request)! Não se esqueça de seguir o passo a passo corretamente, escrevendo uma boa mensagem de commit e conferindo se esta "enviando" suas alterações da sua Branch para a Branch raiz. ex.: ```cypherpunksbr/documentos|main``` ``` <-- ``` ```seu-nome-de-usuário/documentos|revisa-bitcoin-whitepaper```
+**6.** Terminou sua revisão? Agora você pode começar a [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request)! Não se esqueça de seguir o passo a passo corretamente, escrevendo uma boa mensagem de commit e conferindo se está "enviando" as alterações da sua Branch para a Branch principal do repositório raiz. ex.: ```cypherpunksbr/documentos|main``` ``` <-- ``` ```seu-nome-de-usuário/documentos|revisa-bitcoin-whitepaper```

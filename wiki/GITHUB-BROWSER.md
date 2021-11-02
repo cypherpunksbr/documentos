@@ -82,7 +82,7 @@ A seguir você encontra um tutorial de como executar cada um desses passos diret
 [Branch]:                          #criando-uma-nova-branch
 [Fork]:                            #criando-um-fork
 [Pull Request (PR)]:               #criando-um-pull-request
-[documentação oficial do Github]:  https://docs.github.com
+[documentação oficial do Github]:  https://docs.github.com/en/repositories/working-with-files
 [Criando um fork]:                 #criando-um-fork
 [Criando uma nova Branch]:         #criando-uma-nova-branch
 [Renomeando e movendo arquivos]:   #renomeando-e-movendo-arquivos

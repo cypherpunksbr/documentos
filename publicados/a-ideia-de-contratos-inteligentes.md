@@ -4,11 +4,20 @@ date:   1997-01-01
 author:
   - Nick Szabo
 categories:
-  - Biblioteca
+  - Artigo
 tags:
-  -
+  - Smart Contracts
+  - 
 ---
-### Nick Szabo  
+
+```
+Traduzido por: Ozy
+Revisado por: Cypherpunks Brasil
+```
+[```ver lista de contribuidores```](/contribuidores)
+
+## Nick Szabo 
+_¨_
 
 Qual o significado e o propósito de “segurança”? Como ela se relaciona com os relacionamentos que temos? Eu argumento que a formalização de nossos relacionamentos—especialmente contratos—fornece o modelo para a segurança ideal.
 
@@ -22,11 +31,10 @@ Se o carro está sendo usado como garantia, implementações de segurança de fo
 
 Nesse processo de refinamento constante, nós fomos de um sistema de segurança simples para um contrato refinado:
 
-<pre>(1) Uma chave para seletivamente deixar o dono entrar e excluir terceiros;
-(2) Uma porta dos fundos para permitir a entrada do credor;
-(3a) Acesso ao credor liberado apenas com o não pagamento durante um certo período de tempo; e
-(3b) Um pagamento eletrônico final fecha completamente a porta dos fundos. 
-</pre>
+- (1) Uma chave para seletivamente deixar o dono entrar e excluir terceiros;
+- (2) Uma porta dos fundos para permitir a entrada do credor;
+- (3a) Acesso ao credor liberado apenas com o não pagamento durante um certo período de tempo; e
+- (3b) Um pagamento eletrônico final fecha completamente a porta dos fundos. 
 
 Sistemas de segurança antigos terão comportamento diferente para contratos diferentes. Continuando com nosso exemplo, se o contrato do nosso automóvel for por locação, o pagamento final irá desligar o acesso a locação; em compras com crédito, iria desligar o acesso do credor. Um sistema de segurança, por ser constantemente redesenhado, alcança cada vez mais a lógica de um contrato que rege os direitos e obrigações de cada objeto, informação, ou cálculo a ser protegido. Termos contratuais qualitativamente diferentes, assim como diferenças tecnológicas entre propriedades, dão força a necessidade de protocolos diferentes.
 

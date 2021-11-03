@@ -1,8 +1,24 @@
-Truledger 
-Bill St. Clair
-==============
+---
+title:  "Truledger"
+date:   2008-01-01
+categories: 
+  - Artigo
+tags:
+  - Dinheiro eletrônico
+  - Protocolo
+  - Token
+author:
+  - Bill St. Clair
+---
 
-#### 2008
+```
+Traduzido por: Matheus Bach
+Revisado por: Cypherpunks Brasil
+```
+
+## Bill St. Clair
+
+###### 2008
 
 [Truledger](http://truledger.com/) é um cofre e um sistema de negociação anônimo digitalmente assinado. Assim como [Loom](https://loom.cc/), ele permite que qualquer pessoa publique ativos (moedas digitais). Ao contrário do Loom, que se baseia inteiramente em uma (muito boa) obscuridade para segurança, as assinaturas digitais da Truledger permitem que o servidor e o cliente comprovem entre si que concordaram com seus respectivos saldos em um determinado momento. Isso é feito enquanto permite a destruição do histórico de transações de negociações concluídas. O Truledger fornecerá inicialmente negociação baseada em servidor. Eventualmente, fornecerá contas digitais e certificados ao titular. No entanto, estes exigirão armazenamento permanente do histórico de transações (a menos que expirem).
 
@@ -12,8 +28,7 @@ O Truledger usa criptografia de chave pública para assinar todas as mensagens p
 
 Vou usar quatro atores nos cenários a seguir. "Servidor" é o nome do servidor Truledger. "Bob" e "Sue" são dois clientes, que negociarão entre si. "Spammer" é um terceiro cliente, desconhecido por Bob ou Sue.
 
-Cenário: Abrindo uma Conta
---------------------------
+### Cenário: Abrindo uma Conta
 
 Sue (via e-mail ou mensagem instantânea): Eai, Bob. Dê uma olhada na Truledger. Vá para Truledger.com, faça o download do client e instale-o no seu computador. Em seguida, crie uma chave privada e me envie seu ID, e eu darei alguns tokens de uso para que você possa criar uma conta.
 
@@ -71,8 +86,7 @@ Bob: (<bobsid>,register,<servidorid>,<pubkey>,Bob)
 Servidor: (<servidorid>,@register,(<bobsid>,register,<servidorid>,<pubkey>,Bob))
 ```
 
-Cenário: Recebendo ativos
--------------------------
+### Cenário: Recebendo ativos
 
 Bob: Olá servidor. Aqui está o meu ID e um novo número de solicitação. O que há na minha caixa de entrada?
  Assinado: Bob
@@ -113,8 +127,7 @@ Servidor: (<servidorid>,@processinbox,(<bobsid>,processinbox,<serverid>,<time5#>
         (<servidorid>,@balance,(<bobsid>,balance,<servidorid>,<time5#>,<tokenid>,39))
 ```
 
-Cenário: fechando uma transação
--------------------------------
+### Cenário: fechando uma transação
 
 Sue: Olá Servidor. Aqui está o meu ID e um novo número de solicitação. O que há na minha caixa de entrada?
  Assinado: Sue
@@ -150,8 +163,7 @@ Server: (<servidorid>,@processinbox,(<suesid>,processinbox,<servidorid>,<time8#>
         (<servidorid>,@outboxhash,(<suesid>,outboxhash,<servidorid>,<time8#>,Y))
 ```
 
-Cenário: Prevenção de Spam
---------------------------
+### Cenário: Prevenção de Spam
 
 Spammer (provavelmente rodando através de um software automatizado): Ei, servidor. Aqui está um novo número de solicitação. Dê-me um número de transação, por favor.
  Assinado: Spammer
@@ -179,7 +191,7 @@ Servidor: Rejeitei o gasto do Spammer. Eu aceito que seu balanço após essa tra
 
 ---
 
-Gastos podem ser rejeitados. A quantia enviada volta para quem solicitou o gasto, mas Spends can be rejected. The amount spent goes back to the spender, mas o destinatário é quem embolsa a taxa de transação. Gastos zero servem para usar a Trueledger cmo um serviç de mensagem simples. Mas não são de graça, a menos que o destinatário queira a mensagem. Na minha humilde opinião, spam existem tanto por que é praticamente de graça enviar um e-mail. Em um sistema em que cada mensagem de spam custa 2 tokens de uso, fazer spam será barato, mas não de graça. Duvido que isso venha a ser um grande problema. O tempo dirá.
+Gastos podem ser rejeitados. A quantia enviada volta para quem solicitou o gasto, mas Spends can be rejected. The amount spent goes back to the spender, mas o destinatário é quem embolsa a taxa de transação. Gastos zero servem para usar a Truledger cmo um serviç de mensagem simples. Mas não são de graça, a menos que o destinatário queira a mensagem. Na minha humilde opinião, spam existem tanto por que é praticamente de graça enviar um e-mail. Em um sistema em que cada mensagem de spam custa 2 tokens de uso, fazer spam será barato, mas não de graça. Duvido que isso venha a ser um grande problema. O tempo dirá.
 
 Mensagem atual enviada:
 
@@ -207,8 +219,7 @@ Servidor: (<serverid>,@processinbox,(<bobsid>,processinbox,<serverid>,<time12#>,
         (<serverid>,@balance,(<bobsid>,balance,<serverid>,<time12#>,<tokenid>,41))
 ```
 
-Cenário: Emissão de ativos
---------------------------
+### Cenário: Emissão de ativos
 
 Bob: Ei, servidor. Aqui está um novo número de solicitação. Dê-me um número de transação, por favor.
  Assinado: Bob
@@ -243,8 +254,7 @@ Servidor: (<serverid>,#asset,(<bobsid>,asset,<serverid>,<bobggid>,7,3,Bob GoldGr
        (<serverid>,#balance,(<bobsid,balance,<serverid>,<time13#>,<bobggid>,-1))
 ```
 
-Cenário: várias subcontas
--------------------------
+### Cenário: várias subcontas
 
 Bob: Eae, servidor. Aqui está um novo número de solicitação. Me dê um número de transação, por favor.
  Assinado: Bob
@@ -299,16 +309,20 @@ Servidor: (<serverid>,@spend,(<bobsid>,spend,<serverid>,<time15#>,<suesid>,<bobg
        (<serverid>,@outboxhash,(<bobsid>,outboxhash,<serverid>,<time15#>,A))
 ```
 
-Cenário: Obtendo informações
-----------------------------
+### Cenário: Obtendo informações
 
 Para ser feito
 
-Cenário: cancelando um gasto
-----------------------------
+### Cenário: cancelando um gasto
 
 Para ser feito
 
 ---
 
 Copyright © 2008 Bill St. Clair, Todos os direitos reservados.
+
+---
+
+Fonte: 
+https://truledger.com/doc/plain-english.html
+https://nakamotoinstitute.org/truledger/

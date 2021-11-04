@@ -4,19 +4,26 @@ date:   1998-01-01
 categories:
   - Biblioteca
 tags:
-  -
+  - Privacidade
+  - Auditoria
+  - Economia
 author:
  - Nick Szabo
 ---
-### Nick Szabo  
 
+```
+Traduzido por: jeffeson
+Revisado por: Cypherpunks Brasil
+```
+
+## Nick Szabo  
 
 Copyright © 1997-1999 por Nick Szabo  
 Permissão para redistribuir ;sem alteração por este concedida
 
+---
 
-* * *
-
+===exibe no card daqui pra baixo===
 
 A função de auditoria é uma parte vasta e indispensável da economia moderna. Os controles de auditoria permitem, entre outras coisas, os empregadores delegarem recursos e autoridade aos funcionários, franqueadores delegarem aos franqueados, acionistas para delegarem à administração, anunciantes para contarem os globos oculares, os comerciantes para reunirem mais dados confiável sobre os clientes, e possibilitar uma ampla variedade de outros relacionamentos. Controles de auditoria podem ser chamados de protocolos de segurança do capitalismo..
 
@@ -35,10 +42,10 @@ Assumindo muitos detalhes práticos que eu encarei neste esboço (como a eficiê
 Com auditoria mutuamente confidencial, poderemos ganhar confiança na factualidade dos pedidos e relatórios das contrapartes sem revelar informações de identificação e outras informações detalhadas das transações subjacentes a esses relatórios. Isso fornecerá a base para sistemas sólidos de reputação e outros sistemas confiáveis de terceiros, que mantêm a integridade ao longo do tempo, comunicações, sumarização, e preservar a confidencialidade para os participantes da transação. Com auditoria confidencial, muitas vezes seremos capazes de ter abertura e privacidade.
 
 
-* * *
+---
 
-
-<pre>    [1] BLLV98  A. Buldas, P. Laud, H. Lipmaa, J. Villemson, "Time-Stamping
+``` 
+    [1] BLLV98  A. Buldas, P. Laud, H. Lipmaa, J. Villemson, "Time-Stamping
         with Binary Linking Schemes", Crypto 98
     [2] Szabo, in progress
     [3] See recent back issues of _The Wall Street Journal_
@@ -51,8 +58,6 @@ Com auditoria mutuamente confidencial, poderemos ganhar confiança na factualida
             and Multiparty Protocols with Honest Majority", ACM STOC 89
     GRR98   R. Gennaro, T. Rabin, & M. Rabin: "Simplified VSS
             and Fast-Track Multiparty Computations", PODC 98
-  </pre>
-
-<pre>  Fonte:[http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/confidential.html](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/confidential.html)
-</pre>
-
+```
+---
+Fonte: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/confidential.html

@@ -136,6 +136,6 @@ Meus agradecimentos a David Chaum, a Mark Miller, a Bill Frantz, a Norm Hardy e 
 
 4.  [The E distributed object language](http://www.erights.org/)
 
-* * *
+
 
 Por favor, envie seus comentários para nszabo (at) law (ponto) gwu (ponto) edu Copyright © 1997, 1999 por Nick Szabo Permissão para redistribuir sem alteração por este concedida. Fonte: [https://nakamotoinstitute.org/contracts-with-bearer/](https://nakamotoinstitute.org/contracts-with-bearer/)

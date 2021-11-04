@@ -1,5 +1,5 @@
 # GPG
-***
+
 
 ## Passo a passo simplificado
 
@@ -96,7 +96,7 @@ gpg --import private.mypgp.key
 gpg --keyserver pgp.mit.edu --send-keys ID_da_chave
 ```
 
-***
+
 ## Passo a passo detalhado
 
 ### Criação das chaves

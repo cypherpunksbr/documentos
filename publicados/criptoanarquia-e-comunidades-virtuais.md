@@ -257,7 +257,7 @@ Meus agradecimentos aos meus colegas do grupo Cypherpunks, todos os 700 deles, p
     14.  "Magic Money" foi uma implementação experimental do sistema de dinheiro digital de Chaum. Ele foi codificado por "Priduct Cypher", um membro pseudônimo da lista Cypherpunks - nenhum de nós sabe sua identidade real, como ele usou os remailers para se comunicar com a lista, e assinou digitalmente seus posts. Muitos de nós acham muito difícil de usar, o que é mais uma medida das profundas questões envolvidas no uso de análogos digitais (sem trocadilhos) para dinheiro real e físico. [↩](https://cypherpunks.com.br/criptoanarquia-e-comunidades-virtuais/#ref14)
     15.  Robin Hanson e David Friedman escreveram extensivamente sobre cenários para lidar com as ameaças de extorsionistas, pretensos assassinos, etc. Espero que algum trabalho deles seja publicado algum dia. (Grande parte da discussão foi em 1992-3, na lista de discussão "Extropians".) [↩](https://cypherpunks.com.br/criptoanarquia-e-comunidades-virtuais/#ref15)
 
-    * * *
+    
 
     ### Timothy C. May
 

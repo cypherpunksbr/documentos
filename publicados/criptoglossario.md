@@ -19,7 +19,7 @@ author:
 
 _De: tcmay@netcom.com (Timothy C. May) Assunto: Cripto Glossário Data: Sun, 22 Nov 92 11:50:55 PST_ Aqui está o glossário de termos de criptografia que divulgamos em formato impresso na primeira reunião da Cypherpunks em Setembro de 1992\. Algumas concessões tiveram que ser feitas indo do impresso para o ASCII dessa transmissão, então espero que você tenha paciência comigo. Estou enviando para a lista inteira, porque quase todo mundo que ouve sobre isso diz: "Está online?" e quer uma cópia. Se você não quiser, descarte-o. Eu não vou manter o "Cypherpunks FAQ", então não me envie correções ou sugestões. Apreciem! Tim May
 
-* * *
+
 
 #### Principais Tópicos da Criptologia (segundo minha opinião)
 

@@ -1,5 +1,5 @@
 # Verificação de integridade e autenticidade
-***
+
 
 Por vezes torna-se importante averiguar a integridade e autenticidade de arquivos baixados. Para se ter a certeza da origem e que o mesmo não corrompeu durante o download.
 

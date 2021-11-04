@@ -1,5 +1,5 @@
 # Transações offline com Armory
-***
+---
 
 O Armory é open source e atualmente seu desenvolvimento é feito pela comunidade. Ela é uma das carteiras de bitcoin mais seguras. Sua grande vantagem está na possibilidade de criar e deixar suas chaves privadas em um PC offline, reduzindo drasticamente vetores de ataque. Essa é a chamada cold storage ou armazenamento a frio.
 

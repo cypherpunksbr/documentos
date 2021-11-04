@@ -1,5 +1,5 @@
 # Git e GitHub
-***
+
 
 #### Se você não sabe ou não está acostumado a usar essas ferramentas, pule para o [passo a passo detalhado](#passo-a-passo-detalhado)
 

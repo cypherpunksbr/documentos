@@ -1,5 +1,5 @@
 # Git
-***
+---
 
 [Se você não sabe ou não está acostumado a usar o **Git**, pule para o passo a passo detalhado](#passo-a-passo-detalhado)
 

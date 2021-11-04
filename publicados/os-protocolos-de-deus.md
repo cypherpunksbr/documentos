@@ -14,7 +14,7 @@ author:
 <small>Originalmente publicado em 1997</small> 
 
 
-* * *
+
 
 Imagine o protocolo ideal. Teria a terceira parte mais confiável imaginável - uma entidade que está do lado de todo mundo . Todas as partes enviariam suas entradas para Deus. Deus determinaria confiavelmente os resultados e retornaria as saídas. Sendo Deus o supremo na discrição confessional, nenhum partido aprenderia mais sobre entradas das outras partes do que eles poderiam aprender com suas próprias entradas e a saída.
 
@@ -72,7 +72,7 @@ Se a auditoria mutuamente confidencial se tornar prática, poderemos obter alta 
 
 </div>
 
-* * *
+
 
 Por favor, envie seus comentários para nszabo (at) law (dot) gwu (dot) edu  
 

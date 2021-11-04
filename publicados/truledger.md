@@ -20,7 +20,7 @@ Revisado por: Cypherpunks Brasil
 
 ###### 2008
 
-_¨_
+===exibe no card daqui pra baixo===
 
 [Truledger](http://truledger.com/) é um cofre e um sistema de negociação anônimo digitalmente assinado. Assim como [Loom](https://loom.cc/), ele permite que qualquer pessoa publique ativos (moedas digitais). Ao contrário do Loom, que se baseia inteiramente em uma (muito boa) obscuridade para segurança, as assinaturas digitais da Truledger permitem que o servidor e o cliente comprovem entre si que concordaram com seus respectivos saldos em um determinado momento. Isso é feito enquanto permite a destruição do histórico de transações de negociações concluídas. O Truledger fornecerá inicialmente negociação baseada em servidor. Eventualmente, fornecerá contas digitais e certificados ao titular. No entanto, estes exigirão armazenamento permanente do histórico de transações (a menos que expirem).
 

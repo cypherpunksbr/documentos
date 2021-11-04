@@ -10,7 +10,7 @@ author:
 ---
 
 
-### Satoshi Nakamoto
+## Satoshi Nakamoto
 31 de outubro de 2008
 
 ---

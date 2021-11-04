@@ -10,7 +10,7 @@ author:
 ---
 
   
-### Nick Szabo  
+## Nick Szabo  
 29 de Dezembro de 2005
 
 

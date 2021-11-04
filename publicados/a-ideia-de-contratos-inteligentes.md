@@ -7,7 +7,7 @@ categories:
   - Artigo
 tags:
   - Smart Contracts
-  - 
+  - Segurança
 ---
 
 ```
@@ -17,7 +17,8 @@ Revisado por: Cypherpunks Brasil
 [```ver lista de contribuidores```](/contribuidores)
 
 ## Nick Szabo 
-_¨_
+
+===exibe no card daqui pra baixo===
 
 Qual o significado e o propósito de “segurança”? Como ela se relaciona com os relacionamentos que temos? Eu argumento que a formalização de nossos relacionamentos—especialmente contratos—fornece o modelo para a segurança ideal.
 
@@ -40,6 +41,6 @@ Sistemas de segurança antigos terão comportamento diferente para contratos dif
 
 (Derivado de ["Formalizando e protegendo relações em redes públicas"](/formalizing-securing-relationships/), por Nick Szabo) Um [artigo relacionado discute uma linguagem](/contract-language/) formal para analisar contratos e especificar contratos inteligentes.
 
-* * *
+
 
 Por favor, envie seus comentários para nszabo (at) law (dot) gwu (dot) edu Copyright © 1997 por Nick Szabo Permissão para redistribuir sem nenhuma alteração por este concedida. Fonte: [https://nakamotoinstitute.org/the-idea-of-smart-contracts/](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)

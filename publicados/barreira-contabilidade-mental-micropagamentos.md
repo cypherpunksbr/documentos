@@ -15,10 +15,9 @@ Traduzido por: jeffeson
 Revisado por: Cypherpunks Brasil
 ```
 
-### Nick Szabo  
+## Nick Szabo  
 
-##### Copyright (c) 1996 por Nick Szabo  
-permissão para redistribuir sem alteração ora concedida
+###### Copyright (c) 1996 por Nick Szabo - permissão para redistribuir sem alteração ora concedida
 
 ---
 
@@ -32,7 +31,7 @@ As empresas de comunicação descobriram que o faturamento é um grande gargalo.
 
 Um sistema de micropagamentos pressupõe uma solução para o problema da contabilidade mental. Se alguém pudesse realmente resolver o problema, em vez de simplesmente alegar tê-lo resolvido por meios misteriosos ("agentes inteligentes", etc.), a economia seria enorme mesmo em negócios já existentes, como longa distância e serviço de Internet — para não mencionar todas as novas possibilidades possíveis por menores custos de transação.
 
-#### Exemplo - Contas de eletricidade
+### Exemplo - Contas de eletricidade
 
 Às vezes, as declarações contabilizam transações em incrementos gratuitos, como a resolução de 100 watts-hora em algumas contas de eletricidade. Há muitas coisas que a maioria das pessoas normalmente não planeja com relação às contas de eletricidade, o que pode melhorar o valor que elas recebem pelos pagamentos de eletricidade:
 
@@ -42,7 +41,7 @@ Um sistema de micropagamentos pressupõe uma solução para o problema da contab
 
 A razão pela qual não fazemos as coisas é que elas não valem os ciclos cerebrais: chegamos à barreira da contabilidade mental.
 
-#### Uma teoria da granularidade de preços
+### Uma teoria da granularidade de preços
 
 Aqui apresento brevemente uma teoria da granularidade de preços baseada em uma visão subjetivista dos preços. A função dos preços, do ponto de vista de um comprador, é deixar o comprador mapear seus recursos pessoais (orçamento) para seus valores pessoais (únicos e não observáveis diretamente). Esse processo mental exige a comparação do preço de compra de um bem com seu valor pessoal. Isso implica um custo mental significativo, que define os limites inferiores mais básicos dos custos de transação. Por exemplo, comparar o valor pessoal de um conjunto grande e diversificado de bens de baixo preço pode exigir um gasto mental maior do que os preços desses bens (onde os gastos mentais podem ser mensuráveis ​​como os custos de oportunidade de não se envolver em trabalho mental por salários, ou de não comprar um número menor de bens comparáveis ​​com menores custos contábeis mentais). Neste caso, faz sentido juntar as mercadorias em pacotes com um preço mais alto e uma sinergia inicial, até que os custos de contabilidade mental dos compradores sejam suficientemente baixos.
 
@@ -60,7 +59,7 @@ Dado que o software pode representar certas preferências, é um problema mais d
 
 Dada a solução de outros problemas de custos de transação, os custos da contabilidade mental ficam sujeitos ao limite do processo de comunicação de preferências — seja pela escolha de contabilidade mental de um bem em detrimento de outro, seja pela criação de um simulacro de software único e suficientemente preciso das preferências do comprador, que completa o processo de orçamento, negociação e compra. Até que ponto e com que eficiência pode (a) um comprador comunicar preferências subjetivas ao software, e (b) o software pode representar e agir no interesse dessas preferências objetivadas? A presença de mecanismos de pesquisa, formulários de pedidos de catálogo, pesquisas de marketing e interações mais sofisticadas como firefly demonstra que tal comunicação e representação são viáveis e importantes, mas parecem ser dispendiosas e talvez fundamentalmente limitadas de alguma forma.
 
-#### Preferências e metáforas visuais
+### Preferências e metáforas visuais
 
 Para avaliar a conveniência de uma transação, e para evitar ser cobrado incorretamente, as partes de uma transação têm que contabilizar, ou seja, contabilizar o dinheiro pago por determinados produtos e serviços — certificando-se de que os pagamentos em dinheiro são feitos como prometido (por exemplo olhando para a tela como os produtos são digitalizados na loja, ou o recibo depois), ou certificando-se de que a conta de telefone é adequada. Aqui eu uso "contabilidade" nesse sentido amplo.
 
@@ -78,7 +77,7 @@ Atualmente, os programas de orçamento (como o Quicken) fornecem algumas das met
 
 (*) transações semelhantes a contratos feitas por agentes automatizados levantam questões interessantes sobre o que constitui uma "reunião das mentes".
 
-### Referências
+## Referências
 
 [1] A proposta mais avançada ainda se encontra no [Agorics Papers](http://www.agorics.com/agorpapers.html).
 

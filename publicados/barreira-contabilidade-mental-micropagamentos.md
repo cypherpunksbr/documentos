@@ -4,17 +4,25 @@ date:   1996-01-01
 categories:
   - Biblioteca
 tags:
-  -
+  - Economia
+  - Micropagamentos
 author:
   - Nick Szabo
 ---
+
+```
+Traduzido por: jeffeson
+Revisado por: Cypherpunks Brasil
+```
 
 ### Nick Szabo  
 
 ##### Copyright (c) 1996 por Nick Szabo  
 permissão para redistribuir sem alteração ora concedida
 
-* * *
+---
+
+===exibe no card daqui pra baixo===
 
 Alguns projetos de comércio eletrônico prometem custos de transação dramaticamente menores, para que possamos obter "micropagamentos", "microintermediação" e assim por diante. Uma ideia ainda mais avançada é a utilização de mercados de granularidade muito pequenos para a alocação de recursos de computadores e de rede <sup>[1]</sup>. Até que ponto essas coisas são realizáveis? Considere uma característica bastante independente do sistema de pagamento específico: a declaração de encargos. Aqui reside uma troca aqui entre completude e complexidade. Por um lado, apenas resumir as acusações cria a oportunidade para as _'salami fraud'_ (fraudes de salame), permitindo que micro custos largamente distribuídos, falsos ou exagerados, não sejam detectados. Além disso, as partes que lêem apenas os resumos não recebem nenhum feedback pelo qual possam ajustar seu comportamento para minimizar os custos. Por outro lado, uma declaração muito complexa para os clientes lerem também permite que fraude, erro e uso ineficiente não sejam detectados, porque uma ou ambas as partes não podem entender a justificativa para as cobranças em relação ao acordo presumido em termos de serviço e pagamento. O mesmo tipo de raciocínio se aplica a processar essas coisas na cabeça, em vez de no papel, como geralmente é feito em pequenas transações em dinheiro. Um requisito básico para que os preços de mercado funcionem é que ambos os lados de uma transação possam mapear as cobranças ao valor obtido ou processado, para que possam ajustar seu comportamento de compra ou venda de acordo.
 
@@ -74,9 +82,7 @@ Atualmente, os programas de orçamento (como o Quicken) fornecem algumas das met
 
 [1] A proposta mais avançada ainda se encontra no [Agorics Papers](http://www.agorics.com/agorpapers.html).
 
-* * *
-
 Por favor, envie seus comentários para nszabo (at) law (dot) gwu (dot) edu
 
-<pre>    Fonte: [http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/micropayments.html](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/micropayments.html)
-</pre>
+---
+Fonte: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/micropayments.html

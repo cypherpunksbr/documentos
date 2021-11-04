@@ -21,8 +21,9 @@ Revisado por: Cypherpunks Brasil
 
 ###### Versão 3.0 – 2 de agosto de 2002 (Originalmente publicado em 2000)
 
-
 ### Resumo
+
+===exibe no card daqui pra baixo===
 
 Eu analiso um projeto bem sucedido de código livre, o Fetchmail, que foi executado como um teste deliberado de algumas teorias surpreendentes sobre a tecnologia de programação sugerida pela história do Linux. Eu discuto estas teorias nos termos de dois estilos fundamentais diferentes de desenvolvimento, o modelo "catedral" da maior parte do mundo comercial contra o modelo "bazar" do mundo do Linux. Eu mostro que estes modelos derivam de suposições opostas sobre a natureza da tarefa de depurar o software. Eu faço então um argumento sustentado na experiência do Linux para a proposição que "Dados bastante olhos, todos os erros são triviais", sugiro analogias produtivas com outros sistemas auto-corrigíveis  de agentes egoístas, e concluo com alguma exploração das implicações desta introspeção para o futuro do software.
 

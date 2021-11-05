@@ -8,9 +8,13 @@ tags:
 author:
   - Timothy C. May
 ---
-
+```
+Traduzido por: Steffan Diorgy 
+Revisado por: Cypherpunks Brasil
+```
 
 ### Tim May
+===exibe no card daqui pra baixo===
 
 <pre>Assunto: Ciberespaço, Crypto Anarquia e Forçando Limites
 De: tcmay@netcom.com (Timothy C. May)

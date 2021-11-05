@@ -8,11 +8,15 @@ tags:
 author:
   - Hal Finney
 ---
-
+```
+Traduzido por: Steffan Diorgy 
+Revisado por: Cypherpunks Brasil
+```
 ### Hal Finney
 
 
 #### 30 de Março de 1994
+===exibe no card daqui pra baixo===
 
 
 Um dos principais conceitos amplamente usados ​​para descrever o PGP é a "rede de confiança". Isso traz à mente uma rede de conexões entre pessoas que conhecem e se comunicam umas com as outras. Duas pessoas que querem se comunicar podem fazê-lo com segurança se houver um caminho de conexões na forma de chaves assinadas que as unam.

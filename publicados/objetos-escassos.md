@@ -1,3 +1,19 @@
+---
+title:  "Objetos Escassos"
+date:   2004-01-01
+categories:
+   -  Artigo
+tags:
+  -
+author:
+  - Nick Szabo
+---
+```
+Traduzido por: Steffan Diorgy 
+Revisado por: Cypherpunks Brasil
+```
+
+
 Objetos Escassos 
 Nick Szabo
 ================
@@ -5,6 +21,7 @@ Nick Szabo
 #### Originalmente publicado em 2004
 
 ### Abstrato
+===exibe no card daqui pra baixo===
 
 *Uma abordagem mais intuitiva e segura para programação com objetos distribuídos através de limites de confiança é apresentada. A abordagem envolve objetos escassos e software para apoiar os mercados na negociação de "direitos" de objetos escassos.*
 

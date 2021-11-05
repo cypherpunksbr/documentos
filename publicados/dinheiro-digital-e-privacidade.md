@@ -8,13 +8,17 @@ tags:
 author:
   - Hal Finney
 ---
-
+```
+Traduzido por: Steffan Diorgy 
+Revisado por: Cypherpunks Brasil
+```
 
 ### Hal Finney
 
 
 #### 19 de Agosto de 1993
 
+===exibe no card daqui pra baixo===
 
 Eu concordo com o anônimo que existem problemas com o uso real do dinheiro digital no curto prazo. Mas isso depende, até certo ponto, do problema que você está tentando resolver.
 

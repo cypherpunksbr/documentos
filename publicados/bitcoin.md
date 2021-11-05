@@ -8,7 +8,10 @@ tags:
 author:
   - Satoshi Nakamoto
 ---
-
+```
+Traduzido por: Steffan Diorgy 
+Revisado por: Cypherpunks Brasil
+```
 
 ## Satoshi Nakamoto
 31 de outubro de 2008
@@ -16,6 +19,7 @@ author:
 ---
 
 ## Abstract
+===exibe no card daqui pra baixo===
 
 Uma versão puramente peer-to-peer do dinheiro eletrônico permitiria que pagamentos on-line fossem enviados diretamente de uma parte para outra sem passar por uma instituição financeira. Assinaturas digitais fornecem parte da solução, mas os principais benefícios são perdidos se um terceiro confiável ainda for necessário para evitar o gasto duplo. Propomos uma solução para o problema do gasto duplo usando uma rede peer-to-peer. A rede registra as transações de data e hora, transformando-as em uma cadeia contínua de prova de trabalho baseada em hash, formando um registro que não pode ser alterado sem refazer a prova de trabalho. A cadeia mais longa não serve apenas como prova da sequência de eventos testemunhada, mas prova de que ela veio do maior conjunto de poder da CPU. Enquanto a maioria da energia da CPU é controlada por nós que não estão cooperando para atacar a rede, eles Vai gerar os atacantes de cadeia e de saída mais longos. A rede em si requer estrutura mínima. As mensagens são transmitidas com base no melhor esforço, e os nós podem sair e se juntar à rede à vontade, aceitando a mais longa cadeia de prova de trabalho como prova do que aconteceu enquanto eles estavam fora.
 

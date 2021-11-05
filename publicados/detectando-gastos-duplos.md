@@ -8,13 +8,17 @@ tags:
 author:
   - Hal Finney
 ---
-
+```
+Traduzido por: Steffan Diorgy 
+Revisado por: Cypherpunks Brasil
+```
 
 ### Hal Finney
 
 #### 15 de outubro de 1993  
 (revisado em 13 de março de 1996)
 
+===exibe no card daqui pra baixo===
 
 Aqui está uma tentativa de descrever o dinheiro digital de Chaum a partir de seu trabalho, Untraceable Electronic Cash, de Chaum, Fiat e Naor, do processo Crypto 88\. Esse dinheiro tem a propriedade de que o usuário do dinheiro pode permanecer anônimo, desde que não o gaste mais de uma vez, mas se ela gastar duas vezes, sua identidade será revelada.
 

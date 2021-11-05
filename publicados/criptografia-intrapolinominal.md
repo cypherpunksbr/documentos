@@ -9,7 +9,7 @@ author:
   - Nick Szabo
 ---
 ```
-Traduzido por: Dave Figueiredo
+Traduzido por: Steffan Diorgy, Dave Figueiredo
 Revisado por: Cypherpunks Brasil
 ```
 <small>Nick Szabo</small>

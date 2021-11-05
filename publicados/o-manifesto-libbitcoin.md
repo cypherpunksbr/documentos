@@ -1,6 +1,6 @@
 ---
 title:  "O Manifesto libbitcoin"
-date:   2013-23-09
+date:   2013-09-23
 categories: 
   - Artigo
 tags:

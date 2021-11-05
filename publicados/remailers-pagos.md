@@ -1,12 +1,12 @@
 ---
-title:  "Remailers pagos"
-date:   1994-28-09
+title:  "Objetos Escassos"
+date:   1994-10-28
 categories:
    -  Artigo
 tags:
   -
 author:
-  - Hal Finney
+  - Nick Szabo
 ---
 ```
 Traduzido por: Steffan Diorgy 

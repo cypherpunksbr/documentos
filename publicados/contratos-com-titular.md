@@ -8,12 +8,16 @@ tags:
 author:
   - Nick Szabo
 ---
-
+```
+Traduzido por: OneTimePad 
+Revisado por: Cypherpunks Brasil
+```
 
 ### Nick Szabo
 
 
 Originalmente publicado em 1997
+===exibe no card daqui pra baixo===
 
 
 ## Certificados de Titular

@@ -2,7 +2,7 @@
 title:  "Glossário de Contratos inteligentes"
 date:   1995-01-01
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:

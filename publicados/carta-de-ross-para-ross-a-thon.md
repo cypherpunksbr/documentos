@@ -2,19 +2,23 @@
 title:  "Carta de Ross para Ross-A-Thon"
 date:   2016-12-01
 categories: 
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Ross Ulbricht
 ---
-
+```
+Traduzido por: Vinicius Yaunner
+Revisado por: Cypherpunks Brasil
+```
 
 ### Ross Ulbricht
 
 Publicado originalmente em 2016
 
 ## Carta de Ross para Ross-A-Thon
+===exibe no card daqui pra baixo===
 
 Olá a todos,
 Ross aqui, estou escrevendo da prisão federal em Manhattan. Eu gostaria de poder entrar em sintonia com vocês para ouvir o que todos têm a dizer e me envolver na discussão, mas terei que me contentar com esta carta. Devo pegar uma cópia dos comentários e tal, então se você tem uma mensagem para mim, é só deixar aqui.

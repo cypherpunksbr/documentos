@@ -2,20 +2,23 @@
 title:  "Cripto Glossário"
 date:   1992-11-22
 categories:
-  - Biblioteca 
+   -  Artigo 
 tags:
   -
 author:
   - Timothy C. May
   - Eric Hughes
 ---
-
-
+```
+Traduzido por: OneTimePad
+Revisado por: Cypherpunks Brasil
+```
 ### Timothy C. May e Eric Hughes
 
 
   
 22 de novembro de 1992
+===exibe no card daqui pra baixo===
 
 _De: tcmay@netcom.com (Timothy C. May) Assunto: Cripto Glossário Data: Sun, 22 Nov 92 11:50:55 PST_ Aqui está o glossário de termos de criptografia que divulgamos em formato impresso na primeira reunião da Cypherpunks em Setembro de 1992\. Algumas concessões tiveram que ser feitas indo do impresso para o ASCII dessa transmissão, então espero que você tenha paciência comigo. Estou enviando para a lista inteira, porque quase todo mundo que ouve sobre isso diz: "Está online?" e quer uma cópia. Se você não quiser, descarte-o. Eu não vou manter o "Cypherpunks FAQ", então não me envie correções ou sugestões. Apreciem! Tim May
 

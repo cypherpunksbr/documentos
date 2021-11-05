@@ -2,7 +2,7 @@
 title:  "Contratos com Titular"
 date:   1997-01-01
 categories: 
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:

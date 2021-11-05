@@ -2,13 +2,16 @@
 title:  "Bitcoin e eu"
 date:   2013-03-19
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Hal Finney
 ---
-
+```
+Traduzido por: Marcos Monteiro
+Revisado por: Cypherpunks Brasil
+```
 
 ### Hal Finney  
 19 de março de 2013
@@ -16,6 +19,8 @@ author:
 ![](https://nakamotoinstitute.org/static/img/docs/bitcoin-and-me/hal-finney.jpg)
 
 Originalmente publicado em [Bitcointalk](https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833)
+===exibe no card daqui pra baixo===
+
 
 Eu achei que deveria escrever sobre os últimos 4 anos, uma época agitada para o Bitcoin e para mim.
 

@@ -2,13 +2,16 @@
 title:  "Carta de Ross para a Reason Conference"
 date:   2018-03-04
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Ross Ulbricht
 ---
-
+```
+Traduzido por: Vinicius Yaunner
+Revisado por: Cypherpunks Brasil
+```
 
 ### Ross Ulbricht 
 
@@ -16,6 +19,7 @@ Enviado em 4 de março de 2018
 
 
 _Site originario - [Free Ross Ulbricht](https://freeross.org/reason-letter-2018/)_
+===exibe no card daqui pra baixo===
 
 Olá a todos,
 

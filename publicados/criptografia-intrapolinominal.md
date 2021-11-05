@@ -2,17 +2,20 @@
 title:  "Criptografia Intrapolinomial"
 date:   1999-01-01
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Nick Szabo
 ---
-
+```
+Traduzido por: Dave Figueiredo
+Revisado por: Cypherpunks Brasil
+```
 <small>Nick Szabo</small>
 
 #### 1999
-
+===exibe no card daqui pra baixo===
 
 Pesquisadores têm proposto uma variedade de “desafios para clientes” e “trabalho pesado” como o hashcash, MicroMint, Bit Gold e a Postagem com Custo Computacional para criar uma moeda independente ou fazer o spam ficar custoso. A implicação matemática desta proposta é de que existe uma “criptografia intrapolinomial”. As 4 motivações para a teoria da criptografia intrapolinomial são (a) as novas construções como as mencionadas anteriormente, (b) estimativas mais acuradas sobre o custo para se quebrar uma cifra, (c) é possível que seja mais fácil provar os limites menores ao invés de apenas executá-los, como na criptografia superpolinomial (padrão), e (d) se não existe nenhuma função digestiva (one-way function), a criptografia padrão é intrapolinomial ao invés de superpolinomial.
 

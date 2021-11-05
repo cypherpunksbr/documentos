@@ -2,7 +2,7 @@
 title:  "Contratos no Ciberespaço"
 date:   2000-05-04
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:

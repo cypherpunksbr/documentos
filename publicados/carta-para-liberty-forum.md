@@ -2,18 +2,23 @@
 title:  "Carta de Ross para Liberty Forum"
 date:   2018-01-30
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Ross Ulbricht
 ---
+```
+Traduzido por: Vinicius Yaunner
+Revisado por: Cypherpunks Brasil
+```
 
 ### Ross Ulbricht
 
 Publicado originalmente na Segunda-feira, 30 de janeiro de 2018
 
 ## Carta de Ross para Liberty Forum
+===exibe no card daqui pra baixo===
 
 Oi pessoal,
 Estou sentado aqui em minha unidade habitacional na USP Florence, cercado por aço e concreto e almas perdidas, esperando a mudança controlada para a biblioteca jurídica. Já se passaram mais de quatro anos desde minha prisão. De alguma forma, vocês ainda não desistiu de mim. Eu recebo suas cartas (desculpe, não tenho tempo para responder todas elas), Lyn me diz como ela fica "bombardeada de amor" cada vez que está em seu caminho, e eu simplesmente sei que vocês são minha comunidade. São vocês que estão mantendo por mim, que não vão esquecer e ver minha situação como ela é.

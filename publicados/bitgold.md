@@ -2,7 +2,7 @@
 title:  "Bit Gold"
 date:   2005-12-29
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:

@@ -1,3 +1,18 @@
+---
+title:  "Shelling Out: As Origens do Dinheiro"
+date:   2002-01-01
+categories: 
+  - Artigo
+tags:
+  -
+author:
+  - Nick Szabo
+---
+```
+Traduzido por: Deephi
+Revisado por: Cypherpunks Brasil
+```
+
 Shelling Out: As Origens do Dinheiro
 ====================================
 
@@ -8,6 +23,7 @@ Nick Szabo
 
 Resumo
 ------
+===exibe no card daqui pra baixo===
 
 Os precursores do dinheiro, juntamente com a linguagem, permitiram os primeiros humanos modernos resolverem problemas de cooperação que outros animais não podem – incluindo problemas de altruísmo recíproco, altruísmo familiar, e a mitigação de agressão. Esses precursores compartilhavam com as moedas não fiduciárias características muito específicas – não eram meramente objetos simbólicos ou decorativos.
 

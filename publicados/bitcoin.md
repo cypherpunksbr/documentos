@@ -2,7 +2,7 @@
 title:  "Bitcoin: Um sistema de dinheiro eletrônico peer-to-peer"
 date:   2008-10-31
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:

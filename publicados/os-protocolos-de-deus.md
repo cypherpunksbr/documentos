@@ -2,19 +2,22 @@
 title:  "Os Protocolos de Deus"
 date:   1997-01-01
 categories:
-  - Biblioteca
+  - Artigo
 tags:
   -
 author:
   - Nick Szabo
 ---
-
+```
+Traduzido por: jeffeson
+Revisado por: Cypherpunks Brasil
+```
 ### Nick Szabo 
 
 <small>Originalmente publicado em 1997</small> 
 
 
-
+===exibe no card daqui pra baixo===
 
 Imagine o protocolo ideal. Teria a terceira parte mais confiável imaginável - uma entidade que está do lado de todo mundo . Todas as partes enviariam suas entradas para Deus. Deus determinaria confiavelmente os resultados e retornaria as saídas. Sendo Deus o supremo na discrição confessional, nenhum partido aprenderia mais sobre entradas das outras partes do que eles poderiam aprender com suas próprias entradas e a saída.
 

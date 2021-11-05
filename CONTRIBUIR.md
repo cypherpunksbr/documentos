@@ -45,7 +45,7 @@ O documento pode estar em qualquer idioma, incluindo o português (pt-br).
 title:  "Título do seu Documento aqui" com aspas
 date:   data da publicação no formato dia-mês-ano (exemplo: 31-10-2008) sem aspas
 categories:
-  - Biblioteca
+   -  Artigo
 author:
   -
 tags:

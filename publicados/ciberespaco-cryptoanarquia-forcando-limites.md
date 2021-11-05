@@ -2,7 +2,7 @@
 title:  "Ciberespaço, Crypto Anarquia e Forçando Limites"
 date:   1994-04-03
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:

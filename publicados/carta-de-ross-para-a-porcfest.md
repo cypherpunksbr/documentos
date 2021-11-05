@@ -2,13 +2,16 @@
 title:  "Carta de Ross para a Porcfest"
 date:   2015-07-01
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Ross Ulbricht
 ---
-
+```
+Traduzido por: Vinicius Yaunner
+Revisado por: Cypherpunks Brasil
+```
 
 ### Ross Ulbricht  
 
@@ -17,6 +20,7 @@ Enviado em julho de 2015
 
 
 _Site originario - [Free Ross Ulbricht](https://freeross.org/porcfest-letter-2015/)_
+===exibe no card daqui pra baixo===
 
 Olá Porcfest,
 

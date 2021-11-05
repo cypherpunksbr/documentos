@@ -1,16 +1,17 @@
 ---
 title:  "Por que eu escrevi o PGP"
 date:   1991-06-09
-author: 
-  - Philip R. Zimmermann
 categories: 
-  - Biblioteca
+  - Artigo
 tags:
   -
 author:
   - Philip R. Zimmermann
 ---
-
+```
+Traduzido por: Deephi
+Revisado por: Cypherpunks Brasil
+```
 ## Philip R. Zimmermann  
 ### 1991
 
@@ -20,6 +21,7 @@ Parte do _Guia do Usuário PGP_, do Original 1991 (atualizado em 1999)
 ![no puedo](https://nakamotoinstitute.org/static/img/docs/why-i-wrote-pgp/prz.jpg)
 
 > Tudo que você fizer será insignificante, mas é muito importante que você faça." -Mahatma Gandhi
+===exibe no card daqui pra baixo===
 
 É pessoal. É privado. E não é da conta de ninguém, mas é seu. Você pode estar planejando uma campanha política, discutindo seus impostos ou tendo um romance secreto. Ou você pode estar se comunicando com um dissidente político em um país repressivo. Seja o que for, você não quer que seu e-mail privado ou documentos confidenciais sejam lidos por qualquer outra pessoa. Não há nada de errado em afirmar sua privacidade. A privacidade é tão clichê quanto a Constituição.
 

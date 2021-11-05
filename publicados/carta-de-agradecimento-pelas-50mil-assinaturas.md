@@ -2,13 +2,16 @@
 title:  "Carta agradecendo pelas 50,000 assinaturas"
 date:   2018-08-08
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Ross Ulbricht
 ---
-
+```
+Traduzido por: Vinicius Yaunner
+Revisado por: Cypherpunks Brasil
+```
 
 ### Ross Ulbricht  
 
@@ -17,6 +20,7 @@ Enviado em 8 de agosto de 2018
 
 
 _Site originario - [Free Ross Ulbricht](https://freeross.org/letter-for-50k-signatures/)_
+===exibe no card daqui pra baixo===
 
 Olá a todos,
 

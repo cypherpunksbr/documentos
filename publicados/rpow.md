@@ -2,12 +2,16 @@
 title:  "RPOW – Provas de Trabalho Reutilizáveis"
 date:   2004-08-15
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Hal Finney
 ---
+```
+Traduzido por: Marcos Monteiro
+Revisado por: Cypherpunks Brasil
+```
 
 ### Hal Finney
 
@@ -19,6 +23,7 @@ Data: domingo, 15 de agosto de 2004 às 10:43:09 -07:00 (PDT)
 De: hal arroba finney ponto org ("Hal Finney")
 
 ---
+===exibe no card daqui pra baixo===
 
 Eu gostaria de convidar os membros dessa lista para testar meu novo servidor baseado em hashcash, [rpow.net].
 

@@ -2,13 +2,16 @@
 title:  "Carta de Ross para o Crypto Show"
 date:   2015-07-30
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Ross Ulbricht
 ---
-
+```
+Traduzido por: Vinicius Yaunner
+Revisado por: Cypherpunks Brasil
+```
 
 ### Ross Ulbricht 
 
@@ -16,6 +19,7 @@ author:
 Enviado terça-feira,30 de julho de 2015
 
 _Site originario - [Free Ross Ulbricht](https://freeross.org/crypto-show-letter-2015/)_
+===exibe no card daqui pra baixo===
 
 Para todos do The Crypto Show
 

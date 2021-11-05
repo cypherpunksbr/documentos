@@ -2,7 +2,7 @@
 title:  "Detectando Gastos Duplos"
 date:   1992-11-22
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:

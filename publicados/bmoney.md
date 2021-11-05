@@ -2,17 +2,21 @@
 title:  "b-money"
 date:   1998-11-01
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Wei Dai
 ---
-
+```
+Traduzido por: OneTimePad
+Revisado por: Cypherpunks Brasil
+```
   
 ## Wei Dai  
 1 de Novembro de 1998
 
+===exibe no card daqui pra baixo===
 
 Eu estou fascinado pelo [manifesto criptoanarquista](https://cypherpunks.com.br/o-manifesto-criptoanarquista/) de Tim May. Ao contrário das comunidades tradicionalmente associadas com a palavra "anarquia", na criptoanarquia o governo não é temporariamente destruído, mas permanentemente proibido e permanentemente desnecessário. É uma comunidade onde a ameaça de violência é impotente porque a violência é impossível, e a violência é impossível porque os participantes não podem ser ligados a seus nomes reais ou localizações físicas.
 

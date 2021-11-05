@@ -2,14 +2,18 @@
 title:  "Feliz Aniversário, Bitcoin!"
 date:   2018-10-31
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Ross Ulbricht
 ---
-
+```
+Traduzido por: OneTimePad
+Revisado por: Cypherpunks Brasil
+```
 ### Ross Ulbritch
+===exibe no card daqui pra baixo===
 
 O Bitcoin está fazendo dez anos e, como muitos de nós, sinto-me como um pai orgulhoso, tendo observado o crescimento do seu potencial ao longo dos anos. Eu acho que sou o pai distante da prisão, que não pode estar lá para ajudar a criar o filho.
 

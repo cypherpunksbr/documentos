@@ -2,18 +2,26 @@
 title:  "Glossário de Contratos inteligentes"
 date:   1995-01-01
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
-  -
+  - Contratos Inteligentes
+  - Transações
+  - Smart Contract
+  - Glossario
 author:
   - Nick Szabo
 ---
+```
+Traduzido por: Yuri CW
+Revisado por: Matheus Bach, Cypherpunks Brasil
+```
 
 # **Glossário de Contratos inteligentes**
 
 **Nick Szabo**
 
 **Originalmente publicado em 1995**
+===exibe no card daqui pra baixo===
 
 _Agente_: Uma pessoa ou organização, geralmente representada por um nome verdadeiro ou nym(nick). Além disso, um programa de computador executado por, ou agindo em nome de, um agente. De maneira mais genérica, é uma combinação de um nym com um padrão de comportamento persistente, sobre a qual pode-se identificar uma reputação. Note-se que isso difere das definições legais e comerciais de "agente", mas corresponde mais precisamente ao emprego econômico e informático do termo.
 
@@ -132,5 +140,7 @@ Fluxo de caixa: A sequência esperada de pagamentos de acordo com os termos de u
 Por favor envie seus comentários para nszabo (at) law (dot) gwu (dot) edu
 
 Copyright © 1995 por Nick Szabo
+
+fonte: [szabo.best.vwh.net/smart_contracts_glossary.html](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_glossary.html)
 
 Permissão para redistribuir sem alterações aqui concedida

@@ -2,12 +2,18 @@
 title:  "O Manifesto Criptoanarquista"
 date:   1992-11-22
 categories:
-  - Biblioteca
+   -  Artigo
 tags:
   -
 author:
   - Timothy C. May
 ---
+```
+Traduzido por: OneTimePad
+Revisado por: Cypherpunks Brasil
+```
+
+===exibe no card daqui pra baixo===
 
 Cypherpunks do mundo,
 

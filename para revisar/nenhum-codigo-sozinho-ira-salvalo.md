@@ -16,6 +16,7 @@ Revisado por: Cypherpunks Brasil
 ```
 # Nenhum código sozinho irá salvá-lo
 ## William Gillis
+===exibe no card daqui pra baixo===
 
 A conferência Hackers On Planet Earth (HOPE) é há muito tempo uma das conferências de hackers mais explicitamente esquerdistas e politicamente conscientes. Ao contrário de conferências de hackers como Defcon e BlackHat, onde a atmosfera tem sido relativamente permissiva de assédio sexual, colaboradores do Estado e política reacionária, HOPE tem a reputação de ser melhor. Um pequeno posto avançado do radicalismo hacker europeu na América, HOPE melhorou lentamente; este ano, anarquistas e propaganda anarquista estavam por toda parte, as palestras apresentavam relatos de antifascistas sobre seus esforços para "doxxar" nazistas, e heróis como Chelsea Manning eram os principais palestrantes.
 

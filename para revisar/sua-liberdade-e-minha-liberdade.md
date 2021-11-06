@@ -1,12 +1,12 @@
 ---
-title:  "Sua liberdade é minha liberdade, "
+title:  "Sua liberdade é minha liberdade"
 date:   2017-14-06
 author:
   -  William Gillis
 categories:
   - Artigo
 tags:
-  - Sua liberdade é minha liberdade, 
+  - Sua liberdade é minha liberdade
   - agorismo
   - liberdade
   - anarquismo
@@ -17,7 +17,7 @@ Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
 ```
 
-# Sua liberdade é minha liberdade, 
+# Sua liberdade é minha liberdade
 ##  a premissa do anarquismo 
 
 ===exibe no card daqui pra baixo===

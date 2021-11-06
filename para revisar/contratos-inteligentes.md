@@ -1,15 +1,14 @@
+---
 title:  "Contratos Inteligentes"
 date:   1994-01-01
 author:
-
-- Nick Szabo
-  categories:
-- Artigo
-  tags:
-- Contratos Inteligentes
-- Transações
-- Smart Contract
-
+  - Nick Szabo
+categories:
+  - Artigo
+tags:
+  - Contratos Inteligentes
+  - Transações
+  - Smart Contract
 ---
 
 ```

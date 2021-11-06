@@ -2,28 +2,29 @@
 title:  "Radicais na Web"
 date:   2000-01-02
 author:
-  -  L.A. Kauffman
+  - L.A. Kauffman
 categories:
   - Artigo
 tags:
-  - Radicais na Web 
-  - liberdade
-  - anarquismo
-  - cripto-anarquismo
+  - Protesto
+  - Liberdade
+  - Anarquismo
+  - Cripto anarquismo
 ---
 ```
 Traduzido por: Vinicius Yaunner
-Revisado por: Cypherpunks Brasil
+Revisado por: Matheus Bach
 ```
 
 ## L.A. Kauffman
 
 # Radicais na Web
 
-* [GLOBALIZAÇÃO CORPORATIVA](#GLOBALIZAÇÃO-CORPORATIVA)
-* [AÇÃO DIRETA](#AÇÃO-DIRETA)
-* [ANARQUISTAS](#ANARQUISTAS)
-* [POLÍCIA E PRISÕES](#POLÍCIA-E-PRISÕES)
+* [GLOBALIZAÇÃO CORPORATIVA](#globalização-corporativa)
+* [AÇÃO DIRETA](#ação-direta)
+* [ANARQUISTAS](#anarquistas)
+* [POLÍCIA E PRISÕES](#polícia-e-prisões)
+
 ===exibe no card daqui pra baixo===
 
 Os movimentos não nascem na Internet. O reino digital não pode fornecer a centelha misteriosa que transforma uma causa obscura em uma paixão generalizada, que motiva indivíduos dispersos a agirem coletivamente.
@@ -75,3 +76,8 @@ Dos protestos contra as absolvições da polícia no assassinato de Amadou Diall
 O hip hop foi fundamental para grande parte dessa organização. Um exemplo importante é o CD "No More Prisons" do Prison Moratorium Project, lançado no final de 1999. Para uma visão geral dos esforços relacionados, leia o ensaio matizado de Angela Ard, "Rhyme and Resist: Organizing the Hip-Hop Generation".
 
 O Centro de Recursos de Ativistas da Prisão inclui estatísticas, materiais de apoio e links para grupos de ativistas. Finalmente, para obter materiais de base abrangentes sobre a "guerra contra a juventude", verifique o guia de recursos disponível no site da revista ColorLines.
+
+---
+Fonte: 
+https://web.archive.org/web/20021017041431/http://www.free-radical.org/issue2.shtml
+https://theanarchistlibrary-org.translate.goog/library/l-a-kauffman-radicals-on-the-web?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=nui

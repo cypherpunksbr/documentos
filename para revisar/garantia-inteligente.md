@@ -20,6 +20,7 @@ Revisado por: Cypherpunks Brasil
 Copyright (c) 1994 by Nick Szabo
 permissão para redistribuir sem alteração aqui concedida.
 ------------------------------------------------------------
+===exibe no card daqui pra baixo===
 
 Imagine que seu governo falisse, deixando você sem jurisdição que você e seus vizinhos fossem obrigados a cumprir para viver naquele território. O caos prevaleceria ou um arranjo novo e melhor poderia tomar o lugar do governo? Seria ainda possível, em particular, obrigar o pagamento de dívidas e responsabilidades penais?
 

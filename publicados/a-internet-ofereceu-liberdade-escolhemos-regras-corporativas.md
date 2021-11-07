@@ -12,7 +12,7 @@ tags:
 ---
 ```
 Traduzido por: Iann Zorkot
-Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
+Revisado por: C4SS, Instituto Ágora, Matheus Bach
 ```
 
 # A Internet nos Ofereceu Liberdade, Mas Nós Escolhemos a Regra Corporativa

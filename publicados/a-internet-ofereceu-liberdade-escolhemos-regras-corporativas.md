@@ -6,9 +6,9 @@ author:
 categories:
   - Artigo
 tags:
-  - A Internet nos Ofereceu Liberdade, Mas Nós Escolhemos a Regra Corporativa  
-  - tecnologia
-  - liberdade
+  - Tecnologia
+  - Liberdade
+  - Soberania
 ---
 ```
 Traduzido por: Iann Zorkot

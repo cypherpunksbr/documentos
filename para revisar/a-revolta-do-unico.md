@@ -12,7 +12,7 @@ tags:
 ---
 ```
 Traduzido por: Vinicius Yaunner, baseado na tradução do italiano pro inglês de Andy Carloff
-Revisado por: Cypherpunks Brasil
+Revisado por: K3ybladeWielder
 ```
 
 Para o camarada Carlo Molaschi com força de espírito e serenidade de pensamento
@@ -20,21 +20,21 @@ Para o camarada Carlo Molaschi com força de espírito e serenidade de pensament
 # I
 ===exibe no card daqui pra baixo===
 
-Eu não quero impor máximas morais ao meu “próximo”, nem ensinar nada a ninguém ... Deixo essa tarefa para os missionários de todas as religiões, os padres de todas as igrejas, os demagogos de todas as partes, os apóstolos de todas as idéias .
+Eu não quero impor máximas morais ao meu “próximo”, nem ensinar nada a ninguém. Deixo essa tarefa para os missionários de todas as religiões, os padres de todas as igrejas, os demagogos de todas as partes, os apóstolos de todas as idéias. 
 
-Eu só quero uivar minha rebelião extrema contra tudo que me oprime; Só quero afastar de mim tudo o que o sacerdócio religioso, socialista ou libertário quer impor à minha individualidade sem que eu tenha aceitado e desejado livremente.
+Eu só quero uivar minha rebelião extrema contra tudo que me oprime, só quero afastar de mim tudo o que o sacerdócio religioso, socialista ou libertário quer impor à minha individualidade sem que eu tenha aceitado e desejado livremente.
 
-Cavando no subterrâneo de minhas profundezas, fui capaz de penetrar no mistério do meu “eu” (emocional - espiritual - físico - instintivo); Pude descobrir minha vontade e meu poder; Pude tomar posse da minha "singularidade".
+Cavando no subterrâneo de minhas profundezas, fui capaz de penetrar no mistério do meu “eu” (emocional - espiritual - físico - instintivo). Pude descobrir minha vontade e meu poder, pude tomar posse da minha "singularidade".
 
 Os sapos dogmáticos do societarismo e os gansos do ideal coaxaram, mas seu coaxar serviu apenas para encher meu coração de embriaguez e destilar venenos em minhas palavras.
 
-A tagarelice teórica e filosófica da “sabedoria” plebéia dominante não me comove mais, assim como as demonstrações coreográficas de turbas famintas ou de pessoas que aplaudem novos Jesuses redentores não me comovem mais...
+A tagarelice teórica e filosófica da “sabedoria” plebéia dominante não me comove mais, assim como as demonstrações coreográficas de turbas famintas ou de pessoas que aplaudem novos Jesuses redentores não me comovem mais.
 
-Eu tenho uma verdade pessoal própria que não é e não pode ser uma "verdade" universal. Sou guiado por um instinto, por um sentimento, por um sonho, que são apenas a trilogia que compõe o ideal único que é a minha individualidade. Individualidade que ninguém exceto eu e meu poder pode tornar forte, livre e feliz!...
+Eu tenho uma verdade pessoal própria que não é e não pode ser uma "verdade" universal. Sou guiado por um instinto, por um sentimento, por um sonho, que são apenas a trilogia que compõe o ideal único que é a minha individualidade. Individualidade que ninguém exceto eu e meu poder pode tornar forte, livre e feliz!
 
 Não nego a ninguém a beleza de suas idéias, a força de seus sonhos e a verdade de seus pensamentos.
 
-Sei que cada um pode trancar dentro de si minas preciosas cheias de tesouros desconhecidos; Sei que onde mora um ser humano existe - ou pode haver - um mundo com todas as suas terras e mares, suas alegrias e tristezas, seu sol e estrelas, seus amores e ódios.
+Sei que cada um pode trancar dentro de si minas preciosas cheias de tesouros desconhecidos. Sei que onde mora um ser humano existe - ou pode haver - um mundo com todas as suas terras e mares, suas alegrias e tristezas, seu sol e estrelas, seus amores e ódios.
 
 Que cada ser humano trabalhe - se assim o pensa - na descoberta do seu próprio eu, na realização do seu sonho, na integração completa e no desenvolvimento pleno da sua individualidade. Todo ser humano que se descobriu e se conquistou percorre seu próprio caminho e segue seu curso livre.
 
@@ -42,17 +42,15 @@ Mas não deixe ninguém vir a mim para impor sua crença, sua vontade, sua fé e
 
 Agora sou livre...
 
-A guerra que abri contra os fantasmas terminou com a minha vitória. Agora o ciclo de uma nova guerra se abriu!
+A guerra que abri contra os fantasmas terminou com a minha vitória. Agora o ciclo de uma nova guerra se abriu! 
 
-A guerra contra a força bruta da sociedade, das pessoas, da humanidade. Contra estes terríveis e colossais monstros que não se envergonham de ousar agir contra a força única e brutal de seus mil braços monstruosos, “autorizo-me” a defender-me com todas as armas que me seja possível ousar usar : com todos aqueles meios de que tenho o poder e a capacidade de utilizar. Sem escrúpulos!
+A guerra contra a força bruta da sociedade, das pessoas, da humanidade. Contra estes terríveis e colossais monstros que não se envergonham de ousar agir contra a força única e brutal de seus mil braços monstruosos, “autorizo-me” a defender-me com todas as armas que me seja possível, ousar usar com todos aqueles meios de que tenho o poder e a capacidade de utilizar. Sem escrúpulos! 
 
 Porque eu sou aquele que realmente segue a si mesmo!
 
-Cultivo as flores do meu jardim e mato a sede nas minhas próprias fontes.
+Cultivo as flores do meu jardim e mato a sede nas minhas próprias fontes. Se para você minhas flores são venenosas e minhas águas amargas, para mim elas enchem o coração de uma alegria feroz e me dão aljavas selvagens e heróicas na carne e no espírito.
 
-Se para você minhas flores são venenosas e minhas águas amargas, para mim elas enchem o coração de uma alegria feroz e me dão aljavas selvagens e heróicas na carne e no espírito.
-
-Quando penso nas reivindicações de missionários e professores; de moralistas e educadores, tenho vontade de rir.
+Quando penso nas reivindicações de missionários e professores, de moralistas e educadores tenho vontade de rir.
 
 *Você é totalmente absurdo, oh alma perdida. Você é um pobre lunático que vive na moral (?). Você é um exagero; você anda por um caminho falso e errado. Sua ‘moral’ é feroz, seu princípio é ‘cruel’! ” Então, mais ou menos, os conhecedores "sábios" da felicidade universal querem falar comigo, os tolos gaguejantes do "bem" e do "mal", aqueles que descobriram a "verdade" e enterraram "mentiras"...*
 
@@ -78,21 +76,21 @@ Vamos deixar de lado por um momento o "egoísmo feroz do Único de Stirner" que 
 
 Portanto, aquele “não deveria” que observei anteriormente começa a significar que o individualismo DEVE ser o que ele - Carlo Molaschi - prega!
 
-E quando ele diz: “Ajuda mútua, fraternidade, amor são necessidades da vida!” (ele disse uma vez - veja a revista *Libertà*, # 7, de 1 de novembro de 1913: “Eu desprezo a solidariedade, me sinto um estranho para a humanidade”), eu respondo que embora admita que elas são uma necessidade, elas não são e não pode ser “uma realidade”! Digo isso da realidade universal e particular.
+E quando ele diz: “Ajuda mútua, fraternidade, amor são necessidades da vida!” (ele disse uma vez - veja à revista *Libertà*, # 7, de 1 de novembro de 1913: “Eu desprezo a solidariedade, me sinto um estranho para a humanidade”), eu respondo que embora admita que elas são uma necessidade, elas não são e não pode ser “uma realidade”! Digo isso da realidade universal e particular.
 
 A realidade é ódio, inimizade, guerra! Carlo Molaschi responderá: é preciso esmagar essa realidade; uma vez ele disse (veja a escrita de seu citado acima): *Não tenho necessidade de acreditar ou esperar em qualquer paraíso, ou de me iludir que minha existência tem que cooperar para abrir caminho para o progresso humano*; mas que Judas venha criar a outra “realidade” que é necessária aqui! E ainda aceitamos isso também ... mas por centenas de séculos, os profetas anunciaram essa nova “realidade”, mártires caíram, rebeldes morreram, heróis subiram na guilhotina, mas a cada dia que passa, o ódio inundações mais fortes em todo o mundo, a mania de autoridade aumenta assustadoramente em cada coração humano, as guerras se multiplicam e as "massas", as "multidões", os "proletários" - apesar das aparências ilusórias - tornam-se cada vez mais cansados, cada vez mais covardes , cada vez mais covarde.
 
 Dirá Molaschi (ver “Nós e a Missa” no número 9 do *Nichilismo*, 24 de agosto de 1920): “Nós próprios somos filhos do povo (que pai maravilhoso!), Sentimos o próprio sofrimento da missa”; ele disse uma vez (ver *Libertà* citado acima): “Vivo entre seres humanos que me parecem semelhantes; mas eu não sou como eles. Eles são refinados ou insatisfeitos; Sou inquieto, atento às rédeas da lei ”; e ele sofre sob o jugo de um hábito.
 
-Mas eu respondo: o sonho dos trabalhadores não é o meu sonho. As saudades das pessoas não são as minhas saudades, as dores da massa não são as minhas! ...
+Mas eu respondo: o sonho dos trabalhadores não é o meu sonho. As saudades das pessoas não são as minhas saudades, as dores da massa não são as minhas!
 
 Sinto a dor da minha profundidade e a amargura do que me é impossível!
 
 Uma casca de pão preto é suficiente para satisfazer a massa, mas meus desejos não podem ser satisfeitos!
 
-É verdade que Carlo Molaschi banha alegremente as mãos e diz: *A União Sindicalista Italiana é fortemente influenciada pelas nossas ideias, muitos dos seus porta-vozes são nossos camaradas, temos um jornal diário de importância nacional lido por mais de trinta e cinco mil pessoas ... Ele disse uma vez (ver Il Ribelle edição 6,* 2 de janeiro de 1915): *Os anarquistas têm estado e estão muito preocupados com o proselitismo. Conferências e documentos sobre propaganda ... apenas para convencer idiotas que nunca souberam e nunca saberão como "sentir" qualquer ideal de se chamarem anarquistas.*
+É verdade que Carlo Molaschi banha alegremente as mãos e diz: *A União Sindicalista Italiana é fortemente influenciada pelas nossas ideias, muitos dos seus porta-vozes são nossos camaradas, temos um jornal diário de importância nacional lido por mais de trinta e cinco mil pessoas ... Ele disse uma vez (ver Il Ribelle edição 6,* 2 de janeiro de 1915): *Os anarquistas têm estado e estão muito preocupados com o proselitismo. Conferências e documentos sobre propaganda, apenas para convencer idiotas que nunca souberam e nunca saberão como "sentir" qualquer ideal de se chamarem anarquistas.*
 
-—Mas eu ainda dou risadas com ceticismo desses novos entusiasmos Molaschianos, pois uma vez ele riu ceticamente quando afirmou que "anarquistas nascem e não são feitos" e que ele não ligava a mínima para o "futuro", já que ele era "livre" por ter feito para si mesmo o "propósito de sua vida".
+— Mas eu ainda dou risadas com ceticismo desses novos entusiasmos Molaschianos, pois uma vez ele riu ceticamente quando afirmou que "anarquistas nascem e não são feitos" e que ele não ligava a mínima para o "futuro", já que ele era "livre" por ter feito para si mesmo o "propósito de sua vida".
 
 Carlo Molaschi afirma (veja o comentário que fez ao texto de Vivani “I Will Be Pure”, publicado no número 5 de *Pagine Libertarie*): “... o ser humano é livre na medida em que vive em harmonia com a natureza e com o seus gostos. ” Ele disse uma vez (citando aquele “homem de gênio” “arrogante e presunçoso” que então tinha “ideias como as dele”): “Os fracos e enfermos morrem. Primeiro princípio do nosso amor pelo ser humano. Precisamos antes ajudá-los a desaparecer. ”
 
@@ -112,7 +110,7 @@ Eu fiz isso por outra razão...
 
 Eu sei o que eu queria notar em você, você poderia - pelo menos no sentido inverso - notar em mim mesmo e em todos aqueles que não são fósseis cristalizados.
 
-Mas fiz isso apenas para mostrar que é, no mínimo, ridículo afirmar que o individualismo “deveria” ser de Tucker e não de Stirner. “Deveria” ser isso e “não deveria” ser aquilo!...
+Mas fiz isso apenas para mostrar que é, no mínimo, ridículo afirmar que o individualismo “deveria” ser de Tucker e não de Stirner. “Deveria” ser isso e “não deveria” ser aquilo!
 
 No que diz respeito ao conceito negador do anarquismo, caminhamos juntos; quando o anarquismo se torna individualista, cada individualidade segue seu próprio caminho. Sim, os seres humanos evoluem!
 
@@ -122,11 +120,11 @@ E ao evoluir, nega-se agora tudo o que se afirmou ontem!
 
 E tudo bem.
 
-Mas ninguém tem a “obrigação” ou o “dever” de seguir o único caminho da nossa evolução... ou devolução!...
+Mas ninguém tem a “obrigação” ou o “dever” de seguir o único caminho da nossa evolução... Ou devolução!
 
 Porque quem acompanhou a evolução de Giovanni Papini teria acabado na igreja com ele; quem seguiu Libero Tancredi acaba no intervencionismo e no fascismo; quem segue Renzo Novatore pode um dia acabar com ele em um asilo para lunáticos - talvez um “comunista libertário”. E alguém que seguiria Carlo Molaschi pode acabar - como posso dizer? - como Carlo Molaschi vai acabar!
 
-E por isso, meu amigo, sou contra aquele “deveria” que você, na minha opinião, ainda pronuncia com tanta facilidade ...
+E por isso, meu amigo, sou contra aquele “deveria” que você, na minha opinião, ainda pronuncia com tanta facilidade...
 
 Você vê? Se devo dizer alguma coisa a esses “gostos” - que não são meus gostos - especialmente aos mais jovens - direi a eles: Cuidado, ó jovens espíritos! Cuidado com as velhas sereias! Os velhos têm ideias que não podem ser as dos jovens. Portanto, busque novamente seus eus rejeitados. Descubra você mesmo. Não se deixem ser violados! O velho Tolstoi é uma figura majestosa, inabalável e gigantesca. Mas eu teria pena de qualquer jovem que professasse as idéias deste velho!
 
@@ -150,7 +148,7 @@ Mas ainda não é verdade que a corrente "anti-sociedade" do individualismo desa
 
 Ainda há algum réprobo “selvagem”, em meio a tanta domesticidade democrática paternal, que segura a bandeira “bárbara” do individualismo anti-sociedade!
 
-Sim: ainda há alguém...
+Sim, ainda há alguém...
 
 # IV
 
@@ -178,7 +176,7 @@ Carlo Molaschi que se lançou com fúria contra o sobre-humano para jogá-lo no 
 
 Mas aposto que Carlo Molaschi sabe muito melhor do que eu o que “pode” ser - ou melhor - o que “está” escondido nisso: “quando eles não concordam”!
 
-Sim: Molaschi sabe!...
+Sim, Molaschi sabe!
 
 # VI
 

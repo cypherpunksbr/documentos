@@ -20,15 +20,15 @@ Para o camarada Carlo Molaschi com força de espírito e serenidade de pensament
 # I
 ===exibe no card daqui pra baixo===
 
-Eu não quero impor máximas morais ao meu “próximo”, nem ensinar nada a ninguém. Deixo essa tarefa para os missionários de todas as religiões, os padres de todas as igrejas, os demagogos de todas as partes, os apóstolos de todas as idéias. 
+Eu não quero impor máximas morais ao meu “próximo”, nem ensinar nada a ninguém... Deixo essa tarefa para os missionários de todas as religiões, os padres de todas as igrejas, os demagogos de todas as partes, os apóstolos de todas as idéias. 
 
-Eu só quero uivar minha rebelião extrema contra tudo que me oprime, só quero afastar de mim tudo o que o sacerdócio religioso, socialista ou libertário quer impor à minha individualidade sem que eu tenha aceitado e desejado livremente.
+Eu só quero uivar minha rebelião extrema contra tudo que me oprime; só quero afastar de mim tudo o que o sacerdócio religioso, socialista ou libertário quer impor à minha individualidade sem que eu tenha aceitado e desejado livremente.
 
-Cavando no subterrâneo de minhas profundezas, fui capaz de penetrar no mistério do meu “eu” (emocional - espiritual - físico - instintivo). Pude descobrir minha vontade e meu poder, pude tomar posse da minha "singularidade".
+Cavando no subterrâneo de minhas profundezas, fui capaz de penetrar no mistério do meu “eu” (emocional - espiritual - físico - instintivo). Pude descobrir minha vontade e meu poder; pude tomar posse da minha "singularidade".
 
 Os sapos dogmáticos do societarismo e os gansos do ideal coaxaram, mas seu coaxar serviu apenas para encher meu coração de embriaguez e destilar venenos em minhas palavras.
 
-A tagarelice teórica e filosófica da “sabedoria” plebéia dominante não me comove mais, assim como as demonstrações coreográficas de turbas famintas ou de pessoas que aplaudem novos Jesuses redentores não me comovem mais.
+A tagarelice teórica e filosófica da “sabedoria” plebéia dominante não me comove mais, assim como as demonstrações coreográficas de turbas famintas ou de pessoas que aplaudem novos Jesuses redentores não me comovem mais...
 
 Eu tenho uma verdade pessoal própria que não é e não pode ser uma "verdade" universal. Sou guiado por um instinto, por um sentimento, por um sonho, que são apenas a trilogia que compõe o ideal único que é a minha individualidade. Individualidade que ninguém exceto eu e meu poder pode tornar forte, livre e feliz!
 

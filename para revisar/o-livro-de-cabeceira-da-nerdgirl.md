@@ -15,8 +15,8 @@ Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
 ```
 
+## Trazido a você pela Santa das Causas Desesperadas, Casos Duvidosos e Aspirina Infantil 
 # O livro de cabeceira da Nerdgirl
-
 ## Ou A alegria do sexo hacker
 
 **Um breve guia do que está acontecendo aqui:**
@@ -124,6 +124,8 @@ Isso é bom. É hora de acertar os manuais. Arquitetura da Máquina (Anatomia). 
 A descoberta leva à invenção. Quando você tem os princípios, está melhor equipado para o trabalho de laboratório. Passe-me aquele ferro de soldar.
 
 Ler este livro com atenção, reservar um tempo para fazer os exercícios no final de cada capítulo e passar no exame final o levará lógica e inexoravelmente a ...
+
+# The Joy of HACKER SEX
 
 * * * *
 

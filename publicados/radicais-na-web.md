@@ -49,7 +49,7 @@ Finalmente, um guia de recursos abrangente sobre globalização corporativa pode
 
 ### AÇÃO DIRETA
 
-Nos próximos protestos do Banco Mundial / FMI A16, você pode esperar que as ruas se encham de música, arte, exuberância e bloqueios - assim como estavam em Seattle, até que a polícia começou a jogar botijões de gás na multidão.
+Nos próximos protestos do Banco Mundial / FMI A16, você pode esperar que as ruas se encham de música, arte, exuberância e bloqueios - assim como estavam em Seattle, até que a polícia começou a jogar gás na multidão.
 
 Esse estilo de protesto vigoroso deve muito ao Reclaim the Streets, um fenômeno mundial, pouco conhecido nos Estados Unidos, que nasceu há cinco anos da convergência do movimento anti-construção de estradas da Inglaterra com a cena rave underground.
 

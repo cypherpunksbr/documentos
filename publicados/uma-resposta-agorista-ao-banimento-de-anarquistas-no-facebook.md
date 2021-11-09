@@ -2,7 +2,7 @@
 title:  "Uma Resposta Agorista ao Banimento de Anarquistas no Facebook"
 date:   2020-10-06
 author:
-  - Logan M. Glitterbomb
+  - Logan Marie Glitterbomb
 categories:
   - Artigo
 tags:
@@ -20,7 +20,7 @@ Revisado por: C4SS, Instituto Ágora, Matheus Bach
 
 # Uma Resposta Agorista ao Banimento de Anarquistas no Facebook
 
-## Logan M. Glitterbomb
+## Logan Marie Glitterbomb
 
 ===exibe no card daqui pra baixo===
 

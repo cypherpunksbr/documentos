@@ -13,7 +13,7 @@ tags:
 ---
 ```
 Traduzido por: Iann Zorkot
-Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
+Revisado por: C4SS, Instituto Ágora, K3ybladeWielder
 ```
 
 # Agorismo do Mercado Branco
@@ -49,7 +49,7 @@ Então, o que é “agorismo do mercado branco”?
 
 Bem, inclui muitas das coisas que Broze já listou ao descrever o agorismo vertical: redes de intercâmbio comunitário, agricultura urbana, jardinagem, mercados de agricultores, alternativas à polícia e tecnologias descentralizadas P2P. Mas é muito mais que isso.
 
-A criptomoeda é amplamente um empreendimento no mercado branco e, no entanto, é defendida como um excelente exemplo de agorismo. Os Trabalhadores Industriais do Mundo são elogiados pelo próprio Konkin como um exemplo perfeito de um sindicato agorista e, no entanto, são legalmente registrados no estado e, na maioria das vezes, se organizam dentro da lei. Sites de redes sociais descentralizados, como Minds e Steemit, fontes de energia renováveis descentralizadas, biohacking, permacultura, hackerspaces e makerspaces, programas de compartilhamento comunitário, modelos alternativos de troca, incluindo gift economies, Sistemas de Câmbio Comunitário, banco mútuo, notas trabalhistas e metais preciosos, medicamentos alternativos e complementares, educação não escolar/domiciliar, Tor, lojas gratuitas, mídia alternativa e empresas de propriedade de trabalhadores são exemplos de agorismo do mercado branco.
+A criptomoeda é amplamente um empreendimento no mercado branco e, no entanto, é defendida como um excelente exemplo de agorismo. Os Trabalhadores Industriais do Mundo são elogiados pelo próprio Konkin como um exemplo perfeito de um sindicato agorista e, no entanto, são legalmente registrados no estado e, na maioria das vezes, se organizam dentro da lei. Sites de redes sociais descentralizadas, como Minds e Steemit, fontes de energia renováveis descentralizadas, biohacking, permacultura, hackerspaces e makerspaces, programas de compartilhamento comunitário, modelos alternativos de troca, incluindo gift economies, Sistemas de Câmbio Comunitário, banco mútuo, notas trabalhistas e metais preciosos, medicamentos alternativos e complementares, educação não escolar/domiciliar, Tor, lojas gratuitas, mídia alternativa e empresas de propriedade de trabalhadores são exemplos de agorismo do mercado branco.
 
 E sim, algumas formas de agorismo do mercado branco podem se sobrepor ao agorismo do mercado cinza e podem ajudar a facilitar o agorismo do mercado negro. Afinal, a contra-economia deve trabalhar em conjunto para derrubar o controle estatal e corporativo. De fato, devemos empurrar muitos desses empreendimentos do mercado branco para ações do mercado cinza e negro, quando apropriado, como promover esses empreendimentos a serem desaprovados ou não reportar toda a renda gerada ao estado, mas não devemos excluir essas ações da contra-economia quando eles não conseguirem fazer isso.
 

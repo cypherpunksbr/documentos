@@ -13,10 +13,6 @@ author:
   - Smuggler
   - "XYZ"
   - Anarplex
-images:
-  - ../stuff/Reason_Conference_Letter_2018.jpeg
-  - "https://raw.githubusercontent.com/cypherpunksbr/a-segunda-esfera/master/capa.png"
-
 ---
 
 ```

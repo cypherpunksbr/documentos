@@ -42,4 +42,4 @@ A Internet nos ofereceu liberdade do controle corporativo, mas jogamos fora essa
 A internet nos ofereceu liberdade e nós a desperdiçamos. No entanto, a oferta ainda está lá. Está ao nosso alcance. Ainda temos a chance de lucrar com essa oferta e fazer da Internet o bastião da liberdade que foi profetizado por nossos antepassados cypherpunks e cripto-anarquistas. Será trabalhoso. Nem sempre será a transição mais fácil ou suave. Isso vai levar tempo e pesquisa. Mas dane-se caso não valha a pena no final. Então, vamos trabalhar criando a Internet que ansiamos ver.
 
 ---
-Fonte: https://c4ss.org/content/53687
+Fonte: https://c4ss.org/content/53608

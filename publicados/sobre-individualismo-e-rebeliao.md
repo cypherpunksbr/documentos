@@ -81,6 +81,4 @@ A maioria deles ainda está entre a ralé que diz: “O ser humano não conta. E
 Eu nego o direito de me julgar a todos aqueles que não entendem a voz dos meus anseios, o uivo das minhas necessidades, os voos do meu espírito, a tristeza da minha mente, a emoção das minhas ideias e a angústia do meu pensamento. Mas só eu entendo tudo isso. Você quer me julgar? Está bem então! Mas você nunca vai julgar meu verdadeiro eu. Em vez disso, você julgará o “eu” que você mesmo inventou. Quando você acreditar que me tem entre os dedos para me esmagar, estarei lá em cima, rindo à distância.
 
 ---
-Fonte: 
-- https://sites.google.com/site/anarchyinitaly/renzo-novatore/of-individualism-and-rebellion
-- https://theanarchistlibrary.org/library/renzo-novatore-of-individualism-and-rebellion
+Fonte: (Of Individualism and Rebelion - Renzo Novatore)[http://www.revoltlib.com/anarchism/of-individualism-and-rebellion/view.php]

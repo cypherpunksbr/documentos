@@ -13,6 +13,8 @@ tags:
 Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
 ```
+**Nota do Tradutor:**
+Decidi traduzir esse discurso para que possam entender que não é de hoje que a polícia está disposta a fazer o que for necessário para capturar anarquistas, mesmo os mais pacíficos. 
 
 # Eu sou uma anarquista
 ## Lucy Parsons

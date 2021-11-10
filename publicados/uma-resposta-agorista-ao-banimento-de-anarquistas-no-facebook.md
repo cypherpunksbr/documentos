@@ -39,3 +39,5 @@ Então, vamos aproveitar essa oportunidade para fazer a bola rolar um pouco mais
 ##### Notas do Tradutor:
 
 * ‘Yeeting’ é uma gíria gringa que, bem…, nem os gringos sambem definir muito bem o que ela significa rs…
+
+Fonte: (An Agorist Response to Facebook Banning Anarchists - Logan Marie Glitterbomb)[https://c4ss.org/content/53443]

@@ -13,13 +13,12 @@ tags:
 ---
 ```
 Traduzido por: Iann Zorkot
-Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
+Revisado por: C4SS, Instituto Ágora, Vinicius Yaunner
 ```
 
 # Agorismo do Mercado Verde
 ## Logan Marie Glitterbomb
 
-![banner](https://miro.medium.com/max/700/1*BuZoy2dJDT_Ssq6Xa16TvA.jpeg)
 ===exibe no card daqui pra baixo===
 
 A teoria agorista foi muito enriquecida desde que Samuel Edward Konkin III introduziu a teoria inicial. Por meio dos escritos e do trabalho de visionários como Karl Hess, Ross Ulbricht, Satoshi Nakamoto, Defense Distributed e Derrick Broze, vimos o agorismo crescer e se expandir de maneiras nunca imaginadas possíveis, tanto intelectualmente quanto na prática. E a prática continuará a crescer e se adaptar conforme o tempo passa, as circunstâncias mudam, novas tecnologias surgem, etc., como deve ser.
@@ -45,3 +44,4 @@ De repente, essas perguntas se tornam mais fáceis de responder e podemos começ
 2. Do original “Greenwashing”, é um neologismo derivado das palavras green (verde) e whitewash (branquear ou encobrir), utilizado para indicar o uso de técnicas de marketing e relações públicas para expressar uma falsa preocupação de empresas, governos ou pessoas com o meio ambiente.
 
 
+Fonte: (Green Market Agorism - Logan Marie Glitterbomb)[https://c4ss.org/content/51920]

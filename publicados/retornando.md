@@ -11,7 +11,7 @@ tags:
   - Libertarianismo
 ---
 ```
-Traduzido por: Vinicius Yaunner (baseado na tradução do italiano pro inglês de Andy Carloff)
+Traduzido por: Vinicius Yaunner, baseado na tradução do italiano pro inglês de Andy Carloff
 Revisado por: Matheus Bach
 ```
 # Retornando
@@ -35,6 +35,4 @@ Saudações a vocês, verdadeiros anarquistas!
 Saudações a vocês, irmãos humanos!
 
 ---
-Fonte:
-www.scribd.com/doc/19528887/Renzo-Novatore-Returning (deletado 🤔)
-https://theanarchistlibrary.org/library/renzo-novatore-returning
+Fonte: (Returning - Renzo Novatore)[http://www.revoltlib.com/anarchism/returning/view.php]

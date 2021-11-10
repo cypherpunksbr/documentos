@@ -13,7 +13,7 @@ tags:
 ---
 ```
 Traduzido por: Iann Zorkot
-Revisado por: C4SS, Instituto Ágora, K3ybladeWielder
+Revisado por: C4SS, Instituto Ágora, K3ybladeWielder, VInicius Yaunner
 ```
 
 # Agorismo do Mercado Branco
@@ -21,7 +21,7 @@ Revisado por: C4SS, Instituto Ágora, K3ybladeWielder
 ## Logan Marie Glitterbomb
 ===exibe no card daqui pra baixo===
 
-Dentro de qualquer movimento político definido para mudar radicalmente a sociedade, sempre surge um debate sobre a melhor forma de atingir esses objetivos. Devemos nos unir para uma greve geral? Devemos nos retirar do sistema predominante vivendo de recursos abandonados, roubados e fraudados, à moda do clássico CrimethInc. propaganda? Devemos construir cooperativas e coletivos no espírito do comunismo empreendedor? Devemos seguir o caminho da propaganda pelo fato e começar a explodir prédios do governo e assassinar políticos? Que tal uma combinação dos itens acima?
+Dentro de qualquer movimento político definido para mudar radicalmente a sociedade, sempre surge um debate sobre a melhor forma de atingir esses objetivos. Devemos nos unir para uma greve geral? Devemos nos retirar do sistema predominante vivendo de recursos abandonados, roubados e fraudados, à moda do clássico (CrimethInc)[https://crimethinc.com/languages/portugu%C3%AAs-brasileiro]. propaganda? Devemos construir cooperativas e coletivos no espírito do comunismo empreendedor? Devemos seguir o caminho da propaganda pelo fato e começar a explodir prédios do governo e assassinar políticos? Que tal uma combinação dos itens acima?
 
 Bem, o agorismo parece ser exatamente essa combinação. Combinando elementos de ilegalismo, teoria do poder dual, secessão econômica, sindicalismo e anticapitalismo de livre mercado (mas sem muitos dos extremos da propaganda pelo ato), o agorismo propõe uma estratégia de utilização da contra-economia como forma de alcançar uma sociedade anarquista. Mas o que é contra-economia?
 
@@ -60,3 +60,5 @@ Só porque não é um mercado cinza ou negro, não significa que não é contra-
 ---
 
 Notas do Tradutor: 1. Note que o autor diferencia “contra-economia” e “contra-Economia”. Contra-economia com “e” minúsculo refere-se ao estudo, Contra-Economia com “E” maiúsculo refere-se a prática.
+
+Fonte: (White Market Agorism - Logan Marie Glitterbomb)[https://c4ss.org/content/52568]

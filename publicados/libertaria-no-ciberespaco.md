@@ -6,7 +6,7 @@ categories:
 tags:
   -
 author:
-  - Tim May
+  - Timothy C. May
 ---
 ```
 Traduzido por: OneTimePad 

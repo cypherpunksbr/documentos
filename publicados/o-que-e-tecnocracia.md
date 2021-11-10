@@ -78,4 +78,4 @@ Disponível originalmente no livro “How to Opt-Out the Technocratic State” (
 1. É importante ressaltar que esse texto foi escrito no começo de 2020, ou seja, antes da pandemia do Sars-COV-2. Não é difícil notar que as medidas de vigilância e opressão citadas por Broze aumentaram em níveis astronômicos a partir do surto do vírus. Usar a doença para aumentar o monitoramento foi a desculpa perfeita, mas como o próprio autor comentou, o resultado é sempre o mesmo: perda das liberdades individuais e controle centralizado.
 
 ---
-Fonte: https://medium.com/@elliot_vreeland/o-que-%C3%A9-tecnocracia-259c917f6487
+Fonte: BROZE, Derrick; How to Opt-Out of the Technocratic State - 21/01/2020

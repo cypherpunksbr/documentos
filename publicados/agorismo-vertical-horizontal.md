@@ -5,14 +5,13 @@ author:
   - Derrick Broze
 categories:
   - Artigo
-tags:
-  - Agorismo Vertical & Horizontal  
+tags:  
   - agorismo
   - contra-economia
 ---
 ```
 Traduzido por: Iann Zorkot
-Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
+Revisado por: C4SS, Instituto Ágora, Vinicius Yaunner
 ```
 
 # Agorismo Vertical & Horizontal
@@ -21,7 +20,7 @@ Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
 
 > “À medida que mais pessoas rejeitam as mistificações do Estado - nacionalismo, pseudo-economia, falsas ameaças e promessas políticas traídas - a Contra-Economia cresce tanto vertical quanto horizontalmente. Horizontalmente, envolve mais e mais pessoas que direcionam cada vez mais suas atividades para a contra-economia; verticalmente, significa que novas estruturas (negócios e serviços) crescem especificamente para servir a Contra-Economia (links de comunicação seguros, árbitros, seguro para atividades especificamente "ilegais", formas iniciais de tecnologia de proteção e até mesmo guardas e protetores). Eventualmente, o "subterrâneo" irrompe no terreno onde a maioria das pessoas são agoristas, poucos são estatistas e a fiscalização do estado mais próxima não pode esmagá-los efetivamente."
 
-- SEK III, Agorismo Aplicado, Uma Cartilha Agorista.
+- SEK III, Agorismo Aplicado, (Uma Cartilha Agorista)[https://drive.google.com/file/d/1I4flLRd--FCPFOXWQ5TxBZCtClPoK_WE/view].
 
 Vamos dar uma olhada em dois tipos diferentes de ação contra-econômica que são aplicáveis a uma variedade de indivíduos em uma variedade de situações de vida. Eu me refiro a essas estratégias como Agorismo Vertical e Horizontal. Estamos trabalhando com duas definições complementares de horizontal e vertical que explicam melhor o “como fazer” da filosofia agorista. Essas definições foram tiradas da citação acima de Samuel Konkin III e do economista austríaco sueco Per Bylund e seu ensaio de 2006, A Strategy for Forcing the State Back. Vamos comparar as definições e ver como elas podem fornecer um caminho para o contra-economista curioso.
 
@@ -59,3 +58,6 @@ Notas do Tradutor:
 1. IRS é o equivalente americano à Receita Federal
 
 2. É discutível se atividades que não são de Mercado Negro ou Cinza possam ser consideradas contra-econômicas ou não. Para uma opinião diferente da desse autor, recomendo a leitura do artigo Agorismo do Mercado Branco, de Logan Marie Glitterbomb.
+
+Fonte: (Vertical and Horizontal Agorism - Derrick Broze)[https://theconsciousresistance.com/vertical-horizontal-agorism/]
+(YouTube Video | Vertical and Horizontal Agorism - Derrick Broze)[https://youtu.be/zrlW1M_5_Kg]

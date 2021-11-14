@@ -5,8 +5,8 @@ categories:
   - Livro
 tags:
   - Autonomia
-  - Cripto Anarquia
-  - Contra-cultura
+  - criptoanarquia
+  - contra-cultura
   - Sobrevivencialismo
   - Segurança
 author:

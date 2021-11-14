@@ -9,7 +9,7 @@ tags:
   - Protesto
   - Liberdade
   - Anarquismo
-  - Cripto anarquismo
+  - criptoanarquia
 ---
 ```
 Traduzido por: Vinicius Yaunner

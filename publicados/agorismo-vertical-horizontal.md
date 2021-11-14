@@ -59,5 +59,7 @@ Notas do Tradutor:
 
 2. É discutível se atividades que não são de Mercado Negro ou Cinza possam ser consideradas contra-econômicas ou não. Para uma opinião diferente da desse autor, recomendo a leitura do artigo Agorismo do Mercado Branco, de Logan Marie Glitterbomb.
 
-Fonte: (Vertical and Horizontal Agorism - Derrick Broze)[https://theconsciousresistance.com/vertical-horizontal-agorism/]
-(YouTube Video | Vertical and Horizontal Agorism - Derrick Broze)[https://youtu.be/zrlW1M_5_Kg]
+Fonte: 
+[Vertical and Horizontal Agorism - Derrick Broze](https://theconsciousresistance.com/vertical-horizontal-agorism/)
+
+[YouTube Video | Vertical and Horizontal Agorism - Derrick Broze](https://youtu.be/zrlW1M_5_Kg)

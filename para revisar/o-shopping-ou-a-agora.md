@@ -6,7 +6,6 @@ author:
 categories:
   - Artigo
 tags:
-  - O Shopping ou a Ágora
   - agorismo
 ---
 ```
@@ -64,3 +63,5 @@ Essas três mudanças não são panacéias, há problemas profundos e mais amplo
 A ágora sempre foi um local fecundo para anarquistas. O mercado, um local para construir alternativas prefigurativas e mobilizar resistência. Vendendo burritos e tamales ao lado de organizadores do IWW gritando em caixas de palestra sobre a última greve. Permitimos que as preocupações simplistas da classe média com o “consumismo” afastassem o espírito lumpen reflexivo da pressa.
 
 Enquanto os anarquistas continuarem a temer os mercados, vamos nos encerrar em hipocrisias tensas que dão cobertura a dinâmicas problemáticas e reforçam o poder institucional.
+
+Fonte: [The Mall or the Agora?](https://c4ss.org/content/51801)

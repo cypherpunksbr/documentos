@@ -6,9 +6,9 @@ author:
 categories:
   - Artigo
 tags:
-  - William Gillis  
   - FOSS
   - tecnologia
+  - comunidade
 ---
 ```
 Traduzido por: Vinicius Yaunner
@@ -49,3 +49,6 @@ Embora eu compreenda o apego que muitas pessoas têm aos Códigos de Conduta em 
 Um Código de Conduta não é uma panacéia. Nem tudo o que é notório cairá perfeitamente sob ele. Nenhum código de comportamento claramente mensurável, seja um CoC ou o NAP ou alguma Constituição, jamais nos fornecerá tudo de que precisamos. O mundo real é complicado, assim como as ameaças que enfrentamos. Anarquistas e outros têm usado Pontos de Unidade por muito tempo, além de esclarecer nossos valores e motivações para que possamos pelo menos discutir situações individuais a partir do mesmo ethos inicial. A HOPE e a comunidade hacker mais ampla precisam aceitar que não existe neutralidade, que os valores são inevitáveis ​​e que ter quaisquer valores significa alguma forma de exclusão política.
 
 Defender um mundo aberto de liberdade de informação envolve necessariamente cortar e rotear nós ruins na rede. Se permitirmos que estupradores ou fascistas orgulhosos e delatores invadam nossos espaços, expulsamos quase todo mundo. Se não conseguirmos resistir aos fascistas, seremos funcionalmente cúmplices de suas campanhas e aspirações.
+
+
+Fonte: [No Code Alone Will Save You](https://c4ss.org/content/51088)

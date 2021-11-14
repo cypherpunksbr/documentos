@@ -5,8 +5,7 @@ author:
   -  Alfredo M. Bonanno
 categories:
   - Artigo
-tags:
-  - Cyberpunk e tecnologia  
+tags:  
   - cyberpunk
   - tecnologia
   - transhumanismo
@@ -51,4 +50,4 @@ Existem muitas maneiras de se divertir, e a realidade virtual oferece novas e fa
 
 Mas o mundo está em outro lugar, e esse “outro” estaria longe de nosso alcance.
 
-fonte: [Cyberpunk and Technology](http://www.revoltlib.com/anarchism/cyberpunk-and-technology/view.php)
+Fonte: [Cyberpunk and Technology](http://www.revoltlib.com/anarchism/cyberpunk-and-technology/view.php)

@@ -6,8 +6,8 @@ author:
 categories:
   - Artigo
 tags:
-  - Contratos Inteligentes
-  - Transações
+  - contratos
+  - transações
   - Smart Contract
 ---
 
@@ -53,4 +53,6 @@ objectives are on pg. 123)
 [5] Perry H. Beaumont, _Fixed Income Synthetic Assets_
 
 [Artigos e ensaios mais recentes sobre contratos inteligentes e a história e o futuro dos controles comerciais e segurança.](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/index.html)
-fonte : [szabo.best.vwh.net/smart.contracts.html](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html)
+
+
+Fonte : [szabo.best.vwh.net/smart.contracts.html](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html)

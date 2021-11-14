@@ -6,7 +6,6 @@ author:
 categories:
   - Artigo
 tags:
-  - Contra-Economia Na Era Digital  
   - contra-economia
   - agorismo
   - liberdade

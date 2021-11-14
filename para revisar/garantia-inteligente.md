@@ -6,8 +6,7 @@ author:
 categories:
   - Artigo
 tags:
-  - Garantia Inteligente
-  - Transações
+  - transações
   - Smart Liens
 ---
 ```
@@ -16,6 +15,7 @@ Revisado por: Cypherpunks Brasil
 ```
 
 # Garantia Inteligente
+## Nick Szabo
 
 Copyright (c) 1994 by Nick Szabo
 permissão para redistribuir sem alteração aqui concedida.
@@ -45,3 +45,5 @@ Outras áreas importantes de responsabilidade incluem responsabilidade do consum
 Infelizmente, existem alguns perigos em que o dano máximo pode ultrapassar qualquer ônus. Uma boa regra prática aqui é que se o risco for contra um terceiro e não puder ser penhorado ou segurado, os APs não devem permitir que seja assumido. As APs que permitem que seus clientes assumam tais riscos contra terceiros não-AP arruinariam sua classificação de crédito. Um exemplo desse risco é a construção de uma usina nuclear para a qual nenhuma seguradora está disposta a apresentar cobertura de responsabilidade. Se uma planta é segura, presumivelmente deve-se ser capaz de convencer uma boa seguradora a cobrir seu potencial de danos à propriedade de terceiros.
 
 As garantias inteligentes são um elemento dos contratos inteligentes. Os contratos inteligentes irão substituir, e até mesmo proteger contra, advogados, políticos e aplicação violenta em muitas empresas e interações sociais. Eles também serão usados para projetar novas instituições de livre mercado lucrativas. Veja meu ensaio Contratos inteligentes para uma introdução aos [contratos inteligentes](/contratos-inteligentes.md).
+
+Fonte: [Smart Liens](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.liens.html)

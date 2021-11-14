@@ -6,9 +6,9 @@ author:
 categories:
   - Artigo
 tags:
-  - Rumo a uma Aliança Agorista-Sindicalista  
   - agorismo
   - organização
+  - sindicatos
 ---
 ```
 Traduzido por: Iann Zorkot
@@ -53,3 +53,5 @@ Então, por que não desafiar abertamente o capitalismo e o estado? Por que não
 [4] Na verdade, Hodgskin usava a palavra "capitalista" de forma pejorativa. Quem, provavelmente, popularizou o uso pejorativo do termo "capitalismo" foi o também defensor do livre-mercado e pai do anarquismo Pierre-Joseph Proudhon. [N.T.]
 
 [5] Konkin, Samuel, An Agorist Primer [N.A.]
+
+Fonte: [Toward an Agorist-Syndicalist Alliance](https://c4ss.org/content/45989)

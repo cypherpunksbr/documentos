@@ -6,7 +6,7 @@ author:
 categories:
   - Artigo
 tags:
-  - Como podemos reconquistar a Internet criando internets em letra minúscula  
+  - internet  
   - tecnologia
   - liberdade
 ---
@@ -52,3 +52,5 @@ Já temos o poder, os materiais e o motivo para lutar e reconquistar a Internet.
 **Nota do Tradutor:**
 
 * Infoshop é uma vitrina, banca ou centro social que serve como ponto de distribuição de informação anarquista, tipicamente na forma de livros, zines, adesivos e cartazes. Infoshops também servem como espaços de encontro e distribuição de recursos para grupos ativistas locais (Fonte: Wikipedia).
+
+Fonte: [How we can win back the Internet by creating lowercase internets](https://c4ss.org/content/53903)

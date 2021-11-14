@@ -6,7 +6,6 @@ author:
 categories:
   - Artigo
 tags:
-  - Considerações Finais sobre como Sobreviver à Distopia Digital  
   - tecnologia
   - liberdade
 ---
@@ -43,4 +42,5 @@ Eu chamo isso de Fórmula da Liberdade – uma equação simples em que seu nív
 
 Ao imaginar as respostas a essas perguntas, peço humildemente que pare um momento para considerar as consequências da apatia e da complacência. As gerações futuras nunca foram mais dependentes daqueles que vivem hoje para corrigir o curso da humanidade. Chegamos ao ponto em que as crianças estão crescendo sem a noção de um mundo sem Internet, sem smartphones e sem uma rede inteligente. Provavelmente, essas gerações não terão uma compreensão verdadeira do valor e da importância da privacidade porque estão sendo criadas em uma cultura e época em que a privacidade dificilmente é uma preocupação. À medida que a Inteligência Artificial melhora, o Smart Grid 5G entra no ar e a Internet das Coisas surge, enfrentaremos decisões difíceis em relação à privacidade. Se escolhermos ser aqueles que planejaram com antecedência, optaram por não participar e formarmos comunidades livres, podemos deixar às gerações futuras um mundo que respeita os princípios de liberdade e privacidade. Embora esteja me faltando otimismo ultimamente, acredito que ainda há tempo para lançar as bases para a Ferrovia Subterrânea Contra-Econômica e construir o mundo melhor que sabemos ser possível.
 
-Disponível originalmente no livro “How to Opt-Out the Technocratic State” (Como se Auto-Excluir do Estado Tecnocrático).
+---
+Fonte: BROZE, Derrick; How to Opt-Out of the Technocratic State - 21/01/2020

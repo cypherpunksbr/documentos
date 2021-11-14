@@ -6,7 +6,7 @@ author:
 categories:
   - Artigo
 tags:
-  - Contra-Economia Internacional  
+  - contra-economia  
   - agorismo
   - SEK3
   - liberdade

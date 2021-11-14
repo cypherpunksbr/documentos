@@ -6,7 +6,6 @@ author:
 categories:
   - Artigo
 tags:
-  - Sua liberdade é minha liberdade
   - agorismo
   - liberdade
   - anarquismo
@@ -96,3 +95,5 @@ Nosso mundo está dominado pela miopia, não apenas pelos meios, mas pelos fins.
 O anarquismo não é e nunca foi uma proclamação de que se derrubarmos um determinado estado - onde quer que a extensão desse estado seja traçada - a utopia resultará imediatamente. O anarquismo não é uma afirmação sobre a “natureza humana” ou um reflexo simplista de negação. O anarquismo ousa ver além da linguagem sufocante do poder.
 
 Anarquismo é erguer nossos olhos além de nossas preocupações imediatas e nos conectarmos uns com os outros. Vendo a mesma faísca, o mesmo furacão agitado, a mesma explosão de consciência dentro deles que reside dentro de nós. Anarquismo é o reconhecimento de que a liberdade não é reinos em guerra, mas uma rede entrelaçada e, em última análise, ininterrupta - uma única extensão de possibilidades crescendo a cada dia. O anarquismo é a compreensão de que a liberdade não tem donos. Tem apenas nascentes.
+
+Fonte: [Your Freedom Is My Freedom](http://zinelibrary.c4ss.org/media/Your%20Freedom%20Is%20My%20Freedom.pdf)

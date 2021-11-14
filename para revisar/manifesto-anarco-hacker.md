@@ -6,11 +6,11 @@ author:
 categories:
   - Artigo
 tags:
-  - Manifesto Anarco-Hacker  
   - manifesto
   - anarquismo
   - hacker
   - hackerativismo
+  - tecnologia
 ---
 ```
 Traduzido por: Vinicius Yaunner
@@ -61,6 +61,9 @@ Somos idealistas,
 Combatemos a opressão sob qualquer forma. E, claro, **hackeamos**.
 
 a(A)a **A**nônimo **A**narquista **A**ção, YourAnonCentral e outros membros do Anonymous e outros coletivos que, em vez ser mantido escondido participaram da criação deste manifesto que, em nenhum meio está ainda concluído.
+
+
+Fontes: 
 
 **Versão 0.2 2018**
 

@@ -4,7 +4,7 @@ date:   1996-01-01
 categories:
    -  Artigo
 tags:
-  - Hacking
+  - hacking
   - wired
 author:
   - Jude Milhon
@@ -139,4 +139,5 @@ Ah, isso seria revelador! Escreva-me um e-mail. Mais especificamente, escreva pa
 **Nota do tradutor:**
 * Ela morreu em 2003, espera mais coisa não. kkkkkk
 
-[The Nerdgirl's Pillow Book](https://web.archive.org/web/20051001051355/http://members.aol.com/stjude/pillowbook/index.html)  
+
+Fonte: [The Nerdgirl's Pillow Book](https://web.archive.org/web/20051001051355/http://members.aol.com/stjude/pillowbook/index.html)  

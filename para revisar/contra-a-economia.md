@@ -5,8 +5,7 @@ author:
   -  David Graeber
 categories:
   - Artigo
-tags:
-  - Contra a economia  
+tags:  
   - contra-economia
   - economia
 ---
@@ -124,3 +123,5 @@ Movimentos semelhantes foram feitos para solidificar o controle sobre a estrutur
 A teoria econômica, conforme existe, cada vez mais se assemelha a um galpão cheio de ferramentas quebradas. Isso não quer dizer que não haja ideias úteis aqui, mas fundamentalmente a disciplina existente foi projetada para resolver os problemas de outro século. O problema de como determinar a distribuição ótima de trabalho e recursos para criar altos níveis de crescimento econômico simplesmente não é o mesmo problema que enfrentamos agora: ou seja, como lidar com o aumento da produtividade tecnológica, a diminuição da demanda real de trabalho e a eficácia gestão do trabalho assistencial, sem também destruir a Terra. Isso exige uma ciência diferente. Os “microfundamentos” da economia atual são precisamente o que está impedindo isso. Qualquer ciência nova e viável terá que se basear no conhecimento acumulado do feminismo, economia comportamental, psicologia,e até mesmo a antropologia para apresentar teorias baseadas em como as pessoas realmente se comportam ou, mais uma vez, abraçar a noção de níveis emergentes de complexidade - ou, mais provavelmente, ambos.
 
 Intelectualmente, isso não será fácil. Politicamente, será ainda mais difícil. Romper o bloqueio da economia neoclássica sobre as principais instituições e seu domínio quase teológico sobre a mídia - sem mencionar todas as maneiras sutis que passou a definir nossas concepções das motivações humanas e os horizontes das possibilidades humanas - é uma perspectiva assustadora. Presumivelmente, algum tipo de choque seria necessário. O que pode ser necessário? Outro colapso no estilo de 2008? Alguma mudança política radical em um grande governo mundial? Uma rebelião global da juventude? Seja como for, livros como este - e muito possivelmente este livro - desempenharão um papel crucial.
+
+Fonte: [Against Econimics](https://www.nybooks.com/articles/2019/12/05/against-economics/)

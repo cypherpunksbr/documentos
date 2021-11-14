@@ -31,4 +31,4 @@ O governo está parado, o crescimento social é progressivo; consequentemente, c
 
 Os governos sempre defendem a "ordem estabelecida das coisas". Portanto, usamos a palavra anarquia, o aspecto negativo do governo, e a manteremos quando o estado político se fundir à comunidade social.
 
-fonte: [Anarchism - Lucy E. Parsons](https://theanarchistlibrary.org/library/lucy-e-parsons-anarchism)
+Fonte: [Anarchism - Lucy E. Parsons](https://theanarchistlibrary.org/library/lucy-e-parsons-anarchism)

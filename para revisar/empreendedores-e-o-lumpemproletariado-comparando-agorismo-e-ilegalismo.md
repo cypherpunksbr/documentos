@@ -1,5 +1,5 @@
 ---
-title:  "A Proibição Ainda Não Funciona"
+title:  "Empreendedores e o Lumpemproletariado: Comparando Agorismo e Ilegalismo"
 date:   2016-10-10
 author:
   - Logan Marie Glitterbomb
@@ -7,9 +7,7 @@ categories:
   - Artigo
 tags:
   - agorismo
-  - proibição
-  - censura
-  - organização
+  - ilegalismo
 ---
 ```
 Traduzido por: Iann Zorkot

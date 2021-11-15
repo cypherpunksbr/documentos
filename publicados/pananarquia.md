@@ -16,6 +16,7 @@ Revisado por: Vinicius Yaunner
 ```
 
 **Nota de John Zube**
+
 Esta é a versão de abril de 1998 da tradução em inglês (com correções baseadas no texto original em francês: novembro de 2001 - março de 2004 e abril de 2005, GPdB - maio de 2006, MB)
 
 No início, minha esposa e eu produzimos uma tradução aproximada. Então Adrian Falk e, talvez, sua irmã, o colocaram em uma forma melhor.

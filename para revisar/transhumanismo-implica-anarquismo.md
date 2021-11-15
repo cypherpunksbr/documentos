@@ -22,6 +22,8 @@ Revisado por: Cypherpunks Brasil
 
     Transcrição de uma palestra proferida na conferência Future Of Politics do IEET em 2015
 
+===exibe no card daqui pra baixo===
+
 Quanto mais meios pelos quais as pessoas podem agir, mais fácil se torna o ataque e mais difícil a defesa.
 
 É uma simples questão de complexidade. O atacante só precisa escolher uma linha de ataque, o defensor precisa se proteger contra todas elas. Isso não é verdade apenas para pequenas portas de exaustão térmica, é verdade em nossos ecossistemas de software hoje e em qualquer outro sistema com muitas dimensões de movimento. Complexidade - mais graus de liberdade dentro de um sistema - permite maior superfície de ataque. Quando eles podem vir não apenas de todos os pontos da bússola, mas também de cima e de baixo.

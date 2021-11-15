@@ -42,6 +42,8 @@ Botánico - Escritor - Economista
 # I
 # Prefácio
 
+===exibe no card daqui pra baixo===
+
 Um contemporâneo disse: “Se a verdade estivesse em minhas mãos, eu deveria ser cauteloso em deixá-la escapar”. Enquanto estas são talvez as palavras de um letrado, certamente são as de um egoísta.
 
 Outro escreveu: “As verdades que menos se quer ouvir são aquelas que mais devem ser mostradas”.

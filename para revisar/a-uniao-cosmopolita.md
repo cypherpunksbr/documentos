@@ -14,6 +14,7 @@ Revisado por: Cypherpunks Brasil
 ```
 
 **Nota de Vinicius Yaunner**
+===exibe no card daqui pra baixo===
 
 Esse texto é um resgate de membros de um grupo anarquista alemão que participou do início do pensamento *pan-anarquista*, o intuito dela é mostrar um ponto sobre a liberdade e o convívio pacifico de certos grupos anarquistas de movimentos distintos.
 

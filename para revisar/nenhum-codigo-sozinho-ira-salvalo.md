@@ -1,6 +1,6 @@
 ---
 title:  "Nenhum código sozinho irá salvá-lo"
-date:   1992-01-01
+date:   2018-06-29
 author:
   - William Gillis
 categories:

@@ -12,6 +12,7 @@ tags:
   - hacker
   - segurança
   - infosec
+  - tecnologia
 ---
 ```
 Traduzido por: Vinicius Yaunner

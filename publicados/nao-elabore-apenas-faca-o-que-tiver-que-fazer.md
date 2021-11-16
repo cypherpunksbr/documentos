@@ -13,7 +13,7 @@ tags:
 # Não elabore, apenas faça o que tiver que fazer
 ## Vinicius Yaunner
 
-**Esse texto não tem pretensão a nada, é apenas um desabafo e vai para onde eu estiver afim. Talvez eu atualize ele um dia, duvido que isso aconteça**
+**Esse texto não tem pretensão a nada, é apenas um desabafo e vai para onde eu estiver afim. Talvez eu atualize ele um dia, duvido que isso aconteça.**
 
 ===exibe no card daqui pra baixo===
 

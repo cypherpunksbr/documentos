@@ -753,6 +753,7 @@ Para me enviar tentativas de spear phishing, ameaças de morte em italiano [1] [
 
 apenas e-mail criptografado por favor:
 https://securityinabox.org/es/thunderbird_usarenigmail
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBFVp37MBCACu0rMiDtOtn98NurHUPYyI3Fua+bmF2E7OUihTodv4F/N04KKx

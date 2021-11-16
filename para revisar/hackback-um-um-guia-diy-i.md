@@ -782,6 +782,7 @@ JKp0XtOqGF5NH/Zdgz6t+Z8U++vuwWQaubMJTRdMTGhaRv+jIzKOiO9YtPNamHRq
 Mf2vA3oqf22vgWQbK1MOK/4Tp6MGg/VR2SaKAsqyAZC7l5TeoSPN5HdEgA7u5GpB
 D0lLGUSkx24yD1sIAGEZ4B57VZNBS0az8HoQeF0k
 =E5+y
+
 -----END PGP PUBLIC KEY BLOCK-----
 
 Se não for você, quem? Se não agora, quando?

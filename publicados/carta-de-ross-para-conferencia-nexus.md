@@ -2,24 +2,23 @@
 title:  "Carta de Ross para a Conferência Nexus"
 date:   2017-08-29
 categories: 
-   -  Artigo
-tags:
-  -
+  - Carta
 author:
   - Ross Ulbricht
 ---
+
 ```
 Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ### Ross Ulbricht
-
 Publicado originalmente em 29 de agosto de 2017
 
 ## Carta de Ross para a Conferência Nexus
-
 Terça-feira, 29 de agosto de 2017
+
 ===exibe no card daqui pra baixo===
 
 Olá a todos,

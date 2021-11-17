@@ -2,31 +2,27 @@
 title:  "Ciberespaço, Crypto Anarquia e Forçando Limites"
 date:   1994-04-03
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Ciberespaço
 author:
   - Timothy C. May
 ---
+
 ```
 Traduzido por: Steffan Diorgy 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-### Tim May
-===exibe no card daqui pra baixo===
+>Assunto: Ciberespaço, Crypto Anarquia e Forçando Limites
+>De: tcmay@netcom.com (Timothy C. May)
+>Para: cypherpunks@toad.com
+>Data: Domingo, 3 de Abril de 1994 19:16:49 -0700 (Horário de verão do pacífico)
+>Cc: tcmay@netcom.com (Timothy C. May)
 
-<pre>Assunto: Ciberespaço, Crypto Anarquia e Forçando Limites
-De: tcmay@netcom.com (Timothy C. May)
-Para: cypherpunks@toad.com
-Data: Domingo, 3 de Abril de 1994 19:16:49 -0700 (Horário de verão do pacífico)
-Cc: tcmay@netcom.com (Timothy C. May)
-</pre>
-  
-Timothy C. May
-
-#### 3 de Abril de 1994
-
+## Timothy C. May
+3 de Abril de 1994
 
 Esta mensagem aborda dois tópicos de interesse recente (para alguns), são eles:
 
@@ -43,6 +39,8 @@ Thorne passou 30 anos estudando o colapso gravitacional e os buracos negros, e f
 O ponto? Thorne descreve seu envolvimento com Carl Sagan na elaboração da física da viagem no tempo através de buracos de minhoca. Thorne teve uma epifania: por mais improvável que seja a engenharia ou o financiamento de alguma coisa, há algo de valioso a ser ganho ao examinar os limites absolutos do que é possível sem levar em conta os aspectos práticos da engenharia. Assim, ele e seus alunos analisaram as implicações de uma civilização extremamente avançada capaz de, de alguma forma, abrir a boca de um buraco de minhoca. As conclusões são fascinantes e levam a uma nova linha de pensamento sobre a estrutura do espaço-tempo.
 
 Forçar limites e ver um comportamento “ideal” é revigorante.
+
+===exibe no card daqui pra baixo===
 
 A conexão com a criptografia é esta: talvez devêssemos estar pensando mais sobre as implicações e efeitos da criptografia forte, do dinheiro digital, dos remailers ideais, etc., assumindo que certos problemas práticos que nos atormentam hoje são, ou logo serão resolvidos. Até certo ponto, já fazemos isso, como quando discutimos as misturas ideais de Chaum da mesma forma que os engenheiros discutem amplificadores operacionais ideais - uma útil abstração de comportamento no limite em que implementações menores do mundo real podem ser contrastadas.
 
@@ -99,4 +97,3 @@ Isso é suficiente para tais observações por enquanto. Acho que faz sentido te
 Espero que alguns de vocês concordem comigo.
 
 --Tim May
-

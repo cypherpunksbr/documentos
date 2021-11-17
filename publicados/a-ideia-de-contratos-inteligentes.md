@@ -41,8 +41,6 @@ Sistemas de segurança antigos terão comportamento diferente para contratos dif
 
 (Derivado de ["Formalizando e protegendo relações em redes públicas"](/formalizing-securing-relationships/), por Nick Szabo) Um [artigo relacionado discute uma linguagem](/contract-language/) formal para analisar contratos e especificar contratos inteligentes.
 
-
-
 Por favor, envie seus comentários para nszabo (at) law (dot) gwu (dot) edu Copyright © 1997 por Nick Szabo Permissão para redistribuir sem nenhuma alteração por este concedida. 
 
 ---

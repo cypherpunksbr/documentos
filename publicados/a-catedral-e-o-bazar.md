@@ -18,8 +18,7 @@ Revisado por: Cypherpunks Brasil
 [```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Eric S. Raymond
-
-###### Versão 3.0 – 2 de agosto de 2002 (Originalmente publicado em 2000)
+Versão 3.0 – 2 de agosto de 2002 (Originalmente publicado em 2000)
 
 ### Resumo
 

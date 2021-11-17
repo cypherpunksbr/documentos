@@ -2,23 +2,25 @@
 title:  "Contratos com Titular"
 date:   1997-01-01
 categories: 
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Criptografia
+  - Contratos
+  - Propriedade
 author:
   - Nick Szabo
 ---
+
 ```
-Traduzido por: OneTimePad 
+Traduzido por: Matheus Bach 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-### Nick Szabo
-
-
+## Nick Szabo
 Originalmente publicado em 1997
-===exibe no card daqui pra baixo===
 
+===exibe no card daqui pra baixo===
 
 ## Certificados de Titular
 
@@ -140,6 +142,7 @@ Meus agradecimentos a David Chaum, a Mark Miller, a Bill Frantz, a Norm Hardy e 
 
 4.  [The E distributed object language](http://www.erights.org/)
 
+Por favor, envie seus comentários para nszabo (at) law (ponto) gwu (ponto) edu Copyright © 1997, 1999 por Nick Szabo Permissão para redistribuir sem alteração por este concedida. 
 
-
-Por favor, envie seus comentários para nszabo (at) law (ponto) gwu (ponto) edu Copyright © 1997, 1999 por Nick Szabo Permissão para redistribuir sem alteração por este concedida. Fonte: [https://nakamotoinstitute.org/contracts-with-bearer/](https://nakamotoinstitute.org/contracts-with-bearer/)
+---
+Fonte: [https://nakamotoinstitute.org/contracts-with-bearer/](https://nakamotoinstitute.org/contracts-with-bearer/)

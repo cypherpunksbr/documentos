@@ -9,12 +9,16 @@ author:
   - David Friedman
 ---
 
+```
+Traduzido por: Matheus Bach 
+Revisado por: Cypherpunks Brasil
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-### David Friedman
-
-David Friedman  
+## David Friedman  
 4 de Maio de 2000
 
+===exibe no card daqui pra baixo===
 
 Nas sociedades modernas contratos são fortalecidos de duas maneiras bem diferentes: governamental, através dos tribunais, e privadamente, na maioria das vezes por reputação. Um exemplo no caso dos contratos fortalecidos por reputação, considere uma loja de departamento que garante reembolso caso você não esteja satisfeito com o produto. Se você comprou uma jaqueta do tamanho errado e sua esposa falou que roxo não combina com você, dificilmente você iria processar a loja - o valor não vale o tempo e o trabalho que você teria. Não obstante, quase todas as lojas em uma situação como essa vão, pelo menos em minha experiência, receber o produto de volta e te reembolsar - pois eles querem manter a reputação, com você e com as pessoas que você vai falar sobre o incidente, deles cumprirem promessas.
 
@@ -220,6 +224,5 @@ Portanto, em meu simples modelo, minha afirmação que diminuir o custo de busca
 12.  Uma solução para o problema é o uso de agentes de custódia por partes que compram bens valiosos no ebay.
 13.  Uma firma que viola um contrato, mas paga uma indenização de acordo com os termos especificados no contrato, não trapaceou no sentido em que estou usando os termos. Para enganar, deve violar o contrato e não pagar quaisquer danos acordados previamente ou concedidos por um árbitro previamente acordado.
 
+--
 Fonte: [http://www.daviddfriedman.com/Academic/contracts_in_%20cyberspace/contracts_in_cyberspace.htm](http://www.daviddfriedman.com/Academic/contracts_in_%20cyberspace/contracts_in_cyberspace.htm)  
-
-**Achou algum erro no artigo? Por favor, informe-nos! [Crie uma issue no GitHub](https://github.com/cypherpunksbr/cypherpunks.com.br/issues/new) aqui descrevendo o problema.**

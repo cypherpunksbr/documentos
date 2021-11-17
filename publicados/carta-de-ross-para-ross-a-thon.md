@@ -2,22 +2,22 @@
 title:  "Carta de Ross para Ross-A-Thon"
 date:   2016-12-01
 categories: 
-   -  Artigo
-tags:
-  -
+  - Carta
 author:
   - Ross Ulbricht
 ---
+
 ```
 Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-### Ross Ulbricht
-
+## Ross Ulbricht
 Publicado originalmente em 2016
 
 ## Carta de Ross para Ross-A-Thon
+
 ===exibe no card daqui pra baixo===
 
 Olá a todos,

@@ -8,7 +8,7 @@ tags:
 author:
   - Ross Ulbricht
 ---
-### Ross Ulbricht
+## Ross Ulbricht
 
 Publicado originalmente em 2017
 

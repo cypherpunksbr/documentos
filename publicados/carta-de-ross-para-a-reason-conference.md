@@ -2,23 +2,20 @@
 title:  "Carta de Ross para a Reason Conference"
 date:   2018-03-04
 categories:
-   -  Artigo
-tags:
-  -
+  - Carta
 author:
   - Ross Ulbricht
 ---
+
 ```
 Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-### Ross Ulbricht 
-
+## Ross Ulbricht 
 Enviado em 4 de março de 2018
 
-
-_Site originario - [Free Ross Ulbricht](https://freeross.org/reason-letter-2018/)_
 ===exibe no card daqui pra baixo===
 
 Olá a todos,
@@ -33,3 +30,6 @@ Ross
 _Se você ainda não assinou o pedido de clemência de Ross, pode assinar_ [aqui](https://www.change.org/p/freerosspetition-we-seek-potus-s-clemency-for-ross-ulbricht-serving-double-life-for-a-website-realdonaldtrump-free-ross).
 
 ![](../stuff/Reason_Conference_Letter_2018.jpeg)
+
+---
+Fonte: [Free Ross Ulbricht](https://freeross.org/reason-letter-2018/)

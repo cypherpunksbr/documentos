@@ -16,7 +16,9 @@ Revisado por: C4SS, Instituto Ágora, Vinicius Yaunner
 [```ver lista de contribuidores```](/about/#contribuidores)
 
 # Agorismo Vertical & Horizontal
+
 ## Derrick Broze
+
 ===exibe no card daqui pra baixo===
 
 > “À medida que mais pessoas rejeitam as mistificações do Estado - nacionalismo, pseudo-economia, falsas ameaças e promessas políticas traídas - a Contra-Economia cresce tanto vertical quanto horizontalmente. Horizontalmente, envolve mais e mais pessoas que direcionam cada vez mais suas atividades para a contra-economia; verticalmente, significa que novas estruturas (negócios e serviços) crescem especificamente para servir a Contra-Economia (links de comunicação seguros, árbitros, seguro para atividades especificamente "ilegais", formas iniciais de tecnologia de proteção e até mesmo guardas e protetores). Eventualmente, o "subterrâneo" irrompe no terreno onde a maioria das pessoas são agoristas, poucos são estatistas e a fiscalização do estado mais próxima não pode esmagá-los efetivamente."

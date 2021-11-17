@@ -2,16 +2,22 @@
 title:  "Bitcoin: Um sistema de dinheiro eletrônico peer-to-peer"
 date:   2008-10-31
 categories:
-   -  Artigo
+  -  Artigo
 tags:
-  -
+  - Bitcoin
+  - P2P
+  - Economia
+  - Tecnologia
+  - Dinheiro
 author:
   - Satoshi Nakamoto
 ---
+
 ```
 Traduzido por: Steffan Diorgy 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Satoshi Nakamoto
 31 de outubro de 2008
@@ -239,3 +245,6 @@ Propusemos um sistema para transações eletrônicas sem depender da confiança.
 7.  R.C. Merkle, ["Protocols for public key cryptosystems,"](http://nakamotoinstitute.org/public-key-cryptosystems.pdf) In _Proc. 1980 Symposium on Security and Privacy_, IEEE Computer Society, pages 122-133, April 1980. [↩](#ref7 "Jump back to [7]")
 
 8.  W. Feller, ["An introduction to probability theory and its applications,"](http://nakamotoinstitute.org/introduction-probability-theory-vol-i.pdf) 1957. [↩](#ref8 "Jump back to [8]")
+
+---
+Fonte: https://bitcoin.org/bitcoin.pdf

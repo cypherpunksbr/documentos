@@ -2,7 +2,7 @@
 title:  "Auditoria Confidencial"
 date:   1998-01-01
 categories:
-  -  Artigo
+  - Artigo
 tags:
   - Privacidade
   - Auditoria

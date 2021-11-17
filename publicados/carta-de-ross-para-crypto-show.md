@@ -2,23 +2,20 @@
 title:  "Carta de Ross para o Crypto Show"
 date:   2015-07-30
 categories:
-   -  Artigo
-tags:
-  -
+  - Carta
 author:
   - Ross Ulbricht
 ---
+
 ```
 Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-### Ross Ulbricht 
-
-
+## Ross Ulbricht 
 Enviado terça-feira,30 de julho de 2015
 
-_Site originario - [Free Ross Ulbricht](https://freeross.org/crypto-show-letter-2015/)_
 ===exibe no card daqui pra baixo===
 
 Para todos do The Crypto Show
@@ -37,3 +34,6 @@ Ross
 _Se você ainda não assinou o pedido de clemência de Ross, pode assinar_ [aqui](https://www.change.org/p/freerosspetition-we-seek-potus-s-clemency-for-ross-ulbricht-serving-double-life-for-a-website-realdonaldtrump-free-ross).
 
 ![](../stuff/Letter_crypto-fundraiser.jpg)
+
+---
+Fonte: [Free Ross Ulbricht](https://freeross.org/crypto-show-letter-2015/)

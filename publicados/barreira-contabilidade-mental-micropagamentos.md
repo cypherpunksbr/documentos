@@ -2,7 +2,7 @@
 title:  "A barreira da contabilidade mental aos micropagamentos"
 date:   1996-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
   - Economia
   - Micropagamentos
@@ -18,7 +18,7 @@ Revisado por: Cypherpunks Brasil
 
 ## Nick Szabo  
 
-###### Copyright (c) 1996 por Nick Szabo - permissão para redistribuir sem alteração ora concedida
+Copyright (c) 1996 por Nick Szabo - permissão para redistribuir sem alteração ora concedida
 
 ---
 

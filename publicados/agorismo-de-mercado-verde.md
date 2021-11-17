@@ -17,6 +17,7 @@ Revisado por: C4SS, Instituto Ágora, Vinicius Yaunner
 [```ver lista de contribuidores```](/about/#contribuidores)
 
 # Agorismo do Mercado Verde
+
 ## Logan Marie Glitterbomb
 
 ===exibe no card daqui pra baixo===

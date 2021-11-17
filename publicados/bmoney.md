@@ -2,16 +2,18 @@
 title:  "b-money"
 date:   1998-11-01
 categories:
-   -  Artigo
+  -  Artigo
 tags:
-  -
+  - Dinheiro
 author:
   - Wei Dai
 ---
+
 ```
 Traduzido por: OneTimePad
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
   
 ## Wei Dai  
 1 de Novembro de 1998
@@ -74,4 +76,9 @@ Após ver os lances, aqueles que deram lances na fase 2 agora podem resolver os 
 
 Cada dono de conta aceita os lances mais altos (dentre os que realmente transmitiram suas soluções a rede) em relação ao custo nominal por unidade de b-money criado, e creditam as contas dos respectivos licitantes.
 
-Fonte original: [https://nakamotoinstitute.org/b-money](https://nakamotoinstitute.org/b-money) [https://nakamotoinstitute.org/static/docs/b-money.txt](https://nakamotoinstitute.org/static/docs/b-money.txt)
+---
+Fonte:
+
+[https://nakamotoinstitute.org/b-money](https://nakamotoinstitute.org/b-money)
+
+[https://nakamotoinstitute.org/static/docs/b-money.txt](https://nakamotoinstitute.org/static/docs/b-money.txt)

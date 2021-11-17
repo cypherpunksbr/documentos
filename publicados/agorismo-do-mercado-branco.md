@@ -20,6 +20,7 @@ Revisado por: C4SS, Instituto Ágora, K3ybladeWielder, VInicius Yaunner
 # Agorismo do Mercado Branco
 
 ## Logan Marie Glitterbomb
+
 ===exibe no card daqui pra baixo===
 
 Dentro de qualquer movimento político definido para mudar radicalmente a sociedade, sempre surge um debate sobre a melhor forma de atingir esses objetivos. Devemos nos unir para uma greve geral? Devemos nos retirar do sistema predominante vivendo de recursos abandonados, roubados e fraudados, à moda do clássico (CrimethInc)[https://crimethinc.com/languages/portugu%C3%AAs-brasileiro]. propaganda? Devemos construir cooperativas e coletivos no espírito do comunismo empreendedor? Devemos seguir o caminho da propaganda pelo fato e começar a explodir prédios do governo e assassinar políticos? Que tal uma combinação dos itens acima?

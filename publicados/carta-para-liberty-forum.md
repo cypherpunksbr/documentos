@@ -2,19 +2,18 @@
 title:  "Carta de Ross para Liberty Forum"
 date:   2018-01-30
 categories:
-   -  Artigo
-tags:
-  -
+  - Carta
 author:
   - Ross Ulbricht
 ---
+
 ```
 Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-### Ross Ulbricht
-
+## Ross Ulbricht
 Publicado originalmente na Segunda-feira, 30 de janeiro de 2018
 
 ## Carta de Ross para Liberty Forum

@@ -2,17 +2,22 @@
 title:  "Bit Gold"
 date:   2005-12-29
 categories:
-   -  Artigo
+  -  Artigo
 tags:
-  -
+  - Tecnologia
+  - Dinheiro
 author:
   - Nick Szabo
 ---
-
   
-## Nick Szabo  
-29 de Dezembro de 2005
+```
+Traduzido por: OneTimePad
+Revisado por: Cypherpunks Brasil
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
+## Nick Szabo
+29 de Dezembro de 2005
 
 Há muito tempo, tive a ideia de usar ouro. O problema, em poucas palavras, é que nosso dinheiro atualmente depende [da confiança em um terceiro](http://nakamotoinstitute.org/literature/18/html/) pelo seu valor, como muitos episódios inflacionários e hiperinflacionários demonstrados durante o século XX. Da mesma forma, [a emissão de notas bancárias privadas](http://unenumerated.blogspot.com/2005/11/flying-money-brief-overview.html), embora tivesse várias vantagens e desvantagens, dependia igualmente de uma terceira parte confiável.
 
@@ -40,4 +45,5 @@ Assim, o Bit Gold não será fungível com base em uma função simples de, por 
 
 Em resumo, todo o dinheiro que a humanidade já usou foi inseguro de uma forma ou de outra. Essa insegurança se manifestou em uma ampla variedade de formas, desde a falsificação até o roubo, mas a mais perniciosa das quais provavelmente foi a inflação. O Bit Gold pode nos fornecer um dinheiro de segurança sem precedentes desses perigos. O potencial de sobrecargas de fornecimento inicialmente ocultas devido a inovações ocultas na arquitetura de máquinas é uma falha em potencial no Bit Gold, ou pelo menos uma imperfeição que os leilões iniciais e as exchanges de Bit Gold terão de resolver.
 
-Fonte original: [https://nakamotoinstitute.org/bit-gold/](https://nakamotoinstitute.org/bit-gold/)
+---
+Fonte: [https://nakamotoinstitute.org/bit-gold/](https://nakamotoinstitute.org/bit-gold/)

@@ -2,17 +2,17 @@
 title:  "O convite de Ross para se juntar a ele na meditação"
 date:   2017-06-01
 categories: 
-   -  Artigo
-tags:
-  -
+  - Artigo
 author:
   - Ross Ulbricht
 ---
-## Ross Ulbricht
 
+## Ross Ulbricht
 Publicado originalmente em 2017
 
 ## O convite de Ross para se juntar a ele na meditação
+
+===exibe no card daqui pra baixo===
 
 Em 28 de junho de 2016, um livro chegou até mim pelo correio chamado “The Mind Illuminated”. É um guia completo para estabelecer uma prática de meditação e treinar para se tornar um adepto. Comecei a ler naquele mesmo dia e comecei minha prática. Não perdi um dia desde então. Ainda não sei quem me enviou aquele livro, mas sou muito grato a eles e aos autores. Todos os dias me sento por uma hora e o peso da minha prisão desaparece. Saio de meus pensamentos e emoções e encontro um estado de alegria, tranquilidade e equanimidade. Sinto-me conectado e grato por estar vivo.
 

@@ -4,17 +4,15 @@ date:   1994-12-01
 categories:
    -  Artigo
 tags:
-  -
+  - Criptografia
+  - Ciberespaço
+  - Criptoanarquia
 author:
   - Timothy C. May
 ---
 
-
-### Timothy C. May
-
-
-#### Dezembro de 1994
-
+## Timothy C. May
+Dezembro de 1994
 
 ## Resumo Estendido
 

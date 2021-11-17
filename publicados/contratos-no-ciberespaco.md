@@ -2,15 +2,15 @@
 title:  "Contratos no Ciberespaço"
 date:   2000-05-04
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Contratos
 author:
   - David Friedman
 ---
 
 ```
-Traduzido por: Matheus Bach 
+Traduzido por: r3ck 
 Revisado por: Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)

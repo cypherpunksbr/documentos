@@ -11,7 +11,7 @@ tags:
 ---
 ```
 Traduzido por: Iann Zorkot
-Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
+Revisado por: C4SS, Instituto Ágora, Vinicius Yaunner
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 

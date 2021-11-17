@@ -12,9 +12,9 @@ author:
 Traduzido por: Steffan Diorgy 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 
-# Remailers pagos  
 <small>Hal Finney</small>  
 
 #### 28 de Outubro de 1994

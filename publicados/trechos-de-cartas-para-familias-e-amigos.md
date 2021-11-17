@@ -8,11 +8,17 @@ tags:
 author:
   - Ross Ulbricht
 ---
+```
+Traduzido por: Vinicius Yaunner
+Revisado por: Cypherpunks Brasil
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+
 ### Ross Ulbricht
 
 Publicado originalmente em 2016 a 2017
 
-## Trechos das cartas de Ross para amigos e familiares
 
 1 de julho de 2017
 

@@ -12,8 +12,9 @@ author:
 Traduzido por: Steffan Diorgy 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-# Reputação negativa  
+
 <small>Nick Szabo</small>  
 
 #### 1996  

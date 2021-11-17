@@ -14,6 +14,8 @@ tags:
 Traduzido por: Rafael Hotz e Luiz Eduardo do Ó
 Revisado por: Vinicius Yaunner
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 
 **Nota de John Zube**
 

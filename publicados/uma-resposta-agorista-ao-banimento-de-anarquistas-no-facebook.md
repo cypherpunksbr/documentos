@@ -17,8 +17,7 @@ tags:
 Traduzido por: Iann Zorkot
 Revisado por: C4SS, Instituto Ágora, Matheus Bach
 ```
-
-# Uma Resposta Agorista ao Banimento de Anarquistas no Facebook
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Logan Marie Glitterbomb
 

@@ -14,6 +14,7 @@ author:
 Traduzido por: jeffeson
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 # O Manifesto libbitcoin  
 <small>Amir Taaki  

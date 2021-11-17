@@ -12,6 +12,9 @@ author:
 Traduzido por: Steffan Diorgy, Dave Figueiredo
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+
 <small>Nick Szabo</small>
 
 #### 1999

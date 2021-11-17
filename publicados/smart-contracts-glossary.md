@@ -8,6 +8,8 @@ tags:
 author:
   - Nick Szabo
 ---
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 
 # **Glossário de Contratos inteligentes**
 

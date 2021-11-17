@@ -15,10 +15,11 @@ tags:
 Traduzido por: Vinicius Yaunner
 Revisado por: Matheus Bach
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 
 ## L.A. Kauffman
 
-# Radicais na Web
 
 * [GLOBALIZAÇÃO CORPORATIVA](#globalização-corporativa)
 * [AÇÃO DIRETA](#ação-direta)

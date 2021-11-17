@@ -12,6 +12,8 @@ author:
 Traduzido por: jeffeson
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 ### Nick Szabo 
 
 <small>Originalmente publicado em 1997</small> 

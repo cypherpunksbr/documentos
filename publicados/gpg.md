@@ -12,6 +12,7 @@ author:
 Escrito por: OneTimePad 
 Revisado por: Jefferson, Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 
 **<span style="font-size: 24px;">Tutorial GPG</span>**

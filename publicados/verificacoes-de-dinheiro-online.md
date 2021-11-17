@@ -12,11 +12,11 @@ author:
 Traduzido por: Steffan Diorgy 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 
 <style>.references{ list-style:none; text-indent: none; padding:0; margin:0; }</style>
 
-
-# Verificações de dinheiro online  
 <small>David Chaum</small>  
 
 #### 1989  

@@ -13,8 +13,9 @@ author:
 Traduzido por: Matheus Bach
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-# Títulos Seguros de Propriedade com Autoridade do Proprietário  
+
 <small>Nick Szabo</small>
 
 #### Originalmente publicado em 1998  

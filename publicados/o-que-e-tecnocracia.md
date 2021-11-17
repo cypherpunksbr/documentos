@@ -14,8 +14,8 @@ tags:
 Traduzido por: Iann Zorkot
 Revisado por: C4SS, Instituto Ágora, Matheus Bach
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-# O Que é Tecnocracia?
 
 ## Derrick Broze
 

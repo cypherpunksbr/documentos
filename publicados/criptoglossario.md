@@ -13,6 +13,8 @@ author:
 Traduzido por: OneTimePad
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 ### Timothy C. May e Eric Hughes
 
 

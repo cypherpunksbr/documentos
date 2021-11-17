@@ -12,6 +12,7 @@ author:
 Traduzido por: OneTimePad
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ===exibe no card daqui pra baixo===
 

@@ -12,9 +12,9 @@ author:
 Traduzido por: Steffan Diorgy 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 
-# Pequenas e Médias Empresas Multinacionais  
 <small>Nick Szabo</small>  
 
 #### 1993  

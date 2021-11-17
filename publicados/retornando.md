@@ -14,6 +14,9 @@ tags:
 Traduzido por: Vinicius Yaunner, baseado na tradução do italiano pro inglês de Andy Carloff
 Revisado por: Matheus Bach
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+
 # Retornando
 
 Caro “Libertario”,

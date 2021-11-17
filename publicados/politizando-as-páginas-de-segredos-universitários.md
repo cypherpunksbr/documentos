@@ -17,7 +17,6 @@ Revisado por: Vinicius Yaunner
 
 **Nota do revisor:** Esse texto é um trabalho sobre liberdade de expressão e anônima de grupos basicamente.
 
-# Politizando as Páginas de Segredos Universitários
 ## Kael Avila
 
 ===exibe no card daqui pra baixo===

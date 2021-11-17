@@ -10,6 +10,7 @@ tags:
 author:
   - Timothy C. May
 ---
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Timothy C. May
 Dezembro de 1994

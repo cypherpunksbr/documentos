@@ -15,6 +15,8 @@ author:
 Traduzido por: Matheus Bach
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 
 ## Bill St. Clair
 

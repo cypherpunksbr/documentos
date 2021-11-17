@@ -12,6 +12,7 @@ author:
 Traduzido por: OneTimePad
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ### Eric Hughes  
 <small>9 de março de 1993</small>

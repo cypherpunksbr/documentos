@@ -13,8 +13,9 @@ author:
 Traduzido por: MamãeCrypto
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-# Mensuração do Valor  
+
 <small>Nick Szabo  
 Publicado originalmente em 1997 _Uma questão crucial na economia dos custos de transação_</small>
 

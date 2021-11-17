@@ -14,6 +14,8 @@ tags:
 Traduzido por: Vinicius Yaunner
 Revisado por: Matheus Bach
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 
 # P2P, Cooperativas e a Contra-Economia
 

@@ -8,6 +8,7 @@ tags:
 author:
   - Daniel Krawisz
 ---
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 
 ### Daniel Krawisz

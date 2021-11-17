@@ -12,8 +12,8 @@ author:
 Traduzido por: Cypherpunks Brasil 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-# Micropagamentos e Custos de Transação Mental
 
 ### Nick Szabo
 

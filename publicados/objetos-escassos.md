@@ -12,9 +12,9 @@ author:
 Traduzido por: Steffan Diorgy 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 
-Objetos Escassos 
 Nick Szabo
 ================
 

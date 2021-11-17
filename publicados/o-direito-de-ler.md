@@ -12,9 +12,9 @@ author:
 Traduzido por: Steffan Diorgy 
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 
-# O direito de ler  
 <small>Richard Stallman</small>  
 
 #### Originalmente publicado em 1996  

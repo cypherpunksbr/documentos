@@ -12,6 +12,8 @@ author:
 Traduzido por: OneTimePad
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 ### Ross Ulbritch
 ===exibe no card daqui pra baixo===
 

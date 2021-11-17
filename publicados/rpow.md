@@ -12,6 +12,8 @@ author:
 Traduzido por: Marcos Monteiro
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 
 ### Hal Finney
 

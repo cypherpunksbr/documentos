@@ -12,8 +12,8 @@ author:
 Traduzido por: henur(github)
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-# Terceiros confiáveis são brechas de segurança
 
 <small>Nick Szabo</small>
 

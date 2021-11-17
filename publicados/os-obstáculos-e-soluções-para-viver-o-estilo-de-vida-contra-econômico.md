@@ -15,6 +15,7 @@ Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
+
 ## Derrick Broze
 
 ===exibe no card daqui pra baixo===

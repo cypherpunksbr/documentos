@@ -12,6 +12,8 @@ author:
 Traduzido por: Deephi
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 ## Philip R. Zimmermann  
 ### 1991
 

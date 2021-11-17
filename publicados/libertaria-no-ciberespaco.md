@@ -12,6 +12,7 @@ author:
 Traduzido por: OneTimePad 
 Revisado por: Jefferson, Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 _From: tcmay@netcom.com (Timothy C. May)_ _Subject: Libertaria in Cyberspace_ _Date: Tue, 1 Sep 92 11:42:12 PDT_
 

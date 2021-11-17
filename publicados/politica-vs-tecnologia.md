@@ -13,8 +13,8 @@ author:
 Traduzido por: OneTimePad 
 Revisado por: Jefferson, Matheus Bach
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-# Política vs Tecnologia  
 
 ## Hal Finney  
 ##### 1994

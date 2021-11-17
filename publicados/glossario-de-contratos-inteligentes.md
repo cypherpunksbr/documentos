@@ -15,6 +15,7 @@ author:
 Traduzido por: Yuri CW
 Revisado por: Matheus Bach, Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 # **Glossário de Contratos inteligentes**
 

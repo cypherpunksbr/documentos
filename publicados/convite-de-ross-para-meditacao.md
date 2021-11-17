@@ -6,6 +6,7 @@ categories:
 author:
   - Ross Ulbricht
 ---
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Ross Ulbricht
 Publicado originalmente em 2017

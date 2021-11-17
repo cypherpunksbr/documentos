@@ -6,6 +6,7 @@ categories:
 author:
   - Hal Finney
 ---
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Hal Finney
 

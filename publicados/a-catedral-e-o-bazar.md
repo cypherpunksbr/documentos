@@ -15,9 +15,9 @@ tags:
 Traduzido por: OneTimePad
 Revisado por: Cypherpunks Brasil
 ```
-[```ver lista de contribuidores```](/contribuidores)
+[```ver lista de contribuidores```](/about/#contribuidores)
 
-### Eric S. Raymond
+## Eric S. Raymond
 
 ###### Versão 3.0 – 2 de agosto de 2002 (Originalmente publicado em 2000)
 
@@ -430,3 +430,6 @@ O próximo ano deverá ser muito instrutivo e interessante.
 # 14.  Versão e Histórico de Mudanças
 
 Eu liberei a versão 1.16 no Linux Kongress, em 21 de Maio de 1997. Eu adicionei a bibliografia em 7 de Julho de 1997 na versão 1.20. Eu adicionei a anedota da Perl Conference em 18 de Novembro de 1997 na versão 1.27. Eu mudei de ``software livre" para ``código aberto" em 9 de fevereiro de 1998 na versão 1.29\. Eu adicionei ``Epílogo: Netscape Acata o Bazar!" em 10 de Fevereiro de 1998 na versão 1.31. Eu removi o gráfico de Paul Eggert sobre GPL vs. bazar em resposta aos argumentos coerentes de RMS em 28 de Julho de 1998. Eu adicionei uma correção de Brooks baseado nos Documentos Halloween em 20 de Novembro de 1998 na versão 1.40. Outros níveis de revisões incorporaram pequenas correções editoriais.
+
+---
+Fonte: http://www.catb.org/~esr/writings/cathedral-bazaar/

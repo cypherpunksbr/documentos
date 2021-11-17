@@ -6,13 +6,14 @@ author:
 categories:
   - Artigo
 tags:  
-  - agorismo
-  - contra-economia
+  - Agorismo
+  - Contra-economia
 ---
 ```
 Traduzido por: Iann Zorkot
 Revisado por: C4SS, Instituto Ágora, Vinicius Yaunner
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 # Agorismo Vertical & Horizontal
 ## Derrick Broze
@@ -59,6 +60,7 @@ Notas do Tradutor:
 
 2. É discutível se atividades que não são de Mercado Negro ou Cinza possam ser consideradas contra-econômicas ou não. Para uma opinião diferente da desse autor, recomendo a leitura do artigo Agorismo do Mercado Branco, de Logan Marie Glitterbomb.
 
+---
 Fonte: 
 [Vertical and Horizontal Agorism - Derrick Broze](https://theconsciousresistance.com/vertical-horizontal-agorism/)
 

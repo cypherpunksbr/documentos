@@ -6,15 +6,16 @@ author:
 categories:
   - Artigo
 tags:
-  - Agorismo do Mercado Branco  
-  - agorismo
-  - mercado
-  - mercado branco
+  - Mercado Branco  
+  - Agorismo
+  - Contra-economia
 ---
+
 ```
 Traduzido por: Iann Zorkot
 Revisado por: C4SS, Instituto Ágora, K3ybladeWielder, VInicius Yaunner
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 # Agorismo do Mercado Branco
 
@@ -58,7 +59,7 @@ Contra-economia é contrariar as estruturas de poder em questão. Assim, em um s
 Só porque não é um mercado cinza ou negro, não significa que não é contra-econômico e com certeza não significa que não é agorista. Já é hora de abraçarmos e discutirmos abertamente o potencial que o agorismo do mercado branco tem para ajudar nossa causa.
 
 ---
-
 Notas do Tradutor: 1. Note que o autor diferencia “contra-economia” e “contra-Economia”. Contra-economia com “e” minúsculo refere-se ao estudo, Contra-Economia com “E” maiúsculo refere-se a prática.
 
+---
 Fonte: (White Market Agorism - Logan Marie Glitterbomb)[https://c4ss.org/content/52568]

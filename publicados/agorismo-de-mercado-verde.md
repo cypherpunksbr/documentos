@@ -6,15 +6,15 @@ author:
 categories:
   - Artigo
 tags:
-  - Agorismo do Mercado Verde  
-  - agorismo
-  - mercado
-  - mercado verde
+  - Mercado Verde  
+  - Agorismo
 ---
+
 ```
 Traduzido por: Iann Zorkot
 Revisado por: C4SS, Instituto Ágora, Vinicius Yaunner
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 # Agorismo do Mercado Verde
 ## Logan Marie Glitterbomb
@@ -44,5 +44,5 @@ De repente, essas perguntas se tornam mais fáceis de responder e podemos começ
 
 2. Do original “Greenwashing”, é um neologismo derivado das palavras green (verde) e whitewash (branquear ou encobrir), utilizado para indicar o uso de técnicas de marketing e relações públicas para expressar uma falsa preocupação de empresas, governos ou pessoas com o meio ambiente.
 
-
+---
 Fonte: (Green Market Agorism - Logan Marie Glitterbomb)[https://c4ss.org/content/51920]

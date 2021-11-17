@@ -2,7 +2,7 @@
 title:  "Auditoria Confidencial"
 date:   1998-01-01
 categories:
-   -  Artigo
+  -  Artigo
 tags:
   - Privacidade
   - Auditoria
@@ -15,6 +15,7 @@ author:
 Traduzido por: jeffeson
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Nick Szabo  
 

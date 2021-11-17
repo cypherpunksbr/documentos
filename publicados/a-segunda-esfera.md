@@ -5,8 +5,8 @@ categories:
   - Livro
 tags:
   - Autonomia
-  - criptoanarquia
-  - contra-cultura
+  - Criptoanarquia
+  - Contra-cultura
   - Sobrevivencialismo
   - Segurança
 author:
@@ -19,7 +19,7 @@ author:
 Traduzido por: SparK-Cruz
 Revisado por: Matheus Bach, Cypherpunks Brasil
 ```
-[```ver lista de contribuidores```](/contribuidores)
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Smuggler e "XYZ"
 

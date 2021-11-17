@@ -12,6 +12,7 @@ author:
 Traduzido por: Marcos Monteiro
 Revisado por: Cypherpunks Brasil
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ### Hal Finney  
 19 de março de 2013
@@ -54,4 +55,5 @@ E, é claro, os movimentos no preço dos bitcoins me divertem. Eu tenho muito em
 
 Essa é a minha história. Eu sou muito sortudo no geral. Mesmo com ELA, minha vida foi muito satisfatória. Mas minha expectativa de vida é limitada. Essas discussões sobre herdar seus bitcoins são mais de interesse acadêmico. Meus bitcoins estão guardados em nosso depósito, e meus filhos entendem de tecnologia. Eu acho que estão seguros o suficiente. Estou confortável com o meu legado. [levemente editado]
 
+---
 Fonte: [https://nakamotoinstitute.org/bitcoin-and-me/](https://nakamotoinstitute.org/bitcoin-and-me/)

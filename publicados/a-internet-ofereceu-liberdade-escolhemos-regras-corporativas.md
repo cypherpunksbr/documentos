@@ -10,10 +10,12 @@ tags:
   - Liberdade
   - Soberania
 ---
+
 ```
 Traduzido por: Iann Zorkot
 Revisado por: C4SS, Instituto Ágora, Matheus Bach
 ```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 # A Internet nos Ofereceu Liberdade, Mas Nós Escolhemos a Regra Corporativa
 

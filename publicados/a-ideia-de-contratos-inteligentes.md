@@ -14,7 +14,7 @@ tags:
 Traduzido por: Ozy
 Revisado por: Cypherpunks Brasil
 ```
-[```ver lista de contribuidores```](/contribuidores)
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Nick Szabo 
 
@@ -43,4 +43,7 @@ Sistemas de segurança antigos terão comportamento diferente para contratos dif
 
 
 
-Por favor, envie seus comentários para nszabo (at) law (dot) gwu (dot) edu Copyright © 1997 por Nick Szabo Permissão para redistribuir sem nenhuma alteração por este concedida. Fonte: [https://nakamotoinstitute.org/the-idea-of-smart-contracts/](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)
+Por favor, envie seus comentários para nszabo (at) law (dot) gwu (dot) edu Copyright © 1997 por Nick Szabo Permissão para redistribuir sem nenhuma alteração por este concedida. 
+
+---
+Fonte: [https://nakamotoinstitute.org/the-idea-of-smart-contracts/](https://nakamotoinstitute.org/the-idea-of-smart-contracts/)

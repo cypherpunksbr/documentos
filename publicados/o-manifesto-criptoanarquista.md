@@ -64,6 +64,3 @@ Fonte:
 [Nakamoto Institute](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)  
 [Activism.net](https://www.activism.net/cypherpunk/crypto-anarchy.html)  
 [Cryptoanarchy.wiki](https://mailing-list-archive.cryptoanarchy.wiki/archive/1992/11/eda5e66d8aed5985d60a1fa5432c9751789b5e50dc11cf515c7dd67a511a3d78/)  
-
-Versão em vídeo:  
-[YouTube](https://www.youtube.com/watch?v=Ch8Xp1BgR48)

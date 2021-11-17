@@ -54,6 +54,11 @@ W.A.S.T.E.: Aptos, CA  | mercados negros, colapso de governos.
 Higher Power: 2^756839 | PGP Public Key: por acordo.
 ```
 
+**Versão em vídeo:**
+
+{{< htmlToRender >}}
+<iframe id="lbry-iframe" width="560" height="315" src="https://odysee.com/$/embed/o-manifesto-criptoanarquista-timothy-c/e4827e7fc0defc9617298eb65a2c5bbee6b243fb?r=6AWFiSHRX7ZYz8zPkJzrGE6Rb8JShq57" allowfullscreen></iframe>
+{{< /htmlToRender >}}
 
 Fonte:  
 [Nakamoto Institute](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)  

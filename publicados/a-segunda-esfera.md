@@ -1135,7 +1135,7 @@ Cypherpunks Brasil é uma iniciativa de proteção à privacidade e de livre ace
 
 **Nos acompanhe:**
 
-[lbry://@CypherpunksBrasil#d](lbry://@CypherpunksBrasil#d)
+[https://odysee.com/@CypherpunksBrasil](https://odysee.com/@CypherpunksBrasil)
 
 [https://cypherpunks.com.br](https://cypherpunks.com.br)
 

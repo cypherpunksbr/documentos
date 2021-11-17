@@ -45,3 +45,10 @@ Os Cypherpunks estão engajados ativamente na tarefa de manter as redes seguras 
 Para frente.
 
 Eric Hughes
+
+
+**Versão em vídeo:**
+
+{{< htmlToRender >}}
+<iframe id="lbry-iframe" width="560" height="315" src="https://odysee.com/$/embed/o-manifesto-cypherpunk-por-eric-hughes/9fd544bd69ba5205b7605812971eb739fc8b78e1?r=6AWFiSHRX7ZYz8zPkJzrGE6Rb8JShq57" allowfullscreen></iframe>
+{{< /htmlToRender >}}

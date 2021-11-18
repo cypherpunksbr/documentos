@@ -19,6 +19,8 @@ Revisado por: Cypherpunks Brasil
 
 
 ## Isis Agora Lovecruft
+===exibe no card daqui pra baixo===
+
 
 Ao longo dos anos, descobri muitas técnicas para aprender a projetar bibliotecas criptográficas tão seguras quanto possível e resistentes ao uso indevido para algumas primitivas bastante complexas, que gostaria de compartilhar na esperança de que possamos continuar a progredir o estado da arte em criptografia para maior segurança com custo reduzido para criptógrafos e engenheiros de segurança. Se o tempo permitir, espero eventualmente transformar isso em uma série de postagens.
 

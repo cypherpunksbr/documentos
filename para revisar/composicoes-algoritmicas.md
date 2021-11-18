@@ -18,6 +18,8 @@ Revisado por: Cypherpunks Brasil
 
 
 ## Isis Agora Lovecruft
+===exibe no card daqui pra baixo===
+
 
 Por muito tempo, não consegui descobrir para que servia o Twitter. Não tenho certeza se descobri isso ainda. Parece conveniente postar links para *white papers* de física e criptografia que li e, em seguida, receber um feedback fútil padrão da Internet  de pessoas de quem nunca ouvira falar.
 
@@ -46,3 +48,6 @@ python -c"import sys;[sys.stdout.write(chr(((0x7BB3+t>>11|(t>>(2|5)^(1515|42))|~
 
 x="if(t%2)else";python3 -c"[print(t>>15&(t>>(2$x 4))%(3+(t>>(8$x 11))%4)+(t>>10)|42&t>>7&t<<9,end='')for t in range(2**20)]"|aplay -c2 -r4
 ~~~
+
+---
+Fonte: [Algorithmic Compositions - Isis Agora Lovecruft](https://blog.patternsinthevoid.net/algorithmic-compositions.html)

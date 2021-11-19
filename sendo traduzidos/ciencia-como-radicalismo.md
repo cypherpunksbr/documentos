@@ -22,11 +22,11 @@ Revisado por: Cypherpunks Brasil
 
 
 **Nota do tradutor:**
-A expressão *Ciência!* no texto não é um final de frase e sim como o autor denomina pseudo-ciência e ciêncai enviesada.
+A expressão *Ciência!* no texto não é um final de frase e sim como o autor denomina pseudo-ciência e ciência enviesada.
 
 ===exibe no card daqui pra baixo===
 
-![Ciência como radicalismo](http://humaniterations.net/wp-content/uploads/2015/12/ScienceasRadicalism.png)
+![Ciência como radicalismo](/stuff/CienciaComoRadicalismo.png)
 
 Não é segredo que uma boa parte da esquerda hoje considera a ciência profundamente deselegante. Uma ligeira afinidade com ele persiste entre a maioria, mas poucos apartes de desprezo por parte dos filósofos continentais influentes no cânone esquerdista contemporâneo vêem uma resposta vigorosa e os campeões mais proeminentes da ciência continuam a ser figuras históricas datadas como Peter Kropotkin e Élisée Reclus. Na verdade, há um cheiro persistente de enfadonho tecnocrático e morte que a palavra "ciência" nunca abalou completamente. Os esquerdistas mais associados a ela tendem a ser autoritários que buscam legitimar narrativas quase fascistas ou ativistas enlouquecidos, encantados por visões açucaradas de burocracias autogeridas e o *The Meeting That Never Ends*. Para muitos que se identificam como radicais, a "ciência" aparece em nossas vidas principalmente como um lugar onde nossos vários inimigos habitualmente se refugiam para conjurar a autoridade que seus argumentos de má qualidade não conseguiam.
 

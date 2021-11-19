@@ -19,6 +19,7 @@ Revisado por: Cypherpunks Brasil
 
 
 ## Isis Agora Lovecruft
+
 ===exibe no card daqui pra baixo===
 
 Meu amigo William diz que **[todo cientista deve ser um anarquista](/todo-cientista-deve-ser-anarquista.md)**.

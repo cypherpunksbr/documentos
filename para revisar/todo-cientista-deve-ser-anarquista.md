@@ -19,6 +19,7 @@ Revisado por: Cypherpunks Brasil
 
 
 ## William Gillis
+
 ===exibe no card daqui pra baixo===
 
 

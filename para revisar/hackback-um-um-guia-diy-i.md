@@ -299,7 +299,7 @@ As ferramentas post-exploitation que eu preparei foram:
    Para farejar senhas de protocolos de texto simples como ftp e para arpspoofing. Eu queria usar o ettercap, escrito pelo próprio ALoR e NaGA do Hacking Team, mas foi difícil compilá-lo para o sistema.
 7) socat
 
-   Para um shell confortável com um pty:
+   Para um *comfortable shell* com um pty:
 
    ~~~
    my_server: socat file:`tty`,raw,echo=0 tcp-listen:my_port
@@ -641,7 +641,7 @@ A melhor ferramenta hoje em dia para entender as redes Windows é o Powerview [1
 
 1) Baixando uma lista de nomes de arquivo
 
-   Com uma conta de administrador de domínio, você pode baixar uma lista de todos os nomes de arquivos na rede com powerview:
+   Com uma conta de Domain Admin, você pode baixar uma lista de todos os nomes de arquivos na rede com powerview:
 
 ~~~
    Invoke-ShareFinderThreaded -ExcludedShares IPC$,PRINT$,ADMIN$ |

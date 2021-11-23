@@ -12,7 +12,7 @@ tags:
 ---
 ```
 Traduzido por: Vinicius Yaunner
-Revisado por: Cypherpunks Brasil
+Revisado por: k3ybladewielder
 ```
 
 # A tempestade que aproxima
@@ -43,7 +43,7 @@ Este estado de guerra foi denominado "Sociecídio". A sociedade está cada vez m
 
 A tecnologia da Internet é centrada em obter lucro dos usuários para trabalhos de baixo valor (clicar em anúncios). Isso leva a enormes operações de coleta de dados e à construção de uma megamáquina de vigilância. Isso incentiva a docilidade e o consumo, em vez de uma userhip individualizada ativa. É uma arquitetura de opressão estruturada no controle do usuário.
 
-Inteligências artificiais mais novas e melhores estão sendo constantemente aprimoradas para travar uma guerra contra a resistência e forçar as pessoas restantes em megacidades gigantes. Com a chegada das Moedas Digitais do Banco Central (CBDC) e da renda básica universal (UBI), o poder centralizado está rapidamente tentando fechar todas as arenas econômicas concorrentes. O estado corporativo busca monopolizar a vida econômica. A pontuação de crédito social da China tem sido uma experiência instrutiva que os países ocidentais procuram imitar.
+Inteligências artificiais mais novas e melhores estão sendo constantemente aprimoradas para travar uma guerra contra a resistência e forçar as pessoas restantes à megacidades gigantes. Com a chegada das Moedas Digitais do Banco Central (CBDC) e da renda básica universal (UBI), o poder centralizado está rapidamente tentando fechar todas as arenas econômicas concorrentes. O estado corporativo busca monopolizar a vida econômica. A pontuação de crédito social da China tem sido uma experiência instrutiva que os países ocidentais procuram imitar.
 
 O que resta neste mundo empobrecido é uma nova forma sinistra de fascismo e uma sociedade morta que perdeu seu tecido moral e político. Essa sociedade morta é incapaz de se auto-organizar ou agir com iniciativa. A megamáquina busca constantemente métodos inovadores para extrair óleo do solo, peixes dos oceanos e sangue vital da sociedade, mesmo quando esses recursos estão esgotados a níveis de crise.
 
@@ -61,7 +61,7 @@ No modelo corporativo clássico, você tem uma dicotomia consumidor-produtor. Es
 
 O valor de um projeto é diretamente proporcional à sua comunidade. Os tokens capturam o valor gerado por uma comunidade e circulam esse valor de volta para a própria comunidade. A capacidade dos projetos de fomentar a participação, o entusiasmo e o envolvimento é, portanto, crucial. As comunidades promovem a autonomia por meio do discurso, da negociação e da narrativa. Isso, por sua vez, leva a transformações democráticas do indivíduo, moldando-o para os valores de autogoverno e autodesenvolvimento.
 
-Em nenhum lugar essa evolução social é mais aparente do que nos DAOs. DAOs são uma nova governança primitiva que permite que forças democráticas latentes se reúnam e se organizem antes que as forças do poder e do capital possam estreitá-las ideologicamente. Isso permite a exploração de zonas de liberação não realizadas. Os usuários são partes interessadas que podem participar diretamente nas decisões de governança. Eles podem decidir sobre metas de desenvolvimento, recursos, salários, alocação de capital e investimentos.
+Em nenhum lugar essa evolução social é mais aparente do que nas DAOs. DAOs são uma nova governança primitiva que permite que forças democráticas latentes se reúnam e se organizem antes que as forças do poder e do capital possam estreitá-las ideologicamente. Isso permite a exploração de zonas de liberação não realizadas. Os usuários são partes interessadas que podem participar diretamente nas decisões de governança. Eles podem decidir sobre metas de desenvolvimento, recursos, salários, alocação de capital e investimentos.
 
 O ideal da política é multiplicar os espaços públicos. A criptografia é, portanto, profundamente política. A política diz respeito à tomada de decisões relativas aos interesses coletivos da sociedade, como bem-estar, segurança e liberdade. Nesse sentido, política e democracia direta são sinônimos.
 
@@ -139,7 +139,7 @@ DarkFi é uma camada base para aplicações anônimas e contratos inteligentes q
 Veja o código aqui:
 >[github.com/darkrenaissance/darkfi](github.com/darkrenaissance/darkfi)
 
-DarkFi é um ambiente com uma linguagem para escrever contratos inteligentes de conhecimento zero. A pesquisa ainda é incipiente, mas já temos nossa testnet operacional.
+DarkFi é um ambiente com uma linguagem para escrever contratos inteligentes zero-knowledge. A pesquisa ainda é incipiente, mas já temos nossa testnet operacional.
 
 O ZK desbloqueia um espaço de design totalmente inexplorado de aplicações anônimas. Anteriormente, se você quisesse criar um aplicativo anônimo, teria que pensar em como combinar vários esquemas criptográficos existentes. Talvez fosse lento ou impossível. Mas com o ZK, temos um esquema criptográfico genérico que qualquer programador pode usar para criar aplicações anônimas.
 
@@ -180,7 +180,7 @@ O que está acontecendo ao seu redor? O que as pessoas estão fazendo? Quais sã
 
 Felizmente, fomos dotados de contra-economia agorista, não apenas como filosofia, mas como um poderoso agente de mudança. Use esse poder, faça as coisas acontecerem.
 
-Os reguladores estão vindo atrás de nós. Eles nos veem como crianças com botas grandes demais para os pés. Precisamos ser colocados de volta em nosso lugar. Eles fazem isso de fora e de dentro. Aqueles anarquistas loucos entre nós são calados, recebem olhares bizarros, são rejeitados e repreendidos por mexer na panela. Quem são essas pessoas e de onde elas vêm? Certamente, em suas gaiolas corporativas limpas, eles nunca teriam arriscado apostar no Bitcoin em 2010. No entanto, aqui estão eles se apegando ao sucesso, garantindo que as coisas sejam feitas da maneira certa.
+Os reguladores estão vindo atrás de nós. Eles nos veem como crianças com botas grandes demais para os pés. Precisamos ser colocados de volta em nosso lugar. Eles fazem isso de fora e de dentro. Aqueles anarquistas loucos entre nós são calados, recebem olhares bizarros, são rejeitados e repreendidos por agitar as coisas. Quem são essas pessoas e de onde elas vêm? Certamente, em suas gaiolas corporativas limpas, eles nunca teriam arriscado apostar no Bitcoin em 2010. No entanto, aqui estão eles se apegando ao sucesso, garantindo que as coisas sejam feitas da maneira certa.
 
 A narrativa agora é sobre preocupações triviais do primeiro mundo: GameFi, ArtFi, SocialMediaFi - o entretenimento e negócios com celebridades.
 

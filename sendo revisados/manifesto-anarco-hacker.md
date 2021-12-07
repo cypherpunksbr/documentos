@@ -30,15 +30,15 @@ Gostamos de saber como as coisas funcionam. Gostamos de inventar, modificar e me
 
 Enquanto estávamos nas revoltas de Seattle, Gênova, Berlim, Atenas e Toronto já aprendendo quem é o verdadeiro inimigo da liberdade e do livre arbítrio, percebemos que não é apenas o governo mas, capitalismo, igreja, raça, gênero, nacionalismo, imperialismo, patriarcado, etc. que são nossos inimigos. Com o tempo, nos tornamos os primeiros hacktivistas e formamos coletivos de hackers de valores anarquistas como construção de consenso, democracia direta, organização horizontal, colaboração em massa, modelos de tomada de decisão estigmáticos ou federados e / ou descentralizados. Escrevemos ferramentas de segurança, guias, tempestades de dados com o objetivo de ajudar dissidentes em todo o mundo e aqueles presos dentro das mesmas fronteiras e estruturas de Estado. Pensamos que não bastava, então criamos frentes online de hacktivistas, alguns dos quais ainda hoje crescem, e participamos de suas ações.Também descobrimos falta de experiência política com os recém-chegados, então decidimos colocar algum objetivo na educação e trabalhar com uma mentalidade crítica.
 
-Estamos cansados de sermos vítimas sem uma luta, estamos cansados de ter habilidades e não fazer bom uso delas, e para nós, bom uso não é trabalhar para você e seus cães. Agora que evoluímos, somos a insurgência. Você tem medo de nós. Você usa sua mídia estatal e corporativa para inventar mais propaganda para aterrorizar nossos camaradas em todo o mundo, mentindo sobre os defensores da liberdade, fazendo-nos parecer inimigos, impotentes ou perdidos, mas desta vez é diferente. Desta vez, somos uma legião. Nossas barricadas não são apenas em formato eletrônico, e tenha certeza de que temos mais habilidades do que qualquer um de seus cães "com fins lucrativos" que você possa ter persuadido a trabalhar para você. Mesmo agora, alguns de nós trabalham para você e depois contra você.
+Nós estamos cansados de ser vítimas sem uma luta, estamos cansados de ter habilidades e não fazer bom uso delas, e para nós, bom uso não é trabalhar para você e seus cães. Agora que evoluímos, somos a insurgência. Você tem medo de nós. Você usa sua mídia estatal e corporativa para inventar mais propaganda para aterrorizar nossos camaradas em todo o mundo, mentindo sobre os defensores da liberdade, fazendo-nos parecer inimigos, impotentes ou perdidos, mas desta vez é diferente. Desta vez, somos uma legião. Nossas barricadas não são apenas em formato eletrônico, e tenha certeza de que temos mais habilidades do que qualquer um de seus cães "com fins lucrativos" que você possa ter persuadido a trabalhar para você. Mesmo agora, alguns de nós trabalham para você e depois contra você.
 
-Não enviamos informações para seus cães da mídia sobre nossas ações, isso fica entre nós, você sabe quem somos, sabe que estamos menos do que dispostos a governar por celebridade e é isso que te assusta. Estamos determinados a derrubar seu sistema tijolo por tijolo, byte por byte, de dentro e de fora. E temos conseguido até agora. Todas as suas bases pertencem a nós. E para todos aqueles que imploram por libertação, libertem-se. Um cão que implora nunca estará livre de seu dono.
+Nós não enviamos informações para seus cães da mídia sobre nossas ações, isso fica entre nós, você sabe quem somos, sabe que estamos menos do que dispostos a governar por celebridade e é isso que te assusta. Estamos determinados a derrubar seu sistema tijolo por tijolo, byte por byte, de dentro e de fora. E temos conseguido até agora. Todas as suas bases pertencem a nós. E para todos aqueles que imploram por libertação, libertem-se. Um cão que implora nunca estará livre de seu dono.
 
 A informação deve ser gratuita e aqueles que possuem a informação e controlam o acesso a ela têm o poder e, portanto, devemos descentralizar esse poder e liberar os dados!
 
-Imaginamos todas as formas digitais de resistência, e as usamos para mostrar ao mundo que podemos vencer várias batalhas e muito mais. Para isso, não optamos por nos separar de nossos companheiros anarquistas, mas sim juntar a todos. Não nos conformamos com uma frente apenas, apoiamos todas elas. Levamos as pessoas às ruas e trazemos para o mundo eletrônico ativistas que não poderiam ter feito antes de aumentar nossos números! Diversidade de táticas e diversidade de frentes!
+Nós imaginamos todas as formas digitais de resistência, e usá-los para mostrar ao mundo que podemos vencer muitas batalhas e muito mais, por isso decidimos não para dividir a nossa auto de nossos companheiros anarquistas, mas juntar-se a todos, que não se conformam em apenas uma frente , e incentivar todas as frentes. Levamos as pessoas às ruas e trazemos para o mundo eletrônico ativistas que não poderiam ter feito antes de aumentar nossos números! Diversidade de táticas e diversidade de frentes!
 
-Acreditamos que cada indivíduo que, no estado atual das coisas, prega sobre as urnas para escolher uma autoridade está perdendo tempo e inflando um sistema capitalista horrível, nós preferimos contribuir para um novo mundo com um espírito baseado nos valores anarquistas & colaboração em massa. Por isso, a maioria de nós acredita em uma diversidade de estratégias e autonomia, não apenas trabalhando nas sombras das darknets da internet, mas também nas ruas e comunidades com outros insurgentes de todos os tipos.
+Nós acreditamos que cada indivíduo que, no estado atual das coisas, prega sobre as urnas para escolher uma autoridade está perdendo tempo e inflando um sistema capitalista horrível, nós preferimos contribuir para um novo mundo com um espírito com base nos valores anarquistas & colaboração em massa. Por isso, a maioria de nós acredita em uma diversidade de estratégias e autonomia, não apenas trabalhando nas sombras das darknets da internet, mas também nas ruas e comunidades com outros insurgentes de todos os tipos.
 
 Nossa insurgência usa uma gama diversificada de ações, dependendo do que cada um de nós decidir ser necessário e viável naquele momento e hora, todos trabalhando no que fazemos de melhor.
 
@@ -60,20 +60,19 @@ Somos idealistas,
 
 Combatemos a opressão sob qualquer forma. E, claro, **hackeamos**.
 
-a(A)a **A**nônimo **A**narquista **A**ção, YourAnonCentral, outros membros do Anonymous e outros coletivos que preferem não ser identificados participaram da criação deste manifesto que de maneira nenhuma já está pronto.
+a(A)a **A**non **A**narchist **A**ction, YourAnonCentral, outros membros do Anonymous e outros coletivos que preferem não ser identificados participaram da criação deste manifesto que de maneira nenhuma já está concluído.
 
 Fontes: 
 
 **Versão 0.2 2018**
 
 [https://medium.com/your-anon-central/the-anarchohacker-manifesto-2018-86f1bcc9613b](https://medium.com/your-anon-central/the-anarchohacker-manifesto-2018-86f1bcc9613b)
-
-<!-- **Versão 0.1 2011**
+<!-- 
+**Versão 0.1 2011**
 
 [https://anarcho-hacker.info](https://anarcho-hacker.info)
-[http://piratepad.net/ep/pad/view/ro.CBQDMoMhLqt/rev.1999](http://piratepad.net/ep/pad/view/ro.CBQDMoMhLqt/rev.1999)
 
-        NÃO TEM ND NOS LINKS ACIMA =/                                                -->
+[http://piratepad.net/ep/pad/view/ro.CBQDMoMhLqt/rev.1999](http://piratepad.net/ep/pad/view/ro.CBQDMoMhLqt/rev.1999) -->
 
 Free Jeremy Hammond a(A)a
 

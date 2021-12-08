@@ -36,7 +36,7 @@ Nós não enviamos informações para seus cães da mídia sobre nossas ações,
 
 A informação deve ser gratuita e aqueles que possuem a informação e controlam o acesso a ela têm o poder e, portanto, devemos descentralizar esse poder e liberar os dados!
 
-Nós imaginamos todas as formas digitais de resistência, e usá-los para mostrar ao mundo que podemos vencer muitas batalhas e muito mais, por isso decidimos não para dividir a nossa auto de nossos companheiros anarquistas, mas juntar-se a todos, que não se conformam em apenas uma frente , e incentivar todas as frentes. Levamos as pessoas às ruas e trazemos para o mundo eletrônico ativistas que não poderiam ter feito antes de aumentar nossos números! Diversidade de táticas e diversidade de frentes!
+Nós imaginamos todas as formas digitais de resistência, e as usamos para mostrar ao mundo que podemos vencer várias batalhas e muito mais. Para isso, não optamos por nos separar de nossos companheiros anarquistas, mas sim reunir todos. Não nos conformamos com uma frente apenas, apoiamos todas elas. Levamos as pessoas às ruas e trazemos para o mundo eletrônico ativistas que não poderiam ter feito antes de aumentar nossos números! Diversidade de táticas e diversidade de frentes!
 
 Nós acreditamos que cada indivíduo que, no estado atual das coisas, prega sobre as urnas para escolher uma autoridade está perdendo tempo e inflando um sistema capitalista horrível, nós preferimos contribuir para um novo mundo com um espírito com base nos valores anarquistas & colaboração em massa. Por isso, a maioria de nós acredita em uma diversidade de estratégias e autonomia, não apenas trabalhando nas sombras das darknets da internet, mas também nas ruas e comunidades com outros insurgentes de todos os tipos.
 

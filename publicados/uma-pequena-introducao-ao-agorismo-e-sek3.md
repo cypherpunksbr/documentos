@@ -1,5 +1,5 @@
 ---
-title:  "Construindo um novo movimento libertário"
+title:  "Uma pequena introdução ao agorismo e ao Samuel Edward Konkin III "
 date:   2019-12-09
 author:
   -  Herman Shäd
@@ -17,7 +17,7 @@ Revisado por: Vinicius Yaunner
 
 ## Herman Shäd
 
-![/stuff/konkin-citacao.jpg](/stuff/konkin-citacao.jpg)
+![stuff/konkin-citacao.jpg](../stuff/konkin-citacao.jpg)
 
 ===exibe no card daqui pra baixo===
 

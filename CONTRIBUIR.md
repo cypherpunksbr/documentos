@@ -11,8 +11,8 @@
 - [Traduzindo Documentos para Português (pt-br)](#translate-docs-ptbr)
 - [Revisando e corrigindo Documentos já traduzidos](#review-translation)
 - Melhorando ou criando tutoriais sobre qualquer assunto relacionado ao movimento cypherpunk
-- Melhorando nosso site ```cypherpunks.com.br```
-- Divulgando o projeto Cypherpunks Brasil
+- [Melhorando nosso site cypherpunks.com.br](#website-improvements)
+- [Divulgando o projeto Cypherpunks Brasil](#spread-the-word)
 - Fazendo doações em criptomoedas ou outras formas de valor
 - Iniciando, liderando ou auxiliando a criação de novos projetos
 
@@ -94,7 +94,7 @@ Você pode traduzir qualquer documento presente na pasta [```/para traduzir/```]
 
 <div id='review-translation'/>
 
-## Revisando e corrigindo Documentos já traduzidos:
+## Revisando e corrigindo Documentos já traduzidos
 
 Você pode revisar um documento que já esteja traduzido e disponível na pasta [```/para revisar/```](para%20revisar) ou que já possua pelo menos uma revisão na pasta [```/sendo revisados/```](sendo%20revisados).
 
@@ -115,3 +115,67 @@ Você pode revisar um documento que já esteja traduzido e disponível na pasta 
 **5.** Faça as alterações que achar necessárias
 
 **6.** Terminou sua revisão? Agora você pode começar a [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request)! Não se esqueça de seguir o passo a passo corretamente, escrevendo uma boa mensagem de commit e conferindo se está "enviando" as alterações da sua Branch para a Branch principal do repositório raiz. ex.: ```cypherpunksbr/documentos|main``` ``` <-- ``` ```seu-nome-de-usuário/documentos|revisa-bitcoin-whitepaper```
+
+---
+
+<!--
+<div id='add-tutorials'/>
+
+## Melhorando ou criando tutoriais sobre qualquer assunto relacionado ao movimento cypherpunk
+
+### Mão na massa:
+> Dica: algumas palavras contém links que se você clicar nelas você será levado a uma explicação de como fazer
+
+**1.** Faça um [Fork](wiki/GITHUB-BROWSER.md#criando-um-fork) do nosso repositório no github.
+
+**2.** Dentro de seu Fork, crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que especifique o objetivo. Por exemplo ```adiciona-tutorial-pgp```. Após criar essa branch, é dentro dela que você irá trabalhar.
+
+---
+
+-->
+
+<div id='website-improvements'/>
+
+## Melhorando nosso site
+
+Quer ajudar a melhorar o [cypherpunks.com.br](https://cypherpunks.com.br/)?
+
+**1.** Vá até o nosso [repositório no Github](https://github.com/cypherpunksbr/cypherpunks.com.br).
+
+**2.** Faça o [Fork](wiki/GITHUB-BROWSER.md#criando-um-fork).
+
+**3.** Dentro de seu Fork, crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que especifique o objetivo. Por exemplo ```corrige-link-quebrado```.
+
+**4.** Faça o [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request).
+
+> Não se esqueça de seguir o passo a passo corretamente, escrevendo uma boa mensagem de commit e conferindo se está "enviando" as alterações da sua Branch para a Branch principal do repositório raiz. ex.: ```cypherpunksbr/documentos|main``` ``` <-- ``` ```seu-nome-de-usuário/documentos|corrige-link-quebrado```
+
+---
+
+<div id='spread-the-word'/>
+
+## Divulgue o projeto
+
+- Compartilhando documentos da [nossa biblioteca](https://cypherpunks.com.br/).
+- Compartilhando conteúdo do [nosso canal do Telegram](https://t.me/CypherpunksBrasil)
+<!-- - Usando os produtos da [nossa loja](LINK) -->
+
+---
+
+<!--
+<div id='donate'/>
+
+## Fazendo doações em criptomoedas ou outras formas de valor
+
+---
+
+-->
+
+<!--
+<div id='start-new-projects'/>
+
+## Iniciando, liderando ou auxiliando na criação de novos projetos
+
+---
+
+-->

@@ -9,6 +9,10 @@ tags:
  - Ação Direta
  - agorismo
 ---
+```
+Revisado por: Matheus Bach, Cypherpunks Brasil
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Vinicius Yaunner
 

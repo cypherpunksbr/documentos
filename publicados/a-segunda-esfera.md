@@ -16,7 +16,7 @@ author:
 ---
 
 ```
-Traduzido por: SparK-Cruz
+Traduzido por: Cypherpunks Brasil
 Revisado por: Matheus Bach, Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)

@@ -52,3 +52,5 @@ _hal@rain.org_
 
 [Pagina de Hal Finney](http://finney.org/~hal/)
 
+---
+Fonte: [Digital Cash & Privacy - Hal Finney](https://nakamotoinstitute.org/digital-cash-and-privacy/)

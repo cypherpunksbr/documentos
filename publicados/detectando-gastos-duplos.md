@@ -94,3 +94,5 @@ _hal@rain.org_
 
 [Página de Hal Finney](http://finney.org/~hal/)
 
+---
+Fonte: [Detecting Double Spending - Hal Finney](https://nakamotoinstitute.org/detecting-double-spending/)

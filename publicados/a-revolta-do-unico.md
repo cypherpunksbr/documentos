@@ -270,4 +270,4 @@ Setembro 15
 [1] Esta é uma paráfrase desta passagem dos críticos de Stirner: “O egoísmo, como Stirner o usa, não se opõe ao amor nem ao pensamento; não é inimigo da doce vida de amor, nem de devoção e sacrifício; não é inimigo do calor íntimo, mas também não é inimigo da crítica, nem do socialismo, nem, em suma, de qualquer interesse real. Não exclui nenhum interesse. É dirigido apenas contra o desinteresse e o desinteressante; não contra o amor, mas contra o amor sagrado, não contra o pensamento, mas contra o pensamento sagrado, não contra os socialistas, mas contra os socialistas sagrados, etc. ”
 
 ---
-Fonte: (RevoltLiv - The Revolt of the Unique)[http://www.revoltlib.com/anarchism/the-revolt-of-the-unique/view.php]
+Fonte: [RevoltLiv - The Revolt of the Unique](http://www.revoltlib.com/anarchism/the-revolt-of-the-unique/view.php)

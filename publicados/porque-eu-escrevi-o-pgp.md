@@ -65,4 +65,4 @@ O PGP permite que as pessoas exerçam sua privacidade com suas próprias mãos. 
 
 **Philip R. Zimmermann** Boulder, Colorado Junho de 1991 (atualizado em 1999)
 
-Fonte: [https://nakamotoinstitute.org/why-i-wrote-pgp/](https://nakamotoinstitute.org/why-i-wrote-pgp/)
+Fonte: [Why I Wrote PGP - Philip R. Zimmermann](https://nakamotoinstitute.org/why-i-wrote-pgp/)

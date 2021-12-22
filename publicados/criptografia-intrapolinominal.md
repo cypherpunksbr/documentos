@@ -9,7 +9,7 @@ author:
   - Nick Szabo
 ---
 ```
-Traduzido por: Steffan Diorgy, Dave Figueiredo
+Traduzido por: Steffan Diorgy, Davi Figueiredo
 Revisado por: Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
@@ -41,9 +41,13 @@ Em outras palavras, não existe um algoritmo mais rápido que q(n,k)p(n) que pos
 
 Casos fortes e médios são os mais oportunos em casos relacionados a criptografia. Infelizmente, para estes propósitos nós também precisamos de:
 
-1.  uma lista de máquinas que compreenda todos os modelos praticáveis de máquina, no sentido de que qualquer uma dessas máquinas possam ser simuladas com uma pequena sobrecarga, como uma constante ou O(log(n)).
-2.  para provar os limites inferiores em uma função de benchmark para todos os modelos da lista.
+  1.  uma lista de máquinas que compreenda todos os modelos praticáveis de máquina, no sentido de que qualquer uma dessas máquinas possam ser simuladas com uma pequena sobrecarga, como uma constante ou O(log(n)).
+  2.  para provar os limites inferiores em uma função de benchmark para todos os modelos da lista.
 
 Sabendo que isso é, no mínimo, muito chato, esperamos conseguir uma pequena lista que cubra todas as arquiteturas plausíveis. Isto pode funcionar para provar que a exposição total de um protocolo de quebra (cracking protocol) é menor que os custos de pesquisa e desenvolvimento de uma arquitetura para derrotar este mesmo protocolo. A análise criptográfica (cryptanalyis) deve descobrir quais arquiteturas são interessantes para quebrar uma cifra intrapolinomial.
 
 Existe ao menos duas implicações práticas da análise anterior. A primeira é que existe pouquíssimo espaço para erro para a análise e implementação da postagem com custo computacional, hashcash, bit gold, MicroMint e outros modelos de criptografia intrapolinomiais. A segunda é que, a menos que o oponente tenha pouco dinheiro e esteja limitado a um computador pessoal, não faz sentido analisar a segurança ou o custo desses esquemas sem fazer referência a arquitetura da máquina. Por exemplo, propagadores de spam (spammers) poderiam acabar com o custo computacional usando placas artesanais otimizadas para resolver um problema particular.
+
+
+---
+Fonte: [Intrapolynomial Cryptography - Nick Szabo](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/intrapoly.html)

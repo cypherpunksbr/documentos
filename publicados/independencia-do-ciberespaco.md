@@ -57,3 +57,6 @@ Vamos criar uma civilização da mente no ciberespaço. Que seja mais humano e j
 Davos, Suíça  
 8 de Fevereiro de 1996
 
+
+---
+Fonte: [A Declaration of the Independence of Cyberspace - John Perry Barlow](https://www.eff.org/cyberspace-independence)

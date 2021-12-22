@@ -146,8 +146,8 @@ Por favor, envie seus comentários para nszabo (arroba) law (ponto) gwu (ponto) 
 Copyright © 2001, 2004, 2005 por Nick Szabo
 Permissão para redistribuir sem alteração por este concedida
 
-<pre>  
 
-      Fonte: [https://nakamotoinstitute.org/trusted-third-parties/](https://nakamotoinstitute.org/trusted-third-parties/)
+---
+Fonte: [https://nakamotoinstitute.org/trusted-third-parties/](https://nakamotoinstitute.org/trusted-third-parties/)
 
-  </pre>
+

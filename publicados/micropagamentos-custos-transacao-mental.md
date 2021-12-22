@@ -1,6 +1,6 @@
 ---
-title:  "Libertária no Ciberespaço; ou porque o Ciberespaço é mais hospitaleiro às ideias de liberdade e criptoanarquia"
-date:   1992-08-01
+title:  "Micropagamentos e custos de transação mentais"
+date:   1999-05-01
 categories:
    -  Artigo
 tags:
@@ -9,7 +9,7 @@ author:
   - Nick Szabo
 ---
 ```
-Traduzido por: Cypherpunks Brasil 
+Traduzido por: jeffesonjp 
 Revisado por: Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
@@ -301,3 +301,5 @@ Meus agradecimentos a Robert Horn, Hal Varian, Doug Barnes, Ian Grigg e outros p
 
 <pre>    Fonte: [http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/berlinmentalmicro.pdf](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/berlinmentalmicro.pdf)
 </pre>
+
+Fonte: [Micropayments and Mental Transaction Costs - Nick Szabo](https://nakamotoinstitute.org/literature/micropayments-and-mental-transaction-costs/)

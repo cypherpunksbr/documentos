@@ -97,3 +97,6 @@ Isso é suficiente para tais observações por enquanto. Acho que faz sentido te
 Espero que alguns de vocês concordem comigo.
 
 --Tim May
+
+---
+Fonte: [Cyberspace, Crypto Anarchy, and Pushing Limits - Timothy C. May](https://nakamotoinstitute.org/cyberspace-crypto-anarchy-and-pushing-limits/)

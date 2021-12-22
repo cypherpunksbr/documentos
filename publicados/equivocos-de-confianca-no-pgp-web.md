@@ -48,3 +48,5 @@ _hal@rain.org_
 
 [Página de Hal Finney](https://web.archive.org/web/20140207101454/http://finney.org/~hal/)
 
+
+Fonte[PGP Web of Trust Misconceptions - Hal Finney](https://nakamotoinstitute.org/pgp-web-of-trust-misconceptions/)

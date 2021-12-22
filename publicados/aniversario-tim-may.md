@@ -15,7 +15,6 @@ Revisado por: Peixe Lua, Spark, Turing, Cypherpunks Brasil
 
 ## Vinicius Yaunner
 
-
 ===exibe no card daqui pra baixo===
 
 ![media](../stuff/anuncio.png)

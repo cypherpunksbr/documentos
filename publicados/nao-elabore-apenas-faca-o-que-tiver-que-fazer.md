@@ -6,7 +6,6 @@ author:
 categories:
  - Artigo
 tags:
- - Ação Direta
  - agorismo
 ---
 ```

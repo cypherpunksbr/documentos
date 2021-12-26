@@ -2,9 +2,9 @@
 title:  "RPOW – Provas de Trabalho Reutilizáveis"
 date:   2004-08-15
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Proof-Of-Work (PoW)
 author:
   - Hal Finney
 ---

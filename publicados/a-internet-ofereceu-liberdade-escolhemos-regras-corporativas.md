@@ -9,7 +9,7 @@ tags:
   - Tecnologia
   - Liberdade
   - Soberania
-  - criptoanarquia
+  - Criptoanarquia
 ---
 
 ```

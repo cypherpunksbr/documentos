@@ -2,12 +2,13 @@
 title:  "Uma pequena introdução ao agorismo e ao Samuel Edward Konkin III "
 date:   2019-12-09
 author:
-  -  Herman Shäd
+  - Herman Shäd
 categories:
   - Artigo
 tags:
-  - agorismo
-  - movimento libertario
+  - Agorismo
+  - Libertarianismo
+
 ---
 ```
 Revisado por: Vinicius Yaunner

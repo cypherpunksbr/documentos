@@ -2,9 +2,10 @@
 title:  "Equívocos de confiança no PGP Web"
 date:   1994-03-30
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Criptografia
+  - Confiabilidade
 author:
   - Hal Finney
 ---

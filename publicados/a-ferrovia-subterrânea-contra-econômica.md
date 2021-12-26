@@ -7,7 +7,7 @@ categories:
   - Artigo
 tags:
   - Agorismo
-  - contra-economia
+  - Contra-economia
 ---
 ```
 Traduzido por: Iann Zorkot

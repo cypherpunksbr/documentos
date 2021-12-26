@@ -8,7 +8,7 @@ tags:
   - Auditoria
   - Economia
 author:
- - Nick Szabo
+  - Nick Szabo
 ---
 
 ```

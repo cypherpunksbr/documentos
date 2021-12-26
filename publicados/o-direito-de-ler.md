@@ -2,7 +2,7 @@
 title:  "O direito de ler"
 date:   1996-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
   -
 author:

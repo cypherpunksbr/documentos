@@ -2,9 +2,9 @@
 title:  "Micropagamentos e custos de transação mentais"
 date:   1999-05-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Micropagamentos
 author:
   - Nick Szabo
 ---

@@ -1,10 +1,11 @@
 ---
-title:  "Títulos Seguros de Propriedade com Autoridade do Proprietário"
+title:  "Títulos Seguros de Propriedade com Autoridade do dono"
 date:   1998-01-01
 categories: 
   - Artigo
 tags:
-  - 
+  - Contratos
+  - propriedade
 author:
   - Nick Szabo
 ---

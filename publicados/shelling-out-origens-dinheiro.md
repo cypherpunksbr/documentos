@@ -4,12 +4,13 @@ date:   2002-01-01
 categories: 
   - Artigo
 tags:
-  -
+  - Dinheiro
+  - Economia
 author:
   - Nick Szabo
 ---
 ```
-Traduzido por: Deephi
+Traduzido por: Deephi, Matheus Bach
 Revisado por: Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)

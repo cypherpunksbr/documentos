@@ -2,7 +2,7 @@
 title:  "Criptografia Intrapolinomial"
 date:   1999-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
   -
 author:

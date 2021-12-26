@@ -2,9 +2,11 @@
 title:  "Objetos Escassos"
 date:   2004-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Contratos
+  - Economia
+  - Transações
 author:
   - Nick Szabo
 ---

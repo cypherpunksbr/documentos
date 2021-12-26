@@ -4,7 +4,8 @@ date:   1991-06-09
 categories: 
   - Artigo
 tags:
-  -
+  - PGP
+  - Criptografia
 author:
   - Philip R. Zimmermann
 ---

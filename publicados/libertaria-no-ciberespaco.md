@@ -4,7 +4,9 @@ date:   1992-08-01
 categories:
    -  Artigo
 tags:
-  -
+  - Ciberespaço
+  - Liberdade
+  - Criptoanarquia 
 author:
   - Timothy C. May
 ---

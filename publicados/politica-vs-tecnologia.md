@@ -2,7 +2,7 @@
 title:  "Política vs Tecnologia"
 date:   1994-01-02
 categories:
-   -  Artigo
+  - Artigo
 tags:
   - Política
   - Tecnologia

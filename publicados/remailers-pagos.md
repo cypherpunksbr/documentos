@@ -2,9 +2,9 @@
 title:  "Remailers pagos"
 date:   1994-10-28
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Pagamentos
 author:
   - Hal Finney
 ---

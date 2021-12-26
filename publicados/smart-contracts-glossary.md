@@ -2,12 +2,17 @@
 title:  "Glossário de Contratos inteligentes"
 date:   1995-01-01
 categories:
-   -  Artigo
+  - Glossario
 tags:
-  -
+  - Smart Contracts
 author:
   - Nick Szabo
 ---
+
+```
+Traduzido por: Matheus Bach
+Revisado por: Cypherpunks Brasil
+```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
 

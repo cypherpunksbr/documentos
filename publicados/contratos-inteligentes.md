@@ -6,9 +6,9 @@ author:
 categories:
   - Artigo
 tags:
-  - contratos
-  - transações
-  - Smart Contract
+  - Contratos
+  - Transações
+  - Smart Contracts
 ---
 
 ```

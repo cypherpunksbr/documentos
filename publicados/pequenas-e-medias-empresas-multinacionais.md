@@ -2,9 +2,9 @@
 title:  "Pequenas e Médias Empresas Multinacionais"
 date:   1993-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Empreendedorismo
 author:
   - Nick Szabo
 ---

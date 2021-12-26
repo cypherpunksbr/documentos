@@ -2,7 +2,7 @@
 title:  "b-money"
 date:   1998-11-01
 categories:
-  -  Artigo
+  - Artigo
 tags:
   - Dinheiro
 author:

@@ -6,10 +6,10 @@ author:
 categories:
   - Artigo
 tags:
-  - agorismo
-  - proibição
-  - censura
-  - organização
+  - Agorismo
+  - Proibição
+  - Censura
+  - Organização
 ---
 ```
 Traduzido por: Iann Zorkot

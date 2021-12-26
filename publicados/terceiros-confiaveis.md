@@ -2,9 +2,9 @@
 title:  "Terceiros confiáveis"
 date:   2001-01-01
 categories: 
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Confiança
 author:
   - Nick Szabo
 ---

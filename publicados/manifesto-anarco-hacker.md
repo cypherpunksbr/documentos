@@ -4,13 +4,13 @@ date:   2018-01-01
 author:
   - Anon Anarchist Action
 categories:
-  - Artigo
+  - Manifesto
 tags:
-  - manifesto
-  - anarquismo
-  - hacker
-  - hackerativismo
-  - tecnologia
+  - Manifesto
+  - Anarquismo
+  - Hacker
+  - Hackerativismo
+  - Tecnologia
 ---
 ```
 Traduzido por: Vinicius Yaunner

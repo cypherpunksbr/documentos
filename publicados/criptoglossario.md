@@ -2,7 +2,7 @@
 title:  "Cripto Glossário"
 date:   1992-11-22
 categories:
-   -  Artigo 
+  - glossário 
 tags:
   -
 author:

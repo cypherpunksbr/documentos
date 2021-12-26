@@ -2,7 +2,7 @@
 title:  "Feliz Aniversário, Bitcoin!"
 date:   2018-10-31
 categories:
-   -  Artigo
+  - Artigo
 tags:
   -
 author:

@@ -4,7 +4,7 @@ date:   1997-01-01
 categories: 
   - Artigo
 tags:
-  - 
+  - Economia
 author:
   - Nick Szabo
 ---

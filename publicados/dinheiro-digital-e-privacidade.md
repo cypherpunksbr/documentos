@@ -2,9 +2,10 @@
 title:  "Dinheiro Digital e Privacidade"
 date:   1993-08-19
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Privacidade
+  - Dinheiro
 author:
   - Hal Finney
 ---

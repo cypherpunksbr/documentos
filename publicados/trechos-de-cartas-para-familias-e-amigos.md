@@ -2,9 +2,9 @@
 title:  "Trechos das cartas de Ross para amigos e familiares"
 date:   2016-05-09
 categories: 
-   -  Artigo
+  - Carta
 tags:
-  -
+  - FreeRoss
 author:
   - Ross Ulbricht
 ---

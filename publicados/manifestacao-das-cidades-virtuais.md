@@ -6,9 +6,8 @@ author:
 categories:
  - Artigo
 tags:
- - anonimato
- - internet
- - liberdade
+ - Liberdade
+ - Ciberespaço
 ---
 
 ## Kael Avila

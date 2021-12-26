@@ -8,7 +8,6 @@ categories:
 tags:
   - Tecnologia
   - Tecnocracia
-  - 
 ---
 ```
 Traduzido por: Iann Zorkot

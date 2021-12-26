@@ -2,9 +2,10 @@
 title:  "Uma declaração da independência do ciberespaço"
 date:   1996-02-08
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Ciberespaço
+  - Soberania
 author:
   - John Perry Barlow
 ---

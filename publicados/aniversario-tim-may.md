@@ -6,7 +6,7 @@ author:
 categories:
  - Artigo
 tags:
- - agorismo
+ - Agorismo
 ---
 ```
 Revisado por: Peixe Lua, Spark, Turing, Cypherpunks Brasil

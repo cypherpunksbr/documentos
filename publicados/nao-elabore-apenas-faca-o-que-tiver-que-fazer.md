@@ -6,7 +6,7 @@ author:
 categories:
  - Artigo
 tags:
- - agorismo
+ - Agorismo
 ---
 ```
 Revisado por: Matheus Bach, Cypherpunks Brasil

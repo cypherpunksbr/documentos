@@ -4,7 +4,8 @@ date:   2013-05-22
 categories:
    -  Artigo
 tags:
-  -
+  - Criptoanarquia
+  - Empreendedorismo
 author:
   - Daniel Krawisz
 ---

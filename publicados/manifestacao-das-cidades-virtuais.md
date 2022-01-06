@@ -1,6 +1,6 @@
 ---
 title:  "MANIFESTAÇÃO: das cidades virtuais"
-date:   2021-12-23
+date:   2021-12-22
 author:
  - Kael Avila
 categories:

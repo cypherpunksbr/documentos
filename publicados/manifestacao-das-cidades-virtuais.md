@@ -14,7 +14,7 @@ tags:
 Revisado por: Vinicius Yaunner
 ```
 
-**Nota do revisor:** Texto pode parecer meio confuso mas depois ele se encaixa bem em si próprio.
+**Nota do revisor:** Texto pode parecer meio confuso mas depois ele se encaixa bem em si próprio. Pode sofrer algumas alterações com o tempo a pedido do autor.
 
 
 ## Kael Avila

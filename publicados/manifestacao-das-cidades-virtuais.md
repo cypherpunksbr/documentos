@@ -23,6 +23,10 @@ Revisado por: Vinicius Yaunner
 
 ### ma.ni.fes.ta.ção
 
+
+===exibe no card daqui pra baixo===
+
+
 >[f. mɐnifəʃtɐˈsɐ̃w̃] Substantivo feminino. **1.** Ação de tornar público; ato de expressar um pensamento, ideia, ponto de vista etc; revelação: manifestação do pensamento. **2.** Ação de se expressar publicamente; ato de tornar público. **3.** Conjunto de várias pessoas que, geralmente, se juntam para expressar publicamente uma opinião, reivindicação, ideia, sentimento etc. **4.** Revelação de uma doença e/ou perturbação através de um sintoma ou da associação dos mesmos. **5.** Maneira com a qual Deus se utiliza para se comunicar com seu povo. **6.** Ação por meio da qual um iniciado e/ou médium recebe uma entidade espiritual.
 
 Horror analógico é o nome dado para um movimento artístico e audiovisual recente. Talvez, se nossa tolice permitir, traça-se uma origem dentro do movimento de *found footage*, mas de um jeito que faça sentido dentro da vivência do mundo virtual. Digo tolo, pois a ascensão e as características desse movimento conversam em específico à uma geração e visão espacial que não é a mesma que originou, por exemplo, A Bruxa de Blair.

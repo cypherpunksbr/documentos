@@ -4,7 +4,7 @@ date:   1997-01-01
 categories: 
   - Artigo
 tags:
-  - 
+  - Economia
 author:
   - Nick Szabo
 ---
@@ -104,3 +104,7 @@ A medição do valor é um dos problemas mais intratáveis da civilização. Sol
 7.  Coxon, T., 1996 _Keep What You Earn_, Times Business/Random House
 8.  Hayek, F., "The Use of Knowledge in Society"
 9.  Williamson, Oliver, _The Economic Institutions of Capitalism_, Free Press 1985
+
+
+---
+Fonte: [Measuring Value - Nick Szabo](https://nakamotoinstitute.org/measuring-value/)

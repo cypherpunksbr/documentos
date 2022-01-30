@@ -6,9 +6,9 @@ author:
 categories:
   - Artigo
 tags:
-  - agorismo
-  - organização
-  - sindicatos
+  - Agorismo
+  - Organização
+  - Sindicatos
 ---
 ```
 Traduzido por: Iann Zorkot

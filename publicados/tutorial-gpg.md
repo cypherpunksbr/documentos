@@ -2,12 +2,14 @@
 title:  "Tutorial GPG"
 date:   2018-07-11
 categories:
-   -  Artigo
+  - Tutorial
 tags:
-  -
+  - Criptografia
+  - PGP
 author:
   - OneTimePad
 ---
+
 ```
 Escrito por: OneTimePad 
 Revisado por: Jefferson, Cypherpunks Brasil

@@ -2,7 +2,7 @@
 title:  "Política vs Tecnologia"
 date:   1994-01-02
 categories:
-   -  Artigo
+  - Artigo
 tags:
   - Política
   - Tecnologia
@@ -42,4 +42,4 @@ Fundamentalmente, acredito que teremos o tipo de sociedade que a maioria das pes
 _Hal Finney_ _hal@rain.org_ 
 
 ---
-Fonte: [https://nakamotoinstitute.org/politics-vs-technology/](https://nakamotoinstitute.org/politics-vs-technology/)
+Fonte: [Politics vs Technology - Hal Finney](https://nakamotoinstitute.org/politics-vs-technology/)

@@ -2,9 +2,10 @@
 title:  "Criptoanarquia e o empreendedorismo libertário I"
 date:   2013-05-22
 categories:
-   -  Artigo
+  -  Artigo
 tags:
-  -
+  - Criptoanarquia
+  - Empreendedorismo
 author:
   - Daniel Krawisz
 ---

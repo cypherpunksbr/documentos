@@ -2,9 +2,10 @@
 title:  "O Manifesto Criptoanarquista"
 date:   1992-11-22
 categories:
-   -  Artigo
+  - Manifesto
 tags:
-  -
+  - Criptoanarquia
+  - Manifesto
 author:
   - Timothy C. May
 ---

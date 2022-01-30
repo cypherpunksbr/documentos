@@ -6,8 +6,9 @@ author:
 categories:
   - Artigo
 tags:
-  - agorismo
-  - ilegalismo
+  - Agorismo
+  - Ilegalismo
+  - Empreendedorismo
 ---
 ```
 Traduzido por: Iann Zorkot

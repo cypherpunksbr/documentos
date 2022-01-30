@@ -1,10 +1,11 @@
 ---
-title:  "Títulos Seguros de Propriedade com Autoridade do Proprietário"
+title:  "Títulos Seguros de Propriedade com Autoridade do dono"
 date:   1998-01-01
 categories: 
   - Artigo
 tags:
-  - 
+  - Contratos
+  - propriedade
 author:
   - Nick Szabo
 ---
@@ -124,3 +125,7 @@ Por favor, envie seus comentários para nszabo (at) law (dot) gwu (dot) edu
 
 Copyright © 1998,1999,2002,2005 by Nick Szabo  
 Permissão para redistribuir sem alteração por este concedida
+
+
+---
+Fonte: [Secure Property Titles with Owner Authority -  Nick Szabo ](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/securetitle.html)

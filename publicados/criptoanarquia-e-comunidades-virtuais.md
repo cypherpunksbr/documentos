@@ -2,7 +2,7 @@
 title:  "Criptoanarquia e Comunidades Virtuais"
 date:   1994-12-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
   - Criptografia
   - Ciberespaço

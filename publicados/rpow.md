@@ -2,9 +2,9 @@
 title:  "RPOW – Provas de Trabalho Reutilizáveis"
 date:   2004-08-15
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Proof-Of-Work (PoW)
 author:
   - Hal Finney
 ---
@@ -19,11 +19,12 @@ Revisado por: Cypherpunks Brasil
 
 ##### [Website arquivado GitHub]
 ---
+```
 Para: [cypherpunks@al-qaeda.net]
 Assunto: RPOW - Provas de Trabalho Reutilizáveis
 Data: domingo, 15 de agosto de 2004 às 10:43:09 -07:00 (PDT)
 De: hal arroba finney ponto org ("Hal Finney")
-
+```
 ---
 ===exibe no card daqui pra baixo===
 
@@ -43,8 +44,16 @@ Esse sistema está em fase beta inicial no momento, então eu gostaria de ler co
 
 Muito obrigado -
 
-Hal Finney Fonte: https://nakamotoinstitute.org/rpow/
+Hal Finney 
+
+
+---
+Fonte: 
+
+[https://nakamotoinstitute.org/rpow/](https://nakamotoinstitute.org/rpow/)
 
 [Website arquivado GitHub](https://nakamotoinstitute.org/finney/rpow/index.html)
+
 [cypherpunks@al-qaeda.net](cypherpunks@al-qaeda.net)
+
 [rpow.net](https://nakamotoinstitute.org/finney/rpow/index.html)

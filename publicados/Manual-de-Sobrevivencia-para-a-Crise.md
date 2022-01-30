@@ -6,8 +6,8 @@ author:
 categories:
   - Artigo
 tags:
-  - sobrevivencialismo
-  - crise hídrica
+  - Sobrevivencialismo
+  - Crise hídrica
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

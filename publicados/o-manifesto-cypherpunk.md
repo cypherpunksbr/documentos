@@ -2,7 +2,7 @@
 title:  "O Manifesto Cypherpunk"
 date:   1997-03-09
 categories:
-   -  Artigo 
+  - Manifesto 
 tags:
   -
 author:

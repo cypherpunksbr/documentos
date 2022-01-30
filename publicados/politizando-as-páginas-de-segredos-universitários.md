@@ -6,9 +6,9 @@ author:
 categories:
  - Artigo
 tags:
- - anonimato
- - internet
- - liberdade
+ - Anonimato
+ - Internet
+ - Liberdade
 ---
 
 ```

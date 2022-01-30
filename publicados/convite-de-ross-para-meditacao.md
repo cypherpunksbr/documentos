@@ -5,6 +5,8 @@ categories:
   - Artigo
 author:
   - Ross Ulbricht
+tags:
+  - FreeRoss
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

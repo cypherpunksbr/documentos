@@ -2,11 +2,10 @@
 title:  "Glossário de Contratos inteligentes"
 date:   1995-01-01
 categories:
-   -  Artigo
+  - Glossário
 tags:
-  - Contratos Inteligentes
   - Transações
-  - Smart Contract
+  - Smart Contracts
   - Glossario
 author:
   - Nick Szabo

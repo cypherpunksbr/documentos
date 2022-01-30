@@ -9,6 +9,7 @@ tags:
   - Tecnologia
   - Liberdade
   - Soberania
+  - Criptoanarquia
 ---
 
 ```
@@ -17,7 +18,6 @@ Revisado por: C4SS, Instituto Ágora, Matheus Bach
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
-# A Internet nos Ofereceu Liberdade, Mas Nós Escolhemos a Regra Corporativa
 
 ## Logan Marie Glitterbomb
 

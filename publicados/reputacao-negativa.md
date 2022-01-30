@@ -2,9 +2,9 @@
 title:  "Reputação negativa"
 date:   1996-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Reputação
 author:
   - Nick Szabo
 ---
@@ -60,3 +60,6 @@ Por favor, envie seus comentários para nszabo@law.gwu.edu
 Direito autoral © 1996 por Nick Szabo  
 Permissão para redistribuir sem alteração previamente concedida.
 
+
+---
+Fonte: [Negative Reputation - Nick Szabo](https://nakamotoinstitute.org/negative-reputation/)

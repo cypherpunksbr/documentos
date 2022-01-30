@@ -6,7 +6,7 @@ author:
 categories:
   - Artigo
 tags:
-  - transações
+  - Transações
   - Smart Liens
 ---
 ```

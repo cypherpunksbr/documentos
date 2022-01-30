@@ -4,12 +4,13 @@ date:   2002-01-01
 categories: 
   - Artigo
 tags:
-  -
+  - Dinheiro
+  - Economia
 author:
   - Nick Szabo
 ---
 ```
-Traduzido por: Deephi
+Traduzido por: Deephi, Matheus Bach
 Revisado por: Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
@@ -419,5 +420,6 @@ Copyright © 2002, 2005 by Nick Szabo
 
 *Nota do editor: Alguns links podem estar quebrados.*
 
-      Fonte:
-      https://nakamotoinstitute.org/shelling-out/
+
+---
+Fonte: [Shelling Out: The Origins of Money - Nick Szabo](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/shell.html)

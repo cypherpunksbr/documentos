@@ -7,6 +7,7 @@ categories:
   - Artigo
 tags:
   - Contra-economia
+  - Cooperativismo
   - Autossuficiencia
   - P2P
 ---

@@ -2,9 +2,11 @@
 title:  "Detectando Gastos Duplos"
 date:   1992-11-22
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Gasto Duplo
+  - Anonimato
+  - Matemática
 author:
   - Hal Finney
 ---
@@ -94,3 +96,5 @@ _hal@rain.org_
 
 [Página de Hal Finney](http://finney.org/~hal/)
 
+---
+Fonte: [Detecting Double Spending - Hal Finney](https://nakamotoinstitute.org/detecting-double-spending/)

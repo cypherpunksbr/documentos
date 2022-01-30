@@ -2,7 +2,7 @@
 title:  "Bitcoin e eu"
 date:   2013-03-19
 categories:
-  -  Artigo
+  - Artigo
 tags:
   - Bitcoin
 author:

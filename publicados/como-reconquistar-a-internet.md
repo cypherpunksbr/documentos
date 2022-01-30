@@ -6,9 +6,9 @@ author:
 categories:
   - Artigo
 tags:
-  - internet  
-  - tecnologia
-  - liberdade
+  - Internet  
+  - Tecnologia
+  - Liberdade
 ---
 ```
 Traduzido por: Iann Zorkot

@@ -6,9 +6,12 @@ author:
 categories:
  - Artigo
 tags:
- - Ação Direta
- - agorismo
+ - Agorismo
 ---
+```
+Revisado por: Matheus Bach, Cypherpunks Brasil
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Vinicius Yaunner
 

@@ -2,9 +2,10 @@
 title:  "Uma declaração da independência do ciberespaço"
 date:   1996-02-08
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Ciberespaço
+  - Soberania
 author:
   - John Perry Barlow
 ---
@@ -57,3 +58,6 @@ Vamos criar uma civilização da mente no ciberespaço. Que seja mais humano e j
 Davos, Suíça  
 8 de Fevereiro de 1996
 
+
+---
+Fonte: [A Declaration of the Independence of Cyberspace - John Perry Barlow](https://www.eff.org/cyberspace-independence)

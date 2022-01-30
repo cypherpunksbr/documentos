@@ -6,9 +6,9 @@ author:
 categories:
   - Artigo
 tags:
-  - criptoanarquia
-  - agorismo
-  - contra-economia
+  - Criptoanarquia
+  - Agorismo
+  - Contra-economia
 ---
 ```
 Traduzido por: Vinicius Yaunner

@@ -13,6 +13,7 @@ tags:
   - Liberdade
   - Censura
 ---
+
 ```
 Traduzido por: Iann Zorkot
 Revisado por: C4SS, Instituto Ágora, Matheus Bach

@@ -5,6 +5,8 @@ categories:
   - Carta
 author:
   - Ross Ulbricht
+tags:
+  - FreeRoss
 ---
 
 ```

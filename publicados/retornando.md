@@ -38,4 +38,4 @@ Saudações a vocês, verdadeiros anarquistas!
 Saudações a vocês, irmãos humanos!
 
 ---
-Fonte: (Returning - Renzo Novatore)[http://www.revoltlib.com/anarchism/returning/view.php]
+Fonte: [Returning - Renzo Novatore](http://www.revoltlib.com/anarchism/returning/view.php)

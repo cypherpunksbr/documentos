@@ -2,7 +2,7 @@
 title:  "O direito de ler"
 date:   1996-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
   -
 author:
@@ -117,3 +117,6 @@ A [Fundação do Software Livre](http://www.fsf.org/) é o principal patrocinado
 Direito Autoral © 1996, 2002, 2007, 2009, 2010 Richard Stallman  
 Este ensaio foi escrito em 1996 e foi publicado em <cite>Comunicações do ACM,</cite> vol. 40, n. 2, Fevereiro de 1997.
 
+
+---
+Fonte: [The Right to Read - Richard Stallman](https://www.gutenberg.org/files/1981/1981-h/1981-h.htm)

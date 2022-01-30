@@ -2,9 +2,10 @@
 title:  "Dinheiro Digital e Privacidade"
 date:   1993-08-19
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Privacidade
+  - Dinheiro
 author:
   - Hal Finney
 ---
@@ -52,3 +53,5 @@ _hal@rain.org_
 
 [Pagina de Hal Finney](http://finney.org/~hal/)
 
+---
+Fonte: [Digital Cash & Privacy - Hal Finney](https://nakamotoinstitute.org/digital-cash-and-privacy/)

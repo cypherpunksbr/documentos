@@ -4,7 +4,9 @@ date:   1992-08-01
 categories:
    -  Artigo
 tags:
-  -
+  - Ciberespaço
+  - Liberdade
+  - Criptoanarquia 
 author:
   - Timothy C. May
 ---
@@ -63,6 +65,6 @@ Em conclusão, será mais fácil formar certos tipos de sociedades libertárias 
 
 -- Tim May
 
-<pre>Fonte:
-[https://nakamotoinstitute.org/libertaria-in-cyberspace/](https://nakamotoinstitute.org/libertaria-in-cyberspace/)
-</pre>
+---
+Fonte:
+[Libertaria in Cyberspace - Timothy C. May](https://nakamotoinstitute.org/libertaria-in-cyberspace/)

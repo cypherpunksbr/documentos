@@ -2,9 +2,9 @@
 title:  "Pequenas e Médias Empresas Multinacionais"
 date:   1993-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Empreendedorismo
 author:
   - Nick Szabo
 ---
@@ -58,3 +58,6 @@ Por favor, envie seus comentários para [nszabo.law.gwu.edu](http://nszabo.law.g
 
 Direito Autoral © 1997, 1999 by Nick Szabo  
 Permissão para redistribuir sem alteração anteriormente concedida
+
+---
+Fonte: [Multinational Small Business - Nick Szabo](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/multi.small.html)

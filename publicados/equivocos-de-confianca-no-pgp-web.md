@@ -2,9 +2,10 @@
 title:  "Equívocos de confiança no PGP Web"
 date:   1994-03-30
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Criptografia
+  - Confiabilidade
 author:
   - Hal Finney
 ---
@@ -48,3 +49,5 @@ _hal@rain.org_
 
 [Página de Hal Finney](https://web.archive.org/web/20140207101454/http://finney.org/~hal/)
 
+
+Fonte[PGP Web of Trust Misconceptions - Hal Finney](https://nakamotoinstitute.org/pgp-web-of-trust-misconceptions/)

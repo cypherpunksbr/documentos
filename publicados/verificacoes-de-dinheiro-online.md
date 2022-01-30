@@ -2,9 +2,9 @@
 title:  "Verificações de dinheiro online"
 date:   1989-01-01
 categories:
-   -  Artigo
+  - Artigo
 tags:
-  -
+  - Dinheiro
 author:
   - David Chaum
 ---

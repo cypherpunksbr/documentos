@@ -6,9 +6,8 @@ author:
 categories:
   - Artigo
 tags:
-  - pan-anarquismo
-  - panarquia
-  - anarquismo
+  - Pan-anarquismo
+  - Anarquismo
 ---
 ```
 Traduzido por: Rafael Hotz e Luiz Eduardo do Ó

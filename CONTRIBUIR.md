@@ -1,7 +1,22 @@
 # Contribua com o Projeto
 
-## Contribuição em código aberto usando Github
-No Github você só pode alterar projetos que você mesmo tenha criado, ou seja, somente os repositórios que estiverem em ```github.com/seu-nome-de-usuário/nome-do-seu-projeto``` poderão ser alterados diretamente por você. De qualquer forma, isso não te impede de enviar contribuições para projetos criados por outras pessoas. Por exemplo, para contribuir com o nosso projeto, em vez de ir até o repositório original ```github.com/cypherpunksbr/documentos```, você precisará:
+## Como ajudar o projeto Cypherpunks Brasil?
+
+### Existem diversas formas de contribuir com nosso projeto. Vamos listar algumas:
+
+- [Adicionando novos Documentos](#add-new-docs)
+- [Traduzindo Documentos para Português (pt-br)](#translate-docs-ptbr)
+- [Revisando e corrigindo Documentos já traduzidos](#review-translation)
+<!-- Melhorando ou criando tutoriais sobre qualquer assunto relacionado ao movimento cypherpunk-->
+- [Melhorando nosso site cypherpunks.com.br](#website-improvements)
+<!-- Fazendo doações em criptomoedas ou outras formas de valor -->
+- [Iniciando, liderando ou auxiliando a criação de novos projetos](#start-new-projects)
+- [Divulgando o projeto Cypherpunks Brasil](#spread-the-word)
+
+---
+
+## O básico de contribuição em código aberto usando Github
+No Github você só pode alterar projetos que você mesmo tenha criado, ou seja, somente os repositórios que estiverem em ```github.com/seu-nome-de-usuário/nome-do-seu-projeto``` poderão ser alterados diretamente por você. De qualquer forma, isso não te impede de enviar contribuições para projetos criados por outras pessoas. Por exemplo, para contribuir com o nosso projeto, em vez de editar o repositório original ```github.com/cypherpunksbr/documentos```, você deve:
 
 1. Fazer uma cópia (Fork) desse repositório
    * Após o Fork, você terá uma cópia exata do repositório original ```github.com/cypherpunksbr/documentos``` que estará em ```github.com/seu-nome-de-usuário/documentos```
@@ -13,19 +28,6 @@ No Github você só pode alterar projetos que você mesmo tenha criado, ou seja,
 4. "Enviar" suas alterações através de uma Pull Request (PR)
 
 [Tutorial completo de como executar cada um desses passos diretamente pelo site do Github]
-
-## Como ajudar o projeto Cypherpunks Brasil?
-
-### Existem diversas formas de contribuir com nosso projeto. Vamos listar algumas:
-
-- [Adicionando novos Documentos](#add-new-docs)
-- [Traduzindo Documentos para Português (pt-br)](#translate-docs-ptbr)
-- [Revisando e corrigindo Documentos já traduzidos](#review-translation)
-- Melhorando ou criando tutoriais sobre qualquer assunto relacionado ao movimento cypherpunk
-- [Melhorando nosso site cypherpunks.com.br](#website-improvements)
-<!-- - Fazendo doações em criptomoedas ou outras formas de valor -->
-- [Iniciando, liderando ou auxiliando a criação de novos projetos](#start-new-projects)
-- [Divulgando o projeto Cypherpunks Brasil](#spread-the-word)
 
 ---
 
@@ -42,7 +44,7 @@ Você pode adicionar qualquer tipo de documento relacionado ao movimento cypherp
 
 **2.** Dentro de seu Fork, crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que especifique o objetivo. Por exemplo ```adiciona-bitcoin-whitepaper```. Após criar essa branch, é dentro dela que você irá trabalhar.
 
-**3.** Encontre o documento que deseja traduzir na internet, em livros, qualquer lugar, ou escreva você mesmo um texto autoral. Salve as informações importantes (link para a página web, nome do livro, autor, data de publicação), elas serão usadas nas próximas etapas.
+**3.** Encontre o documento que deseja traduzir na internet, em livros, qualquer lugar, ou escreva você mesmo um texto autoral. Salve as informações importantes (link para a página web, nome do livro, autor, data de publicação e poss), elas serão usadas nas próximas etapas.
 O documento pode estar em qualquer idioma, incluindo o português (pt-br).
 
 **4.** No seu fork, dentro da branch criada, salve o documento em um arquivo único de texto com extensão ```.md``` (Markdown). Se for um documento em língua estrangeira, salve-o na pasta ```/para traduzir/```. Se for um documento em Português (pt-br), salve-o na pasta ```/para revisar/```. Caso o documento contenha imagens ou outros arquivos adicionais, salve esses arquivos na pasta ```/stuff/```. No futuro você irá referenciar esses arquivos usando markdown caso necessário.
@@ -53,12 +55,13 @@ O documento pode estar em qualquer idioma, incluindo o português (pt-br).
 
 ```
 ---
-title:  "Título do seu Documento aqui" com aspas
-date:   data da publicação no formato dia-mês-ano (exemplo: 31-10-2008) sem aspas
+title:  "Título do seu Documento aqui"
+date:   data da publicação no formato dia-mês-ano (exemplo: 31-10-2008)
 categories:
    -  Artigo
 author:
-  -
+  - Nome Do Autor
+  - Nome De Outros Autores Se Tiver
 tags:
   - tag util 1 sem aspas
   - tag util 2 sem aspas
@@ -99,7 +102,7 @@ Você pode traduzir qualquer documento presente na pasta [```/para traduzir/```]
 
 **7.** [Mova](wiki/GITHUB-BROWSER.md#renomeando-e-movendo-arquivos) novamente o documento de pasta. Agora você já finalizou a tradução e irá mover o documento para a pasta de revisão. Para isso você deve mover o arquivo do seu documento que está na pasta [```/sendo traduzidos/```](sendo%20traduzidos/) para a pasta [```/para revisar/```](para%20revisar/)
 
-**8.** Após mover no seu repositório, hora de replicar essa mudança no repositório original fazendo mais um [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) da sua branch para a branch main do repositório raiz assim como foi feito anteriormente, exemplo: ```cypherpunksbr/documentos|main``` ```<--``` ```seu-nome-de-usuário/documentos|traduz-bitcoin-whitepaper```. Após ter feito o PR, aguarde um dos membros da organização revisar suas alterações e aprovar seu trabalho. Obrigado por colaborar com o projeto!
+**8.** Após mover no seu repositório, hora de replicar essa mudança no repositório original fazendo mais um [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) da sua branch para a branch main do repositório raiz assim como foi feito anteriormente, exemplo: ```cypherpunksbr/documentos | main``` ```<--``` ```seu-nome-de-usuário/documentos | traduz-bitcoin-whitepaper```. Após ter feito o PR, aguarde um dos membros da organização revisar suas alterações e aprovar seu trabalho. Obrigado por colaborar com o projeto!
 
 ---
 

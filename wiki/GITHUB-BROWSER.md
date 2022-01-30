@@ -1,19 +1,6 @@
-# Tutorial de uso do GitHub via website 
+# Tutorial de uso do GitHub via website
 
-## Fluxo básico de contribuição
-No Github você só pode alterar projetos que você mesmo tenha criado, ou seja, somente os repositórios que estiverem em ```github.com/seu-nome-de-usuário/nome-do-seu-projeto``` poderão ser alterados diretamente por você. De qualquer forma, isso não te impede de enviar contribuições para projetos criados por outras pessoas. Por exemplo, para contribuir com o nosso projeto, em vez de ir até o repositório original ```github.com/cypherpunksbr/documentos```, você precisará:
-
- - Fazer uma cópia ([Fork]) desse repositório
-  > Após o [Fork], você terá uma cópia exata do repositório original ```github.com/cypherpunksbr/documentos``` que estará em ```github.com/seu-nome-de-usuário/documentos```
-
- - Criar uma "área de trabalho" ([Branch]) para fazer suas alterações
-
- - Fazer as alterações **na sua cópia** ```github.com/seu-nome-de-usuário/documentos``` e **dentro da branch** criada no passo anterior
-
- - "Enviar" suas alterações através de uma [Pull Request (PR)]
-
-A seguir você encontra um tutorial de como executar cada um desses passos diretamente pelo site do Github.
-> Este tutorial foi desenvolvido com base na [documentação oficial do Github]. Você pode encontrar mais informações lá.
+**Este tutorial foi desenvolvido com base na [documentação oficial do Github]. Você pode encontrar mais informações lá.**
 
 ## Índice
   - [Criando um fork]
@@ -42,7 +29,7 @@ A seguir você encontra um tutorial de como executar cada um desses passos diret
 
 ![gif tutorial](img/github-website-new-branch.gif)
 
-> Você pode navegar de uma branch para outra usando este mesmo atalho. Todas as branchs do repositório estarão listadas lá.
+> Você pode navegar de uma branch para outra usando esse mesmo atalho. Todas as branchs do repositório estarão listadas lá.
 ---
 
 ## Renomeando e movendo arquivos

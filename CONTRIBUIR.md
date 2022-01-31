@@ -154,13 +154,13 @@ Você pode revisar um documento que já esteja traduzido e disponível na pasta 
 
 Quer ajudar a melhorar o [cypherpunks.com.br](https://cypherpunks.com.br/)?
 
-**1.** Vá até o nosso [repositório no Github](https://github.com/cypherpunksbr/cypherpunks.com.br).
+**1.** Vá até o nosso [repositório no Github](https://github.com/cypherpunksbr/cypherpunks.com.br) e faça o [Fork](wiki/GITHUB-BROWSER.md#criando-um-fork).
 
-**2.** Faça o [Fork](wiki/GITHUB-BROWSER.md#criando-um-fork).
+**2.** Dentro do seu Fork (```github.com/seu-nome-de-usuário/cypherpunks.com.br```), crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que especifique o objetivo. Por exemplo: ```corrige-link-quebrado```.
 
-**3.** Dentro de seu Fork, crie uma **nova** [Branch](wiki/GITHUB-BROWSER.md#criando-uma-nova-branch) com um nome que especifique o objetivo. Por exemplo ```corrige-link-quebrado```.
+**3.** Dentro da branch criada no passo anterior, faça suas alterações e salve tudo em um commit com uma mensagem pertinente. Por exemplo: ```corrige link para o canal do Youtube```.
 
-**4.** Faça o [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request).
+**4.** Faça o [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) e aguarde aprovação. Obrigado por colaborar!
 
 > Não se esqueça de seguir o passo a passo corretamente, escrevendo uma boa mensagem de commit e conferindo se está "enviando" as alterações da sua Branch para a Branch principal do repositório raiz. ex.: ```cypherpunksbr/documentos | main``` ``` <-- ``` ```seu-nome-de-usuário/documentos | corrige-link-quebrado```
 

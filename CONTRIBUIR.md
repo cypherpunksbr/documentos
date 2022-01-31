@@ -162,7 +162,7 @@ Quer ajudar a melhorar o [cypherpunks.com.br](https://cypherpunks.com.br/)?
 
 **4.** Faça o [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) e aguarde aprovação. Obrigado por colaborar!
 
-> Não se esqueça de seguir o passo a passo corretamente, escrevendo uma boa mensagem de commit e conferindo se está "enviando" as alterações da sua Branch para a Branch principal do repositório raiz. ex.: ```cypherpunksbr/documentos | main``` ``` <-- ``` ```seu-nome-de-usuário/documentos | corrige-link-quebrado```
+> Não se esqueça de seguir o passo a passo corretamente, escrevendo uma boa mensagem de commit e conferindo se está "enviando" as alterações da sua Branch para a Branch principal do repositório raiz. ex.: ```cypherpunksbr/cypherpunks.com.br | main``` ``` <-- ``` ```seu-nome-de-usuário/cypherpunks.com.br | corrige-link-quebrado```
 
 ---
 

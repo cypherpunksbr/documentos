@@ -1,15 +1,15 @@
 # Contribua com o Projeto
 
-## Como ajudar o projeto Cypherpunks Brasil?
+## Como ajudar o Cypherpunks Brasil?
 
-### Existem diversas formas de contribuir com nosso projeto. Vamos listar algumas:
+### Existem diversas formas de contribuir. Vamos listar algumas:
 
 - [Adicionando novos Documentos](#add-new-docs)
 - [Traduzindo Documentos para Português (pt-br)](#translate-docs-ptbr)
 - [Revisando e corrigindo Documentos já traduzidos](#review-translation)
 - [Melhorando nosso site cypherpunks.com.br](#website-improvements)
 - [Iniciando, liderando ou auxiliando a criação de novos projetos](#start-new-projects)
-- [Divulgando o projeto Cypherpunks Brasil](#spread-the-word)
+- [Divulgando o Cypherpunks Brasil](#spread-the-word)
 <!-- Fazendo doações em criptomoedas ou outras formas de valor -->
 <!-- Melhorando ou criando tutoriais sobre qualquer assunto relacionado ao movimento cypherpunk-->
 ---
@@ -68,7 +68,7 @@ tags:
 ---
 ```
 
-**7.** Após ter feito isso seu documento está organizado e pronto para ser incluído no repositório raiz do projeto no GitHub. Para incluí-lo é necessário realizar um [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) da sua branch para a branch main do repositório raiz, exemplo: ```cypherpunksbr/documentos | main``` ```<--``` ```seu-nome-de-usuário/documentos | adiciona-bitcoin-whitepaper```. Após ter feito o PR, aguarde um dos membros da organização revisar suas alterações e aprovar seu trabalho. Obrigado por colaborar com o projeto!
+**7.** Após ter feito isso seu documento está organizado e pronto para ser incluído no repositório raiz do projeto no GitHub. Para incluí-lo é necessário realizar um [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) da sua branch para a branch main do repositório raiz, exemplo: ```cypherpunksbr/documentos | main``` ```<--``` ```seu-nome-de-usuário/documentos | adiciona-bitcoin-whitepaper```. Após ter feito o PR, aguarde um dos membros da organização revisar suas alterações e aprovar seu trabalho. Obrigado por colaborar!
 
 ---
 
@@ -101,7 +101,7 @@ Você pode traduzir qualquer documento presente na pasta [```/para traduzir/```]
 
 **7.** [Mova](wiki/GITHUB-BROWSER.md#renomeando-e-movendo-arquivos) novamente o documento de pasta. Agora você já finalizou a tradução e irá mover o documento para a pasta de revisão. Para isso você deve mover o arquivo do seu documento que está na pasta [```/sendo traduzidos/```](sendo%20traduzidos/) para a pasta [```/para revisar/```](para%20revisar/)
 
-**8.** Após mover no seu repositório, hora de replicar essa mudança no repositório original fazendo mais um [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) da sua branch para a branch main do repositório raiz assim como foi feito anteriormente, exemplo: ```cypherpunksbr/documentos | main``` ```<--``` ```seu-nome-de-usuário/documentos | traduz-bitcoin-whitepaper```. Após ter feito o PR, aguarde um dos membros da organização revisar suas alterações e aprovar seu trabalho. Obrigado por colaborar com o projeto!
+**8.** Após mover no seu repositório, hora de replicar essa mudança no repositório original fazendo mais um [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) da sua branch para a branch main do repositório raiz assim como foi feito anteriormente, exemplo: ```cypherpunksbr/documentos | main``` ```<--``` ```seu-nome-de-usuário/documentos | traduz-bitcoin-whitepaper```. Após ter feito o PR, aguarde um dos membros da organização revisar suas alterações e aprovar seu trabalho. Obrigado por colaborar!
 
 ---
 
@@ -121,7 +121,7 @@ Você pode revisar um documento que já esteja traduzido e disponível na pasta 
 
 **3.** Encontre o documento que deseja revisar na pasta [```/para revisar/```](para%20revisar). Caso este documento já possua pelo menos uma revisão, ele deverá estar na pasta [```/sendo revisados/```](sendo%20revisados).
 
-> Diferentemente do processo de tradução, o processo de revisão acontece mais de uma vez. Sendo assim, se você deseja revisar um documento que ainda está em [```/para revisar/```](para%20revisar/), primeiro você deve [move-lo](wiki/GITHUB-BROWSER.md#renomeando-e-movendo-arquivos) para a pasta [```/sendo revisados/```](sendo%20revisados/) e fazer uma [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request). Caso já exista pelo menos uma revisão deste documento, alguém já o terá movido, então ele deverá estar na pasta [```/sendo revisados/```](sendo%20revisados/)
+> Diferente do processo de tradução, o processo de revisão acontece mais de uma vez. Sendo assim, se você deseja revisar um documento que ainda está em [```/para revisar/```](para%20revisar/), primeiro você deve [move-lo](wiki/GITHUB-BROWSER.md#renomeando-e-movendo-arquivos) para a pasta [```/sendo revisados/```](sendo%20revisados/) e fazer uma [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request). Caso já exista pelo menos uma revisão deste documento, alguém já o terá movido, então ele deverá estar na pasta [```/sendo revisados/```](sendo%20revisados/)
 
 **4.** Na pasta correta, clique no nome do documento escolhido e habilite o modo de edição do Github clicando no lápis :pencil2: (canto superior direito da tela)
 
@@ -182,13 +182,13 @@ Quer ajudar a melhorar o [cypherpunks.com.br](https://cypherpunks.com.br/)?
 <div id='start-new-projects'/>
 
 ## Crie novos projetos
-Está inspirado? Iniciar um projeto do zero poderia ajudar a tornar o movimento cypherpunk ainda mais forte e descentralizado! Caso tenha alguma boa ideia que possa ajudar pessoas a se libertar por meio da criptologia, não hesite em colocar isso em prática. Inicie agora mesmo seu projeto de liberdade e conte sempre com o nosso apoio.
+Está inspirado? Iniciar um projeto do zero poderia ajudar a tornar o movimento cypherpunk ainda mais forte e descentralizado! Caso tenha alguma boa ideia que possa ajudar pessoas a se libertar por meio da criptologia, não hesite em colocar isso em prática. Use todo seu potencial, mostre tudo que aprendeu, traga todos que puder e conte sempre com o nosso apoio.
 
 ---
 
 <div id='spread-the-word'/>
 
-## Divulgue nosso projeto
+## Espalhe a palavra
 
 [![Facebook](/wiki/img/facebook.svg "Facebook")][8] [![Twitter](/wiki/img/twitter.svg "Twitter")][7] [![Instagram](/wiki/img/instagram.svg "Instagram")][6] [![Youtube](/wiki/img/youtube.svg "Youtube")][5] [![RSS](/wiki/img/rss.svg "RSS")][4] [![Odysee](/wiki/img/odysee.svg "Odysee")][3] [![Telegram](/wiki/img/telegram.svg "Telegram")][2] [![Cypherpunks Website](/wiki/img/website.svg "Cypherpunks Website")][1]
 

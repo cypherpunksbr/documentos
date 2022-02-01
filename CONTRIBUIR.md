@@ -190,7 +190,7 @@ Está inspirado? Iniciar um projeto do zero poderia ajudar a tornar o movimento 
 
 ## Espalhe a palavra
 
-[![Facebook](/wiki/img/facebook.svg "Facebook")][8] [![Twitter](/wiki/img/twitter.svg "Twitter")][7] [![Instagram](/wiki/img/instagram.svg "Instagram")][6] [![Youtube](/wiki/img/youtube.svg "Youtube")][5] [![RSS](/wiki/img/rss.svg "RSS")][4] [![Odysee](/wiki/img/odysee.svg "Odysee")][3] [![Telegram](/wiki/img/telegram.svg "Telegram")][2] [![Cypherpunks Website](/wiki/img/website.svg "Cypherpunks Website")][1]
+[![Facebook](/wiki/img/facebook.webp "Facebook")][8] [![Twitter](/wiki/img/twitter.webp "Twitter")][7] [![Instagram](/wiki/img/instagram.webp "Instagram")][6] [![Youtube](/wiki/img/youtube.webp "Youtube")][5] [![RSS](/wiki/img/rss.webp "RSS")][4] [![Odysee](/wiki/img/odysee.webp "Odysee")][3] [![Telegram](/wiki/img/telegram.webp "Telegram")][2] [![Cypherpunks Website](/wiki/img/website.webp "Cypherpunks Website")][1]
 
 
 

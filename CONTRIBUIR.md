@@ -57,7 +57,7 @@ O documento pode estar em qualquer idioma, incluindo o português (pt-br).
 title:  "Título do seu Documento aqui"
 date:   data da publicação no formato dia-mês-ano (exemplo: 31-10-2008)
 categories:
-   -  Artigo
+  - Artigo (ou o que faz mais sentido. ex: livro, glossário, etc.)
 author:
   - Nome Do Autor
   - Nome De Outros Autores Se Tiver

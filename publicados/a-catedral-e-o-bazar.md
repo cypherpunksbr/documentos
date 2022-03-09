@@ -1,5 +1,5 @@
 ---
-title:  "A Catedral e o Bazar"
+title:  A Catedral e o Bazar
 date:   2002-02-08
 author:
   - Eric S. Raymond
@@ -9,6 +9,7 @@ tags:
   - Linux
   - Software
   - Código aberto
+description: Análise de um projeto bem sucedido de código livre, o Fetchmail, que foi executado como um teste deliberado de algumas teorias surpreendentes sobre a tecnologia de programação sugerida pela história do Linux.
 ---
 
 ```

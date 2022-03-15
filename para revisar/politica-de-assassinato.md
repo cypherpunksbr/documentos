@@ -17,7 +17,7 @@ Revisado por: Cypherpunks Brasil
 ```
 
 
-**Nota de Tradutor:** Essa é uma tradução livre com intuito apenas de estudos e para leitura. O projeto não se responsabiliza por quaisquer ações feitas por terceiros.
+**Nota de Tradutor:** Essa é uma tradução livre com intuito apenas de leitura informal. Não nos responsabilizamos por quaisquer danos ou ações realizadas por terceiros a partir da interpretação deste material.
 
 
 ## Jim Bell

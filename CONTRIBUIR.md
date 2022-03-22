@@ -54,17 +54,18 @@ O documento pode estar em qualquer idioma, incluindo o português (pt-br).
 
 ```
 ---
-title:  "Título do seu Documento aqui"
+title:  Título do Seu Documento Aqui
 date:   data da publicação no formato dia-mês-ano (exemplo: 31-10-2008)
 categories:
-  - Artigo (ou o que faz mais sentido. ex: livro, glossário, etc.)
+  - Artigo (ou o que faz mais sentido. ex: livro, glossário, tutorial, etc.)
 author:
   - Nome Do Autor
-  - Nome De Outros Autores Se Tiver
+  - Nome De Outros Autores Se Tiver, Um Por Linha
 tags:
   - tag util 1 sem aspas
   - tag util 2 sem aspas
   - tag util 3 sem aspas
+description: Escreva aqui uma breve descrição sobre o documento. Essa descrição irá aparecer nos cards do site e na pré-visualização do link quando for enviado em redes sociais.
 ---
 ```
 

@@ -52,11 +52,11 @@ Para registro e acesso mais privativos, prefira utilizar TOR ou VPN, pois escond
 
 Você pode simplesmente usar o Element e fazer login com uma conta Google, mas aí já é de fude viu. Você também pode usar a opção que geralmente vem por padrão nos apps, que é se registrar no servidor oficial do Matrix (```matrix.org```). Essa opção é a mais usada, mas você precisa colocar e-mail para se registrar. Eles dizem que é só para recuperar a senha e evitar bots, acredita nisso quem quer. De qualquer forma, para conversar em grupos abertos sem nada de tão sigiloso isso já é bom o bastante.
 
-Na hora de registrar seu usuário, você pode encontrar uma opção para alterar o servidor. Dessa forma, pode criar seu nick por outros servidores que não obrigam usar e-mail no cadastro, como, por exemplo o ```monero.social```.
+Na hora de registrar seu usuário, você pode encontrar uma opção para alterar o servidor. Dessa forma, pode criar seu nick por outros servidores que não obrigam usar e-mail no cadastro, como por exemplo, ```monero.social```.
 
 É preferível que usuários estejam conectados a partir de diversos servidores, pois isso ajuda a distribuir mais a comunicação.
 
-A opção mais privada e ajuda a descentralizar a transmissão e armazenamento de mensagens é sem dúvidas hospedar seu próprio servidor Matrix. 
+A opção mais privada e que ajuda a descentralizar a transmissão e armazenamento de mensagens é sem dúvidas hospedar seu próprio servidor Matrix. 
 Tutoriais em inglês de como fazer seu host usando [Synapse](https://github.com/matrix-org/synapse):
 - https://theselfhostingblog.com/posts/self-hosting-your-own-matrix-server-on-a-raspberry-pi/
 - https://github.com/matrix-org/synapse/blob/master/README.rst
@@ -65,8 +65,9 @@ Tutoriais em inglês de como fazer seu host usando [Synapse](https://github.com/
 Bem, você criou uma conta, faça login nela.
 
 ### 4. Explore
-Você está na Matrix!
-Como sugestões de grupos, vou deixar alguns links no Matrix:
+Você está na Matrix
+
+Como sugestões de grupos, vou deixar alguns links:
 
 - Cypherpunks Brasil (oficial): https://matrix.to/#/#cypherpunksbrasil:matrix.org
 
@@ -74,10 +75,10 @@ Como sugestões de grupos, vou deixar alguns links no Matrix:
 
 - Ucrânia em Chamas: https://matrix.to/#/!XAGFbIkfyRKAtTybms:poa.st
 
-- Cute Aninals: https://matrix.to/#/!QIdoWeIDpboNLPkKgO:matrix.org
+- Cute Aminals: https://matrix.to/#/!QIdoWeIDpboNLPkKgO:matrix.org
 
 ### Então Matrix é perfeito?
 Em tudo há tradeoffs. Nesse caso você abre mão da facilidade de um app muito usado como Telegram e WhatsApp para ir para um app com menos contatos (talvez os que valem a pena)
-Matrix também não é a solução mais privada que existe. XMPP, por exemplo ganha nesse quesito como explicado em https://lukesmith.xyz/articles/matrix-vs-xmpp. Porém, para grupos abertos e chat geralmente, Matrix parece ser a melhor opção para tornar a comunicação resistente a censura.
+Matrix também não é a solução mais privada que existe. XMPP, por exemplo, ganha nesse quesito como explicado em https://lukesmith.xyz/articles/matrix-vs-xmpp. Porém, para grupos abertos e chat no geral, Matrix parece ser a melhor opção para tornar a comunicação resistente a censura.
 
 Compartilhe esse post para pessoas que possam ter interesse, é um favor que você faz a elas.

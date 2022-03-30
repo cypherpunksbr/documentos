@@ -6,17 +6,19 @@ author:
 categories:
   - Artigo
 tags:
-  - pan-anarquismo
+  - Pan-anarquismo
+  - Anarquismo
+  - Liberdade
+description: Cosmopolitas são pessoas que voluntariamente rejeitam e renunciam sua posição como membros de um Estado
 ---
 ```
 Traduzido por: Vinicius Yaunner, baseado no texo traduzido do alemão para o inglês por John Zube
-Revisado por: Cypherpunks Brasil
+Revisado por: Matheus Bach
 ```
 
 **Nota de Vinicius Yaunner**
-===exibe no card daqui pra baixo===
 
-Esse texto é um resgate de membros de um grupo anarquista alemão que participou do início do pensamento *pan-anarquista*, o intuito dela é mostrar um ponto sobre a liberdade e o convívio pacifico de certos grupos anarquistas de movimentos distintos.
+Esse texto é um resgate do relato de membros de um grupo anarquista alemão que participou do início do pensamento *pan-anarquista*. O intuito do texto é mostrar um ponto de vista sobre a liberdade e o convívio pacifico de certos grupos anarquistas de movimentos distintos.
 
 
 **Nota de John Zube**
@@ -25,7 +27,7 @@ Esta é minha tradução aproximada do original alemão, um anúncio em uma revi
 
 Eu conheço apenas três ex-membros. 
 
-1. *Werner Ackermann*, que o assinou, mais tarde conseguiu escapar dos nazistas e foi, entre outras coisas, um escritor na África do Sul, ainda sob restrições consideráveis lá. Sua correspondência anterior com Ulrich von Beckerath, principalmente sobre os direitos das minorias, preencheu dois arquivos de alavanca de arco e está presumivelmente perdida. A parte de Beckerath foi queimada em um ataque aéreo em 1943.
+1. *Werner Ackermann*, que o assinou, mais tarde conseguiu escapar dos nazistas e foi, entre outras coisas, um escritor na África do Sul, ainda sob restrições consideráveis lá. Sua correspondência anterior com Ulrich von Beckerath, principalmente sobre os direitos das minorias, preencheu dois fichários de arquivos e está presumivelmente perdida. A parte de Beckerath foi queimada em um ataque aéreo em 1943.
 
 2. *Ulrich von Beckerath*, 1882–1969, que, eu suspeito, ajudou muito neste rascunho. É muito parecido com o seu estilo de propor novas associações.
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - Transhumanismo
   - Anarquismo
-description: 
+description: O anarco-transumanismo é o reconhecimento de que a liberdade social está inerentemente ligada à liberdade material e que a liberdade é, em última análise, uma questão de expandir nossa capacidade e oportunidades de nos envolver com o mundo ao nosso redor. Isso significa não apenas estar livre das limitações arbitrárias que nossos corpos podem impor, mas também para moldar o mundo ao nosso redor e aprofundar o potencial de nossas conexões entre si por meio dele.
 ---
 ```
 Traduzido por: Vinicius Yaunner

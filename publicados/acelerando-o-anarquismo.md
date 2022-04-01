@@ -1,18 +1,18 @@
 ---
-title:  "Acelerando o Anarquismo"
+title:  "Acelerando o Anarquismo - uma introdução ao anarco-transumanismo"
 date:   2018-01-01
 author:
   - Blueshifted
 categories:
   - Artigo
 tags:
-  - transhumanismo
-  - anarco-transumanismo
-  - anarquismo
+  - Transhumanismo
+  - Anarquismo
+description: 
 ---
 ```
 Traduzido por: Vinicius Yaunner
-Revisado por: Cypherpunks Brasil
+Revisado por: Matheus Bach
 ```
 
 # Acelerando o Anarquismo
@@ -20,13 +20,11 @@ Revisado por: Cypherpunks Brasil
 
 ### Blueshifted
 
-===exibe no card daqui pra baixo===
-
     "Ser humano é querer ser mais"
 
     “À ousadia pertence o futuro”
 
-Os tempos mudaram. As fantasias tecnológicas selvagens dos primeiros anarquistas como a internet, a pílula, a terapia hormonal e a impressão 3D se tornaram realidade, expandindo dramaticamente a agência humana. Ao mesmo tempo, a paisagem mudou. Os anarquistas frequentemente se concentram no imediato, ou se preocupam em voltar a lutar contra as batalhas do passado, e não se prepararam adequadamente para as lutas e desafios futuros. Não precisa ser assim.
+Os tempos mudaram. As fantasias tecnológicas selvagens dos primeiros anarquistas se tornaram realidade, como a internet, a pílula, a terapia hormonal e a impressão 3D, expandindo dramaticamente a agência humana. Ao mesmo tempo, a paisagem mudou. Os anarquistas frequentemente se concentram no imediato, ou se preocupam em voltar a lutar contra as batalhas do passado, e não se prepararam adequadamente para as lutas e desafios futuros. Não precisa ser assim.
 
 O anarco-transumanismo é o reconhecimento de que a liberdade social está inerentemente ligada à liberdade material e que a liberdade é, em última análise, uma questão de expandir nossa capacidade e oportunidades de nos envolver com o mundo ao nosso redor. É a compreensão de que nossa resistência contra as forças sociais que nos subjugariam e nos limitariam é apenas parte de um espectro de esforços para expandir a agência humana — para facilitar nossa investigação e criatividade.
 

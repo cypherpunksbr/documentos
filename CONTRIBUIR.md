@@ -1,4 +1,21 @@
+---
+title:  'Faça Parte: Guia Para Colaboração'
+date:   2022-03-22
+categories:
+  - Guia
+  - Toturial
+tags:
+  - Contribuição
+  - Voluntarismo
+author:
+  - Tipretin
+  - Matheus Bach
+description: 'Cypherpunks Brasil é um projeto voluntário que depende da contribuição de todos que desejam manter e crescer o projeto. Nesse guia apresentamos diversas formas de contribuir com o projeto'
+---
+
 # Contribua com o Projeto
+
+Cypherpunks Brasil depende da contribuição voluntária de todos que desejam manter e crescer o projeto. Fizemos muito até aqui e queremos continuar. Nesse guia apresentamos diversas formas de contribuir com o projeto
 
 ## Como ajudar o Cypherpunks Brasil?
 
@@ -18,7 +35,7 @@
 No Github você só pode alterar projetos que você mesmo tenha criado, ou seja, somente os repositórios que estiverem em ```github.com/seu-nome-de-usuário/nome-do-seu-projeto``` poderão ser alterados diretamente por você. De qualquer forma, isso não te impede de enviar contribuições para projetos criados por outras pessoas. Por exemplo, para contribuir com o nosso projeto, em vez de editar o repositório original ```github.com/cypherpunksbr/documentos```, você deve:
 
 1. Fazer uma cópia (Fork) desse repositório
-   * Após o Fork, você terá uma cópia exata do repositório original ```github.com/cypherpunksbr/documentos``` que estará em ```github.com/seu-nome-de-usuário/documentos```
+  * Após o Fork, você terá uma cópia exata do repositório original ```github.com/cypherpunksbr/documentos``` que estará em ```github.com/seu-nome-de-usuário/documentos```
 
 2. Criar uma "área de trabalho" (Branch) para fazer suas alterações
 
@@ -54,7 +71,7 @@ O documento pode estar em qualquer idioma, incluindo o português (pt-br).
 
 ```
 ---
-title:  Título do Seu Documento Aqui
+title:  'Título do Seu Documento Aqui'
 date:   data da publicação no formato dia-mês-ano (exemplo: 31-10-2008)
 categories:
   - Artigo (ou o que faz mais sentido. ex: livro, glossário, tutorial, etc.)
@@ -65,9 +82,11 @@ tags:
   - tag util 1 sem aspas
   - tag util 2 sem aspas
   - tag util 3 sem aspas
-description: Escreva aqui uma breve descrição sobre o documento. Essa descrição irá aparecer nos cards do site e na pré-visualização do link quando for enviado em redes sociais.
+description: 'Escreva aqui uma breve descrição sobre o documento. Essa descrição irá aparecer nos cards do site e na pré-visualização do link quando for enviado em redes sociais.'
 ---
 ```
+Nota: aspas simples ou duplas são necessárias caso os dados contenham caracteres especiais
+
 
 **7.** Após ter feito isso seu documento está organizado e pronto para ser incluído no repositório raiz do projeto no GitHub. Para incluí-lo é necessário realizar um [Pull Request (PR)](wiki/GITHUB-BROWSER.md#criando-um-pull-request) da sua branch para a branch main do repositório raiz, exemplo: ```cypherpunksbr/documentos | main``` ```<--``` ```seu-nome-de-usuário/documentos | adiciona-bitcoin-whitepaper```. Após ter feito o PR, aguarde um dos membros da organização revisar suas alterações e aprovar seu trabalho. Obrigado por colaborar!
 

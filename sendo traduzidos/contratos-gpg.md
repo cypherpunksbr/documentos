@@ -1,16 +1,16 @@
-GPG Contracts
+Contratos GPG
 Mircea Popescu
 ==============
 
 #### 
 
-October 24, 2012
+24 de Outubro de 2012
 
-*Originally published at [Trilema](http://trilema.com/2012/gpg-contracts/)*
+*Publicado originalmente em [Trilema](http://trilema.com/2012/gpg-contracts/)*
 
-While economics certainly predate writing and could in principle be recognised in the functioning of simple organisms or even basic physical processes<sup>[i](#i "Such as the trajectory of a boulder expelled from a volcano, where the kinetic energy is the capital and the trajectory the purchase ; or the life of stars where hydrogen and later helium are the means of production allowing for radiative output.")</sup>, the current formalisation thereof is doubtless an invention of the later Latins<sup>[ii](#ii "Lombards, Venetians, Genovese and others.")</sup> reaching us through the mediation of Blackstone‚Äôs Common Law if we speak English, Napoleon‚Äôs Code if we speak most any other European language and so forth. It is quite strictly a white man‚Äôs invention, it is quite strictly European<sup>[iii](#iii "In a non-Continental sense of that word.")</sup> and it is a central (or possibly the principal) component of ‚ÄúWestern‚Äù cultural identity. It is, if you will, what makes white people white rather than Asian or African.
+Enquanto a economia certamente preda a escrita e poderia, em princ√pio, ser reconhecida no funcionamento de simples organismos, ou at√ mesmo em processos f√sicos b√sicos <sup>[i](#i "Como a traget√ria de um rocha ejetada de um vulc√o, onde a energia cin√tica √©o capital e a trajet√ria √ a compra; ou a vida das estrelas onde o hidrog√nio e posterior h√lio s√o os meios de produ√√o permitindo um produto radioativo.")</sup>, No entanto, a atual formaliza√√o, √, sem d√vidas, uma inven√√o dos latinos tardios.<sup>[ii](#ii "Lombards, Venetians, Genovese and others.")</sup> reaching us through the mediation of Blackstone‚Äôs Common Law if we speak English, Napoleon‚Äôs Code if we speak most any other European language and so forth. It is quite strictly a white man‚Äôs invention, it is quite strictly European<sup>[iii](#iii "In a non-Continental sense of that word.")</sup> and it is a central (or possibly the principal) component of ‚ÄúWestern‚Äù cultural identity. It is, if you will, what makes white people white rather than Asian or African.
 
-Consequently it has been imposed with varying degrees of success everywhere the white man went, from the Americas to the Bengal Valley and beyond. American Indians‚Äô vague and mostly philosophically confused notions of ownership (in particular in what pertains to land) were from the very beginning the root of political tension on that continent, and ultimately congealed in ‚Äúthe Indian question‚Äù as well as the genocidal solution thereof. Africans‚Äô naive representation of economics were in good faith seen as sufficient cause for the inferior social position of that entire race as late as the 18th century. White people have judged all others primarily on the basis of those others‚Äô depth of understanding and craftiness in applying this central mental structure since the very beginning of time, and the Crusades have had more to do with Arabs‚Äô bizarre notions of economy than with any interest of theology or religion.
+Consequentemente, foi imposto com v√°rios n√≠veis de sucessoem qualquer lugar que homem branco pisou, desde as Am√ricas at√ o Bengal Valley e al√m. American Indians‚Äô vague and mostly philosophically confused notions of ownership (in particular in what pertains to land) were from the very beginning the root of political tension on that continent, and ultimately congealed in ‚Äúthe Indian question‚Äù as well as the genocidal solution thereof. Africans‚Äô naive representation of economics were in good faith seen as sufficient cause for the inferior social position of that entire race as late as the 18th century. White people have judged all others primarily on the basis of those others‚Äô depth of understanding and craftiness in applying this central mental structure since the very beginning of time, and the Crusades have had more to do with Arabs‚Äô bizarre notions of economy than with any interest of theology or religion.
 
 We won‚Äôt go into a detailed discussion of that mental structure here, fascinating as it may be<sup>[iv](#iv "Both for lack of space and because I‚Äôm not being paid quite enough to be holding impromptu doctoral courses on History of Culture.")</sup>, but instead limit ourselves to observing that the contract is a central piece thereof<sup>[v](#v "Thrice in one article, take that!")</sup>. This contract, or should we maybe say Contract is quite the term of art<sup>[vi](#vi "Meaning, something with a fixed and peculiar meaning which is not open to intra-discourse negotiation the way most other words are.")</sup>, and it means a. an agreement b. reached by willing participants which c. shall be enforced against them.
 
@@ -62,7 +62,7 @@ I‚Äôm crying with joy over here, my toes are curling in untold glee, I have litt
 
 ---
 
-*Visit [Trilema](http://trilema.com/) to read more from Mircea Popescu.
+*Visite [Trilema](http://trilema.com/) para obter mais conte√do de Mircea Popescu.
 Mircea holds court in the [\#bitcoin-assets](http://webchat.freenode.net/?channels=bitcoin-assets) IRC channel.
  Read [the logs](http://log.bitcoin-assets.com/) before bloviating.
  Learn the [why](http://bitcoinpete.com/2014/03/27/who-what-where-when-why-web-of-trust/) and the [how](http://bitcoinpete.com/2014/03/31/biting-into-the-wot-elephant-and-irc-nicknames/) of joining [\#bitcoin-otc](http://webchat.freenode.net/?channels=bitcoin-otc)'s Web of Trust from Bitcoin Pete.*

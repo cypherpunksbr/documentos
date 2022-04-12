@@ -21,4 +21,4 @@ Em 28 de junho de 2016, um livro chegou até mim pelo correio chamado “The Min
 
 Em 28 de junho de 2017, convido você a se juntar a mim no meu primeiro aniversário de prática. Estarei meditando das 16h às 17h. Por qualquer período de tempo durante essa hora, sente-se confortavelmente, mas com atenção, relaxe e concentre-se nas sensações de sua respiração. Quando perceber que sua mente está divagando, concentre-se novamente na respiração. É isso aí! Desta forma, podemos nos conectar, apesar das grades e paredes.
 
-![carta meditação](../stuff//meditation-day-1-768x1055.jpeg)
+![carta meditação](../stuff/meditation-day-1-768x1055.jpeg)

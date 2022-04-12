@@ -29,4 +29,4 @@ Estou aqui na biblioteca jurídica da Federal Pen em Florence, Colorado, não mu
 Atenciosamente,
 Ross
 
-![carta para nexus](../stuff//Nexus_2017.png)
+![carta para nexus](../stuff/Nexus_2017.png)

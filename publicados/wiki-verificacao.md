@@ -1,5 +1,17 @@
-# Verificação de integridade e autenticidade
+---
+title:  Verificação de integridade e autenticidade (texto da antiga wiki)
+date:   2019-01-01
+author:
+  - Cypherpunks Brasil
+categories:
+  - Tutorial
+description: Tutorial movido da antiga wiki Cypherpunks Brasil para o site.
+---
 
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+# Verificação de integridade e autenticidade
+---
 
 Por vezes torna-se importante averiguar a integridade e autenticidade de arquivos baixados. Para se ter a certeza da origem e que o mesmo não corrompeu durante o download.
 

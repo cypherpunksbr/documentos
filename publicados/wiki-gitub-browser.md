@@ -1,4 +1,19 @@
-# Tutorial de uso do GitHub via website 
+---
+title:  Tutorial de uso do Github via website 
+date:   2021-11-02
+author:
+  - Matheus Bach
+  - Tipretin
+categories:
+  - Tutorial
+tags:
+  - Github
+description: Tutorial de Github pelo browser para fluxo de contribuições no repositório do Cypherpunks Brasil
+---
+
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+# Tutorial de uso do Github via website 
 
 ## Fluxo básico de contribuição
 No Github você só pode alterar projetos que você mesmo tenha criado, ou seja, somente os repositórios que estiverem em ```github.com/seu-nome-de-usuário/nome-do-seu-projeto``` poderão ser alterados diretamente por você. De qualquer forma, isso não te impede de enviar contribuições para projetos criados por outras pessoas. Por exemplo, para contribuir com o nosso projeto, em vez de ir até o repositório original ```github.com/cypherpunksbr/documentos```, você precisará:
@@ -28,7 +43,7 @@ A seguir você encontra um tutorial de como executar cada um desses passos diret
 
 - Dentro do repositório do qual você deseja criar uma cópia, no canto superior direito, clique em ```Fork```
 
-![gif tutorial](img/github-website-fork.gif)
+![gif tutorial](../stuff/github-website-fork.gif)
 
 - Você será redirecionado para a cópia que acabou de criar ```github.com/seu-nome-de-usuário/documentos```
 
@@ -40,7 +55,7 @@ A seguir você encontra um tutorial de como executar cada um desses passos diret
 
 - Digite um nome para sua nova branch e em seguida clique em ```criar branch: nome-da-branch```
 
-![gif tutorial](img/github-website-new-branch.gif)
+![gif tutorial](../stuff/github-website-new-branch.gif)
 
 > Você pode navegar de uma branch para outra usando este mesmo atalho. Todas as branchs do repositório estarão listadas lá.
 ---
@@ -51,7 +66,7 @@ A seguir você encontra um tutorial de como executar cada um desses passos diret
 - No canto superior direito da exibição do arquivo, clique no lápis :pencil2: para abrir o editor de arquivos
 - Para alterar o nome do arquivo basta ir na barra superior e editar o nome
 
-![gif tutorial](img/github-website-rename-move.gif)
+![gif tutorial](../stuff/github-website-rename-move.gif)
 
 - Para mover o arquivo para uma subpasta, digite o nome da pasta desejada, seguido por ```/```. Sua nova pasta é um novo item na navegação estrutural
 - Para mover o arquivo para um diretório acima da localização atual do arquivo, coloque o cursor no início do campo ```nome do arquivo``` e digite ```../``` para pular um nível de diretório inteiro ou pressione a tecla backspace para editar o nome da pasta principal
@@ -66,7 +81,7 @@ A seguir você encontra um tutorial de como executar cada um desses passos diret
 - Coloque um título e uma descrição para manter as coisas organizadas
 - Confirme a criação do Pull Request pelo botão 
 
-![gif tutorial](img/github-website-pull-request.gif)
+![gif tutorial](../stuff/github-website-pull-request.gif)
 
 ---
 
@@ -77,7 +92,7 @@ A seguir você encontra um tutorial de como executar cada um desses passos diret
 - Coloque um título e uma descrição sobre sua contribuição, dúvida, etc.
 - Confirme o envio da Issue pelo botão 
 
-![gif tutorial](img/github-website-issue.gif)
+![gif tutorial](../stuff/github-website-issue.gif)
 
 [Branch]:                          #criando-uma-nova-branch
 [Fork]:                            #criando-um-fork

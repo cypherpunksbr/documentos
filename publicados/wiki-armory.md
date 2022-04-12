@@ -1,3 +1,15 @@
+---
+title:  Transações offline com Armory (texto da antiga wiki)
+date:   2019-01-01
+author:
+  - Cypherpunks Brasil
+categories:
+  - Tutorial
+description: Tutorial movido da antiga wiki Cypherpunks Brasil para o site.
+---
+
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 # Transações offline com Armory
 ---
 
@@ -33,7 +45,7 @@ gpg –verify sha256sum.asc
 ```
 Isso é importante para ter certeza da autenticidade da origem do arquivo (se foi assinado pelo desenvolvedor), além de verificar se não está corrompido.
 
-![assinatura](img/armory-01.png)
+![assinatura](../stuff/armory-01.png)
 
 Agora precisamos verificar o hash do instalador. Digite no terminal:
 ```
@@ -42,7 +54,7 @@ sha256sum armory_0.96.4_amd64_gcc4.7_noasm.deb
 
 Copie o hash que aparece e, então, abra o sha256sum.asc com um editor de texto e confira o hash do instalador que baixou. Para verificar se os hashes correspondem não olhe caractere por caractere, abra a função de localização e cole o hash que você copiou do terminal. O resultado deve ser igual ao hash da mensagem assinada.
 
-![hash](img/armory-02.png)
+![hash](../stuff/armory-02.png)
 
 Uma forma de verificar o arquivo rapidamente é digitando:
 ```
@@ -56,7 +68,7 @@ armory_0.96.4_amd64_gcc7.2.deb: SUCESSO
 
 Com tudo verificado podemos instalar.
 
-![instalacao](img/armory-03.png)
+![instalacao](../stuff/armory-03.png)
 
 Os pacotes extras serão instalados automaticamente.
 
@@ -69,49 +81,49 @@ A partir de agora seu PC offline nunca mais deve entrar em contato com a interne
 
 Abra o Armory e, após aceitar os termos, vamos criar nossa carteira offline.
 
-![](img/armory-04.png)
+![](../stuff/armory-04.png)
 
 Por enquanto vamos clicar em skip.
 
-![](img/armory-05.png)
+![](../stuff/armory-05.png)
 
 Clique em User e selecione Expert.
 
-![](img/armory-06.png)
+![](../stuff/armory-06.png)
 
 Feche o programa e abra novamente.
 
 Quando aparecer a pergunta se quer usar o Armory como programa padrão de bitcoin pode aceitar. Nesse computador offline nenhum outro programa deve estar instalado, portanto isso não importa muito.
 
-![](img/armory-07.png)
+![](../stuff/armory-07.png)
 
 Agora vamos em Create Your First Wallet.
 
-[](img/armory-08.png)
+[](../stuff/armory-08.png)
 
 Selecione Add Manual Entropy.
 
-![](img/armory-09.png)
+![](../stuff/armory-09.png)
 
 Escolha cartas aleatoriamente até gerar pelo menos 192 bits de entropia (quanto maior a entropia melhor), depois clique em Next.
 
 Agora crie uma senha boa para sua carteira. 
 Essa senha vai te proteger caso alguém tenha acesso físico ao seu computador. 
 
-![](img/armory-10.png)
+![](../stuff/armory-10.png)
 
 Depois de repetir a senha vamos criar o backup em papel.
 
-![](img/armory-11.png)
+![](../stuff/armory-11.png)
 
 Essa é a etapa mais importante!
 Vamos usar a opção Single-Sheet, que protege a carteira mesmo que a senha do passo anterior seja perdida.
 
-![](img/armory-12.png)
+![](../stuff/armory-12.png)
 
 Anote com atenção sua Root Key, Wallet Version e Wallet ID. Faça algumas cópias e guarde em locais seguros.
 
-![](img/armory-13.png)
+![](../stuff/armory-13.png)
 
 **Atenção**
 Qualquer pessoa que conseguir acesso a esse backup em papel terá acesso ao seus Bitcoins!
@@ -119,25 +131,25 @@ Qualquer pessoa que conseguir acesso a esse backup em papel terá acesso ao seus
 
 Depois de copiar essas informações em papel e conferir tudo feche essa janela e clique em Test Backup.
 
-![](img/armory-14.png)
-![](img/armory-15.png)
+![](../stuff/armory-14.png)
+![](../stuff/armory-15.png)
 
 Se tudo estiver correto veremos a seguinte mensagem.
 
-![](img/armory-16.png)
+![](../stuff/armory-16.png)
 
 Feche a janela. E de volta ao Step 4 clique em next.
 
 Agora podemos criar uma Watching-Only Wallet, essa é a wallet que ficará no PC online para monitorar e iniciar transações.
 Nesse tutorial vamos usar a Omni para isso, mas caso tenha interesse em baixar a blockchain e usar a parte online do Armory você pode criar essa Watching-Only Wallet. Basta salvar o arquivo e enviar para o PC online.
 
-![](img/armory-17.png)
+![](../stuff/armory-17.png)
 
 Feche essa janela e o Wallet Creation Wizard.
 
 Como o backup já foi feito em papel pode clicar em Yes.
 
-![](img/armory-18.png)
+![](../stuff/armory-18.png)
 
 Pronto!
 Essa é uma carteira determinística, então todos os endereços gerados estão protegidos no backup em papel. Uma carteira determinística (HD Wallet) é capaz de gerar sempre um novo endereço público para cada transação de envio ou recebimento, com a praticidade de se poder acessá-los com a mesma chave.
@@ -149,57 +161,57 @@ Vamos usar a **Omniwallet** para iniciar as transações dessa forma não precis
 
 Abra o Armory no PC offline e clique em Lockboxes.
 
-![](img/armory-19.png)
+![](../stuff/armory-19.png)
 
 Select Publick Key.
 
-![](img/armory-20.png)
+![](../stuff/armory-20.png)
 
 Escolha um endereço.
 
-![](img/armory-21.png)
+![](../stuff/armory-21.png)
 
 Clique em Select Address.
 
-![](img/armory-22.png)
+![](../stuff/armory-22.png)
 
 Copie a chave pública para um arquivo de texto e transfira para o PC online.
 
-![](img/armory-23.png)
+![](../stuff/armory-23.png)
 
 Agora entre na sua conta da Omniwallet. Vá em My Addresses – Add Addresses – Add Armory Offline Address.
 
-![](img/armory-24.png)
+![](../stuff/armory-24.png)
 
 Cole a chave pública que foi salva no arquivo de texto e clique Add Address.
 
 Esse ícone mostra que a chave privada está offline.
 
-![](img/armory-26.png)
+![](../stuff/armory-26.png)
 
 ## IV - Enviar moedas da carteira offline
 
 Quando você selecionar um endereço offline para enviar bitcoins você terá que salvar uma **transação não assinada** em um arquivo de texto, que é um pedido de assinatura para a chave privada. Basta salvar o arquivo e enviar para o PC offline.
 
-![](img/armory-27.png)
+![](../stuff/armory-27.png)
 
 Com o arquivo no PC Offline clique em Offline Transactions e depois Sign Offline Transaction.
 
-![](img/armory-28.png)
+![](../stuff/armory-28.png)
 
 Clique em Load File, carregue a transação não assinada e clique em Sign.
 
-![](img/armory-29.png)
+![](../stuff/armory-29.png)
 
 Depois escolha Broadcast e salve a transação assinada em um outro arquivo de texto. Após isso, envie o arquivo para o PC online.
 
 De volta a Omniwallet vá em ```My Addresses –> Actions –> Broadcast Transaction```.
 
-![](img/armory-30.png)
+![](../stuff/armory-30.png)
 
 Cole o texto assinado e clique em Broadcast.
 
-![](img/armory-31.png)
+![](../stuff/armory-31.png)
 
 **Se todos os passos foram seguidos corretamente seus bitcoins foram enviados e em nenhum momento a chave privada foi exposta a rede.**
 

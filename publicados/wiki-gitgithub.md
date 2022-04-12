@@ -1,5 +1,17 @@
-# Git e GitHub
+---
+title:  Git e Github (texto da antiga wiki)
+date:   2019-01-01
+author:
+  - Cypherpunks Brasil
+categories:
+  - Tutorial
+description: Tutorial movido da antiga wiki Cypherpunks Brasil para o site.
+---
 
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+# Git e GitHub
+---
 
 #### Se você não sabe ou não está acostumado a usar essas ferramentas, pule para o [passo a passo detalhado](#passo-a-passo-detalhado)
 
@@ -57,14 +69,14 @@ Atenção!  Antes de iniciar o passo a passo, leia toda a explicação até o fi
 ## I - Forkando o repositório
 
 A primeira coisa a fazer é _forkar_ o repositório. Acesse a página do repositório no **Github** e clique no botão _Fork_:
-![Forkar o repositório](img/gitgithub-01.png)
+![Forkar o repositório](../stuff/gitgithub-01.png)
 
 _O que significa forkar?_
 A tradução literal de _fork_ é garfo. Então, você dá uma “garfada” no repositório, dá aquela enrolada no garfo e traz ele pra sua conta :laughing:
 
 Quando você _forkar_ o repositório, repare que, abaixo do nome do repositório é mostrado o repositório original, ou seja, de onde ele foi _forkado_:
 
-![Forkado de](img/gitgithub-02.png)
+![Forkado de](../stuff/gitgithub-02.png)
 
 Você agora pode fazer o que quiser com esse repositório (tomando cuidado com a licença sob a qual ele foi liberado). A ideia aqui é resolver um problema e enviar o _pull request_ com a correção para o repositório original. Como você não tem permissão para commitar diretamente no repositório principal, você precisa _forkar_ e alterar no seu, para então submeter a correção.
 
@@ -74,7 +86,7 @@ Após _forkar_, vamos fazer nossas alterações!
 ## II - Clonando o repositório
 
 Agora você precisa baixar os arquivos do repositório para que você possa alterar. A primeira coisa a fazer é copiar a URL do repositório daqui:
-![Clonar repositório](img/gitgithub-03.png)
+![Clonar repositório](../stuff/gitgithub-03.png)
 
 Confira se o texto destacado está como ```Clone with SSH```. Se não estiver, clique em ```Use SSH``` que aparece ao lado.
 
@@ -145,7 +157,7 @@ git push origin Atualiza_glossario
 Você vai rodar esse comando, trocando ```Atualiza_glossario``` pelo nome da sua **branch**, obviamente.
 
 Fazendo isso, acesse a conta do repositório original no **Github**, e você verá uma mensagem como essa:
-![Mensagem de Pull Request no Github](img/gitgithub-04.png)
+![Mensagem de Pull Request no Github](../stuff/gitgithub-04.png)
 
 Depois é só clicar no botão verde **Compare & pull request**.
 
@@ -155,7 +167,7 @@ _Pull Request_ é quando você envia uma sugestão de melhoria para o repositór
 Quando você quer trazer, pegar, puxar algo para o seu repositório usando o **git**, você usa o comando ```git pull```. Então, um _pull request_ nada mais é do que uma requisição ou pedido para que aquele repositório faça um _pull_ com as suas alterações. :smile:
 
 Após clicar no botão **Compare & pull request**, você será direcionado para a tela onde você vai criar o _pull request_ e pode conferir se as alterações que aparecem realmente correspondem às alterações que você fez:
-![Mensagem de Pull Request](img/gitgithub-05.png)
+![Mensagem de Pull Request](../stuff/gitgithub-05.png)
 
 Na imagem acima você pode ver:
 * Onde diz **base fork** é o diretório padrão. No meu caso, está em **cypherpunksbr/cypherpunks.com.br**.
@@ -168,7 +180,7 @@ Depois disso, você vai colocar um título no seu _pull request_, para que, ao v
 Lembre-se de comentar porque você está fazendo esse **pull request** e porque faz sentido para o repositório. Uma boa defesa pode ajudar a fazer com que seu **pull request** seja aceito.
 
 Antes de clicar no botão **Create pull request**, confira os dados da imagem abaixo:
-![Conferir Pull Request](img/gitgithub-06.png)
+![Conferir Pull Request](../stuff/gitgithub-06.png)
 
 Rolando um pouco, você vai ver os _commits_ que você fez. Confira se está na _branch_ correta, e que você está enviando somente aquilo que você alterou. Se você escolher uma **branch** errada para enviar, você verá milhares de outras alterações - ou talvez nenhuma, se for a mesma _branch_ - que não fará sentido de ser feito o **merge** do _pull request_.
 
@@ -177,8 +189,8 @@ No meu caso, eu fiz só uma alteração no **GLOSSARIO.md**, adicionando a expre
 Depois de tudo verificado, clique no botão **Creat pull request** e aguarde a resposta! Você será avisado por e-mail - se você não desabilitou as notificações - se houver qualquer atividade nesse _pull request_. Se a _branch_ for fechada, foi por que o autor achou que a alteração não fez sentido ou o **merge** foi feito.
 
 Se ele fez o **merge**, então sua alteração já faz parte do repositório principal, e você aparecerá na guia **Contributors** do repositório principal:
-![Colaboradores](img/gitgithub-07.png)
-![Lista de colaboradores](img/gitgithub-08.png)
+![Colaboradores](../stuff/gitgithub-07.png)
+![Lista de colaboradores](../stuff/gitgithub-08.png)
 Como você viu na imagem acima, aparece quantos _commits_ você fez, quanto código você adicionou e quanto você removeu!
 
 ## V - Modificações aprovadas
@@ -224,7 +236,7 @@ Quando iniciar uma nova contribuição comece pelo passo a partir da criação d
 Se você entendeu toda a explicação, volte ao começo do texto e faça o [passo a passo simplificado](#passo-a-passo-simplificado).
 
 
-[aqui]: https://github.com/cypherpunksbr/cypherpunks.com.br/blob/main/documentacao/GIT.md
+[aqui]: /documentos/wiki-git/
 [esmague-os]: http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 [_Issue_]: https://github.com/cypherpunksbr/cypherpunks.com.br/issues
-[contribuições]: https://github.com/cypherpunksbr/cypherpunks.com.br/blob/main/CONTRIBUTING.md
+[contribuições]: /documentos/contribuir-cypherpunksbr/  

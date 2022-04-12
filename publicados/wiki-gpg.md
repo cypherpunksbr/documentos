@@ -1,5 +1,21 @@
-# GPG
+---
+title:  Tutorial GPG - Passo a Passo Simplificado
+date:   2019-01-01
+author:
+  - Cypherpunks Brasil
+categories:
+  - Tutorial
+tags:
+  - PGP
+  - GPG
+  - Criptografia
+description: Tutorial movido da antiga wiki Cypherpunks Brasil para o site.
+---
 
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+# GPG
+---
 
 ## Passo a passo simplificado
 

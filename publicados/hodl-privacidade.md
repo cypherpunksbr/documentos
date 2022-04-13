@@ -13,7 +13,8 @@ description: 'As maneiras de interagir com o bitcoin estão melhorando com o tem
 ---
 
 ```
-Traduzido por: Bitdov
+Fork de HODL-privacy da 6102bitcoin, traduzido e alterado por bitdov
+
 Revisado por: Matheus Bach
 ```
 

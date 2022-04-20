@@ -13,6 +13,12 @@ author:
 description: 'Essa template é apenas um exemplo para te ajudar a passar textos para esse padrão. Obviamente esse documento não é para ser traduzido, apenas para servir como exemplo'
 ---
 
+```
+Traduzido por: pipipi popopo
+Revisado por: peixe lua
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 # Título Principal
 texto textos texost exto sexo.
 
@@ -28,3 +34,5 @@ Siga uma padronização. Isso é bom para:
 ### Subcapítulo 2
 ## Capítulo 2
 ### Subcapítulo 3
+
+Fonte: https://fonte.fonte

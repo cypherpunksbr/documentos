@@ -1,6 +1,6 @@
 ---
 title:  'Crypto Cities'
-date:   2020-09-21
+date:   2021-10-31
 categories:
   - Artigo
 tags:

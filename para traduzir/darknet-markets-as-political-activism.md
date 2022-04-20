@@ -11,6 +11,12 @@ author:
 description: 'Favor colocar aqui uma descrição'
 ---
 
+```
+Tradução por: Traduza_e_coloque_seu_nome_aqui
+Formatação e revisão: Matheus Bach, revise_para_estar_aqui
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
 # Darknet Markets as Political Activism
 Ross Ulbricht’s life has become a nightmare. In 2013 he was given a life sentence with no chance of parole; he was charged with being the suspected founder and operator of the online drug market Silk Road. The operator of this site was previously only known as Dread Pirate Roberts- a name one might recall from the book and film The Princess Bride. This name was used not by one man, but a series of men all using the pseudonym to pass along identity and reputation. Ross’s sentencing was not just a criminal case. There is good reason to see it as a form of political warfare. Those in power desired to make an example of him. They wished to threaten anyone who might try to recreate his alleged activities. Ironically his conviction brought online darknet marketplaces into the mainstream. His case forces us to ask questions about the implications of these systems and what they mean for the future of the “War on Drugs.”
 

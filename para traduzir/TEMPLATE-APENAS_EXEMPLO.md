@@ -35,4 +35,5 @@ Siga uma padronização. Isso é bom para:
 ## Capítulo 2
 ### Subcapítulo 3
 
+---
 Fonte: https://fonte.fonte

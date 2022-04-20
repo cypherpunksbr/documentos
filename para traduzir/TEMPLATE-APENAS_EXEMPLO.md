@@ -20,19 +20,24 @@ Revisado por: peixe lua
 [```ver lista de contribuidores```](/about/#contribuidores)
 
 # Título Principal
+
 texto textos texost exto sexo.
 
 ## Capítulo 1
+
 Usamos ```markdown```. Aprenda [aqui](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
 
 ### Subcapítulo 1
+
 Siga uma padronização. Isso é bom para:
 - Facilitar o entendimento do leitor
 - Facilitar o entendimento dos demais contribuidores
 - Eu ficar feliz
 
 ### Subcapítulo 2
+
 ## Capítulo 2
+
 ### Subcapítulo 3
 
 ---

@@ -44,9 +44,9 @@ Federalism is the opposite of government centralization. Power and freedom, the 
 
 Like Proudhon, he recognized the superiority of federal unity over “authoritarian” unity:
 
-    >When the hated power of the state will no longer force individuals, associations, communes, regions, and areas to live together, they will be much more closely connected and form much more alive, more real, more powerful unity than those that they are forced to form today under the equally oppressive and exhausting yoke of the state.
-    >
-    >[Authorities] always mix formal, dogmatic and governmental unity with real unity, which can arise only from the freest development of all individuals and all collectives and from a federated and absolutely free union of workers associations to communes, and then communes to regions, regions in a nation.
+  > When the hated power of the state will no longer force individuals, associations, communes, regions, and areas to live together, they will be much more closely connected and form much more alive, more real, more powerful unity than those that they are forced to form today under the equally oppressive and exhausting yoke of the state.
+  > 
+  > [Authorities] always mix formal, dogmatic and governmental unity with real unity, which can arise only from the freest development of all individuals and all collectives and from a federated and absolutely free union of workers associations to communes, and then communes to regions, regions in a nation.
 
 ## Alternatives to the economy
 

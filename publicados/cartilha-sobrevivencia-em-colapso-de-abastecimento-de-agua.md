@@ -8,6 +8,7 @@ categories:
 tags:
   - Sobrevivencialismo
   - Crise hídrica
+description: "Tomara que você esteja lendo este folheto antes de acontecer uma situação extrema de falta absoluta de água. Aliás, tomara que isso nunca aconteça, mas é preciso se prevenir. Veja o que fazer se a torneira secar mesmo, a água da caixa também e não houver certeza de quando o abastecimento retornará."
 ---
 
 ```

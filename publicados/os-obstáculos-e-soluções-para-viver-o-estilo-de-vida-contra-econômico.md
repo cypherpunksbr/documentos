@@ -8,6 +8,8 @@ categories:
 tags:
   - Agorismo
   - Contra-economia
+description: 'Os motivos pelos quais alguém escolhe não participar de instituições “tradicionais” e expectativas sociais variam de pessoa para pessoa, mas geralmente as pessoas procuram parar de apoiar sistemas com os quais não concordam. Quer estejamos falando financeiramente(para evitar impostos) ou filosoficamente (por motivos morais), muitos de nós que vivemos fora do sistema convencional fazemos isso porque discordamos das pessoas que administram esses sistemas — e, em alguns casos, do sistema como um todo.'
+
 ---
 ```
 Traduzido por: Iann Zorkot

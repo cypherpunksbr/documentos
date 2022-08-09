@@ -8,6 +8,8 @@ tags:
   - Empreendedorismo
 author:
   - Daniel Krawisz
+description: 'Criptografia de chave pública é o maior instrumento de liberdade criado até hoje. A sua descoberta foi revolucionária. Antes dela, todas criptografias eram apenas truques. Ela foi desenvolvida em 1973 por Ellis, Cooks e Williamson como pesquisadores no GCHQ no Reino Unido, mas o trabalho foi confidencial até 1997. Também foi desenvolvida de forma independente em 1976 por Rivesr, Shamir e Adleman no MIT. O trabalho deles foi publicado, porém protegido por patente até 2000. Agora ele está livre.'
+
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

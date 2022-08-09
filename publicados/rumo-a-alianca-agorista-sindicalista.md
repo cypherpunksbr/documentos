@@ -9,6 +9,8 @@ tags:
   - Agorismo
   - Organização
   - Sindicatos
+description: 'Karl Hess defendeu uma combinação de táticas como um agorista praticante — tanto vertical quanto horizontalmente — e um membro do Industrial Workers of the World, um sindicato de mais de 100 anos que oferece um desafio revigorante para o modelo sindical explorador de grupos como a AFL-CIO enquanto defende táticas sindicalistas.'
+
 ---
 ```
 Traduzido por: Iann Zorkot

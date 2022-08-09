@@ -8,6 +8,7 @@ tags:
   - Dinheiro
 author:
   - Nick Szabo
+description: "Há muito tempo, tive a ideia de usar ouro. O problema, em poucas palavras, é que nosso dinheiro atualmente depende da confiança em um terceiro pelo seu valor, como muitos episódios inflacionários e hiperinflacionários demonstrados durante o século XX. Da mesma forma, a emissão de notas bancárias privadas, embora tivesse várias vantagens e desvantagens, dependia igualmente de uma terceira parte confiável."
 ---
   
 ```

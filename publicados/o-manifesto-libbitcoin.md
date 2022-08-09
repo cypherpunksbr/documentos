@@ -8,6 +8,8 @@ tags:
   - Manifesto
 author:
   - Amir Taaki
+description: 'Foi-me dito todas essas frases na minha vida. Que aprender a aceitar autoridade é uma parte inevitável do crescimento. Que meu personagem é definido pela minha aparência, não como eu ajo. Que meu único propósito é ser um escravo do trabalho. Para evitar a interação com desconhecidos aleatórios fora do meu círculo. E essa responsabilidade começa e termina comigo mesmo.'
+
 ---
 
 ```

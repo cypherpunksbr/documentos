@@ -8,6 +8,8 @@ categories:
 tags:
   - Agorismo
   - Contra-economia
+description: Por meio da construção e do apoio a alternativas como redes locais de alimentos, serviços de saúde, grupos de defesa mútua e economias ponto a ponto e redes de comunicação, as CLs serão mais capazes de se desconectar e se desacoplar do Estado Tecnocrático. Visto que os grupos se tornam grandes o suficiente em número, torna-se bem possível que os participantes optem pela auto-exclusão em massa para garantir suas liberdades.
+
 ---
 ```
 Traduzido por: Iann Zorkot

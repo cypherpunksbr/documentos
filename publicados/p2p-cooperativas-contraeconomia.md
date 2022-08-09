@@ -10,6 +10,8 @@ tags:
   - Cooperativismo
   - Autossuficiencia
   - P2P
+description: 'Tem havido muita discussão ultimamente sobre a relação do p2p com o movimento cooperativo. A edição 88 do Integral Visioning incluiu uma subseção temática sobre cooperativas. Nele, Michel Bauwens vinculou a um artigo na Grassroots Economic Organizing comparando a estrutura de conglomerado hierárquico de Mondragon (aparentemente desfavorável) ao estilo descentralizado e ascendente de Emilia-Romagna.'
+
 ---
 ```
 Traduzido por: Vinicius Yaunner

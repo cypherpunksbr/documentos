@@ -12,6 +12,8 @@ tags:
   - Tecnologia
   - Liberdade
   - Censura
+description: 'Claro que o maior obstáculo para fazer com que as pessoas mudem para outra plataforma, como MeWe, Minds, Mastodon, etc., é que a maior parte da sua rede social ainda não está lá. Mas esse foi um problema que o Facebook teve durante os dias do MySpace e acabou superando. Pode demorar um pouco para que a transição chegue à larga escala  que desejamos, mas tem que começar em algum lugar.'
+
 ---
 
 ```

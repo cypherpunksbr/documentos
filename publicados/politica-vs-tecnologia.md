@@ -8,6 +8,8 @@ tags:
   - Tecnologia
 author:
   - Hal Finney
+description: 'Mas o governo poderia proibir um livro hoje? Claro que não, pelo menos não depois que uma pessoa digitou ou digitalizou em um computador. Ganhos tecnológicos são permanentes. A abordagem política é útil apenas como arma tática, para segurá-los até que as soluções tecnológicas estejam prontas. Se você quer mudar o mundo, não proteste. Escreva o código!'
+
 ---
 ```
 Traduzido por: OneTimePad 

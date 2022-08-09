@@ -8,6 +8,7 @@ tags:
 author:
   - Timothy C. May
   - Eric Hughes
+description: 'Aqui está o glossário de termos de criptografia que divulgamos em formato impresso na primeira reunião da Cypherpunks em Setembro de 1992. Algumas concessões tiveram que ser feitas indo do impresso para o ASCII dessa transmissão, então espero que você tenha paciência comigo.'
 ---
 ```
 Traduzido por: OneTimePad

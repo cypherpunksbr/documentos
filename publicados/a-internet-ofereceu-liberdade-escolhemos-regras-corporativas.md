@@ -10,6 +10,8 @@ tags:
   - Liberdade
   - Soberania
   - Criptoanarquia
+description: "Leia qualquer um dos escritos clássicos dos cypherpunks ou dos cripto-anarquistas e uma coisa é certa: a internet nos ofereceu liberdade. Embora os movimentos de código aberto e ponto a ponto (p2p) ainda estejam vivos e bem em certos cantos da Internet, a maioria de nós escolheu a regra corporativa."
+
 ---
 
 ```

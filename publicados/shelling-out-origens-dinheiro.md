@@ -8,6 +8,8 @@ tags:
   - Economia
 author:
   - Nick Szabo
+description: 'Os precursores do dinheiro, juntamente com a linguagem, permitiram os primeiros humanos modernos resolverem problemas de cooperação que outros animais não podem – incluindo problemas de altruísmo recíproco, altruísmo familiar, e a mitigação de agressão. Esses precursores compartilhavam com as moedas não fiduciárias características muito específicas – não eram meramente objetos simbólicos ou decorativos.'
+
 ---
 ```
 Traduzido por: Deephi, Matheus Bach

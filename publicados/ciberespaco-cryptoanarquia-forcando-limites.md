@@ -7,6 +7,8 @@ tags:
   - Ciberespaço
 author:
   - Timothy C. May
+description: "A conexão com a criptografia é esta: talvez devêssemos estar pensando mais sobre as implicações e efeitos da criptografia forte, do dinheiro digital, dos remailers ideais, etc., assumindo que certos problemas práticos que nos atormentam hoje são, ou logo serão resolvidos. Até certo ponto, já fazemos isso, como quando discutimos as misturas ideais de Chaum da mesma forma que os engenheiros discutem amplificadores operacionais ideais - uma útil abstração de comportamento no limite em que implementações menores do mundo real podem ser contrastadas."
+
 ---
 
 ```

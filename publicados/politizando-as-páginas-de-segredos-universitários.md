@@ -9,6 +9,8 @@ tags:
  - Anonimato
  - Internet
  - Liberdade
+description: 'Aprender e ensinar fazem parte da existência humana, histórica e social, como dela fazem parte a criação, a invenção, a linguagem, o amor, o ódio, o espanto, o medo, o desejo, a atração pelo risco, a fé, a dúvida, a curiosidade, a arte, a magia, a ciência, a tecnologia.'
+
 ---
 
 ```

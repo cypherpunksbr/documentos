@@ -8,6 +8,8 @@ categories:
 tags:
  - Liberdade
  - Ciberespaço
+description: 'Horror analógico é o nome dado para um movimento artístico e audiovisual recente. Talvez, se nossa tolice permitir, traça-se uma origem dentro do movimento de found footage, mas de um jeito que faça sentido dentro da vivência do mundo virtual. Digo tolo, pois a ascensão e as características desse movimento conversam em específico à uma geração e visão espacial que não é a mesma que originou, por exemplo, A Bruxa de Blair.'
+
 ---
 
 ```

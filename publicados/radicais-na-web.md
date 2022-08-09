@@ -10,6 +10,8 @@ tags:
   - Liberdade
   - Anarquismo
   - criptoanarquia
+description: 'Os movimentos não nascem na Internet. O reino digital não pode fornecer a centelha misteriosa que transforma uma causa obscura em uma paixão generalizada, que motiva indivíduos dispersos a agirem coletivamente.'
+
 ---
 ```
 Traduzido por: Vinicius Yaunner

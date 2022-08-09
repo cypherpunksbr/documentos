@@ -8,6 +8,7 @@ tags:
   - Manifesto
 author:
   - Timothy C. May
+description: 'Um espectro está assombrando o mundo moderno...'
 ---
 ```
 Traduzido por: OneTimePad

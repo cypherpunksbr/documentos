@@ -8,6 +8,8 @@ tags:
   - propriedade
 author:
   - Nick Szabo
+description: 'O advento da escrita melhorou muito o rastreamento dos direitos de propriedade e, de fato, deu origem a nossos modernos sistemas de direitos de propriedade e leis. No entanto, registros escritos provaram ser bastante vulneráveis ao abuso.'
+
 ---
 
 ```

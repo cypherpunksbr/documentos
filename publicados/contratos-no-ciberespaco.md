@@ -8,6 +8,8 @@ tags:
   - Ciberespaço
 author:
   - David Friedman
+description: "Nas sociedades modernas contratos são fortalecidos de duas maneiras bem diferentes: governamental, através dos tribunais, e privadamente, na maioria das vezes por reputação. Um exemplo no caso dos contratos fortalecidos por reputação, considere uma loja de departamento que garante reembolso caso você não esteja satisfeito com o produto. Se você comprou uma jaqueta do tamanho errado e sua esposa falou que roxo não combina com você, dificilmente você iria processar a loja - o valor não vale o tempo e o trabalho que você teria. Não obstante, quase todas as lojas em uma situação como essa vão, pelo menos em minha experiência, receber o produto de volta e te reembolsar - pois eles querem manter a reputação, com você e com as pessoas que você vai falar sobre o incidente, deles cumprirem promessas."
+
 ---
 
 ```

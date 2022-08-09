@@ -8,6 +8,8 @@ categories:
 tags:  
   - Agorismo
   - Contra-economia
+description: "Vamos dar uma olhada em dois tipos diferentes de ação contra-econômica que são aplicáveis a uma variedade de indivíduos em uma variedade de situações de vida. Eu me refiro a essas estratégias como Agorismo Vertical e Horizontal. Estamos trabalhando com duas definições complementares de horizontal e vertical que explicam melhor o “como fazer” da filosofia agorista. Essas definições foram tiradas da citação acima de Samuel Konkin III e do economista austríaco sueco Per Bylund e seu ensaio de 2006, A Strategy for Forcing the State Back. Vamos comparar as definições e ver como elas podem fornecer um caminho para o contra-economista curioso."
+
 ---
 ```
 Traduzido por: Iann Zorkot

@@ -8,6 +8,8 @@ tags:
   - Micropagamentos
 author:
   - Nick Szabo
+description: 'Parece haver aqui um gargalo cognitivo fundamental. Uma solução proposta para isso tem sido "agentes inteligentes". Mas como esses agentes são programados remotamente, não pelo consumidor, é difícil para o consumidor determinar se o agente está agindo de acordo com os melhores interesses do consumidor, ou no melhor interesse da contraparte — talvez, necessariamente, pelo menos tão difícil quanto ler a correspondente declaração completa de responsabilidades. Além disso, a interface do usuário para permitir que os consumidores simplesmente expressem suas preferências sofisticadas a um agente está faltando e pode representar outro gargalo cognitivo fundamental.'
+
 ---
 
 ```

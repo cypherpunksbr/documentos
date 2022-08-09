@@ -8,6 +8,7 @@ tags:
   - Soberania
 author:
   - John Perry Barlow
+description: 'Governos do Mundo Industrial, vocês, gigantes cansados de carne e aço, eu venho do Ciberespaço, o novo lar da Mente. Em nome do futuro, peço-lhe do passado para nos deixar em paz. Você não é bem vindo entre nós. Você não tem soberania onde nos reunimos.'
 ---
 ```
 Traduzido por: Steffan Diorgy 

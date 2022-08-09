@@ -11,6 +11,8 @@ tags:
   - Hacker
   - Hackerativismo
   - Tecnologia
+description: 'Gostamos de saber como as coisas funcionam. Gostamos de inventar, modificar e melhorar tecnologias como qualquer outro hacker. Fazemos isso sem objetivo financeiro. Como hackers, fazemos isso por conhecimento e para satisfazer nossa curiosidade, e decidimos usar esse conhecimento de forma a construir um mundo melhor.'
+
 ---
 ```
 Traduzido por: Vinicius Yaunner

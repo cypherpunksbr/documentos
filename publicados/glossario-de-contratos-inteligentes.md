@@ -9,6 +9,8 @@ tags:
   - Glossario
 author:
   - Nick Szabo
+description: 'Glossário a respeito do trabalho do Nick Szabo.'
+
 ---
 ```
 Traduzido por: Yuri CW

@@ -8,6 +8,8 @@ categories:
 tags:
   - Sobrevivencialismo
   - Crise hídrica
+description: 'A intenção deste manual é divulgar dicas para atravessar da melhor forma possível situações difíceis que podem ocorrer devido à falta de água nas cidades.'
+
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

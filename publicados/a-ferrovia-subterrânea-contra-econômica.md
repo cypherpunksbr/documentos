@@ -8,6 +8,7 @@ categories:
 tags:
   - Agorismo
   - Contra-economia
+description: Nos últimos dois anos, tenho me concentrado no desenvolvimento de soluções potenciais para libertar corações e mentes das garras da Tecnocracia. Cheguei à conclusão de que qualquer caminho que você escolher para tomar as devidas precauções e planos de emergência é necessário. O clichê espere pelo melhor, prepare-se para o pior se aplica aqui. Embora eu tenha oferecido sugestões para aqueles que optam por segurar as pontas, é imperativo que alguns indivíduos escolham Sair e Construir no caso das "pontas" se soltarem. Esses indivíduos com visão de futuro podem escolher se mudar das grandes cidades para áreas rurais com práticas menos invasivas ou se mudar para uma região próxima com relativamente mais liberdade e privacidade. O objetivo é estabelecer uma rede de comunidades livres que possam servir de refúgio para refugiados do Estado Tecnocrático. Isso é o que chamo de "Ferrovia Subterrânea Contra-econômica" ou simplesmente Ferrovia Subterrânea.
 ---
 ```
 Traduzido por: Iann Zorkot

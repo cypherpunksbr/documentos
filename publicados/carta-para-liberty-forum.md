@@ -7,6 +7,7 @@ author:
   - Ross Ulbricht
 tags:
   - FreeRoss
+description: "Carta de Ross para Liberty Forum."
 ---
 
 ```

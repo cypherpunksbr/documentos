@@ -8,6 +8,8 @@ tags:
   - Empreendedorismo
 author:
   - Daniel Krawisz
+description: 'O melhor exemplo inquestionável de comunidade que pode ser criada com criptografia foi o Bitcoin, sistema de moeda digital criado por Satoshi Nakamoto, cuja identidade permanece desconhecida. O Bitcoin usa todos princípios que descrevi no últimos capítulos. Ele é baseado em software livre e usa criptografia de chave pública para assegurar a validade das mensagens enviadas nele.'
+
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

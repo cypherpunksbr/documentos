@@ -7,6 +7,8 @@ tags:
   - Reputação
 author:
   - Nick Szabo
+description: 'Um problema importante e geral parece ser o de marcar uma fonte de comportamento negativo para reconhecimento futuro. A tag pode ser usada para informações negativas compartilhadas publicamente (por exemplo, classificações de crédito) ou mantidas em sigilo (por exemplo, matar arquivos).'
+
 ---
 ```
 Traduzido por: Steffan Diorgy 

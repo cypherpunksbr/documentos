@@ -9,6 +9,7 @@ tags:
   - Criptoanarquia
 author:
   - Timothy C. May
+description: 'A combinação de criptografia de chave pública forte e inquebrável e comunidades de redes virtuais no ciberespaço produzirá mudanças interessantes e profundas na natureza dos sistemas econômicos e sociais. A criptoanarquia é a realização ciberespacial do anarco-capitalismo, transcendendo as fronteiras nacionais e libertando os indivíduos para fazer os arranjos econômicos que eles desejam fazer consensualmente.'
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

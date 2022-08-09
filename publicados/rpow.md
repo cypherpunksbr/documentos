@@ -7,6 +7,8 @@ tags:
   - Proof-Of-Work (PoW)
 author:
   - Hal Finney
+description: 'Eu gostaria de convidar os membros dessa lista para testar meu novo servidor baseado em hashcash.'
+
 ---
 ```
 Traduzido por: Marcos Monteiro

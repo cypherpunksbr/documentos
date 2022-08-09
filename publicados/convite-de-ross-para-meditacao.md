@@ -7,6 +7,8 @@ author:
   - Ross Ulbricht
 tags:
   - FreeRoss
+description: 'Todos os dias me sento por uma hora e o peso da minha prisão desaparece. Saio de meus pensamentos e emoções e encontro um estado de alegria, tranquilidade e equanimidade. Sinto-me conectado e grato por estar vivo.'
+
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

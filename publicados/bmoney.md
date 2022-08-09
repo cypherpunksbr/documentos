@@ -7,6 +7,8 @@ tags:
   - Dinheiro
 author:
   - Wei Dai
+description: "Até agora não está claro, mesmo que teoricamente, como uma comunidade destas poderia funcionar. Uma comunidade é definida pela cooperação de seus participantes, e cooperação eficiente requer um meio de troca (dinheiro) e uma maneira de cumprir contratos. Tradicionalmente estes serviços são providos pelo governo ou instituições patrocinadas pelo governo, e somente para entidades legais. Neste artigo eu descrevo um protocolo pelo qual estes serviços podem ser disponibilizados por entidades irrastreáveis."
+
 ---
 
 ```

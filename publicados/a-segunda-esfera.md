@@ -13,6 +13,7 @@ author:
   - Smuggler
   - "XYZ"
   - Anarplex
+description: "Qualquer um que adere à radical filosofia da liberdade, deve enfrentar a questão urgente de como progredir da nossa atual condição de liberdade insuficiente, para uma sociedade onde a liberdade individual é respeitada."
 ---
 
 ```

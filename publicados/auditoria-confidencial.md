@@ -9,6 +9,8 @@ tags:
   - Economia
 author:
   - Nick Szabo
+description: "A função de auditoria é uma parte vasta e indispensável da economia moderna. Os controles de auditoria permitem, entre outras coisas, os empregadores delegarem recursos e autoridade aos funcionários, franqueadores delegarem aos franqueados, acionistas para delegarem à administração, anunciantes para contarem os globos oculares, os comerciantes para reunirem mais dados confiável sobre os clientes, e possibilitar uma ampla variedade de outros relacionamentos. Controles de auditoria podem ser chamados de protocolos de segurança do capitalismo.."
+
 ---
 
 ```

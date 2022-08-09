@@ -4,11 +4,12 @@ date:   2009-03-12
 categories:
   - Artigo
 tags:
-  - Adicione tags aqui, um item por linha
+  - egoismo
+  - anarquismo
   - individualismo
 author:
   - William Gillis
-description: 'Favor colocar aqui uma descrição'
+description: 'Talvez isso fosse pragmático há um século, mas hoje a massa importa muito menos. O estado, o sistema de classes, etc., são sustentados menos pela aplicação de força social contundente e mais por maquinações complicadas. Os ecossistemas de relações de poder em que nos encontramos inseridos podem sustentar uma grande pressão, eles podem lidar com a massa. A chave para vencer a guerra hoje não é a massa – não queremos ganhar alguma Revolução como se fosse uma eleição com outro nome – a chave é a exploração proativa inteligente dos pontos fracos. Matar o filho da puta envolverá muito menos luta bruta e muito mais hacking. Não venceremos como um exército de soldados, mas como uma insurreição de generais.'
 ---
 
 ```
@@ -22,7 +23,7 @@ Formatação e revisão: Matheus Bach, revise_para_estar_aqui
 
 *Eu escrevi uma resposta bastante longa ao [recente trecho](https://anarchism.pageabode.com/blog/a-few-comments-on-post-left-anarchy/) de Iain McKay sobre o pós-esquerdismo e me pediram para republicá-lo além do Infoshop.*
 
-Primeiro, vamos ignorar as besteiras anti-ciência e anti-tecnologia não seqüenciais por enquanto, uma vez que as perspectivas de ambos não têm absolutamente nada a ver com o pós-esquerdismo. Afinal, enquanto há *primmies* e anti-civs dentro da pós-esquerda, também há uma infinidade de transumanistas, cyberpunx e radicais amantes da internet em geral que veem a invenção e a exploração como atos inerentemente libertadores.
+Primeiro, vamos ignorar as besteiras anti-ciência e anti-tecnologia não seqüenciais por enquanto, uma vez que as perspectivas de ambos não têm absolutamente nada a ver com o pós-esquerdismo. Afinal, enquanto há *primmies* e anti-civs dentro da pós-esquerda, também há uma infinidade de transumanistas, cyberpunks e radicais amantes da internet em geral que veem a invenção e a exploração como atos inerentemente libertadores.
 
 Os anarquistas pós-esquerda são funcionalmente distintos dos anarquistas de esquerda em nosso desgosto e suspeita de organização. Ou seja, nosso foco em criticar o impulso para a organização-como-fins-em-si. Sim, reconhecemos que, apesar de todas as profundas mudanças no contexto social e econômico desde os dias de outrora, ainda existem trabalhadores e patrões e que vantagens muito reais podem ser arrancadas do sistema através da ação coletiva. Mas achamos que o impulso por massa e impulso como fins primários é constritivo e, em última análise, autodestrutivo. Vemos os anarquistas de esquerda, e a esquerda como um todo, instintivamente apegados à ideia de números como solução. Talvez isso seja principalmente uma relíquia daqueles dias antigos em que qualquer adversário social poderia ser esmagado simplesmente jogando corpos suficientes nele, ou talvez seja uma perversão forjada por anos de doutrinação em ideais democráticos. A política moderna vê a construção de massa como a *definição* de sucesso – e certamente não veremos nada perto da verdadeira anarquia até que cada ser humano perceba que as relações de poder são sempre más – mas fazer as pessoas marcharem sob uma bandeira não é o o mesmo que levá-los a uma apreciação mais completa da natureza do poder. (Da mesma forma, as discussões sobre as relações de classe por volta de 1917 não estabelecerão as bases para as melhores relações interpessoais que devem vir antes de qualquer projeto maior.) construção da solidez da referida organização e da sua marca) em detrimento destes fundamentos.
 

@@ -7,6 +7,8 @@ categories:
  - Artigo
 tags:
  - Agorismo
+description: "Sobre o site."
+
 ---
 ```
 Revisado por: Peixe Lua, Spark, Turing, Cypherpunks Brasil

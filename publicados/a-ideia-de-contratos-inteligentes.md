@@ -8,6 +8,8 @@ categories:
 tags:
   - Smart Contracts
   - Segurança
+description: Contratos inteligentes vão além da máquinas de venda, propõe a incorporação de contratos em todas as formas de propriedades valiosas e controladas por meios digitais.
+
 ---
 
 ```

@@ -7,6 +7,8 @@ tags:
   - Pagamentos
 author:
   - Hal Finney
+description: 'E se você pudesse ganhar dinheiro executando um remailer?  '
+
 ---
 ```
 Traduzido por: Steffan Diorgy 

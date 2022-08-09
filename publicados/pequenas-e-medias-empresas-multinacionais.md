@@ -7,6 +7,8 @@ tags:
   - Empreendedorismo
 author:
   - Nick Szabo
+description: 'No futuro, a distribuição de tamanho das multinacionais se aproximará das empresas locais. A mudança de fase entre esses estados pode ser bastante rápida, uma vez que os custos de telecomunicações e transporte passam por um "ponto de fusão", criando uma grande variedade de novas pequenas empresas multinacionais e indústrias para apoiar esses negócios.'
+
 ---
 ```
 Traduzido por: Steffan Diorgy 

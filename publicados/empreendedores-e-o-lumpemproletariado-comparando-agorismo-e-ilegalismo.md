@@ -9,6 +9,8 @@ tags:
   - Agorismo
   - Ilegalismo
   - Empreendedorismo
+description: 'À medida que mais e mais atividades econômicas são transferidas do mercado branco para a economia subterrânea, o estado perde mais e mais controle sobre essas transações econômicas. Junto a isso, os agoristas defendem a evasão fiscal, o que ajuda a drenar o suprimento monetário do estado, dificultando seu funcionamento. Enquanto ambos lidam com a sobrevivência diária sob um sistema capitalista de estado, o ilegalismo meramente coloca esperança em uma revolução inspiradora de um dia, enquanto o agorismo traça um caminho claro. O agorismo dá um toque empreendedor à atividade do lumpemproletariado.'
+
 ---
 ```
 Traduzido por: Iann Zorkot

@@ -7,6 +7,8 @@ tags:
   - Confiança
 author:
   - Nick Szabo
+description: 'A segurança comercial é uma questão de resolver os problemas práticos de relações comerciais, como privacidade, integridade, proteção de propriedade ou detecção de quebra de contrato. Uma brecha de segurança é qualquer fraqueza que aumenta o risco de violar esses objetivos.'
+
 ---
 ```
 Traduzido por: henur(github)

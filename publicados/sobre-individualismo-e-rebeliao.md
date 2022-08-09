@@ -9,6 +9,8 @@ tags:
   - Individualismo
   - Rebeldia
   - Anarquismo
+description: 'Aquele que cai rebelando-se contra todos, prevalece mesmo enquanto cai.'
+
 ---
 
 ```

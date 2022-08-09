@@ -8,6 +8,8 @@ tags:
   - Criptografia
 author:
   - Philip R. Zimmermann
+description: 'É pessoal. É privado. E não é da conta de ninguém, mas é seu. Você pode estar planejando uma campanha política, discutindo seus impostos ou tendo um romance secreto. Ou você pode estar se comunicando com um dissidente político em um país repressivo. Seja o que for, você não quer que seu e-mail privado ou documentos confidenciais sejam lidos por qualquer outra pessoa. Não há nada de errado em afirmar sua privacidade. A privacidade é tão clichê quanto a Constituição.'
+
 ---
 ```
 Traduzido por: Deephi

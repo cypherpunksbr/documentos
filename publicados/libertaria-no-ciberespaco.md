@@ -9,6 +9,8 @@ tags:
   - Criptoanarquia 
 author:
   - Timothy C. May
+description: 'Aqui estão alguns pontos sobre por que o "ciberespaço" ou uma rede mediada por computadores, é mais hospitaleiro do que os locais físicos, para o tipo de sistema libertário de “criptoanarquia” que tenho descrito.'
+
 ---
 ```
 Traduzido por: OneTimePad 

@@ -7,6 +7,8 @@ tags:
   - FreeRoss
 author:
   - Ross Ulbricht
+description: 'No final de qualquer dia, você geralmente pode olhar para trás e descobrir alguma gentileza que fez, mas a gentileza premeditada e deliberada é realmente boa para você porque interrompe o foco habitual que normalmente colocamos em nós mesmos.'
+
 ---
 ```
 Traduzido por: Vinicius Yaunner

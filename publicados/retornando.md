@@ -9,6 +9,8 @@ tags:
   - Individualismo
   - Anarquismo
   - Libertarianismo
+description: 'Tenho caminhado com infinita alegria pelos caminhos da Dor.'
+
 ---
 ```
 Traduzido por: Vinicius Yaunner, baseado na tradução do italiano pro inglês de Andy Carloff

@@ -7,6 +7,8 @@ categories:
  - Artigo
 tags:
  - Agorismo
+description: 'Entre 2014 comecei a ser ativo em grupos no Facebook e Telegram, eram grupos variados de Linux, política, livros, RPG, hacking, cyberpunk, arte e programação em geral. Podia ficar um tempo absurdo só tentando provar meu ponto, discutindo com gente que nunca vi na vida.'
+
 ---
 ```
 Revisado por: Matheus Bach, Cypherpunks Brasil

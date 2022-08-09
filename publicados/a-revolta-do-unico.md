@@ -9,6 +9,7 @@ tags:
   - A Revolta do Único
   - Individualismo
   - Anarquismo
+description: "Eu não quero impor máximas morais ao meu “próximo”, nem ensinar nada a ninguém... Deixo essa tarefa para os missionários de todas as religiões, os padres de todas as igrejas, os demagogos de todas as partes, os apóstolos de todas as idéias. "
 ---
 
 ```

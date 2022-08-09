@@ -9,6 +9,7 @@ tags:
   - Matemática
 author:
   - Hal Finney
+description: 'Aqui está uma tentativa de descrever o dinheiro digital de Chaum a partir de seu trabalho, Untraceable Electronic Cash, de Chaum, Fiat e Naor, do processo Crypto 88\. Esse dinheiro tem a propriedade de que o usuário do dinheiro pode permanecer anônimo, desde que não o gaste mais de uma vez, mas se ela gastar duas vezes, sua identidade será revelada.'
 ---
 ```
 Traduzido por: Steffan Diorgy 

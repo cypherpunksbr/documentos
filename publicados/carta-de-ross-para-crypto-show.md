@@ -7,6 +7,8 @@ author:
   - Ross Ulbricht
 tags:
   - FreeRoss
+description: "Eu escrevo para expressar minha gratidão por tudo o que vocês estão fazendo em meu nome. Minha mãe, Lynn, me contou que vocês estavam indo acima e até mais além, contribuindo para o esforço de angariação de fundos e direcionando sua criatividade e energia para a minha causa. Obrigado!"
+
 ---
 
 ```

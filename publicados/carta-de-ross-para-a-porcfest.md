@@ -7,6 +7,8 @@ author:
   - Ross Ulbricht
 tags:
   - FreeRoss
+description: "De várias maneiras, minha luta está apenas começando agora que vai para os tribunais superiores, então ainda preciso da ajuda de vocês. Montar um apelo eficaz não é fácil. Eu estou confiante em minha equipe, mas há muito o que podemos fazer sem suas doações . O que podemos ter a certeza é que o governo gastará o máximo de seus impostos necessários para manter-me atrás das grades, então, por favor, ajude como puder."
+
 ---
 
 ```

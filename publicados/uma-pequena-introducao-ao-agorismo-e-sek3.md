@@ -8,6 +8,7 @@ categories:
 tags:
   - Agorismo
   - Libertarianismo
+description: 'Konkin desenvolveu uma filosofia política que chamou de agorismo e escreveu três livros defendendo sua ideia, sendo O Manifesto do Novo Libertário sua principal obra.'
 
 ---
 ```

@@ -8,6 +8,8 @@ categories:
 tags:
   - Transações
   - Smart Liens
+description: 'Imagine que seu governo falisse, deixando você sem a jurisdição a qual você e seus vizinhos foram obrigados a tolerar para poder viver naquele território. O caos prevaleceria ou um arranjo novo e melhor poderia tomar o lugar do governo? Seria ainda possível, em particular, obrigar o pagamento de dívidas e responsabilidades penais?'
+
 ---
 ```
 Traduzido por: Vinicius Yaunner

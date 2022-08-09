@@ -7,6 +7,8 @@ tags:
   - Dinheiro
 author:
   - David Chaum
+description: ' Economias de aproximadamente uma ordem de grandeza em espaço, armazenamento e largura de banda sobre protocolos de dinheiro eletrônico on-line publicados anteriormente são alcançadas pelas técnicas aqui apresentadas. Além disso, essas técnicas podem aumentar a conveniência, fazer uso mais eficiente dos recursos e melhorar a privacidade.'
+
 ---
 ```
 Traduzido por: Steffan Diorgy 

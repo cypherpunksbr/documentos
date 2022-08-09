@@ -7,6 +7,7 @@ tags:
   - Micropagamentos
 author:
   - Nick Szabo
+description: 'Apresentamos argumentos intuitivos sobre o motivo pelo qual os micropagamentos não foram bem-sucedidos na Internet. O "fator de confusão" para os clientes associados a essas transações é caracterizado. Um quadro de custos de transação mental e granularidade de preço é então apresentado, e os argumentos sobre micropagamentos são reformulados à sua luz. Finalmente, fazemos algumas sugestões para reduzir os custos mentais de transação do comércio na Internet.'
 ---
 ```
 Traduzido por: jeffesonjp 

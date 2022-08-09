@@ -7,6 +7,8 @@ tags:
   - Confiança
 author:
   - Nick Szabo
+description: 'Imagine o protocolo ideal. Teria a terceira parte mais confiável imaginável - uma entidade que está do lado de todo mundo . Todas as partes enviariam suas entradas para Deus. Deus determinaria confiavelmente os resultados e retornaria as saídas. Sendo Deus o supremo na discrição confessional, nenhum partido aprenderia mais sobre entradas das outras partes do que eles poderiam aprender com suas próprias entradas e a saída.'
+
 ---
 ```
 Traduzido por: jeffeson

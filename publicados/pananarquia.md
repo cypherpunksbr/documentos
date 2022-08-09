@@ -8,6 +8,7 @@ categories:
 tags:
   - Pan-anarquismo
   - Anarquismo
+description: 'A verdade é que não há a liberdade que deveria haver, a liberdade fundamental de escolher ser ou não ser livre. Cada um julga por si mesmo e define a questão de acordo com gostos e necessidades particulares. Como há tantas opiniões quanto há indivíduos, tot homines, tot sensus, é possível ver a confusão disfarçada com o bonito nome de política. A liberdade de uns é a negação dos direitos de outros, e vice-versa. O melhor e mais sábio dos governos não funciona com o livre e pleno consentimento de todos os governados. Há partidos triunfantes ou vencidos, há maiorias e minorias em luta perpétua; e a paixão com que se apega a um ideal é tão grande quanto é a confusão de idéias. Alguns oprimem em nome do direito, outros se revoltam em nome da liberdade, para se tornarem eles mesmos opressores, quando chegada sua hora.'
 ---
 ```
 Traduzido por: Rafael Hotz e Luiz Eduardo do Ó

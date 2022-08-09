@@ -10,7 +10,7 @@ tags:
 author:
   - Tipretin
   - Matheus Bach
-description: 'Cypherpunks Brasil é um projeto voluntário que depende da contribuição de todos que desejam manter e crescer o projeto. Nesse guia apresentamos diversas formas de contribuir com o projeto'
+description: 'Cypherpunks Brasil é um projeto voluntário que depende da contribuição de todos que desejam manter e crescer o projeto. Nesse guia apresentamos diversas formas de contribuir com o projeto.'
 ---
 
 # Contribua com o Projeto

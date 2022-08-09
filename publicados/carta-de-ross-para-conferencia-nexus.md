@@ -7,6 +7,8 @@ author:
   - Ross Ulbricht
 tags:
   - FreeRoss
+description: "Carta de Ross para a Conferência Nexus."
+
 ---
 
 ```

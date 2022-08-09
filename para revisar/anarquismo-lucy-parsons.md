@@ -8,6 +8,8 @@ categories:
 tags:
   - anarquismo  
   - individualismo
+description: 'Hoje estamos passando de problemas políticos para econômicos, sobre os quais o Estado não tem influência, sendo a criatura das condições econômicas existentes; portanto, é necessária uma palavra que, embora não condene a administração, expresse inequivocamente oposição ao governo político. As velhas garrafas responderam para conter o velho vinho da política. As questões econômicas, não sendo solucionáveis por métodos políticos, exigem novos frascos para as novas ideias que o tempo evolui.'
+
 ---
 ```
 Traduzido por: Vinicius Yaunner

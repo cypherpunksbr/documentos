@@ -7,6 +7,7 @@ tags:
   - Bitcoin
 author:
   - Hal Finney
+description: "Quando Satoshi anunciou o Bitcoin na lista de e-mails de criptografia, ele conseguiu, no máximo, uma recepção cética. Criptógrafos já viram muitos esquemas feitos por iniciantes sem noção. Eles tendem a ter uma reação impulsiva."
 ---
 
 ```

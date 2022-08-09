@@ -7,6 +7,8 @@ author:
   - Ross Ulbricht
 tags:
   - FreeRoss
+description: "Os últimos anos foram um grande desafio para mim e minha família. O nível de estresse e ansiedade parece intransponível às vezes. Sinceramente, não sei se vou sair um dia. Acabarei como alguns dos velhos em minha unidade habitacional que passaram mais anos trancados do que fora da prisão? Ou minha condenação ou sentença será anulada, dando-me uma segunda chance? Nós simplesmente não sabemos."
+
 ---
 
 ```

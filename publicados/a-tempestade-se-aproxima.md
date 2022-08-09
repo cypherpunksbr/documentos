@@ -9,6 +9,7 @@ tags:
   - Criptoanarquia
   - Agorismo
   - Contra-economia
+description: "A tecnologia da Internet é centrada em obter lucro dos usuários para trabalhos de baixo valor (clicar em anúncios). Isso leva a enormes operações de coleta de dados e à construção de uma megamáquina de vigilância. Isso incentiva a docilidade e o consumo, em vez de uma userhip individualizada ativa. É uma arquitetura de opressão estruturada no controle do usuário."
 ---
 ```
 Traduzido por: Vinicius Yaunner

@@ -5,6 +5,8 @@ categories:
   - Coletânea
 author:
   - Hal Finney
+description: "Coletânea de textos do Hal Finney."
+
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

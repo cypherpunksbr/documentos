@@ -10,6 +10,7 @@ tags:
   - Proibição
   - Censura
   - Organização
+description: "Como a era da proibição do álcool, a guerra contra as drogas em curso, a proibição do trabalho sexual ou qualquer outra medida semelhante mostraram, a proibição é inadequada, na melhor das hipóteses, para resolver esses problemas e, na pior, geralmente os agrava. A proibição do álcool levou a criação de bares clandestinos e a distribuição por contrabandistas, onde era preciso assumir riscos extras e se associar a personagens “duvidosos” para desfrutar de algo que antes era consumido em situações relativamente inofensivas. A proibição significava que esforços educacionais não eram realizados para ensinar as pessoas a beber com responsabilidade, portanto, aqueles que consumiam ilegalmente eram menos instruídos sobre como lidar com o álcool com segurança. Como você pode imaginar, isso provavelmente afetou tudo, desde dirigir embriagado até o consentimento."
 ---
 ```
 Traduzido por: Iann Zorkot

@@ -7,6 +7,8 @@ author:
   - Ross Ulbricht
 tags:
   - FreeRoss
+description: "Carta agradecendo pelas 50,000 assinaturas, não tem muito o que falar."
+
 ---
 
 ```

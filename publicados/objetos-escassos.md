@@ -9,6 +9,8 @@ tags:
   - Transações
 author:
   - Nick Szabo
+description: 'Uma abordagem mais intuitiva e segura para programação com objetos distribuídos através de limites de confiança é apresentada. A abordagem envolve objetos escassos e software para apoiar os mercados na negociação de "direitos" de objetos escassos.'
+
 ---
 ```
 Traduzido por: Steffan Diorgy 

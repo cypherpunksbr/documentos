@@ -9,6 +9,8 @@ tags:
   - Mercado Branco  
   - Agorismo
   - Contra-economia
+description: "A criptomoeda é amplamente um empreendimento no mercado branco e, no entanto, é defendida como um excelente exemplo de agorismo. Os Trabalhadores Industriais do Mundo são elogiados pelo próprio Konkin como um exemplo perfeito de um sindicato agorista e, no entanto, são legalmente registrados no estado e, na maioria das vezes, se organizam dentro da lei. Sites de redes sociais descentralizadas, como Minds e Steemit, fontes de energia renováveis descentralizadas, biohacking, permacultura, hackerspaces e makerspaces, programas de compartilhamento comunitário, modelos alternativos de troca, incluindo gift economies, Sistemas de Câmbio Comunitário, banco mútuo, notas trabalhistas e metais preciosos, medicamentos alternativos e complementares, educação não escolar/domiciliar, Tor, lojas gratuitas, mídia alternativa e empresas de propriedade de trabalhadores são exemplos de agorismo do mercado branco."
+
 ---
 
 ```
@@ -23,7 +25,7 @@ Revisado por: C4SS, Instituto Ágora, K3ybladeWielder, VInicius Yaunner
 
 ===exibe no card daqui pra baixo===
 
-Dentro de qualquer movimento político definido para mudar radicalmente a sociedade, sempre surge um debate sobre a melhor forma de atingir esses objetivos. Devemos nos unir para uma greve geral? Devemos nos retirar do sistema predominante vivendo de recursos abandonados, roubados e fraudados, à moda do clássico (CrimethInc)[https://crimethinc.com/languages/portugu%C3%AAs-brasileiro]. propaganda? Devemos construir cooperativas e coletivos no espírito do comunismo empreendedor? Devemos seguir o caminho da propaganda pelo fato e começar a explodir prédios do governo e assassinar políticos? Que tal uma combinação dos itens acima?
+Dentro de qualquer movimento político definido para mudar radicalmente a sociedade, sempre surge um debate sobre a melhor forma de atingir esses objetivos. Devemos nos unir para uma greve geral? Devemos nos retirar do sistema predominante vivendo de recursos abandonados, roubados e fraudados, à moda do clássico (CrimethInc)[https://crimethinc.com/languages/portugu%C3%AAs-brasileiro] propaganda? Devemos construir cooperativas e coletivos no espírito do comunismo empreendedor? Devemos seguir o caminho da propaganda pelo fato e começar a explodir prédios do governo e assassinar políticos? Que tal uma combinação dos itens acima?
 
 Bem, o agorismo parece ser exatamente essa combinação. Combinando elementos de ilegalismo, teoria do poder dual, secessão econômica, sindicalismo e anticapitalismo de livre mercado (mas sem muitos dos extremos da propaganda pelo ato), o agorismo propõe uma estratégia de utilização da contra-economia como forma de alcançar uma sociedade anarquista. Mas o que é contra-economia?
 

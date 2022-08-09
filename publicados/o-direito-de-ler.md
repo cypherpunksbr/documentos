@@ -7,6 +7,8 @@ tags:
   -
 author:
   - Richard Stallman
+description: 'O direito de ler é uma batalha que está sendo travada hoje. Embora possa levar 50 anos para que nosso modo de vida atual se desvanece na obscuridade, a maioria das leis e práticas específicas descritas acima já foram propostas; muitos foram promulgados como lei nos EUA e em outros lugares. Nos EUA, o Digital Millennium Copyright Act de 1998 (DMCA) estabeleceu a base legal para restringir a leitura e empréstimo de livros informatizados (e outros trabalhos também). A União Europeia impôs restrições semelhantes em uma diretiva de direitos autorais de 2001. Na França, de acordo com a lei DADVSI adotada em 2006, a mera posse de uma cópia do DeCSS, o programa gratuito para descriptografar um vídeo em um DVD, é um crime.'
+
 ---
 ```
 Traduzido por: Steffan Diorgy 

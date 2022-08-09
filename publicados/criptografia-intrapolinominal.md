@@ -7,6 +7,7 @@ tags:
   -
 author:
   - Nick Szabo
+description: 'Pesquisadores têm proposto uma variedade de “desafios para clientes” e “trabalho pesado” como o hashcash, MicroMint, Bit Gold e a Postagem com Custo Computacional para criar uma moeda independente ou fazer o spam ficar custoso. A implicação matemática desta proposta é de que existe uma “criptografia intrapolinomial”.'
 ---
 ```
 Traduzido por: Steffan Diorgy, Davi Figueiredo

@@ -9,6 +9,7 @@ tags:
   - Internet  
   - Tecnologia
   - Liberdade
+description: "Ainda podemos aprender com o sucesso do BitTorrent vinte anos depois? Se quisermos aceitar a “oferta de liberdade da Internet”, como previsto por gerações anteriores otimistas, devemos (re)aprender esta lição vital: a Internet é tangencial. Precisamos apenas criar uma internet."
 ---
 ```
 Traduzido por: Iann Zorkot

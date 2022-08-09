@@ -8,6 +8,8 @@ tags:
   - Empreendedorismo
 author:
   - Daniel Krawisz
+description: 'Liberdade é uma ideologia para todos. Ela beneficia todas as pessoas e grupos que o objetivo não requer violência. Todas as objeções a liberdade simplesmente estimularam exercícios mentais sobre o que é possível alcançar com organizações voluntarias e como elas são muito melhores em oferecer serviços que originalmente só eram possíveis pelo governo. Movimentos que em uma época eram considerados incompatíveis com o libertarianismo, como feminismo e ambientalismo, agora tem seus próprios braços no libertarianismo. Liberdade é como uma droga.'
+
 ---
 [```ver lista de contribuidores```](/about/#contribuidores)
 

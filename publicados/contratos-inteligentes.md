@@ -9,6 +9,8 @@ tags:
   - Contratos
   - Transações
   - Smart Contracts
+description: "Um contrato inteligente é um protocolo de transação computadorizado que executa os termos de um contrato. Os objetivos gerais do projeto de contrato inteligente são satisfazer as condições contratuais comuns (como termos de pagamento, ônus, confidencialidade e até mesmo cumprimento), minimizar exceções maliciosas e acidentais e minimizar a necessidade de intermediários confiáveis. Objetivos econômicos relacionados incluem redução de perdas por fraude, custos de arbitragem e fiscalização e outros custos de transação."
+
 ---
 
 ```

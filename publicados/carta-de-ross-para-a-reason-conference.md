@@ -7,6 +7,8 @@ author:
   - Ross Ulbricht
 tags:
   - FreeRoss
+description: "Às vezes eu vejo um artigo ao meu respeito e me arrepio pois temo que estou preste a ler outra versão sensacionalista da história do governo, mas nas minhas edições mensais da Revista Reason, quando sou mencionado, me sinto esperançoso porque os pontos que quero que as pessoas ouçam estão sendo articulados lindamente. Quando termino de ler, passo minha revista para a próxima pessoa e a próxima. Nossas idéias estão encontrando um terreno fértil na mente dos meus companheiros de prisão."
+
 ---
 
 ```

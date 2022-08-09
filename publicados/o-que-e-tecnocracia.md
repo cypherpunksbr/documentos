@@ -8,6 +8,8 @@ categories:
 tags:
   - Tecnologia
   - Tecnocracia
+description: 'No início do século 20, um movimento começou a se desenvolver em torno de uma teoria política conhecida como Tecnocracia, um sistema em que a gestão de governos é feita por especialistas técnicos, muitas vezes envolvendo soluções focadas em tecnologia. Os defensores da Tecnocracia afirmaram que o conceito levaria a uma melhor gestão dos recursos e proteção do planeta. No entanto, este sistema de governança por especialistas em tecnologia e sua tecnologia também envolveria uma perda de privacidade, centralização e gerenciamento de todo o comportamento humano. Embora o termo pareça ter sido amplamente esquecido, a filosofia tecnocrática e sua influência podem ser vistas em todo o nosso mundo digital moderno.'
+
 ---
 ```
 Traduzido por: Iann Zorkot

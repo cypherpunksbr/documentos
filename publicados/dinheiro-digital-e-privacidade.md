@@ -8,6 +8,7 @@ tags:
   - Dinheiro
 author:
   - Hal Finney
+description: 'Eu concordo com o anônimo que existem problemas com o uso real do dinheiro digital no curto prazo. Mas isso depende, até certo ponto, do problema que você está tentando resolver.'
 ---
 ```
 Traduzido por: Steffan Diorgy 

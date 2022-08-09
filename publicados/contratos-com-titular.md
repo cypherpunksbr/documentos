@@ -9,6 +9,8 @@ tags:
   - Propriedade
 author:
   - Nick Szabo
+description: 'A emissão e a transferência limpa de referências a um objeto distribuído conservam o uso desse objeto. Esse objeto se torna "escasso" em termos econômicos, assim como o uso de objetos físicos é finito. Objetos conservados fornecem a base para uma economia de software que mais se assemelha à economia de objetos físicos escassos.'
+
 ---
 
 ```

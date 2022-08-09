@@ -9,6 +9,8 @@ tags:
   - Token
 author:
   - Bill St. Clair
+description: 'Truledger é um cofre e um sistema de negociação anônimo digitalmente assinado. Assim como Loom, ele permite que qualquer pessoa publique ativos (moedas digitais). Ao contrário do Loom, que se baseia inteiramente em uma (muito boa) obscuridade para segurança, as assinaturas digitais da Truledger permitem que o servidor e o cliente comprovem entre si que concordaram com seus respectivos saldos em um determinado momento.'
+
 ---
 
 ```

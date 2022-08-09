@@ -7,6 +7,7 @@ tags:
   - Economia
 author:
   - Nick Szabo
+description: 'Um conhecido faz um favor para você. Como você pode pagá-la de volta e aprofundar o relacionamento? Um investidor examina o balanço de uma empresa. O que os números significam? Eles são mesmo confiáveis? Um juiz deve decidir sobre um prêmio por danos causados a um autor. Qual quantidade de dinheiro, se houver, justamente compensa o sofrimento do queixoso?'
 ---
 
 ```

@@ -2,15 +2,15 @@
 title:  'O olho da tempestade'
 date:   2022-08-09
 categories:
-
 - Guia
 - Template
-  tags:
+tags:
 - sanções
 - privacidade
-  author:
+- criptomoedas
+author:
 - REKT
-  description: 'Escolha privacidade enquanto ainda é uma opção.'
+description: 'Escolha privacidade enquanto ainda é uma opção.'
 ---
 ```
 Traduzido por: Vinicius Yaunner

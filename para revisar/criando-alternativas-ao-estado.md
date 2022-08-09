@@ -18,6 +18,8 @@ Formatação e revisão: Matheus Bach, revise_para_estar_aqui
 
 # Criando alternativas ao Estado
 
+===exibe no card daqui pra baixo===
+
 Quando uma pessoa com boas intenções tenta penetrar no sistema capitalista de estado nepotista, apenas um cenário o espera. Este sistema irá engoli-lo e – após a indigestão – o sistema irá rasgar os restos de todas as coisas boas nesta pessoa. Um sistema que visa desde o início apodrecer só existirá no caos. As regras do jogo nunca permitirão mudar o sistema existente porque o próprio sistema está pronto para encorajar a destruição de seus oponentes.
 
 Guy Debord previu corretamente que o colapso da URSS e o estabelecimento de uma economia de mercado levariam ao triunfo de um novo espetáculo – um espetáculo integrado que combinasse a ditadura do consumo com um forte aparato repressivo. A destruição total da economia de mercado levou ao corporativismo. A população empobrecida trocou seus direitos e liberdades pelo consumo, o que levou ao estabelecimento da ditadura de Putin. Pessoas amantes da liberdade na Rússia tiveram que lidar com cassetetes da polícia, o domínio dos supermercados e a cleptocracia por séculos.

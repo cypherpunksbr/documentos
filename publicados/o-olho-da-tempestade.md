@@ -14,7 +14,7 @@ description: 'Escolha privacidade enquanto ainda é uma opção.'
 ---
 ```
 Traduzido por: Vinicius Yaunner
-Revisado por: peixe lua
+Revisado por: Cypherpunks Brasil
 ```
 
 [```ver lista de contribuidores```](/about/#contribuidores)

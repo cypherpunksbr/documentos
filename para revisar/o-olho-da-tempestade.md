@@ -67,7 +67,7 @@ Mas parece que aqueles que dão as ordens não entendem o que estão proibindo. 
 
 *Mas, embora sejam fáceis de zombar, essas justificativas para banir uma ferramenta neutra prejudicam a privacidade dos usuários regulares.*
 
-Em um sistema transparente, quem deseja quebrar a trilha entre os endereços tem duas opções, mixers não custodiais e CEXs. E como vimos recentemente, confiar sua criptomoeda a um CEX está longe de ser uma alternativa sem riscos.
+Em um sistema transparente, quem deseja quebrar a trilha entre os endereços tem duas opções, mixers não custodiais e [CEXs](https://coinmarketcap.com/alexandria/glossary/centralized-exchange-cex). E como vimos recentemente, confiar sua criptomoeda a um CEX está longe de ser uma alternativa sem riscos.
 
 **Existem [muitas razões legítimas](https://twitter.com/RezaJafery/status/1556751888896258049) para usar um serviço como o Tornado Cash, mas, em última análise, a privacidade é um direito humano, e isso não deveria ser suficiente?**
 
@@ -83,7 +83,7 @@ Os endereços afetados foram copiados cegamente das [tags Etherscan](https://eth
 
 O que acontecerá com os endereços ([mais de 400](https://dune.com/lewi/salted-eth) e contando) contaminados por fundos dos contratos proibidos? Os endereços doxxed verão suas contas ['salgadas'](https://etherscan.io/address/0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc#internaltx) ou campanhas de extorsão surgirão daqueles com fundos 'sujos'?
 
-E vai parar em endereços individuais? E as *pools* inteiras? Protocolos? Eles também podem ser contaminados com todas as interações subsequentes marcadas com o mesmo pincel?
+E isso vai parar em endereços individuais? E quanto à *pools* inteiras? Protocolos? Eles também podem ser contaminados com todas as interações subsequentes marcadas com o mesmo pincel?
 
 Os impactos da sanção foram sentidos imediatamente, pois o GitHub, de [propriedade da Microsoft](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/), baniu rapidamente todo o [repositório](https://github.com/tornadocash) Tornado Cash e [excluiu contas](https://twitter.com/semenov_roman_/status/1556717890308653059) de seus contribuidores, e até o GitCoin [suspendeu](https://twitter.com/gitcoin/status/1556710551803281410) a concessão do projeto.
 Escolha privacidade enquanto ainda é uma opção.
@@ -91,17 +91,17 @@ Foi menos surpreendente ver que a Circle foi rápida em entrar na linha, [congel
 
 *Tememos o CBDC, mas talvez já esteja aqui…*
 
-Quanto tempo até que a Circle de repente decida que cada endereço deve KYC antes de mover seus fundos?
+Quanto tempo até que a Circle de repente decida que cada endereço deve ter [KYC](https://en.wikipedia.org/wiki/Know_your_customer) antes de mover seus fundos?
 
 ![](../stuff/tornado-linebreak.png)
 
-**A ordem estabelecida se comporta como para se proteger; deve destruir os sistemas que não compreende.**
+**A ordem estabelecida se comporta de modo a se proteger; ela deve destruir os sistemas que não compreende.**
 
 Se queremos ficar à frente dos governos que estão correndo para proteger seus interesses, devemos agora agir para fortalecer os pontos fracos em nosso próprio sistema.
 
 **As ações de stablecoins centralizadas sob pressão governamental podem causar danos sem precedentes às finanças “descentralizadas”.**
 
-Uma stablecoin descentralizada segura e um sistema anônimo seguro são as soluções óbvias para as ameaças que enfrentamos agora.
+Uma stablecoin descentralizada segura e um sistema anônimo seguro são as soluções óbvias para as ameaças que estamos enfrentando.
 
 No entanto, embora seja fácil ficar indignado com esse ataque ao anonimato, seria ingênuo pensar que podemos continuar a [codificar nosso caminho em torno das regras da sociedade](https://twitter.com/davidgerard/status/1556740122934116354).
 

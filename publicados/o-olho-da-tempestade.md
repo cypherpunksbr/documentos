@@ -2,8 +2,7 @@
 title:  'O olho da tempestade'
 date:   2022-08-09
 categories:
-- Guia
-- Template
+- artigo
 tags:
 - sanções
 - privacidade

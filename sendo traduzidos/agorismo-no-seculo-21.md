@@ -157,6 +157,14 @@ Eu tenho sido uma guardiã desde o início do Bitcoin, e continuo sendo uma guar
 
 Mas, como qualquer designer saberá, os estados também fazem uso do planejamento e do design como uma forma de poder mais sutil e, portanto, muitas vezes mais eficaz.
 
+**Mercados como meio de fuga?**
+
+Agora (no que espero agradar aos meus amigos que encomendaram esta peça) há uma abordagem muito diferente e muito menos autoritária à ideia de mercados como uma ferramenta em vez de um objetivo ideológico. Ou seja, quando os mercados são um meio ou o primeiro passo para a fuga. Como alguém constitucionalmente preocupado com a liberdade, sou defensor de duas coisas: um trabalho que não se considere uma solução completa e abrangente para o problema de ser humano neste mundo, mas sim um diálogo responsivo e responsável com um mundo aberto que continua a mudança; e em segundo lugar, a multipolaridade e a opção de sempre ir para outro lugar se e quando o ambiente ou a comunidade se tornarem tóxicos. Esse segundo ponto é um corretivo importante para o primeiro, porque os mercados e os algoritmos como processadores de informações também, de muitas maneiras, são abertos e responsivos a um mundo que nunca é totalmente completo e nunca totalmente cognoscível. No entanto, estes continuam a se apresentar como modos de fazer necessariamente expansivos e singulares.
+
+Os mercados não podem ser os únicos organizadores das relações sociais. Como um projeto social ou político em si, os mercados são estúpidos e coercitivos. E para ir mais longe, os mercados escuros não implicam a ausência de poder coercitivo, mas um vácuo para a coerção se estabelecer. Seja por meio da violência ou de uma modelagem criptoeconômica cada vez mais refinada, tão coercitiva quanto, embora mais nebulosa que um estado.
+
+Este breve ensaio apresenta uma revisão de notas antigas. Em seguida vem a análise completa e argumento.
+
 ---
 
 ## Anarquia Fria

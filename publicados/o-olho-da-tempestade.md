@@ -2,25 +2,26 @@
 title:  'O olho da tempestade'
 date:   2022-08-09
 categories:
-- artigo
+    - Artigo
 tags:
-- sanções
-- privacidade
-- criptomoedas
+    - Sanções
+    - Privacidade
+    - Criptomoedas
 author:
-- REKT
+    - REKT
 description: 'Escolha privacidade enquanto ainda é uma opção.'
 ---
+
 ```
 Traduzido por: Vinicius Yaunner
-Revisado por: Cypherpunks Brasil
+Revisado por: Matheus Bach
 ```
 
 [```ver lista de contribuidores```](/about/#contribuidores)
 
 # O olho da tempestade
 
-![](../stuff/tornado-header.png)
+![](../stuff/tornado-header.webp)
 
 ===exibe no card daqui pra baixo===
 
@@ -36,7 +37,7 @@ Com mais de [$1 bilhão de TVL](https://twitter.com/TornadoCash/status/151490497
 
 *Se não sanções, então qual é a solução? Se permitirmos privacidade, existem exceções?*
 
-![](../stuff/rekt-linebreak.png)
+![](../stuff/rekt-linebreak.webp)
 
 **Ontem, o Tornado Cash e alguns de seus endereços de contratos inteligentes foram [adicionados](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808) à [lista OFAC](https://www.treasury.gov/ofac/downloads/sdnlist.pdf) do Tesouro dos EUA de Nacionais Especialmente Designados (SDNs) e Pessoas Bloqueadas.**
 
@@ -50,7 +51,7 @@ Como essa definição deixa claro, o Tesouro está usando o Tornado Cash como um
 
 E como mostra o [gráfico](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists) a seguir, menos de 30% dos recursos depositados no protocolo vêm de fontes ilícitas.
 
-![](../stuff/tornado-pie.png)
+![](../stuff/tornado-pie.webp)
 
 **Esta é a primeira vez na história que um pedaço de código foi sancionado como se fosse uma pessoa ou uma organização.**
 
@@ -60,7 +61,7 @@ Em uma época em que atores malignos patrocinados pelo Estado não estão mais s
 
 Mas parece que aqueles que dão as ordens não entendem o que estão proibindo. O secretário de Estado dos EUA, Blinken, [confundiu](https://twitter.com/LefterisJP/status/1556679380272877568) ontem o Tornado Cash com o próprio Grupo Lazarus:
 
-![](../stuff/tornado-tweet.png)
+![](../stuff/tornado-tweet.webp)
 
 **Essas são as pessoas que fazem as leis pelas quais muitos de nós devemos viver: incapazes (ou relutantes) de diferenciar pessoas e ferramentas, atores maliciosos de infraestrutura neutra.**
 
@@ -70,7 +71,7 @@ Em um sistema transparente, quem deseja quebrar a trilha entre os endereços tem
 
 **Existem [muitas razões legítimas](https://twitter.com/RezaJafery/status/1556751888896258049) para usar um serviço como o Tornado Cash, mas, em última análise, a privacidade é um direito humano, e isso não deveria ser suficiente?**
 
-![](../stuff/tornado-linebreak.png)
+![](../stuff/tornado-linebreak.webp)
 
 **O anúncio traz muitas questões anteriormente teóricas para o centro do palco.**
 
@@ -92,7 +93,7 @@ Foi menos surpreendente ver que a Circle foi rápida em entrar na linha, [congel
 
 Quanto tempo até que a Circle de repente decida que cada endereço deve ter [KYC](https://en.wikipedia.org/wiki/Know_your_customer) antes de mover seus fundos?
 
-![](../stuff/tornado-linebreak.png)
+![](../stuff/tornado-linebreak.webp)
 
 **A ordem estabelecida se comporta de modo a se proteger; ela deve destruir os sistemas que não compreende.**
 
@@ -114,7 +115,7 @@ A exclusão de um sistema projetado para difamar, vigiar e controlar aqueles que
 
 **[Está na hora de ir para a escuridão...](https://twitter.com/RektHQ/status/1555584960081321984)**
 
-![REKT](../stuff/rekt-outline-conc.png)
+![REKT](../stuff/rekt-outline-conc.webp)
 
 ---
 

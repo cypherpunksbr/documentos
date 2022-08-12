@@ -594,7 +594,7 @@ Wilber, Ken. 1998. *The Marriage of Sense and Soul: Integrating Science and Rel
 
 ## Sobre o Autor
 
-![media](../stuff/konradsgraf-todo-engravatado.png)
+![media](../stuff/konradsgraf-todo-engravatado.webp)
 
 Konrad S. Graf é o formulador do paradigma de jurisprudência baseada na ação, que defende novas e mais explícitas aplicações dos princípios da teoria da ação de Mises e Hoppe dentro de uma abordagem integral para com os fundamentos da filosofia jurídica. Ele escreveu numerosos trabalhos sobre Bitcoin e teoria monetária.
 

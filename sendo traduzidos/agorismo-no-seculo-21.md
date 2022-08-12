@@ -11,7 +11,8 @@ author:
   - W.W. Barlowe
   - Jaya Klara Brekke
   - Nick Land
-description: 'Essa template é apenas um exemplo para te ajudar a passar textos para esse padrão. Obviamente esse documento não é para ser traduzido, apenas para servir como exemplo'
+  - Amy Ireland
+description: 'O agorismo é uma filosofia prática aplicada. Sua tática primária é chamada de contra-economia: a soma de todas as atividades do mercado negro. O agorismo é a contra-economia exercida conscientemente.'
 ---
 
 ```
@@ -28,6 +29,8 @@ Revisado por: Cypherpunks Brasil
 Nos últimos anos, o ecossistema de criptomoedas se expandiu para territórios imprevistos. As Memecoins proliferaram, trazendo consigo uma nova e enérgica classe de traders de criptomoedas. NFTs, DeFi e DAOs chegaram ao poder como primitivos essenciais para encorajar comunidades criptográficas. Rumores de agitação regulatória são recebidos com avanços significativos na criptografia de conhecimento zero, que promete tornar o anonimato prático para usuários de criptografia.
 
 No entanto, como ecossistema, o crescimento da criptomoeda é impulsionado não por suas flores – os vários fenômenos técnicos que constituem a criptomoeda – mas por suas raízes: a filosofia da qual a criptomoeda se origina. É a afirmação deste jornal que as raízes da criptografia são firmemente agoristas. O agorismo é a subestrutura mítica da criptomoeda, sua fonte de nutrição e sua âncora.
+
+===exibe no card daqui pra baixo===
 
 O agorismo é uma filosofia prática aplicada. Sua tática primária é chamada de contra-economia: a soma de todas as atividades do mercado negro. O agorismo é a contra-economia exercida conscientemente. Nas palavras de seu fundador, Samuel Edward Konkin III (SEK3):
 
@@ -170,6 +173,66 @@ Este breve ensaio apresenta uma revisão de notas antigas. Em seguida vem a aná
 ## Anarquia Fria
 
 ### Nick Land
+
+**§00 —** A *anarquia quente* pode ser considerada um ponto de partida infeliz para qualquer discussão política, e até mesmo a pior possível. Qualquer coisa dita sobre a anarquia quente tem que articular demais. A anarquia quente não quer apenas consertar o mundo. Ele quer consertar o mundo tanto que qualquer coisa é sancionada nesta causa, ou fim último. A ação extrema é, portanto, pelo menos implicitamente recomendada, e serve como um indicador de autenticidade. Zelosa por definição, a anarquia quente é introduzida além de um limiar de entusiasmo.
+
+**§01 —** Qualquer instanciação de anarquia quente irá decepcionar, porque é uma essência pura – a essência pura. Sua negatividade incipiente só a torna mais pura. Aqui, finalmente, está a grande lavagem. O sonho vai lá para morrer, num êxtase de destruição (ou purificação) imaginado, absolutamente desenfreado, que só pode ser aproximado. Holocausto do real na chama da ideia é o projeto implícito. A anarquia quente está nos antípodas absolutos do realismo, por uma questão de princípio.
+
+**§02 —** Mais definitivamente, a anarquia quente é um ativismo utópico universalista enquadrado internamente. Isso quer dizer que ela busca a derrubada de seu próprio regime local como se fosse o mundo inteiro, e em nome de todo o mundo, para introduzir um tipo de sociedade que nunca existiu antes, fazendo isso imediatamente, e praticamente. É enquadrado internamente porque sua preocupação é com a forma de governo, e não com a ecologia dos governos. É universalista porque apenas um modelo governamental, não governamental ou antigovernamental é necessário – ou mesmo tolerado. É utópico porque o que quer não tem precedentes e, portanto, não oferece nada para defender, conservar ou consolidar. É ativista porque queimar merda deveria acontecer agora. Todas essas quatro características emergem de sua temperatura. Eles não são distintamente anarquistas, mas apenas distintamente inflamados.
+
+**§03 —** A anarquia fria é algo completamente diferente, apesar da ressonância terminológica. Em vez de juntar a anarquia quente e fria, a “anarquia” os divide ainda mais. Na medida em que a anarquia quente tem uma tese, é que a anarquia é o que ainda não temos (mas queremos, intensamente). A anarquia quente é aquecida precisamente pela incompatibilidade friccional do ideal anárquico com a ordem prevalecente. A anarquia fria, em contraste, é tudo o que pode existir. Como reflexo, reconhece a anarquia por trás de cada máscara de ordem. A ordem, em outras palavras, é entendida como algo que a anarquia pode fazer, e nada mais. Todas as vertentes da tradição da ordem espontânea tratam apenas disso.
+
+**§04 —** Todos os verdadeiros liberais são anarquistas frios. Sua principal lealdade é com a concorrência em si, e não com qualquer concorrente. Eles confiam nos mercados acima dos negócios, na ciência acima dos cientistas, na Internet acima dos FAANGs, na Splinternet acima da Internet, cisma acima da religião, guerra no céu acima do céu, dissidência acima do acordo, polarização acima de qualquer um de seus pólos e conflitos em geral acima de qualquer um dos suas festas. Patchwork é mais confiável do que qualquer patch. A guerra é Deus.
+
+**§05 —** O fato de os liberais raramente apresentarem as coisas dessa maneira pouco importa. O liberalismo deve ser confiável acima dos liberais. Os liberais não são de onde vem o liberalismo. Normalmente, eles são onde o liberalismo perece. O liberalismo usa os liberais para morrer. Qualquer chance de rejuvenescimento liberal é encontrada apenas fora, na anarquia fria. É apenas da fria anarquia que flui o compromisso liberal fundamental – com a ordem espontânea.
+
+**§06 —** Conservadores sérios também são anarquistas frios. Eles sustentam que os padrões de desintegração que temos agora devem ser preservados contra as unidades sem precedentes com as quais podemos sonhar. Cada União é uma derrota conservadora. Há uma herança planetária extraordinariamente luxuriante de coisas que não são Um. É para valorizar isso – com a máxima praticidade – que existe o conservadorismo.
+
+**§07 —** Todos se tornam anarquistas frios, assim que são realistas. O que quer que sejam realistas é pensado através de uma fria anarquia, surgindo de multiplicidades sem ordem transcendente, ou mesmo ordem pseudotranscendente convincente, mas apenas arranjo imanente, intratável a uma direção coerente. Não há nada que tais populações devam ser, a menos que muitas. Estudá-los é deixar de lado, automaticamente, o viés conjunto da inflamação moral e do pensamento positivo.
+
+**§08 —** Curtis Yarvin nos diz, repetidamente, que existem apenas três tipos fundamentais de governo – democracia, oligarquia e monarquia. Quando a política interna é adotada como ponto de partida, a afirmação é apenas minimamente controversa. No entanto, tal ponto de partida não é obrigatório. Pode até não ser bem possível. As relações internacionais são uma alternativa e, em última análise, todas as alternativas.
+
+**§09 —** A escola realista da teoria das relações internacionais começa com a anarquia e aí permanece. Seu tema são os poderes, sempre no plural, e suas interações. A soberania é essencialmente múltipla. Muitas nações, com capacidades e modos de organização sociopolítica interna muito diferentes, mas sempre com agência nominalmente autônoma (soberania), engajam-se em interações multiníveis em busca de um padrão de coexistência consistente com seus interesses individuais. Se “nações” são teoricamente generalizadas, substituídas por nós de qualquer tipo, a anarquia fria sempre se parece com isso. É enquadrado internacionalmente (ou internodalmente) em vez de domesticamente. É mais trágico do que universalista, aceitando a irredutível diversidade de interesses. É histórico em vez de utópico, desenvolvendo-se sobre o precedente, em vez de inaugurar o sem precedentes. Finalmente, é factual e não ativista, preocupado apenas com o que está acontecendo, e não com o que deveria ser. A anarquia fria é a ordem das relações externas. Ela governa sempre e onde a dinâmica internodal domina a organização intranodal – em última análise, sempre e em todos os lugares, portanto.
+
+**§10 —** As nações são as unidades da anarquia instalada. A tal ponto isso é verdade, que as palavras “nação” e “anarquia” não são totalmente articuláveis de forma independente. Uma nação é algo para fazer anarquia.
+
+**§11 —** Nações, como mônadas ou hólons, são todos e partes. Esses são seus aspectos quentes e frios – agregativos e desagregativos. Cada nação se conecta a todas as outras ('rizomaticamente'). Sua proliferação envolve, portanto, uma explosão combinatória. Então, ‘explodir o sistema’ não é destruí-lo, mas sim intensificá-lo. Quanto maior o seu número de partes independentes, mais ele pode fazer. *Set at One* – ou globalismo consumado – é incapaz de qualquer coisa. As relações internacionais não existem então. Não há jogo e não há saída. Se o globalismo for idealizado até a assíntota em que nada mais global poderia ser realizado, a ordem espontânea é totalmente suspensa. A domesticação absoluta eliminou todas as surpresas. Um certo estado ômega tecnocrático é concebido.
+
+**§12 —** Claro, nada disso é real, porque existe o lado de fora, em vez disso. O real é a desunião. Se isso soa, simultaneamente, como uma afirmação da filosofia transcendental francesa e da teoria das relações internacionais realista anglófona, seu plano de convergência é a anarquia fria. A intolerância à ilusão da unidade é o fio coerente. Seja formal ou informal, o alvo da crítica é o mesmo.
+
+**§13 —** Reconhecer que o governo global não existe é uma anarquia fria. Quando esse reconhecimento é implementado em detalhes, nada mais é necessário. A orientação completa é dada. Proceda sempre na direção da desintegração mais profunda. Passar do nacionalismo, passando pelo micronacionalismo, ao nanonacionalismo. Atravessando do registro subjetivo ao objetivo, o caminho leva de centenas de nações, passando por milhares de nações, a milhões de nações. Não pode haver muitas nacionalidades. Nunca haverá o suficiente. Esta é toda a direção.
+
+**§14 —** No horizonte da fria anarquia está a extinção da política doméstica por meio das relações internacionais. O horizonte está distante. Não é, como o jogo vai, que estamos ficando quentes, mais quentes, queimando quando o destino anárquico é tropeçado. A anarquia não está no horizonte. Ele define o horizonte. O fim da interioridade não é algo esperado. Em vez disso, é tocado.
+
+**§15 —** Considere a inteligência animal. As funções internas do organismo animado são automatizadas ao máximo, a fim de liberar recursos cognitivos para aplicação externa. Sob condições de realidade evolutiva, a inteligência tem orientação externa intrínseca. A mente pertence ao exterior. A medida em que ela é mantida dentro é deficiência epistemológica e deficiência estratégica. Um animal que cuida do funcionamento de seus próprios órgãos está doente.
+
+**§16 —** Nesse aspecto, o Leviatã não é diferente de um animal. O índice de sua saúde é a ausência de consideração doméstica. O príncipe de qualquer estado bem ordenado olha apenas para fora. Ele não está mais atento à nação ou à corte do que ao seu próprio sistema digestivo ou ao funcionamento de seu fígado. Toda a sua capacidade cognitiva é dedicada ao jogo dos príncipes. A consciência é apreendida exclusivamente pelas relações internacionais.
+
+**§17 —** Isso quer dizer que a anarquia fria é o único tópico de um governo sólido. Qualquer outra política é doença. Quando a política interna é discutida, é como se o Leviatã se queixasse de dores nos rins. O sinal só pode ser ruim. (O significado ‘ruim’, é claro, e sempre bem-vindo aos seus inimigos.) A interioridade é uma morbidez manifesta.
+
+**§18 —** Um cisma pode então ser previsto dentro do *Neo reacionárismo* – ou mesmo dentro de Yarvin – entre o monarquismo enquadrado internamente e o anarquismo frio internacionalmente enquadrado. O primeiro é orientado positivamente para algo que não tem, mas gostaria de ver (um rei americano), enquanto o segundo é orientado negativamente para algo que não tem e aprecia intensamente não ter (governo mundial). Gostaríamos, se não de provocar, pelo menos de acolher, um estado de coisas radicalmente transformado. O outro gostaria do que já não temos ainda mais, e ainda menos.
+
+**§19 —** Pode haver pouca dúvida de onde a anarquia quente encontraria mais facilmente compra. Daí os incessantes – e inteiramente sinceros – protestos de Yarvin de que não é isso que ele quer. O monarquismo pode parecer meio quente, mas não, não, não é. Grey Mirror não está defendendo nada. Incendiários anarquistas como Adolf Hitler são uma completa mentira. Revisite a história, mais uma vez, e você verá por comparação que nada na América contemporânea poderia realmente ser iluminado. Sinceramente, somos legais. Muito mais dessa refrigeração performática pode ser antecipada com total confiança. A pura sobrevivência exige isso.
+
+**§20 —** Não é (claro) que ele está mentindo. É só que ele estaria mentindo se estivesse de fato tomando o caminho de uma monarquia americana. Ele está plenamente consciente de que incendiar uma delegacia de polícia como um passo no caminho para uma ordem social em que nenhuma delegacia de polícia precise queimar novamente seria, na prática, uma anarquia quente. É por isso que ele nunca, nunca, quer fazer ou encorajar isso. Sua política de incitação zero é mantida escrupulosamente. Ele não pode nem mesmo recomendar que alguém faça qualquer coisa, exceto – pelas entranhas latejantes de Cristo – evitar qualquer coisa que possa ser interpretada como uma recomendação. Ele está preso, domesticado. Só resta a ironia.
+
+**§21 —** A anarquia fria é notavelmente livre desses problemas. É simplesmente impossível imaginá-lo querendo aquecer alguma coisa. Na medida em que exibe atividade de qualquer tipo, é abrindo todas as aberturas sociais concebíveis para as rajadas de gelo do Exterior.
+
+**§22 —** Deixar o exterior entrar pode ser mal interpretado como um processo de domesticação, embora na realidade esteja mais próximo do oposto. A endogenização doméstica da anarquia internacional desdomestica. Faz do interior mais uma coisa do exterior, regido pelas relações externas.
+
+**§23 —** Internacionalizar o intranacional é descentralizar. É a única maneira de descentralizar. O método é sempre subtrair, ou contornar, o elemento superordenado (e pseudo-transcendente) em qualquer multiplicidade dada, produzindo um sistema plano, ponto a ponto ou internacional. Entidade torna-se rede. O exterior é desenhado entre as partes do todo desunificado.
+
+**§24 —** Colapsar a pseudotranscendência em imanência real faz disso um trabalho de crítica. Quando realizado no curso da engenharia de blockchain, o termo pseudotranscendente é chamado de *terceiro confiável*.
+
+**§25 —** Mesmo que a democracia, a oligarquia e a monarquia esgotem as formas básicas de governo integrado, o governo desintegrado permanece intocado por essa tipologia. Mas o governo desintegrado nunca foi tentado, diz o meme sarcástico – enganosamente neste caso. O governo desintegrado é a principal coisa que a modernidade tentou e é a base de todos os seus sucessos. O capitalismo consiste essencialmente em nada mais. A fase blockchain foi alcançada no novo milênio. Certamente não vai parar por aí.
+
+§26 — A fria soberania anárquica não se baseia em um monarca, mas na plutocracia de poder de hash distribuído, com governos reconstituídos como produtos secundários industriais. Sibilizando livremente agências em redes criptográficas, o Capital governa automaticamente. Com mais de um bilhão de nações a caminho, explodindo exponencialmente, na Splinternet ninguém sabe que você é um bot.
+
+---
+
+## Sucata de metais e tecidos: A tecelagem como tecnologia temporal
+
+### Amy Ireland
 
 ---
 Fonte: [Agorism in the 21st century: a philosophical journal](https://agorist.xyz/)

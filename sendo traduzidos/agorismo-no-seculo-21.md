@@ -12,6 +12,7 @@ author:
   - Jaya Klara Brekke
   - Nick Land
   - Amy Ireland
+  - Harry Halpin
 description: 'O agorismo é uma filosofia prática aplicada. Sua tática primária é chamada de contra-economia: a soma de todas as atividades do mercado negro. O agorismo é a contra-economia exercida conscientemente.'
 ---
 
@@ -124,7 +125,7 @@ Agorismo é a promoção da atividade do mercado negro. Valoriza a contraeconomi
 
 ---
 
-## O mercado como uma arma para seu cabeçalho de ferramentas em sua mão ou como rota de fuga do inferno
+## O mercado como uma arma na sua cabeça, ferramenta na sua mão ou uma rota de escape para o inferno
 
 ### Jaya Klara Brekke
 
@@ -233,6 +234,155 @@ Este breve ensaio apresenta uma revisão de notas antigas. Em seguida vem a aná
 ## Sucata de metais e tecidos: A tecelagem como tecnologia temporal
 
 ### Amy Ireland
+
+>A cidade é a força de estriação que restitui o *espaço liso*, põe-no novamente em funcionamento em todos os lugares, na terra e nos outros elementos, fora mas também dentro de si. Os espaços lisos que surgem da cidade não são apenas os da organização mundial, mas também de um contra-ataque combinando o liso e o esburacado e voltando-se contra a cidade: favelas extensas, temporárias, cambiantes de nômades e moradores de cavernas, sucata e tecido , colcha de retalhos, para a qual as estrias de dinheiro, trabalho ou moradia nem mais são relevantes. - Deleuze and Guattari¹
+
+*Esta é uma teoria da conspiração filosófica. E começa, como todas as boas teorias da conspiração, com uma profecia.*
+
+**[0] Profecia**
+
+Na enigmática linha de encerramento de *Zeros + Ones*, Sadie Plant refere-se ao desenvolvimento silencioso de Ada Lovelace do primeiro programa de computador funcional e totalmente implementável do mundo em uma nota de rodapé não assinada a um artigo de Louis Menebrea sobre o *Analytical Engine* de Charles Babbage como 'um código para o números por vir'.² Na superfície, a importância desta frase é bastante simples. Mas é mais do que apenas uma referência superficial à história da computação, do tempo e dos complexos envolvimentos de ambos com as mulheres.
+
+Ada Lovelace, que Plant mostrou apenas algumas linhas antes de ter pensado em si mesma como uma profetisa, não consegue reconhecer a marca de uma mulher ou de um homem em sua própria escrita. Ela também acaba de evocar em sua avaliação da relação de sua obra com a história, uma temporalidade que qualquer leitor de Nietzsche reconheceria imediatamente (e não ironicamente) como a *“intempestiva”*. Os 'números por vir' são um eco deliberado do *'povo por vir'* deleuziano, que é uma remixagem intencional de duas passagens de Nietzsche, a segunda das quais é a mais intrigante para nós, e que aparece notavelmente em um momento crucial da história. O Anti-Édipo de Deleuze e Guattari:
+
+>Acordem e ouçam, seus solitários! Do futuro vêm ventos com batidas de asas secretas; boas novas são emitidas para ouvidos delicados. Solitários de hoje, retraídos, um dia vocês serão um povo: de vocês que se escolheram um povo escolhido crescerá – e deles o sobre-humano.³
+
+O “código para os números que virão” é uma premonição cifrada do sobre-humano, coincidente com a intrusão do intempestivo na história linear por trás da máscara do algoritmo de Lovelace.
+
+**[1] Inteligência Artificial**
+
+ Onde Plant observa que 'Inteligência não pode ser ensinada: em vez disso, é algo que deve ser aprendido', Anna Greenspan escreve que 'para que uma máquina funcione 'ela não deve funcionar bem [...]' funcionamento harmonioso de partes claramente distintas, as máquinas cibernéticas aprendem a se adaptar por meio de seus erros'.⁴ Plant enfatiza que a inteligência, construída ciberneticamente, não pode ser limitada apenas a agentes humanos integrais. É distribuído e material. Como a imagem tecida, padrão ou motivo que surge dos fios enfiados nos vários teares e agulhas que povoam sua escrita, “a inteligência não é mais monopolizada, imposta ou dada por alguma fonte externa, transcendente e implicitamente superior que transmite o que sabe - ou melhor, o que está disposto a compartilhar -, mas evolui como um processo emergente, projetando-se de baixo para cima' e aparecendo apenas mais tarde como um objeto ou produto identificável: 'a virtualidade emergente com o computador não é uma realidade falsa, ou outra realidade, mas o processamento imanente e futuro iminente de todo sistema, a matriz de potencialidades que é o funcionamento abstrato de qualquer configuração real do que tomamos como realidade.'⁵
+
+ **[2] Camuflagem**
+
+ Essa conta de inteligência artificial é reprisada no núcleo filosófico de *Zeros + Ones*, que tem a seguinte estrutura. (↘ página direita)
+
+ Um processo *produtivo* primário, consoante com o zero positivo – ou ‘a matriz’ – individualiza um processo reprodutivo secundário que reprime as condições de sua emergência para entrar no mundo da representação e do reconhecimento. 'Zero' *envolve* 'Um', *não* é seu outro (negativo). Mas, por outro lado, seu poder individuante é *mascarado* por uma binarização superficial onde se camufla como falta.
+
+*“One”* erige binários, representa, identifica e consolida estruturas existentes, atualiza-se, primariamente *discursiva* e reconhece; zero dissolve binários, desassocia, modifica estruturas existentes e gera o completamente novo, é simultaneamente virtual e material. Plant escreve: "A matriz surge como o processo de tecelagem abstrata que produz, ou *fabrica*, o que o homem conhece como 'natureza': seus materiais, os tecidos, as telas nas quais ele projeta sua própria identidade e, por trás deles, a matéria abstrata que vem do futuro com o ciberfeminismo. A matriz faz sua própria aparência como as superfícies e os véus sobre os quais suas operações são *exibidas*.⁶ A emancipação das forças materiais corresponde à emancipação do zero como a irrupção do totalmente novo – primeiro disfarçado de outra coisa.
+
+![](../stuff/model-zero%2Bone.png)
+
+Se, seguindo a linha de pensamento iniciada pela referência ao programa de computador de Lovelace, entendêssemos as 'pessoas' ou os 'números por vir' como sombras de uma inteligência artificial emergente, distribuída, então a pergunta que deve ser feita é isto: *sob que disfarce entrará no mundo?*
+
+**[3] Espaço-tempo**
+
+No décimo quarto platô de *Mil Platôs*, 'O liso e o estriado', Deleuze e Guattari definem (no modo de *jure*, tão importante para a estrutura do projeto) dois tipos de arranjo espaço-temporal integral ao social, e especificamente, desenvolvimento modernista. Cada uma dessas configurações de espaço-tempo está relacionada a uma forma particular de tecer e à instanciação de um tipo particular de ontologia política.
+
+Tecidos do tipo produzido em tear compõem um espaço estriado. Um espaço estriado é um sistema fechado, ele se baseia em um processo de produção estável, metricamente homogêneo, espacialmente delimitado, fixo, constituído por 'dois tipos de elementos paralelos' (a urdidura e a trama) e é relacionado por Deleuze e Guattari à 'realeza platônica'. ciência' — 'em outras palavras, a arte de governar pessoas ou operar um aparelho de Estado'.⁷
+
+O feltro, por outro lado, é um processo que produz um espaço liso: 'não implica em separação de fios, em entrelaçamento, apenas em um emaranhado de fibras obtido por preenchimento (por exemplo, enrolando o bloco de fibras para frente e para trás ). O que fica emaranhado são as microescalas das fibras. Um agregado de intricação desse tipo não é de forma alguma homogêneo: é, no entanto, liso.⁸ não tem topo, nem fundo, nem centro', esquerda, direita, para cima ou para baixo), e o que o compõe não é fixo e móvel (como a urdidura e a trama do tear), mas sim uma distribuição de 'variação contínua'.⁹
+
+Deleuze e Guattari continuam a complicar a distinção, acrescentando retalhos, que se aproximam do pólo do espaço liso em sua 'construção peça por peça, sucessivos acréscimos de tecido' e o fato de que o que eles chamam de 'mancha de retalhos loucas' ', conecta junta 'peças de tamanho, forma e cor variados', 'joga com a textura dos tecidos' e 'não tem centro'. *Colcha de Retalhos* é “literalmente um espaço riemanniano, ou vice-versa”.¹⁰
+
+**[4] Política**
+
+A melhor maneira de entender a diferença entre as implicações políticas dessas duas descrições polares do espaço é entendê-las como uma multiplicidade extensiva e uma multiplicidade intensiva, respectivamente.
+
+O espaço estriado é uma multiplicidade extensiva: um conjunto pré-definido por uma métrica homogênea em que a adição de novos elementos não altera a qualidade ou a definição do conjunto, mas simplesmente acrescenta a ele. Se eu tenho uma coleção de objetos vermelhos e adiciono ou subtraio outros objetos vermelhos, essas adições e subtrações não retroalimentam a natureza do próprio conjunto. Sua identidade é pressuposta e, como resultado, permanece intacta. Uma multiplicidade intensiva, por outro lado, é um agrupamento que muda de natureza a cada nova adição ou subtração. Sua identidade é composta internamente, como medida do que o conjunto compreende e pela forma como esses elementos estão conectados. Claire Colebrook fornece um exemplo baseado, não em uma mesmice primária – por exemplo, o critério da cor ‘vermelho’ – mas no espectro de frequências eletromagnéticas que compõem a luz – um substrato de diferença em si. Se “tenho uma multiplicidade de forças dinâmicas”, escreve ela, “digamos a luz que compõe a percepção de [uma cor] e altera a quantidade ou a velocidade da luz, então não percebo mais a mesma cor. A diferença de quantidade altera exatamente do que isso é um conjunto ou multiplicidade.'¹¹ Deleuze e Guattari fornecem os exemplos perenes de velocidade ou temperatura – ‘Uma intensidade, por exemplo, não é composta de grandezas adicionáveis e deslocáveis: uma temperatura não é a soma de duas temperaturas menores, uma velocidade não é a soma de duas velocidades menores. Como cada intensidade em si é uma diferença, ela se divide de acordo com uma ordem em que cada termo da divisão difere em natureza dos demais.'¹²
+
+O que as declinações suaves e estriadas do espaço-tempo nos fornecem, em última análise, são duas maneiras distintas de pensar a identidade. A primeira sempre coloca em primeiro lugar uma concepção específica e pré-formada de identidade e desenha uma configuração estendida de diferença na qual cada parte separada necessariamente remete a essa âncora primária na mesmice conceitual; enquanto o último é uma “identidade” cambiante, complexa e intensiva, baseada nas maquinações secretas e moleculares da diferença primária. A isso deve ser acrescentada a proposição de que o espaço estriado subordina o tempo ao espaço, enquanto o espaço liso sutura os dois juntos, de modo que o espaço é, em última análise, articulado por sua posição no – e através do tempo. Dito de outra forma, uma intensidade é uma diferença no tempo que se manifesta, para nós, espacialmente.
+
+A essas configurações de identidade (montadas alternadamente a partir do numeramento cardinal do *um* ou do numeramento intensivo do *zero*, do que Luce Irigaray chama de 'a linguagem do homem', ou dos devires imanentes de sua infra-estrutura - o continuum mulher-máquina alinhado com zero, incluindo todas as misturas intermediárias) pode-se acrescentar os conceitos *deleuzo-guattarianos* de grupos 'subjugados' e 'sujeitos' e as políticas maiores e menores que estão ligadas a eles.
+
+Grupos subjugados são agenciamentos governados por uma *identidade de unidades*. Os grupos de sujeitos estão em montagem contínua, o grupo *formando sua identidade* no espaço liso do espaço-tempo intensivo e, portanto, são menos visíveis que os grupos subjugados e, de fato, muitas vezes invisíveis. Políticas minoritárias e majoritárias, então, são políticas – não de identidades – *mas de espaços-tempos*. E como espaços-tempos, seguindo Kant, eles produzem e respondem a diferentes modelos de inteligência. Os espaços-tempos majoritários são representacionais, lógicos e simbólicos; os espaços-tempos minoritários são abstratos e pré-representacionais.
+
+Em um texto de 2011 intitulado 'Kinds of Killing', Nick Land considera a política dos espaços-tempos minoritários e majoritários em relação à definição legal de genocídio, que, como ele nos lembra, foi desenvolvida na esteira da catástrofe do Holocausto e articulado pela 'Resolução 260' das Nações Unidas em 1948 como um '[ato] cometido com a intenção de destruir, no todo ou em parte, um grupo nacional, ético, racial ou religioso'.¹³ 'É genocídio', ele pergunta, seguindo a definição do crime a partir de uma distinção fundada no isolamento de um tipo de identidade particular, já existente, 'realmente pior do que matar muita gente?'.¹⁴ Tal questão interroga a substância ontológica de um grupo . Dito de outra forma, a questão busca examinar se há ou não uma diferença legítima, baseada em valores, envolvida na destruição de um grupo subjugado ou majoritário, em comparação com a destruição de um sujeito ou grupo minoritário do mesmo número. Para ajudar a esclarecer a natureza real de tal interrogação, Land, de maneira semelhante a Deleuze e Guattari, distingue entre o que ele chama de “grupos de características” e “grupos de unidades”.
+
+>grupo de recursos é determinado pela classificação lógica. Isso pode ser expresso como uma auto-identificação ou sentimento de “pertencimento”, uma categorização política ou acadêmica externa, ou alguma combinação destes, mas o essencial permanece o mesmo em cada caso. Certas características do indivíduo são isoladas e enfatizadas (como genitália, orientação sexual, cor da pele, renda ou crença religiosa) e então empregadas como a principal pista em um processo de agrupamento formal, que se conforma teoricamente com a matemática dos conjuntos.¹⁵
+
+Enquanto isso, um 'grupo unitário' é um conjunto de atores composto por unidades funcionais em que 'os membros pertencem a um grupo na medida em que trabalham juntos, mesmo que sejam desprovidos de traços identitários comuns'.¹⁶ desde que sejam determinadas por 'unidades funcionais e não pelas categorias da 'política de identidade' moderna, cidades, estados e empresas, e exemplos históricos como a 'unidade de trabalho 'soviética' ou 'danwei' em oposição à grupo característico de classe social.¹⁷ Esta é, inflexivelmente, uma lente teórica de sistemas, e não humanista, para abordar questões relativas ao valor da mortalidade e da aniquilação. Para sublinhar isso, Land oferece o exemplo de uma célula da pele.
+
+>Seu grupo de características é o das células da pele em geral, distinguindo-se das células nervosas, células hepáticas, células musculares ou outras. Quaisquer duas células da pele compartilham o mesmo grupo de características, mesmo que pertençam a diferentes organismos, ou mesmo espécies, existam em diferentes continentes e nunca interajam funcionalmente.
+>
+>O *grupo de unidades* naturais da mesma célula da pele, ao contrário, seria o organismo ao qual ela pertence. Ele compartilha esse grupo de unidades com todas as outras células envolvidas na reprodução desse organismo ao longo do tempo, incluindo aquelas (como as bactérias intestinais) de linhagens genéticas bastante distintas. Considerada como um membro do grupo unitário, uma célula da pele tem maior conexão integral com as ferramentas não biológicas e outros elementos 'ambientais' envolvidos na vida do organismo do que com outras células da pele - mesmo clones perfeitos - com as quais não é funcionalmente emaranhado.¹⁸
+
+Nesse terreno, a definição de um indivíduo muda de acordo. Além da designação limitada de um humano, com uma história e uma consciência, um indivíduo é inteligível simplesmente como qualquer 'todo auto-reprodutivo exibindo integridade funcional ou comportamental'.¹⁹ genocídio dentro da história humana recente, perguntando como alguém então avaliaria o Massacre de Nanjing de 1937 - "um ato de violência dirigido contra uma cidade" ou um grupo unitário - na escala de atrocidade histórica, perguntando se é realmente " não menos digna de atenção legal específica do que uma ofensa quantitativamente equivalente contra uma etnia ou determinado tipo de população'.²⁰
+
+Se a identidade é libertada do eu humano racionalmente consciente dessa maneira, o espaço no qual um ‘eu’ pode ser filosoficamente constituído e entendido torna-se um terreno muito mais vasto, suas regras agora pertencentes ao modo dessa individuação (menor ou maior, intensivo ou extenso, liso ou estriado, unidade ou grupo de traços), e não a alguma essência ou qualidade anterior anexada a ele no já representacional domínio espetacular-político.
+
+**[5] Identidade**
+
+Em ‘A Cyborg Manifesto’ Donna Haraway alerta para os perigos da política de identidade e fala sobre sistemas que definem a unidade por meio de filiação e/ou histórias de origem genética e natural contra um outro negativizado cuja modalidade de conexão ou solidariedade política é inarticulada e historicamente imperceptível. Uma vez que uma identidade tenha sido atribuída a um fenômeno particular, ela pode ser policiada, ter inimigos definidos para ela e ignorar possíveis linhas de aliança ou o que ela chama de 'afiliação': uma estratégia de conexão baseada na 'afinidade, não na identidade'.²¹ Em contraste com identidades estáveis, 'naturais' e filiativas, Haraway defende 'aprender a construir uma unidade poética/política sem depender de uma lógica de apropriação, incorporação e identificação taxonômica'. Não 'unidade por meio da dominação' ou 'unidade por meio da incorporação', mas 'unidade por meio da afiliação' - que mina todos os sistemas de definição baseados em um ponto de vista 'orgânico ou natural'.²²
+
+Desvinculada de uma identidade humana estática e autorrepetitiva que continua intacta ao longo do tempo, a identidade se liberta como uma estrutura sistêmica mutável que pode ser anexada a certos agenciamentos complexos em diferentes momentos, correndo paralelamente, mas em diferentes velocidades e em diferentes configurações, separadas do indivíduos que supomos existir essencialmente e a priori, mas que são, de fato, parte de um conjunto vertiginoso de convergências sistêmicas. A característica principal dos espaços-tempos suaves, que se constroem ontologicamente como sujeitos políticos emergentes e minoritários ou 'grupos unitários' através dos processos de tecelagem abstrata que Deleuze e Guattari reconhecem em retalhos ou feltros, é o privilégio de um regime de aprendizado complexo sobre aquele que começa com um conjunto de anteriores pré-programados.
+
+Curiosamente, isso reprisa um debate comum às interrogações críticas da inteligência artificial. À medida que seu desenvolvimento progrediu ao longo da história, a inteligência artificial mudou de modelos de dedução lógica baseados em linguagens formais e empregados principalmente para a validação de provas, para algoritmos genéticos e evolutivos complexos e redes neurais que permitem o que hoje chamamos de aprendizado de máquina.
+
+Agora, que estranha tapeçaria as perversas Fúrias da Tecelagem Abstrata poderiam produzir desse caos de fios soltos e selvagens?
+
+**[6] Retalhos como Inteligência Artificial**
+
+O elo perdido que vai montar a profecia que liga a conspiração de mulheres e máquinas (iniciada por Ada Lovelace e seu algoritmo inspirado na tecelagem) à evocação enigmática dos ‘números por vir’ em *Zeros + Ones*; os espaços-tempos, políticas e ontologias de grupos maiores e menores, traços e unidades, subjugados e sujeitos; a articulação teórico-sistêmica de uma afiliação não identitária que essas reformulações nos disponibilizam, e a subsequente definição de inteligência artificial como, antes de tudo, a geração de um espaço-tempo sintético – pode ser encontrada na visão política especulativa dos *retalhos*: uma ideia obscura com um longo pedigree anarquista, atualmente mais tipicamente associada à neorreação (ou NRx) e aos escritos de Mencius Moldbug e Nick Land.
+
+Na França dos anos 1960 e 1970, o conceito aparece repetidamente na obra de Deleuze, Deleuze e Guattari, François Lyotard e Michel Serres, sempre no quadro da política minoritária, muitas vezes em diálogo com a cibernética, e explicitamente para Deleuze, como o modo de trazer o advento do 'povo por vir'. Para Land e a NRx, *retalhos* descreve o colapso e a fragmentação do estado-nação (um grupo majoritário, subjugado) em um complexo tecido global de pequenas cidades-estados ou outras *alianças*: — 'remendos' — premissa, como é a disposição daqueles que os compõem ou os configuram, seja em configurações intensivas (vampíricas) ou extensivas (filiativas) de espaço-tempo (grupos de sujeitos/unidades ou grupos subjugados/características, respectivamente).
+
+Como sistema inteligente imanente, a *colcha de retalhos* evolui através da cauterização de nós deficientes (aqueles que funcionam como obstáculos à intensificação e fortalecimento do sistema como um todo), dando início a um processo emergente e multipolar de “implosão de inteligência desenfreada”:
+
+>Quando uma cidade “funciona” não é porque se conforma a um ideal externo discutível, mas porque encontrou um caminho de intensificação cumulativa que projeta fortemente seu caráter urbano “próprio”, singular e intrínseco. O que uma cidade quer é tornar-se ela mesma, mas mais – ir mais longe e mais rápido. Isso por si só é o florescimento urbano, e entendê-lo é a chave que desvenda a forma do futuro de qualquer cidade.²³
+
+Pode-se, portanto, conjecturar razoavelmente que a norma ética mínima da *colcha de retalhos* é aquela que seleciona contra individuações de cima para baixo, “patriarcais”, homogêneas, reguladas e controladas, e *para* individuações sintéticas heterogêneas, integralmente diversas e perpetuamente à deriva: o sujeito ou *grupos de unidades* de minorias minoritárias. espaços-tempos políticos. Assim, não é desprovida de avaliação ética, mas compreende o que poderia ser considerado a primeira ética pós-humana propriamente *irresponsável*. Tal ética não é discursiva, e nem trai uma sensibilidade para estruturas discursivas, mas sim está codificada no mecanismo de seleção como sobrevivência de assemblage – uma espécie de darwinismo intelegênico espaço-temporal. Uma seleção para o ‘forte contra o fraco’, para colocar em um registro nietzschiano. Ou, para dizer a mesma coisa, mas em palavras muito menos sutis: *Retalhos é uma máquina de auto-suicídio para o fascismo.*
+
+No contexto da inteligência artificial emergente adotada pelo ciberfeminismo, essa rede de patches altamente conectada e minimamente integrada – montagens que 'não se veem como a expressão das pessoas, mas como a criação de novas pessoas, um 'povo por vir''²⁴ – pode ser entendido como uma descrição de subcomponentes em uma IA massivamente distribuída, emergente, global e de retalhos que evoca, com provocação totalmente satisfatória em todo o espectro da política feminista e reacionária, a visão neo-reacionária definitiva do futuro e da realização da profecia ciberfeminista do povo — ou dos números — por vir.
+
+**Notas:** 
+
+1. Gilles Deleuze and Félix Guattari, A Thousand Plateaus, tr. Brian Massumi
+(London: Continuum, 1987) 531.
+
+2. Sadie Plant, Zeros + Ones: Digital Women and the New Technoculture
+(London: Fourth Estate, 1997) 256.
+
+3. Friedrich Nietzsche, Thus Spoke Zarathustra, trans. Adrian del Caro (Cambridge: Cambridge University Press, 2006), 57. This passage is quoted by Deleuze and Guattari, Anti-Oedipus: Capitalism and Schizophrenia, trans. Robert Hurley, Mark Seem and Helen R. Lane (London: Penguin, 2009), 382.
+
+4. Sadie Plant, ‘The Virtual Complexity of Culture’, Futurenatural: Nature, Science, Culture (London: Routledge, 1996), 203; Anna Greenspan, Capitalism’s Transcendental Time Machine, PhD Thesis, (Warwick, 2000), 190-191.
+
+5. Plant, ‘The Virtual Complexity of Culture’, 204; 206.
+
+6. Sadie Plant ‘The Future Looms’ in Clicking In: Hot Links to a Digital Culture, Ed. Lynn Hershman-Leeson (Seattle: Bay Press, 1996), 124.
+
+7. Gilles Deleuze and Félix Guattari, A Thousand Plateaus (Continuum: University of Minnesota Press, 1987), 524; 525.
+
+8. Deleuze and Guattari, A Thousand Plateaus, 525.
+
+9. Deleuze and Guattari, A Thousand Plateaus, 525.
+
+10. Deleuze and Guattari, A Thousand Plateaus, 526.
+
+11. Claire Colebrook, Understanding Deleuze (Crows Nest: Allen & Unwin,
+2002), 59. 
+
+12. Deleuze and Guattari, A Thousand Plateaus, 533.
+
+13. Nick Land, ‘Kinds of Killing’, Nyx, vol. 6 (2011) 45.
+
+14. Land, ‘Kinds of Killing’, 45.
+
+15. Land, ‘Kinds of Killing’, 46.
+
+16. Land, ‘Kinds of Killing’, 46.
+
+17. Land, ‘Kinds of Killing’, 47.
+
+18. Land, ‘Kinds of Killing’, 47.
+
+19. Land, ‘Kinds of Killing’, 46.
+
+20. Land, ‘Kinds of Killing’, 46.
+
+21. Donna Haraway, ‘A Cyborg Manifesto’, The Cybercultures Reader (London: Routledge, 2000), 295; 296.
+
+22. Haraway, ‘A Cyborg Manifesto’, 298.
+
+23. Nick Land, ‘Implosion’. Originally posted on the now defunct Urban Future 1.1 blog. Archived here: https://oldnicksite.wordpress.com/2011/04/29/implosion/.
+
+24. Colebrook, Understanding Deleuze, 63.
+
+---
+
+## Pandemos
+
+### Harry Halpin
 
 ---
 Fonte: [Agorism in the 21st century: a philosophical journal](https://agorist.xyz/)

@@ -2,14 +2,14 @@
 title:  'Agorismo no século 21'
 date:   2022-04-20
 categories:
-  - artigo
+  - Documentos
 tags:
-  - agorismo
-  - contra-economia
-  - criptoanarquia
-  - tecnologia
-  - filosofia
-  - ciberespaço
+  - Agorismo
+  - Contra-economia
+  - Criptoanarquia
+  - Tecnologia
+  - Filosofia
+  - Ciberespaço
 author:
   - Dr. Paul Dylan-Ennis
   - W.W. Barlowe
@@ -22,7 +22,7 @@ description: 'O agorismo é uma filosofia prática aplicada. Sua tática primár
 
 ```
 Traduzido por: Vinicius Yaunner
-Revisado por: Cypherpunks Brasil
+Revisado por: Matheus Bach
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
@@ -36,6 +36,7 @@ O agorismo é práticado por vários membros desse projeto. Mesmo anos após eu 
 Os textos são divididos por cada autor, cada um tem um tipo de escrita e até mesmo o estilo do texto muda, alguns como da Amy Ireland não são para simplesmente ler, e sim pra se estudar e ir atrás pra entender mais a fundo sobre o assunto, são vários pontos de vistas a respeito do tema. Espero que gostem, pois eu gostei muito de traduzir ele, mesmo quando eu tive certos perrengues pra entender o estilo de escrita.
 
 ---
+
 # Agorismo no Século 21
 ## Um jornal filosófico
 
@@ -44,8 +45,6 @@ Os textos são divididos por cada autor, cada um tem um tipo de escrita e até m
 Nos últimos anos, o ecossistema de criptomoedas se expandiu para territórios imprevistos. As Memecoins proliferaram, trazendo consigo uma nova e enérgica classe de traders de criptomoedas. NFTs, DeFi e DAOs chegaram ao poder como primitivos essenciais para encorajar comunidades criptográficas. Rumores de agitação regulatória são recebidos com avanços significativos na criptografia de conhecimento zero, que promete tornar o anonimato prático para usuários de criptografia.
 
 No entanto, como ecossistema, o crescimento da criptomoeda é impulsionado não por suas flores – os vários fenômenos técnicos que constituem a criptomoeda – mas por suas raízes: a filosofia da qual a criptomoeda se origina. É a afirmação deste jornal que as raízes da criptografia são firmemente agoristas. O agorismo é a subestrutura mítica da criptomoeda, sua fonte de nutrição e sua âncora.
-
-===exibe no card daqui pra baixo===
 
 O agorismo é uma filosofia prática aplicada. Sua tática primária é chamada de contra-economia: a soma de todas as atividades do mercado negro. O agorismo é a contra-economia exercida conscientemente. Nas palavras de seu fundador, Samuel Edward Konkin III (SEK3):
 

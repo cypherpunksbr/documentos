@@ -13,6 +13,7 @@ tags:
   - segurança
   - infosec
   - tecnologia
+description: "Vazamento de documentos, expropriação de dinheiro de bancos e trabalho para proteger os computadores de pessoas comuns é um hacking ético. No entanto, a maioria das pessoas que se autodenominam "hackers éticos" apenas trabalham para proteger aqueles que pagam suas altas taxas de consultoria, que geralmente são os que mais merecem ser hackeados."
 ---
 ```
 Traduzido por: Vinicius Yaunner
@@ -61,9 +62,9 @@ Revisado por: Cypherpunks Brasil
 #antisec
 --[ 1 - Introdução ]----------------------------------------------------------
 
-Você notará a mudança no idioma desde a última edição [1]. O mundo que fala inglês já tem muitos livros, palestras, guias e informações sobre hacking. Nesse mundo, há muitos hackers melhores do que eu, mas eles usam mal seus talentos trabalhando para empreiteiros de "defesa", para agências de inteligência, para proteger bancos e corporações e para defender o status quo. A cultura hacker nasceu nos Estados Unidos como uma contracultura, mas essa origem só permanece em sua estética - o resto foi assimilado. Pelo menos eles podem usar uma camiseta, pintar o cabelo de azul, usar seus nomes de hacker e se sentir como rebeldes enquanto trabalham para o Homem.
+Você notará a mudança no idioma desde a última edição[1]. O mundo que fala inglês já tem muitos livros, palestras, guias e informações sobre hacking. Nesse mundo, há muitos hackers melhores do que eu, mas eles usam mal seus talentos trabalhando para empreiteiros de "defesa", para agências de inteligência, para proteger bancos e corporações e para defender o status quo. A cultura hacker nasceu nos Estados Unidos como uma contracultura, mas essa origem só permanece em sua estética - o resto foi assimilado. Pelo menos eles podem usar uma camiseta, pintar o cabelo de azul, usar seus nomes de hacker e se sentir como rebeldes enquanto trabalham para o Homem.
 
-Você costumava entrar sorrateiramente nos escritórios para vazar documentos [2]. Você costumava precisar de uma arma para roubar um banco. Agora você pode fazer às duas coisas da cama com um laptop nas mãos [3] [4]. Como a CNT disse após o hack do Gamma Group: "Vamos dar um passo em frente com novas formas de luta" [5]. Hacking é uma ferramenta poderosa, vamos aprender e lutar!
+Você costumava entrar sorrateiramente nos escritórios para vazar documentos[2]. Você costumava precisar de uma arma para roubar um banco. Agora você pode fazer as duas coisas da cama com um laptop nas mãos[3][4]. Como a CNT disse após o hack do Gamma Group: "Vamos dar um passo em frente com novas formas de luta"[5]. Hacking é uma ferramenta poderosa, vamos aprender e lutar!
 
 [1] http://pastebin.com/raw.php?i=cRYvK4jb
 
@@ -77,7 +78,7 @@ Você costumava entrar sorrateiramente nos escritórios para vazar documentos [2
 
 --[ 2 - Hacking Team ]----------------------------------------------------------
 
-Hacking Team era uma empresa que ajudava governos a hackear e espionar jornalistas, ativistas, oposição política e outras ameaças ao seu poder [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]. E, ocasionalmente, em criminosos e terroristas reais [12]. Vincenzetti, o CEO, gostava de terminar seus e-mails com o slogan fascista "boia chi molla". Seria mais correto dizer "boia chi vende RCS". Eles também alegaram ter tecnologia para resolver o "problema" colocado pelo Tor e a darknet [13]. Mas visto que ainda estou livre, tenho minhas dúvidas sobre sua eficácia.
+Hacking Team era uma empresa que ajudava governos a hackear e espionar jornalistas, ativistas, oposição política e outras ameaças ao seu poder[1][2][3][4][5][6][7][8][9][10][11]. E, ocasionalmente, em criminosos e terroristas reais[12]. Vincenzetti, o CEO, gostava de terminar seus e-mails com o slogan fascista "boia chi molla". Seria mais correto dizer "boia chi vende RCS". Eles também alegaram ter tecnologia para resolver o "problema" colocado pelo Tor e a darknet[13]. Mas visto que ainda estou livre, tenho minhas dúvidas sobre sua eficácia.
 
 [1] http://www.animalpolitico.com/2015/07/el-gobierno-de-puebla-uso-el-software-de-hacking-team-para-espionaje-politico/
 
@@ -107,19 +108,19 @@ Hacking Team era uma empresa que ajudava governos a hackear e espionar jornalist
 
 --[ 3 - Fique seguro aí fora ]---------------------------------------------------
 
-Infelizmente, nosso mundo está ao contrário. Você fica rico fazendo coisas ruins e vai para a prisão por fazer coisas boas. Felizmente, graças ao trabalho árduo de pessoas como o projeto Tor [1], você pode evitar ir para a cadeia tomando algumas precauções simples:
+Infelizmente, nosso mundo está ao contrário. Você fica rico fazendo coisas ruins e vai para a prisão por fazer coisas boas. Felizmente, graças ao trabalho árduo de pessoas como o projeto Tor[1], você pode evitar ir para a cadeia tomando algumas precauções simples:
 
-1) Criptografe seu disco rígido [2]
+1) Criptografe seu disco rígido[2]
 
    Acho que quando a polícia chega para apreender seu computador, significa que você já cometeu muitos erros, mas é melhor estar seguro.
 2) Use a virtual machine with all traffic routed through Tor
 
    Isso realiza duas coisas. Primeiro, todo o seu tráfego é anônimo por meio do Tor. Em segundo lugar, manter sua vida pessoal e hackers em computadores separados ajuda a não misturá-los acidentalmente.
 
-   Você pode usar projetos como Whonix [3], Tails [4], Qubes TorVM [5] ou algo customizado [6]. Aqui está [7] uma comparação detalhada.
+   Você pode usar projetos como Whonix[3], Tails[4], Qubes TorVM[5] ou algo customizado[6]. Aqui está[7] uma comparação detalhada.
 3) (Opcional) Não conecte diretamente ao Tor
 
-   Tor não é uma panacéia. Eles podem correlacionar os tempos em que você está conectado ao Tor com os tempos em que seu hacker está ativo. Além disso, houve ataques bem-sucedidos contra o Tor [8]. Você pode se conectar ao Tor usando o wi-fi de outras pessoas. Wifislax [9] é uma distro Linux com várias ferramentas para crackear wi-fi. Outra opção é conectar-se a uma VPN ou a um nó de ponte [10] antes do Tor, mas isso é menos seguro porque eles ainda podem correlacionar a atividade do hacker com a atividade de Internet de sua casa (isso foi usado como evidência contra Jeremy Hammond [11]).
+   Tor não é uma panacéia. Eles podem correlacionar os tempos em que você está conectado ao Tor com os tempos em que seu hacker está ativo. Além disso, houve ataques bem-sucedidos contra o Tor[8]. Você pode se conectar ao Tor usando o wi-fi de outras pessoas. Wifislax[9] é uma distro Linux com várias ferramentas para crackear wi-fi. Outra opção é conectar-se a uma VPN ou a um nó de ponte[10] antes do Tor, mas isso é menos seguro porque eles ainda podem correlacionar a atividade do hacker com a atividade de Internet de sua casa (isso foi usado como evidência contra Jeremy Hammond[11]).
 
    A realidade é que, embora o Tor não seja perfeito, ele funciona muito bem. Quando eu era jovem e imprudente, fazia muitas coisas sem nenhuma proteção (estou me referindo a hackear) além do Tor, que a polícia tentou ao máximo investigar e nunca tive problemas.
 
@@ -147,7 +148,7 @@ Infelizmente, nosso mundo está ao contrário. Você fica rico fazendo coisas ru
 
 ----[ 3.1 - Infraestrutura ]----------------------------------------------------
 
-Eu não ataco diretamente dos nós de saída do Tor. Eles estão em listas negras, são lentos e não podem receber reconexões. O Tor protege meu anonimato enquanto eu me conecto à infraestrutura que uso para hackear, que consiste em:
+Eu não ataco diretamente os nós de saída do Tor. Eles estão em listas negras, são lentos e não podem receber reconexões. O Tor protege meu anonimato enquanto eu me conecto à infraestrutura que uso para hackear, que consiste em:
 
 1) Nomes de domínio
 
@@ -165,7 +166,7 @@ Obviamente, você deve usar um método de pagamento anônimo, como bitcoin (se u
 
 Nas notícias, frequentemente vemos ataques rastreados até grupos de hackers apoiados pelo governo ("APTs"), porque eles usam repetidamente as mesmas ferramentas, deixam as mesmas pegadas e até usam a mesma infraestrutura (domínios, e-mails, etc). Eles são negligentes porque podem hackear sem consequências legais.
 
-Eu não queria tornar o trabalho da polícia mais fácil relacionando meu hack do Hacking Team com outros hacks que fiz ou com nomes que uso no meu dia-a-dia como hacker de blackhat. Então, usei novos servidores e nomes de domínio, registrei-me com novos e-mails e paguei com novos endereços bitcoin. Além disso, usei apenas ferramentas que estão disponíveis publicamente ou coisas que escrevi especificamente para esse ataque e mudei minha maneira de fazer algumas coisas para não deixar minha pegada forense usual.
+Eu não queria tornar o trabalho da polícia mais fácil relacionando meu hack do Hacking Team com outros hacks que fiz ou com nomes que uso no meu dia-a-dia como hacker *blackhat*. Então, usei novos servidores e nomes de domínio, registrei-me com novos e-mails e paguei com novos endereços bitcoin. Além disso, usei apenas ferramentas que estão disponíveis publicamente ou coisas que escrevi especificamente para esse ataque e mudei minha maneira de fazer algumas coisas para não deixar minha pegada forense usual.
 
 --[ 4 - Coleta de informações ]-------------------------------------------------
 
@@ -177,21 +178,22 @@ Algumas ferramentas e técnicas são:
 
 1) Google
 
-   Muitas coisas interessantes podem ser encontradas com algumas consultas de pesquisa bem escolhidas. Por exemplo, a identidade do DPR [1]. A bíblia do Google hack é o livro "Google Hacking for Penetration Testers". Você pode encontrar um breve resumo em espanhol em [2].
+   Muitas coisas interessantes podem ser encontradas com algumas consultas de pesquisa bem escolhidas. Por exemplo, a identidade do DPR[1]. A bíblia do Google hack é o livro *"[Google Hacking for Penetration Testers](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Long.pdf)"*. Você pode encontrar um breve resumo em espanhol em[2].
 2) Enumeração de Subdomínio
 
-   Frequentemente, o site principal de uma empresa é hospedado por terceiros e você encontrará a faixa de IP real da empresa graças a subdomínios como mx.company.com ou ns1.company.com. Além disso, às vezes há coisas que não devem ser expostas em subdomínios "ocultos". Ferramentas úteis para descobrir domínios e subdomínios são o feroz [3], theHarvester [4] e o recon-ng [5].
-3) Pesquisas Whois e pesquisas reversas
+   Frequentemente, o site principal de uma empresa é hospedado por terceiros e você encontrará a faixa de IP real da empresa graças a subdomínios como *mx.company.com* ou *ns1.company.com*. Além disso, às vezes há coisas que não devem ser expostas em subdomínios "ocultos". Ferramentas úteis para descobrir domínios e subdomínios são o feroz[3], theHarvester[4] e o recon-ng[5].
+3) Pesquisas no Whois e pesquisas reversas
 
-   Com uma pesquisa reversa usando as informações whois de um domínio ou faixa de IP de uma empresa, você pode encontrar outros domínios e faixas de IP. Pelo que eu sei, não há maneira gratuita de fazer pesquisas reversas além de um "hack" do Google:
-
+   Com uma pesquisa reversa usando as informações no whois de um domínio ou faixa de IP de uma empresa, você pode encontrar outros domínios e faixas de IP. Pelo que eu sei, não há maneira gratuita de fazer pesquisas reversas além de um "hack" do Google:
+~~~
    "via della moscova 13" site:www.findip-address.com
    "via della moscova 13" site:domaintools.com
+~~~
 4) Digitalização de portas e impressão digital
 
    Ao contrário das outras técnicas, esta se comunica com os servidores da empresa. Incluo nesta seção porque não é um ataque, é apenas uma coleta de informações. O IDS da empresa pode gerar um alerta, mas você não precisa se preocupar, pois toda a Internet está sendo varrida constantemente.
 
-   Para digitalização, o nmap [6] é preciso e pode imprimir digitalmente a maioria dos serviços descobertos. Para empresas com faixas de IP muito grandes, zmap [7] ou masscan [8] são rápidos. WhatWeb [9] ou BlindElephant [10] podem fazer impressões digitais em sites.
+   Para digitalização, o nmap[6] é preciso e pode imprimir digitalmente a maioria dos serviços descobertos. Para empresas com faixas de IP muito grandes, zmap[7] ou masscan[8] são rápidos. WhatWeb[9] ou BlindElephant[10] podem fazer impressões digitais em sites.
 
 [1] http://www.nytimes.com/2015/12/27/business/dealbook/the-unsung-tax-agent-who-put-a-face-on-the-silk-road.html
 
@@ -220,7 +222,7 @@ Para engenharia social, é útil ter informações sobre os funcionários, suas 
 1) Google
 
    Também aqui, é a ferramenta mais útil.
-2) theHarvester e recon-ng
+2) [theHarvester](https://github.com/laramies/theHarvester) e [recon-ng](https://github.com/lanmaster53/recon-ng)
 
    Já os mencionei na seção anterior, mas eles têm muito mais funcionalidades. Eles podem encontrar muitas informações de forma rápida e automática. Vale a pena ler toda a documentação.
 3) LinkedIn
@@ -231,7 +233,7 @@ Para engenharia social, é útil ter informações sobre os funcionários, suas 
    Anteriormente conhecido como quebra-cabeças. Eles têm informações de contato de muitos funcionários.
 5) Metadados de arquivos
 
-   Muitas informações sobre os funcionários e seus sistemas podem ser encontradas em metadados de arquivos que a empresa publicou. Ferramentas úteis para localização de arquivos no site da empresa e extração de metadados são metagoofil [1] e FOCA [2].
+   Muitas informações sobre os funcionários e seus sistemas podem ser encontradas em metadados de arquivos que a empresa publicou. Ferramentas úteis para localização de arquivos no site da empresa e extração de metadados são metagoofil[1] e FOCA[2].
 
 [1] https://github.com/laramies/metagoofil
 
@@ -243,7 +245,7 @@ Existem várias maneiras de obter uma posição segura. Como o método que usei 
 
 ----[ 5.1 - Engenharia social ]------------------------------------------------
 
-A engenharia social, especificamente o spear phishing, é responsável pela maioria dos hacks atualmente. Para uma introdução em espanhol, veja [1]. Para obter mais informações em inglês, consulte [2] (a terceira parte, "Ataques direcionados"). Para histórias divertidas sobre as façanhas de engenharia social das gerações anteriores, consulte [3]. Eu não queria tentar spear phishing Hacking Team, já que todo o seu negócio é ajudar governos a spear phishing seus oponentes, então eles seriam muito mais propensos a reconhecer e investigar uma tentativa de spear phishing.
+A engenharia social, especificamente o spear phishing, é responsável pela maioria dos hacks atualmente. Para uma introdução em espanhol, veja[1]. Para obter mais informações em inglês, consulte[2] (a terceira parte, "Ataques direcionados"). Para histórias divertidas sobre as façanhas de engenharia social das gerações anteriores, consulte[3]. Eu não queria tentar spear phishing Hacking Team, já que todo o seu negócio é ajudar governos a spear phishing seus oponentes, então eles seriam muito mais propensos a reconhecer e investigar uma tentativa de spear phishing.
 
 [1] http://www.hacknbytes.com/2016/01/apt-pentest-con-empire.html
 
@@ -257,13 +259,13 @@ Graças aos trabalhadores russos e seus kits de exploração, vendedores de trá
 
 ----[ 5.3 - Technical Exploitation ]--------------------------------------------
 
-Após o hack do Gamma Group, descrevi um processo de busca de vulnerabilidades [1]. A Hacking Team tinha um intervalo de IP público:
+Após o hack do Gamma Group, descrevi um processo de busca de vulnerabilidades[1]. A Hacking Team tinha um intervalo de IP público:
 
 ~~~
 inetnum:        93.62.139.32 - 93.62.139.47
 descr:          HT public subnet
 ~~~
-A Hacking Team teve pouquíssima exposição na internet. Por exemplo, ao contrário do Gamma Group, seu site de suporte ao cliente precisava de um certificado de cliente para se conectar. O que eles tinham era seu site principal (um blog do Joomla no qual o Joomscan [2] não encontrou nada sério), um servidor de e-mail, alguns roteadores, dois dispositivos VPN e um dispositivo de filtragem de spam. Então, eu tinha três opções: procurar um dia 0 no Joomla, procurar um dia 0 no postfix ou procurar um dia 0 em um dos dispositivos embarcados. Um dia 0 em um dispositivo embarcado parecia a opção mais fácil e, após duas semanas de trabalho de engenharia reversa, obtive um exploit de root remoto. Uma vez que as vulnerabilidades ainda não foram corrigidas, não vou dar mais detalhes, mas para mais informações sobre como encontrar esses tipos de vulnerabilidades, consulte [3] e [4].
+A Hacking Team teve pouquíssima exposição na internet. Por exemplo, ao contrário do Gamma Group, seu site de suporte ao cliente precisava de um certificado de cliente para se conectar. O que eles tinham era seu site principal (um blog do Joomla no qual o Joomscan[2] não encontrou nada sério), um servidor de e-mail, alguns roteadores, dois dispositivos VPN e um dispositivo de filtragem de spam. Então, eu tinha três opções: procurar um dia 0 no Joomla, procurar um dia 0 no postfix ou procurar um dia 0 em um dos dispositivos embarcados. Um dia 0 em um dispositivo embarcado parecia a opção mais fácil e, após duas semanas de trabalho de engenharia reversa, obtive um exploit de root remoto. Uma vez que as vulnerabilidades ainda não foram corrigidas, não vou dar mais detalhes, mas para mais informações sobre como encontrar esses tipos de vulnerabilidades, consulte[3] e[4].
 
 [1] http://pastebin.com/raw.php?i=cRYvK4jb
 
@@ -345,11 +347,7 @@ Agora, dentro de sua rede interna, eu queria dar uma olhada e pensar sobre meu p
 
 --[ 8 - NoSQL Databases ]-------------------------------------------------------
 
-NoSQL, or rather NoAuthentication, has been a huge gift to the hacker
-community [1]. Just when I was worried that they'd finally patched all of the
-authentication bypass bugs in MySQL [2][3][4][5], new databases came into
-style that lack authentication by design. Nmap found a few in Hacking Team's
-internal network:
+NoSQL, ou melhor, NoAuthentication, tem sido um grande presente para a comunidade hacker[1]. Apenas quando eu estava preocupado que eles finalmente corrigiram todos os bugs de bypass de autenticação no MySQL[2][3][4][5], novos bancos de dados entraram em estilo que não possuem autenticação por design. O Nmap encontrou alguns na rede interna do Hacking Team:
 
 ~~~
 27017/tcp open  mongodb       MongoDB 2.6.5
@@ -367,9 +365,7 @@ internal network:
 ...
 |_    version = 2.6.5
 ~~~
-They were the databases for test instances of RCS. The audio that RCS records
-is stored in MongoDB with GridFS. The audio folder in the torrent [6] came
-from this. They were spying on themselves without meaning to.
+Eles eram os bancos de dados para instâncias de teste do RCS. O áudio que o RCS grava é armazenado no MongoDB com GridFS. A pasta de áudio no torrent [6] veio disso. Eles estavam espionando a si mesmos sem querer.
 
 [1] https://www.shodan.io/search?query=product%3Amongodb
 
@@ -385,7 +381,7 @@ from this. They were spying on themselves without meaning to.
 
 --[ 9 - Cabos Cruzados ]--------------------------------------------------------
 
-Embora fosse divertido ouvir as gravações e ver as imagens da webcam do Hacking Team desenvolvendo seu malware, não era muito útil. Seus backups inseguros foram a vulnerabilidade que abriu suas portas. De acordo com sua documentação [1], seus dispositivos iSCSI deveriam estar em uma rede separada, mas o nmap encontrou alguns em sua sub-rede 192.168.1.200/24:
+Embora fosse divertido ouvir as gravações e ver as imagens da webcam do Hacking Team desenvolvendo seu malware, não era muito útil. Seus backups inseguros foram a vulnerabilidade que abriu suas portas. De acordo com sua documentação[1], seus dispositivos iSCSI deveriam estar em uma rede separada, mas o nmap encontrou alguns em sua sub-rede 192.168.1.200/24:
 
 ~~~
 Nmap scan report for ht-synology.hackingteam.local (192.168.200.66)
@@ -452,7 +448,7 @@ mount -o loop /mnt/vhd-disk/Partition1 /mnt/part1
 
 --[ 10 - Bbackups para Domain Admin ]-----------------------------------------
 
-O que mais me interessou no backup foi ver se tinha uma senha ou hash que pudesse ser usado para acessar o servidor live. Usei pwdump, cachedump e lsadump [1] nas seções do registro. lsadump encontrou a senha da conta de serviço besadmin:
+O que mais me interessou no backup foi ver se tinha uma senha ou hash que pudesse ser usada para acessar o servidor live. Usei pwdump, cachedump e lsadump[1] nas seções do registro. lsadump encontrou a senha da conta de serviço besadmin:
 
 ~~~
 _SC_BlackBerry MDS Connection Service
@@ -461,12 +457,12 @@ _SC_BlackBerry MDS Connection Service
 0020   21 00 21 00 21 00 00 00 00 00 00 00 00 00 00 00    !.!.!...........
 ~~~
 
-Usei proxychains [2] com o servidor socks no dispositivo embutido e smbclient [3] para verificar a senha:
+Usei proxychains[2] com o servidor socks no dispositivo embutido e smbclient[3] para verificar a senha:
 ~~~ 
 proxychains smbclient '//192.168.100.51/c$' -U 'hackingteam.local/besadmin%bes32678!!!' 
 ~~~
 
-Funcionou! A senha para besadmin ainda era válida, e um administrador local. Eu usei meu proxy e o psexec_psh do metasploit [4] para obter uma sessão do meterpreter. Em seguida, migrei para um processo de 64 bits, executei "load kiwi" [5], "creds_wdigest" e recebi um monte de senhas, incluindo o Domain Admin:
+Funcionou! A senha para besadmin ainda era válida, e um administrador local. Eu usei meu proxy e o psexec_psh do metasploit[4] para obter uma sessão do meterpreter. Em seguida, migrei para um processo de 64 bits, executei "load kiwi"[5], "creds_wdigest" e recebi um monte de senhas, incluindo o Domain Admin:
 
 ~~~
 HACKINGTEAM  BESAdmin       bes32678!!!
@@ -502,7 +498,7 @@ HACKINGTEAM  e.rabe         erab@4HT!
 
 --[ 11 - Baixando o e-mail ]-------------------------------------------------
 
-Com a senha do Admin de Domínio, tenho acesso ao e-mail, coração da empresa. Como cada passo que dou há uma chance de ser detectado, começo a baixar o e-mail antes de continuar a explorar. O Powershell facilita isso [1]. Curiosamente, encontrei um bug no manuseio de datas do Powershell. Depois de baixar os e-mails, demorei mais algumas semanas para obter acesso ao
+Com a senha do Admin de Domínio, tenho acesso ao e-mail, coração da empresa. Como cada passo que dou há uma chance de ser detectado, começo a baixar o e-mail antes de continuar a explorar. O Powershell facilita isso[1]. Curiosamente, encontrei um bug no manuseio de datas do Powershell. Depois de baixar os e-mails, demorei mais algumas semanas para obter acesso ao
 código-fonte e tudo mais, então eu voltava de vez em quando para baixar os novos e-mails. O servidor era italiano, com datas no formato day/month/year. Eu usei:
 ~~~
 -ContentFilter {(Received -ge '05/06/2015') -or (Sent -ge '05/06/2015')}
@@ -529,7 +525,7 @@ Antes de continuar com a história dos "weones culiaos" (Hacking Team), devo dar
 
 ----[ 13.1 - Movimento Lateral ]-------------------------------------------------
 
-Farei uma breve revisão das diferentes técnicas de propagação em uma rede Windows. As técnicas de execução remota requerem a senha ou hash de um administrador local no destino. De longe, a maneira mais comum de obter essas credenciais é usando mimikatz [1], especialmente sekurlsa::logonpasswords e sekurlsa::msv, nos computadores onde você já tem acesso de administrador. As técnicas para movimento "no local" também requerem privilégios administrativos (exceto para runas). As ferramentas mais importantes para escalonamento de privilégios são PowerUp [2] e bypassuac [3].
+Farei uma breve revisão das diferentes técnicas de propagação em uma rede Windows. As técnicas de execução remota requerem a senha ou hash de um administrador local no destino. De longe, a maneira mais comum de obter essas credenciais é usando mimikatz[1], especialmente sekurlsa::logonpasswords e sekurlsa::msv, nos computadores onde você já tem acesso de administrador. As técnicas para movimento "no local" também requerem privilégios administrativos (exceto para runas). As ferramentas mais importantes para escalonamento de privilégios são PowerUp[2] e bypassuac[3].
 
 [1] https://adsecurity.org/?page_id=1821
 
@@ -541,23 +537,23 @@ Movimento Remoto:
 
 1) psexec
 
-   O método testado e comprovado para movimento lateral em Windows. Você pode usar psexec [1], winexe [2], metasploit's psexec_psh [3], Powershell Empire's invoke_psexec [4] ou o comando interno do Windows "sc" [5]. Para o módulo metasploit, powershell impire e pth-winexe [6], você só precisa do hash, não da senha. É o método mais universal (funciona em qualquer computador Windows com a porta 445 aberta), mas também é o menos furtivo. O tipo de evento 7045 "Service Control Manager" aparecerá nos logs de eventos. Em minha experiência, ninguém nunca percebeu durante um hack, mas ajuda os investigadores a descobrir o que o hacker fez depois.
+   O método testado e comprovado para movimento lateral em Windows. Você pode usar psexec[1], winexe[2], metasploit's psexec_psh[3], Powershell Empire's invoke_psexec[4] ou o comando interno do Windows "sc"[5]. Para o módulo metasploit, powershell impire e pth-winexe[6], você só precisa do hash, não da senha. É o método mais universal (funciona em qualquer computador Windows com a porta 445 aberta), mas também é menos furtivo. O tipo de evento 7045 "Service Control Manager" aparecerá nos logs de eventos. Em minha experiência, ninguém nunca percebeu durante um hack, mas ajuda os investigadores a descobrir o que o hacker fez depois.
 
 2) WMI
 
-   O método mais furtivo. O serviço WMI é habilitado em todos os computadores Windows, mas exceto para servidores, o firewall o bloqueia por padrão. Você pode usar wmiexec.py [7], pth-wmis [6] (aqui está uma demonstração de wmiexec e pth-wmis [8]), invoke_wmi do Powershell Empire [9] ou o windows embutido wmic [5]. Todos, exceto wmic, só precisam do hash.
+   O método mais furtivo. O serviço WMI é habilitado em todos os computadores Windows, mas exceto para servidores, o firewall o bloqueia por padrão. Você pode usar wmiexec.py[7], pth-wmis[6] (aqui está uma demonstração de wmiexec e pth-wmis[8]), invoke_wmi do Powershell Empire[9] ou o windows embutido wmic[5]. Todos, exceto wmic, só precisam do hash.
 
-3) PSRemoting [10]
+3) PSRemoting[10]
 
-   Ele está desabilitado por padrão e não recomendo habilitar novos protocolos. Mas, se o sysadmin já o habilitou, é muito conveniente, especialmente se você usar o PowerShell para tudo (e você deve usar o PowerShell para quase tudo, ele mudará [11] com o PowerShell 5 e Windows 10, mas por enquanto o PowerShell o torna fácil de fazer tudo na RAM, evite AV e deixe uma pequena pegada)
+   Ele está desabilitado por padrão e não recomendo habilitar novos protocolos. Mas, se o sysadmin já o habilitou, é muito conveniente, especialmente se você usar o PowerShell para tudo (e você deve usar o PowerShell para quase tudo, ele mudará[11] com o PowerShell 5 e Windows 10, mas por enquanto o PowerShell o torna fácil de fazer tudo na RAM, evite AV e deixe uma pequena pegada)
 
 4) Scheduled Tasks
 
-   Você pode executar programas remotos com AT e schtasks [5]. Ele funciona nas mesmas situações em que você poderia usar psexec, e também deixa uma marca conhecida [12].
+   Você pode executar programas remotos com AT e schtasks[5]. Ele funciona nas mesmas situações em que você poderia usar psexec, e também deixa uma marca conhecida[12].
 
 5) GPO
 
-   Se todos esses protocolos forem desabilitados ou bloqueados pelo firewall, uma vez que você seja o Domain Admin, você pode usar o GPO para dar aos usuários um script de login, instalar um msi, executar uma tarefa agendada [13], ou, como veremos com no computador de Mauro Romeo (um dos administradores de sistema do Hacking Team), use o GPO para habilitar o WMI e abrir o firewall. 
+   Se todos esses protocolos forem desabilitados ou bloqueados pelo firewall, uma vez que você seja o Domain Admin, você pode usar o GPO para dar aos usuários um script de login, instalar um msi, executar uma tarefa agendada[13], ou, como veremos com no computador de Mauro Romeo (um dos administradores de sistema do Hacking Team), use o GPO para habilitar o WMI e abrir o firewall. 
 
 [1] https://technet.microsoft.com/en-us/sysinternals/psexec.aspx
 
@@ -589,23 +585,23 @@ Movimento "in plac":
 
 1) Roubo de Token
 
-   Depois de ter acesso de administrador em um computador, você pode usar os tokens dos outros usuários para acessar recursos no domínio. Duas ferramentas para fazer isso são incógnito [1] e os comandos mimikatz token::* [2].
+   Depois de ter acesso de administrador em um computador, você pode usar os tokens dos outros usuários para acessar recursos no domínio. Duas ferramentas para fazer isso são incógnito[1] e os comandos mimikatz token::*[2].
 
 2) MS14-068
 
-   Você pode tirar vantagem de um bug de validação no Kerberos para gerar tíquetes de Domain Admin [3] [4] [5].
+   Você pode tirar vantagem de um bug de validação no Kerberos para gerar tíquetes de Domain Admin[3][4][5].
 
 3) Passe o Hash
 
-   Se você tem um hash de usuário, mas ele não está logado, você pode usar sekurlsa::pth [2] para obter um ticket para o usuário.
+   Se você tem um hash de usuário, mas ele não está logado, você pode usar sekurlsa::pth[2] para obter um ticket para o usuário.
 
 4) Injeção de Processos
 
-   Qualquer RAT pode se injetar em outros processos. Por exemplo, o comando migrate em meterpreter e pupy [6], ou o comando psinject [7] em powershell empire. Você pode injetar no processo o token desejado.
+   Qualquer RAT pode se injetar em outros processos. Por exemplo, o comando migrate em meterpreter e pupy[6], ou o comando psinject[7] em powershell empire. Você pode injetar no processo o token desejado.
 
 5) runas
 
-   Isso às vezes é muito útil, pois não requer privilégios de administrador. O comando faz parte do Windows, mas se você não tiver uma GUI, pode usar o PowerShell [8].
+   Isso às vezes é muito útil, pois não requer privilégios de administrador. O comando faz parte do Windows, mas se você não tiver uma GUI, pode usar o PowerShell[8].
 
 [1] https://www.indetectables.net/viewtopic.php?p=211165
 
@@ -625,7 +621,7 @@ Movimento "in plac":
 
 ----[ 13.2 - Persistência ]------------------------------------------------------
 
-Depois de ter acesso, você deseja mantê-lo. Na verdade, a persistência é apenas um desafio para idiotas como a Hacking Team que tem como alvo ativistas e outros indivíduos. Para hackear empresas, a persistência não é necessária, pois as empresas nunca dormem. Eu sempre uso o estilo "persistência" do Duqu 2, executando na RAM em alguns servidores de alto tempo de atividade. Na chance de que todos eles reiniciem ao mesmo tempo, eu tenho senhas e um ticket dourado [1] como acesso de backup. Você pode ler mais sobre as diferentes técnicas de persistência no Windows aqui [2] [3] [4]. Mas para empresas de hackers, não é necessário e aumenta o risco de detecção.
+Depois de ter acesso, você deseja mantê-lo. Na verdade, a persistência é apenas um desafio para idiotas como a Hacking Team que tem como alvo ativistas e outros indivíduos. Para hackear empresas, a persistência não é necessária, pois as empresas nunca dormem. Eu sempre uso o estilo "persistência" do Duqu 2, executando na RAM em alguns servidores de alto tempo de atividade. Na chance de que todos eles reiniciem ao mesmo tempo, eu tenho senhas e um ticket dourado[1] como acesso de backup. Você pode ler mais sobre as diferentes técnicas de persistência no Windows aqui[2][3][4]. Mas para empresas de hackers, não é necessário e aumenta o risco de detecção.
 
 [1] http://blog.cobaltstrike.com/2014/05/14/meterpreter-kiwi-extension-golden-ticket-howto/
 
@@ -637,7 +633,7 @@ Depois de ter acesso, você deseja mantê-lo. Na verdade, a persistência é ape
 
 ----[ 13.3 - Reconhecimento interno  ]------------------------------------------
 
-A melhor ferramenta hoje em dia para entender as redes Windows é o Powerview [1]. Vale a pena ler tudo o que foi escrito por seu autor [2], principalmente [3], [4], [5] e [6]. O Powershell em si também é bastante poderoso [7]. Como ainda existem muitos servidores Windows 2000 e 2003 sem o PowerShell, você também precisa aprender a velha escola [8], com programas como o netview.exe [9] ou o "net view" embutido no Windows. Outras técnicas que gosto são:
+A melhor ferramenta hoje em dia para entender as redes Windows é o Powerview[1]. Vale a pena ler tudo o que foi escrito por seu autor[2], principalmente[3],[4],[5] e[6]. O Powershell em si também é bastante poderoso[7]. Como ainda existem muitos servidores Windows 2000 e 2003 sem o PowerShell, você também precisa aprender a velha escola[8], com programas como o netview.exe[9] ou o "net view" embutido no Windows. Outras técnicas que gosto são:
 
 1) Baixando uma lista de nomes de arquivo
 
@@ -657,15 +653,15 @@ A melhor ferramenta hoje em dia para entender as redes Windows é o Powerview [1
    
 3) Lendo o sharepoint
 
-   É outro local onde muitas empresas armazenam muitas informações importantes. Ele também pode ser baixado com o PowerShell [10].
+   É outro local onde muitas empresas armazenam muitas informações importantes. Ele também pode ser baixado com o PowerShell[10].
 
-4) Diretório Ativo [11]
+4) Diretório Ativo[11]
 
-   Ele contém muitas informações úteis sobre usuários e computadores. Sem ser um administrador de domínio, você já pode obter muitas informações com o powerview e outras ferramentas [12]. Depois de obter o Domain Admin, você deve exportar todas as informações do AD com csvde ou outra ferramenta.
+   Ele contém muitas informações úteis sobre usuários e computadores. Sem ser um administrador de domínio, você já pode obter muitas informações com o powerview e outras ferramentas[12]. Depois de obter o Domain Admin, você deve exportar todas as informações do AD com csvde ou outra ferramenta.
    
 5) Espionar os funcionários
 
-   Um dos meus hobbies favoritos é caçar sysadmins. Espionar Christian Pozzi (um dos sysadmins do Hacking Team) me deu acesso a um servidor Nagios que me deu acesso à rete sviluppo (rede de desenvolvimento com o código-fonte do RCS). Com uma combinação simples de Get-Keystrokes e Get-TimedScreenshot do PowerSploit [13], Do-Exfiltration do nishang [14] e GPO, você pode espionar qualquer funcionário ou até mesmo o domínio inteiro.
+   Um dos meus hobbies favoritos é caçar sysadmins. Espionar Christian Pozzi (um dos sysadmins do Hacking Team) me deu acesso a um servidor Nagios que me deu acesso à rete sviluppo (rede de desenvolvimento com o código-fonte do RCS). Com uma combinação simples de Get-Keystrokes e Get-TimedScreenshot do PowerSploit[13], Do-Exfiltration do nishang[14] e GPO, você pode espionar qualquer funcionário ou até mesmo o domínio inteiro.
 
 [1] https://github.com/PowerShellEmpire/PowerTools/tree/master/PowerView
 
@@ -697,9 +693,7 @@ A melhor ferramenta hoje em dia para entender as redes Windows é o Powerview [1
 
 --[ 14 - Caçando Sysadmins ]----------------------------------------------------
 
-Reading their documentation about their infrastructure [1], I saw that I was still missing access to something important - the "Rete Sviluppo", an isolated network with the source code for RCS. The sysadmins of a company always have access to everything, so I searched the computers of Mauro Romeo and Christian Pozzi to see how they administer the Sviluppo network, and to see if there were any other interesting systems I should investigate. It was simple to access their computers, since they were part of the windows domain where I'd already gotten admin access. Mauro Romeo's computer didn't have any ports open, so I opened the port for WMI [2] and executed meterpreter [3]. In addition to keylogging and screen scraping with Get-Keystrokes and Get-TimeScreenshot, I used many /gather/ modules from metasploit, CredMan.ps1[4], and searched for interesting files [5]. Upon seeing that Pozzi had a Truecrypt volume, I waited until he'd mounted it and then copied off the files. Many have made fun of Christian Pozzi's weak passwords (and of Christian Pozzi in general, he provides plenty of material [6][7][8][9]). I included them in the leak as a false clue, and to laugh at him. The reality is that mimikatz and keyloggers view all passwords equally.
-
-Lendo a documentação sobre sua infraestrutura [1], vi que ainda estava faltando acesso a algo importante - a "Rete Sviluppo", uma rede isolada com o código-fonte do RCS. Os sysadmins de uma empresa sempre têm acesso a tudo, então eu procurei nos computadores de Mauro Romeo e Christian Pozzi para ver como eles administravam a rede Sviluppo e para ver se havia algum outro sistema interessante que eu devesse investigar. Era simples acessar seus computadores, pois eles faziam parte do domínio do Windows onde eu já tinha obtido acesso de administrador. O computador de Mauro Romeo não tinha nenhuma porta aberta, então abri a porta para o WMI [2] e executei o meterpreter [3]. Além de keylogging e screen scraping com Get-Keystrokes e Get-TimeScreenshot, usei muitos módulos /gather/ do metasploit, CredMan.ps1 [4], e procurei por arquivos interessantes [5]. Ao ver que Pozzi tinha um volume Truecrypt, esperei até que ele montasse e copiei os arquivos. Muitos zombaram das senhas fracas de Christian Pozzi (e de Christian Pozzi em geral, ele fornece bastante material [6] [7] [8] [9]). Eu os incluí no vazamento como uma pista falsa e para rir dele. A realidade é que mimikatz e keyloggers veem todas as senhas igualmente.
+Lendo a documentação deles sobre sua infraestrutura[1], vi que ainda me faltava acesso a algo importante - a "Rete Sviluppo", uma rede isolada com o código fonte para RCS. Os administradores de sistemas de uma empresa sempre têm acesso a tudo, então pesquisei nos computadores de Mauro Romeo e Christian Pozzi para ver como eles administram a rede Sviluppo e para ver se havia algum outro sistema interessante que eu deveria investigar. Era simples acessar seus computadores, pois eles faziam parte do domínio do Windows onde eu já tinha acesso de administrador. O computador do Mauro Romeo não tinha nenhuma porta aberta, então eu abri a porta para WMI[2] e executei o meterpreter[3]. Além de keylogging e screen scraping com Get-Keystrokes e Get-TimeScreenshot, usei muitos módulos /gather/ do metasploit, CredMan.ps1[4], e procurei por arquivos interessantes[5]. Ao ver que Pozzi tinha um volume Truecrypt, esperei até que ele o montasse e copiei os arquivos. Muitos zombaram das senhas fracas de Christian Pozzi (e de Christian Pozzi em geral, ele fornece muito material[6][7][8][9]). Eu os inclui no vazamento como uma pista falsa e para rir dele. A realidade é que mimikatz e keyloggers visualizam todas as senhas igualmente.
 
 [1] http://hacking.technology/Hacked%20Team/FileServer/FileServer/Hackingteam/InfrastrutturaIT/
 
@@ -721,7 +715,7 @@ Lendo a documentação sobre sua infraestrutura [1], vi que ainda estava faltand
 
 --[ 15 - A Ponte ]-----------------------------------------------------------
 
-Dentro do volume Truecrypt de Christian Pozzi, havia um arquivo de texto com muitas senhas [1]. Uma delas era para um servidor Nagios totalmente automatizado, que tinha acesso à rede Sviluppo para monitorá-la. Eu encontrei a ponte que precisava. O arquivo de texto tinha apenas a senha para a interface da web, mas havia um exploit de execução de código público [2] (é um exploit não autenticado, mas requer que pelo menos um usuário tenha uma sessão iniciada, para a qual usei a senha do arquivo de texto )
+Dentro do volume Truecrypt de Christian Pozzi, havia um arquivo de texto com muitas senhas[1]. Uma delas era para um servidor Nagios totalmente automatizado, que tinha acesso à rede Sviluppo para monitorá-la. Eu encontrei a ponte que precisava. O arquivo de texto tinha apenas a senha para a interface da web, mas havia um exploit de execução de código público[2] (é um exploit não autenticado, mas requer que pelo menos um usuário tenha uma sessão iniciada, para a qual usei a senha do arquivo de texto )
 
 [1] http://hacking.technology/Hacked%20Team/c.pozzi/Truecrypt%20Volume/Login%20HT.txt
 
@@ -733,19 +727,17 @@ Lendo os e-mails, vi Daniele Milan concedendo acesso aos repositórios git. Eu j
 
 --[ 17 - Conclusão ]-----------------------------------------------------------
 
-===exibe no card daqui pra baixo===
-
 Isso é tudo o que é preciso para derrubar uma empresa e impedir os abusos de direitos humanos. Essa é a beleza e assimetria do hacking: com 100 horas de trabalho, uma pessoa pode desfazer anos de trabalho de uma empresa multimilionária. Hackear dá ao azarão a chance de lutar e vencer.
 
 Os guias de hacking muitas vezes terminam com uma isenção de responsabilidade: essas informações são apenas para fins educacionais, seja um hacker ético, não ataque sistemas para os quais você não tem permissão, etc. Direi o mesmo, mas com uma concepção mais rebelde de "ethical" hacking. Vazamento de documentos, expropriação de dinheiro de bancos e trabalho para proteger os computadores de pessoas comuns é um hacking ético. No entanto, a maioria das pessoas que se autodenominam "hackers éticos" apenas trabalham para proteger aqueles que pagam suas altas taxas de consultoria, que geralmente são os que mais merecem ser hackeados.
 
-A Hacking Team se via como parte de uma longa linha de design italiano inspirado [1]. Vejo Vincenzetti, sua empresa, seus camaradas na polícia, Carabinieri e no governo, como parte de uma longa tradição de fascismo italiano. Gostaria de dedicar este guia às vítimas do ataque à escola Armando Diaz e a todos aqueles que tiveram seu sangue derramado por fascistas italianos.
+A Hacking Team se via como parte de uma longa linha de design italiano inspirado[1]. Vejo Vincenzetti, sua empresa, seus camaradas na polícia, Carabinieri e no governo, como parte de uma longa tradição de fascismo italiano. Gostaria de dedicar este guia às vítimas do ataque à escola Armando Diaz e a todos aqueles que tiveram seu sangue derramado por fascistas italianos.
 
 [1] https://twitter.com/coracurrier/status/618104723263090688
 
 --[ 18 - Contato ]--------------------------------------------------------------
 
-Para me enviar tentativas de spear phishing, ameaças de morte em italiano [1] [2] e para me dar 0 dias ou acesso dentro de bancos, empresas, governos, etc.
+Para me enviar tentativas de spear phishing, ameaças de morte em italiano[1][2] e para me dar *0-days* ou acesso dentro de bancos, empresas, governos, etc.
 
 [1] http://andres.delgado.ec/2016/01/15/el-miedo-de-vigilar-a-los-vigilantes/
 
@@ -753,7 +745,7 @@ Para me enviar tentativas de spear phishing, ameaças de morte em italiano [1] [
 
 apenas e-mail criptografado por favor:
 https://securityinabox.org/es/thunderbird_usarenigmail
-
+~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBFVp37MBCACu0rMiDtOtn98NurHUPYyI3Fua+bmF2E7OUihTodv4F/N04KKx
@@ -784,7 +776,7 @@ D0lLGUSkx24yD1sIAGEZ4B57VZNBS0az8HoQeF0k
 =E5+y
 
 -----END PGP PUBLIC KEY BLOCK-----
-
+~~~
 Se não for você, quem? Se não agora, quando?
 ----------------------------------
 

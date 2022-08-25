@@ -10,6 +10,7 @@ tags:
   - computação
 author:
   - Isis Agora Lovecruft
+description: "Ao longo dos anos, descobri muitas técnicas para aprender a projetar bibliotecas criptográficas tão seguras quanto possível e resistentes ao uso indevido para algumas primitivas bastante complexas, que gostaria de compartilhar na esperança de que possamos continuar a progredir o estado da arte em criptografia para maior segurança com custo reduzido para criptógrafos e engenheiros de segurança. Se o tempo permitir, espero eventualmente transformar isso em uma série de postagens."
 ---
 ```
 Traduzido por: Vinicius Yaunner 
@@ -19,7 +20,6 @@ Revisado por: Cypherpunks Brasil
 
 
 ## Isis Agora Lovecruft
-===exibe no card daqui pra baixo===
 
 
 Ao longo dos anos, descobri muitas técnicas para aprender a projetar bibliotecas criptográficas tão seguras quanto possível e resistentes ao uso indevido para algumas primitivas bastante complexas, que gostaria de compartilhar na esperança de que possamos continuar a progredir o estado da arte em criptografia para maior segurança com custo reduzido para criptógrafos e engenheiros de segurança. Se o tempo permitir, espero eventualmente transformar isso em uma série de postagens.
@@ -38,14 +38,14 @@ pub struct PublicKeyShard(pub(crate) Scalar);
 pub struct ProofOfKnowledgeOfSecretKeyShard(pub(crate) Scalar, pub(crate) Scalar);
 
 impl ProofOfKnowledgeOfSecretKeyShard {
-    /// Prove in zero-knowledge a secret key.
+    /// Prove em zero-knowledge uma chave secreta.
     pub fn prove(
         secret: &SecretKeyShard
     ) -> ProofOfKnowledgeOfSecretKeyShard {
         // ...
     }
 
-    /// Verify a proof of knowledge of a secret key.
+    /// Verifique uma prova de conhecimento de uma chave secreta.
     pub fn verify(
         &self,
     ) -> Result<(), ()> {
@@ -56,16 +56,16 @@ impl ProofOfKnowledgeOfSecretKeyShard {
 pub struct DistributedKeyGeneration {};
 
 impl DistributedKeyGeneration {
-    /// Generate a shard of the eventual shared secret, and form some
-    /// commitments and a zero-knowledge proof regarding those secrets, in order
-    /// to prevent rogue-key attacks, and send the commitments and proof to the
-    /// other participants for checking.
+    /// Gere um fragmento do eventual segredo compartilhado, e forme alguns compromissos
+    /// uma prova de conhecimento zero sobre esses segredos, a fim de evitar ataques de chaves
+    /// não autorizadas, e envie os compromissos e a prova para os outros 
+    /// participantes para verificação.
     pub fn round_one_init(
     ) -> (SecretKeyShard, ProofOfKnowledgeOfSecretKeyShard, Vec<Commitment>) {
         // ...
     }
 
-    /// Check the commitments and proofs that were sent by the other participants.
+    /// Confira os commits e provas que foram enviados pelos demais participantes.
     pub fn round_one_finish(
         proofs: &Vec<ProofOfKnowledgeOfSecretKeyShard>,
     ) -> Result<(), ()> {
@@ -75,18 +75,19 @@ impl DistributedKeyGeneration {
         // ...
     }
 
-    /// Each participant uses their secret shard to evaluate a different shard
-    /// of the eventual shared public key, which they send to each respective
-    /// participant.
+    /// Cada participante usa seu fragmento secreto para avaliar um
+    /// fragmento diferente da eventual chave pública compartilhada,
+    /// que eles enviam para cada participante respectivo.
     pub fn round_two_init(
         secret: &SecretKeyShard,
     ) -> Vec<PublicKeyShard> {
         // ...
     }
 
-    /// Verify the public shards received from the other participants, aborting
-    /// on failure, then compute our long-lived signing key and a proof of its
-    /// correctness.
+    /// Verifique os fragmentos públicos recebidos dos outros participantes,
+    /// abortando em caso de falha e, em seguida, calcule nossa chave de assinatura
+    /// de longa duração e uma prova de sua correção.
+
     pub fn round_two_finish(
         secret: &SecretKeyShard,
         public_shards: &Vec<PublicKeyShard>,
@@ -131,14 +132,14 @@ pub struct PublicKeyShard(pub(crate) Scalar);
 pub struct ProofOfKnowledgeOfSecretKeyShard(pub(crate) Scalar, pub(crate) Scalar);
 
 impl ProofOfKnowledgeOfSecretKeyShard {
-    /// Prove in zero-knowledge a secret key.
+    /// Prove em zero-knowledge uma chave secreta.
     pub fn prove(
         secret: &SecretKeyShard
     ) -> ProofOfKnowledgeOfSecretKeyShard {
         // ...
     }
 
-    /// Verify a proof of knowledge of a secret key.
+    /// Verifique uma prova de conhecimento de uma chave secreta.
     pub fn verify(
         &self,
     ) -> Result<(), ()> {
@@ -155,17 +156,17 @@ pub struct DistributedKeyGenerationRound1 {
 }; 
 
 impl DistributedKeyGenerationRound1 {
-    /// Generate a shard of the eventual shared secret, and form some
-    /// commitments and a zero-knowledge proof regarding those secrets, in order
-    /// to prevent rogue-key attacks, and send the commitments and proof to the
-    /// other participants for checking.
+    /// Gere um fragmento do eventual segredo compartilhado, e forme alguns
+    /// compromissos e uma prova de conhecimento zero sobre esses segredos, a
+    /// fim de evitar ataques de chaves não autorizadas, e envie os
+    /// compromissos e a prova para os outros participantes para verificação.
     pub fn init(
     ) -> DistributedKeyGenerationRound1 {
         // ...
     }
 
-    /// Check the commitments and proofs that were sent by the other participants.
-    /// Only progress to round 2 if the verifications passed.
+    /// Confira os commits e provas que foram enviados pelos demais participantes.
+    /// Só progrida para a rodada 2 se as verificações forem aprovadas.
     pub fn progress(
         &self,
         proofs: &Vec<ProofOfKnowledgeOfSecretKeyShard>,
@@ -185,9 +186,9 @@ pub struct DistributedKeyGenerationRound2a {
 }
 
 impl DistributedKeyGenerationRound2a {
-    /// Each participant uses their secret shard to evaluate a different shard
-    /// of the eventual shared public key, which they send to each respective
-    /// participant.
+    /// Cada participante usa seu fragmento secreto para avaliar um fragmento diferente
+    /// da eventual chave pública compartilhada, que eles enviam para cada 
+    /// participante respectivo.
     pub fn progress(
         &self,
     ) -> DistributedKeyGenerationRound2b {
@@ -201,9 +202,9 @@ pub struct DistributedKeyGenerationRound2b {
 }
 
 impl DistributedKeyGenerationRound2b {
-    /// Verify the public shards received from the other participants, aborting
-    /// on failure, then compute our long-lived signing key and a proof of its
-    /// correctness.
+    /// Verifique os fragmentos públicos recebidos dos outros participantes,
+    /// abortando em caso de falha e, em seguida, calcule nossa chave de assinatura
+    /// de longa duração e uma prova de sua correção.
     pub fn finish(
         &self,
     ) -> GroupPublicKey {

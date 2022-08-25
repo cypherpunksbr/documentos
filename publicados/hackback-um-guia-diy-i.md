@@ -191,7 +191,7 @@ Algumas ferramentas e técnicas são:
 ~~~
 4) Digitalização de portas e impressão digital
 
-   Ao contrário das outras técnicas, esta se comunica com os servidores da empresa. Incluo nesta seção porque não é um ataque, é apenas uma coleta de informações. O IDS da empresa pode gerar um alerta, mas você não precisa se preocupar, pois toda a Internet está sendo varrida constantemente.
+   Ao contrário das outras técnicas, esta se comunica com os servidores da empresa. Incluo nesta seção porque não é um ataque, é apenas uma coleta de informações. O IDs da empresa pode gerar um alerta, mas você não precisa se preocupar, pois toda a Internet está sendo varrida constantemente.
 
    Para digitalização, o nmap[6] é preciso e pode imprimir digitalmente a maioria dos serviços descobertos. Para empresas com faixas de IP muito grandes, zmap[7] ou masscan[8] são rápidos. WhatWeb[9] ou BlindElephant[10] podem fazer impressões digitais em sites.
 
@@ -245,7 +245,7 @@ Existem várias maneiras de obter uma posição segura. Como o método que usei 
 
 ----[ 5.1 - Engenharia social ]------------------------------------------------
 
-A engenharia social, especificamente o spear phishing, é responsável pela maioria dos hacks atualmente. Para uma introdução em espanhol, veja[1]. Para obter mais informações em inglês, consulte[2] (a terceira parte, "Ataques direcionados"). Para histórias divertidas sobre as façanhas de engenharia social das gerações anteriores, consulte[3]. Eu não queria tentar spear phishing Hacking Team, já que todo o seu negócio é ajudar governos a spear phishing seus oponentes, então eles seriam muito mais propensos a reconhecer e investigar uma tentativa de spear phishing.
+A engenharia social, especificamente o spear phishing, é responsável pela maioria dos hacks atualmente. Para uma introdução em espanhol, veja[1]. Para obter mais informações em inglês, consulte[2] (a terceira parte, "Ataques direcionados"). Para histórias divertidas sobre as façanhas de engenharia social das gerações anteriores, consulte[3]. Eu não queria tentar spear phishing na Hacking Team, já que todo o seu negócio é ajudar governos a *spear phishing* seus oponentes, então eles seriam muito mais propensos a reconhecer e investigar uma tentativa de spear phishing.
 
 [1] http://www.hacknbytes.com/2016/01/apt-pentest-con-empire.html
 
@@ -255,17 +255,17 @@ A engenharia social, especificamente o spear phishing, é responsável pela maio
 
 ----[ 5.2 - Comprando Acesso ]-----------------------------------------------------
 
-Graças aos trabalhadores russos e seus kits de exploração, vendedores de tráfego e criadores de bots, muitas empresas já comprometeram os computadores em suas redes. Quase todas as Fortune 500, com suas enormes redes, já têm alguns bots dentro. No entanto, a Hacking Team é uma empresa muito pequena, e a maioria de seus funcionários são especialistas em infosec, então havia uma pequena chance de que eles já tivessem sido comprometidos.
+Graças aos trabalhadores russos e seus kits de exploração, vendedores de tráfego e criadores de bots, muitas empresas já comprometeram os computadores em suas redes. Quase todas as [Fortune 500](https://fortune.com/global500/), com suas enormes redes, já têm alguns bots dentro. No entanto, a Hacking Team é uma empresa muito pequena, e a maioria de seus funcionários são especialistas em infosec, então havia uma pequena chance de que eles já tivessem sido comprometidos.
 
 ----[ 5.3 - Technical Exploitation ]--------------------------------------------
 
-Após o hack do Gamma Group, descrevi um processo de busca de vulnerabilidades[1]. A Hacking Team tinha um intervalo de IP público:
+Após o [hack do Gamma Group](https://www.zdnet.com/article/top-govt-spyware-company-hacked-gammas-finfisher-leaked/), descrevi um processo de busca de vulnerabilidades[1]. A Hacking Team tinha um intervalo de IP público:
 
 ~~~
 inetnum:        93.62.139.32 - 93.62.139.47
 descr:          HT public subnet
 ~~~
-A Hacking Team teve pouquíssima exposição na internet. Por exemplo, ao contrário do Gamma Group, seu site de suporte ao cliente precisava de um certificado de cliente para se conectar. O que eles tinham era seu site principal (um blog do Joomla no qual o Joomscan[2] não encontrou nada sério), um servidor de e-mail, alguns roteadores, dois dispositivos VPN e um dispositivo de filtragem de spam. Então, eu tinha três opções: procurar um dia 0 no Joomla, procurar um dia 0 no postfix ou procurar um dia 0 em um dos dispositivos embarcados. Um dia 0 em um dispositivo embarcado parecia a opção mais fácil e, após duas semanas de trabalho de engenharia reversa, obtive um exploit de root remoto. Uma vez que as vulnerabilidades ainda não foram corrigidas, não vou dar mais detalhes, mas para mais informações sobre como encontrar esses tipos de vulnerabilidades, consulte[3] e[4].
+A Hacking Team teve pouquíssima exposição na internet. Por exemplo, ao contrário do Gamma Group, seu site de suporte ao cliente precisava de um certificado de cliente para se conectar. O que eles tinham era seu site principal (um blog do Joomla no qual o Joomscan[2] não encontrou nada sério), um servidor de e-mail, alguns roteadores, dois dispositivos VPN e um dispositivo de filtragem de spam. Então, eu tinha três opções: procurar um *0-day* no Joomla, procurar um dia 0 no postfix ou procurar um dia 0 em um dos dispositivos embarcados. Um 0-day em um dispositivo embarcado parecia a opção mais fácil e, após duas semanas de trabalho de engenharia reversa, obtive um exploit de root remoto. Uma vez que as vulnerabilidades ainda não foram corrigidas, não vou dar mais detalhes, mas para mais informações sobre como encontrar esses tipos de vulnerabilidades, consulte[3] e[4].
 
 [1] http://pastebin.com/raw.php?i=cRYvK4jb
 
@@ -498,8 +498,7 @@ HACKINGTEAM  e.rabe         erab@4HT!
 
 --[ 11 - Baixando o e-mail ]-------------------------------------------------
 
-Com a senha do Admin de Domínio, tenho acesso ao e-mail, coração da empresa. Como cada passo que dou há uma chance de ser detectado, começo a baixar o e-mail antes de continuar a explorar. O Powershell facilita isso[1]. Curiosamente, encontrei um bug no manuseio de datas do Powershell. Depois de baixar os e-mails, demorei mais algumas semanas para obter acesso ao
-código-fonte e tudo mais, então eu voltava de vez em quando para baixar os novos e-mails. O servidor era italiano, com datas no formato day/month/year. Eu usei:
+Com a senha do Domain Admin, tenho acesso ao e-mail, coração da empresa. Como cada passo que dou há uma chance de ser detectado, começo a baixar o e-mail antes de continuar a explorar. O Powershell facilita isso[1]. Curiosamente, encontrei um bug no manuseio de datas do Powershell. Depois de baixar os e-mails, demorei mais algumas semanas para obter acesso ao código-fonte e tudo mais, então eu voltava de vez em quando para baixar os novos e-mails. O servidor era italiano, com datas no formato day/month/year. Eu usei:
 ~~~
 -ContentFilter {(Received -ge '05/06/2015') -or (Sent -ge '05/06/2015')}
 ~~~

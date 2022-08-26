@@ -1,20 +1,19 @@
 ---
-title:  "HackBack - Um Guia DIY I"
+title:  'HackBack! Um guia DYI - parte 1'
 date:   2016-04-07
-author:
-  - Phineas Fisher
 categories:
   - Artigo
 tags:
-  - contra-cultura
   - antisec
-  - hacking
-  - hacker
-  - segurança
   - infosec
-  - tecnologia
-description: "Vazamento de documentos, expropriação de dinheiro de bancos e trabalho para proteger os computadores de pessoas comuns é um hacking ético. No entanto, a maioria das pessoas que se autodenominam "hackers éticos" apenas trabalham para proteger aqueles que pagam suas altas taxas de consultoria, que geralmente são os que mais merecem ser hackeados."
+  - hackerativismo
+  - segurança
+  - anarquismo
+author:
+  - Phineas Fisher
+description: 'Nesse mundo, há muitos hackers melhores do que eu, mas eles usam mal seus talentos trabalhando para empreiteiros de "defesa", para agências de inteligência, para proteger bancos e corporações e para defender o status quo. A cultura hacker nasceu nos Estados Unidos como uma contracultura, mas essa origem só permanece em sua estética - o resto foi assimilado. Pelo menos eles podem usar uma camiseta, pintar o cabelo de azul, usar seus nomes de hacker e se sentir como rebeldes enquanto trabalham para o Homem.'
 ---
+
 ```
 Traduzido por: Vinicius Yaunner
 Revisado por: Cypherpunks Brasil

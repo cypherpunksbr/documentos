@@ -112,7 +112,7 @@ Infelizmente, nosso mundo está ao contrário. Você fica rico fazendo coisas ru
 1) Criptografe seu disco rígido[2]
 
    Acho que quando a polícia chega para apreender seu computador, significa que você já cometeu muitos erros, mas é melhor estar seguro.
-2) Use a virtual machine with all traffic routed through Tor
+2) Use uma máquina virtual com todo o tráfego roteado pelo Tor
 
    Isso realiza duas coisas. Primeiro, todo o seu tráfego é anônimo por meio do Tor. Em segundo lugar, manter sua vida pessoal e hackers em computadores separados ajuda a não misturá-los acidentalmente.
 
@@ -180,7 +180,7 @@ Algumas ferramentas e técnicas são:
    Muitas coisas interessantes podem ser encontradas com algumas consultas de pesquisa bem escolhidas. Por exemplo, a identidade do DPR[1]. A bíblia do Google hack é o livro *"[Google Hacking for Penetration Testers](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Long.pdf)"*. Você pode encontrar um breve resumo em espanhol em[2].
 2) Enumeração de Subdomínio
 
-   Frequentemente, o site principal de uma empresa é hospedado por terceiros e você encontrará a faixa de IP real da empresa graças a subdomínios como *mx.company.com* ou *ns1.company.com*. Além disso, às vezes há coisas que não devem ser expostas em subdomínios "ocultos". Ferramentas úteis para descobrir domínios e subdomínios são o feroz[3], theHarvester[4] e o recon-ng[5].
+   Frequentemente, o site principal de uma empresa é hospedado por terceiros e você encontrará a faixa de IP real da empresa graças a subdomínios como *mx.company.com* ou *ns1.company.com*. Além disso, às vezes há coisas que não devem ser expostas em subdomínios "ocultos". Ferramentas úteis para descobrir domínios e subdomínios são o Fierce[3], theHarvester[4] e o recon-ng[5].
 3) Pesquisas no Whois e pesquisas reversas
 
    Com uma pesquisa reversa usando as informações no whois de um domínio ou faixa de IP de uma empresa, você pode encontrar outros domínios e faixas de IP. Pelo que eu sei, não há maneira gratuita de fazer pesquisas reversas além de um "hack" do Google:
@@ -244,7 +244,7 @@ Existem várias maneiras de obter uma posição segura. Como o método que usei 
 
 ----[ 5.1 - Engenharia social ]------------------------------------------------
 
-A engenharia social, especificamente o spear phishing, é responsável pela maioria dos hacks atualmente. Para uma introdução em espanhol, veja[1]. Para obter mais informações em inglês, consulte[2] (a terceira parte, "Ataques direcionados"). Para histórias divertidas sobre as façanhas de engenharia social das gerações anteriores, consulte[3]. Eu não queria tentar spear phishing na Hacking Team, já que todo o seu negócio é ajudar governos a *spear phishing* seus oponentes, então eles seriam muito mais propensos a reconhecer e investigar uma tentativa de spear phishing.
+A engenharia social, especificamente o spear phishing, é responsável pela maioria dos hacks atualmente. Para uma introdução em espanhol, veja[1]. Para obter mais informações em inglês, consulte[2] (a terceira parte, "Ataques direcionados"). Para histórias divertidas sobre as façanhas de engenharia social das gerações anteriores, consulte[3]. Eu não queria tentar spear phishing na Hacking Team, já que todo o seu negócio é ajudar governos a fazer spear phishing em seus oponentes, então eles seriam muito mais propensos a reconhecer e investigar uma tentativa de spear phishing.
 
 [1] http://www.hacknbytes.com/2016/01/apt-pentest-con-empire.html
 
@@ -264,7 +264,7 @@ Após o [hack do Gamma Group](https://www.zdnet.com/article/top-govt-spyware-com
 inetnum:        93.62.139.32 - 93.62.139.47
 descr:          HT public subnet
 ~~~
-A Hacking Team teve pouquíssima exposição na internet. Por exemplo, ao contrário do Gamma Group, seu site de suporte ao cliente precisava de um certificado de cliente para se conectar. O que eles tinham era seu site principal (um blog do Joomla no qual o Joomscan[2] não encontrou nada sério), um servidor de e-mail, alguns roteadores, dois dispositivos VPN e um dispositivo de filtragem de spam. Então, eu tinha três opções: procurar um *0-day* no Joomla, procurar um dia 0 no postfix ou procurar um dia 0 em um dos dispositivos embarcados. Um 0-day em um dispositivo embarcado parecia a opção mais fácil e, após duas semanas de trabalho de engenharia reversa, obtive um exploit de root remoto. Uma vez que as vulnerabilidades ainda não foram corrigidas, não vou dar mais detalhes, mas para mais informações sobre como encontrar esses tipos de vulnerabilidades, consulte[3] e[4].
+A Hacking Team teve pouquíssima exposição na internet. Por exemplo, ao contrário do Gamma Group, seu site de suporte ao cliente precisava de um certificado de cliente para se conectar. O que eles tinham era seu site principal (um blog do Joomla no qual o Joomscan[2] não encontrou nada sério), um servidor de e-mail, alguns roteadores, dois dispositivos VPN e um dispositivo de filtragem de spam. Então, eu tinha três opções: procurar um *0-day* no Joomla, procurar um 0-day no postfix ou procurar um 0-day em um dos dispositivos embarcados. Um 0-day em um dispositivo embarcado parecia a opção mais fácil e, após duas semanas de trabalho de engenharia reversa, obtive um exploit de root remoto. Uma vez que as vulnerabilidades ainda não foram corrigidas, não vou dar mais detalhes, mas para mais informações sobre como encontrar esses tipos de vulnerabilidades, consulte[3] e[4].
 
 [1] http://pastebin.com/raw.php?i=cRYvK4jb
 

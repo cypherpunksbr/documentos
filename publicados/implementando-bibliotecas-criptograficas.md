@@ -118,7 +118,7 @@ send_to_participants(nipk_of_secret, commitments);
 let public = DistributedKeyGeneration::round_two_init(&secret);
 ~~~
 
-Dependendo das especificações do protocolo, pular a chamada para DistributedKeyGeneration::round_one_finish() permite um **[rogue-key attack](https://eprint.iacr.org/2018/417)**, onde um participante desonesto cria um fragmento de chave pública elaborado que nega a contribuição para uma assinatura do outro participante(s) alvo 
+Dependendo das especificações do protocolo, pular a chamada para DistributedKeyGeneration::round_one_finish() permite um **[rogue-key attack](https://eprint.iacr.org/2018/417)**, onde um participante desonesto cria um fragmento de chave pública elaborado que nega a contribuição para uma assinatura do(e) outro(s) participante(s) alvo 
 
 Em vez disso, vamos ver como esse ataque conhecido pode ser eliminado inteiramente, *tornando-o detectável em tempo de compilação*.
 
@@ -235,7 +235,7 @@ Este é, embora, um exemplo de brinquedo bastante trivial e simples. Há muitas 
 
 * Fornecendo um traço RoundTwo para aumento genérico sobre os dois estados tipificados na segunda rodada do protocolo.
 * Usar o padrão de **[sealed design](https://rust-lang.github.io/api-guidelines/future-proofing.html#sealed-traits-protect-against-downstream-implementations-c-sealed)** para evitar que terceiros criem implementações adicionais de estados RoundTwo válidos.
-* Evitar *clone()/copy()* repetido de dados no estado da máquina (por exemplo, os *secret_shards* que são copiados várias vezes no exemplo acima) abusando de outra característica vazia implementada para todos os estados-tipo para armazenar o estado real em um *heap-allocated pointer* (por exemplo, *Box <ActualState>*) copiado em seu lugar.
+* Evitar *clone()/copy()* repetido de dados no estado da máquina (por exemplo, os *secret_shards* que são copiados várias vezes no exemplo acima) abusando de outra característica vazia implementada para todos os *typestate* para armazenar o estado real em um *heap-allocated pointer* (por exemplo, *Box <ActualState>*) copiado em seu lugar.
 
 Se você gostaria de ver um exemplo mais complexo desses padrões de design todos juntos, tenho **[um esboço de implementação](https://github.com/isislovecruft/ed25519-dalek/blob/9e44fb1c6e060bce9e54480ce1c7387d13c17b75/src/state.rs)** do protocolo MSDL de **["Compact Multi-Signatures for Smaller Blockchains"](https://eprint.iacr.org/2018/483)** de Boneh, Drijvers e Neven.
 

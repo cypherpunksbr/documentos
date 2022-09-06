@@ -1,12 +1,10 @@
 ---
 title:  'E ainda assim você usa essas plataformas malígnas da Big Tech. Que curioso!'
-date:   2020-11-09
+date:   2021-09-07
 categories:
   - Artigo
 tags:
   - Tecnologia
-  - Criptoanarquismo
-  - Ação Direta
 author:
   - Kevin Carson
 description: '“um sistema destrói seus competidores antecipando os meios e canais, e então prova que esse é o único modo de operação concebível.”'

@@ -9,7 +9,7 @@ tags:
   - Contra viligilância
 author:
   - anonymous
-description: 'Favor colocar aqui uma descrição'
+description: 'Este é um chamado para as pessoas quebrarem as câmeras. Vez após vez vemos nossos amigos sendo levados porque alguém escolheu seus cinco momentos de fama, a excitação de ver sua foto de nossos rostos fodidos nas páginas da Vice, do Evening Standard, do The Guardian. Eles escolhem isso acima de ficar ao lado de seus amigos e cúmplices e lutar contra o estado de vigilância que controla a todos nós.'
 ---
 
 ```

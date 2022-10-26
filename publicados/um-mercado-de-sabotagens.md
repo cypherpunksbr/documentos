@@ -1,0 +1,48 @@
+---
+title:  'Um Mercado de Sabotagens'
+date:   2014-01-30
+categories:
+  - Artigo
+tags:
+  - Criptoanarquismo
+  - Ação Direta
+author:
+  - Ryan Calhoun
+description: 'Essas ideias, embora implícitas na atitude criptoanarquista, não são novas dentro do anarquismo. Durante o apogeu do movimento abolicionista nos Estados Unidos, Lysander Spooner estimulava atos individuais de sabotagem e violência contra os senhores de escravos não apenas cometidos por escravos e por aqueles comprometidos com a causa da abolição, mas também por aqueles que trabalhavam como “homens livres” para os vigias de escravos. Spooner via que esses homens pouco se importavam com suas tarefas e estavam mais interessados em incentivos financeiros. “Que seja”, diz Spooner. Nós queremos que esses desgraçados frios e calculistas trabalhem para nós.'
+---
+
+```
+Traduzido por: Erick Vasconcelos
+Revisado por: Vinicius Yaunner
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+Tradução encontrada em: [C4SS - Um Mercado de Sabotagens](https://c4ss.org/content/25146)
+
+# Um mercado de sabotagens
+
+No século 19 e no final do século 20, o anarquismo chegava, de várias formas, à cultura e ao pensamento popular. Isso não acontecia por causa de teorias, mas por conta de expressões imediatas da autonomia individual. Tal processo revolucionário era conhecido como *ação direta.* A ação direta enfatiza o direito ou o dever de cada indivíduo de defender sua liberdade através de ações, sabotando abertamente os sistemas de opressão e destruindo essas estruturas tirânicas para que todos possam ver.
+
+Infelizmente, essa ideia acabou enfraquecida ou abandonada por alguns motivos. Uma delas foi o disciplinamento dos trabalhadores, com a conexão de seus interesses aos do estado e aos das grandes empresas. O outro motivo foram os retornos decrescentes. Os anarquistas e trabalhadores revoltosos regularmente eram feridos pela polícia ou trancados na prisão por anos. Insistir em ser livre é ótimo, mas não quando o preço é a diminuição da sua capacidade de agir. A liberação individual é difícil, infelizmente. Se todos nós nos deparamos com uma luta aparentemente sem fim, por que nos preocupar?
+
+Estamos aqui para propor uma solução para essa falta de incentivos. No verão de 2013, um mercado foi aberto na darknet dedicado ao financiamento do assassinato de figuras públicas. Em particular, pessoas ligadas à política. Alguns meses atrás, essa ideia causou certa controvérsia quando um artigo da revista Forbes o mencionava. E, embora o site seja novo e revolucionário, a ideia já é um pouco antiga. O objetivo? Incentivar os líderes políticos de forma mais efetiva a obedecer o que o público deseja e diminuir a culpabilidade de quaisquer indivíduos se um assassinato ocorrer. O uso de criptomoedas para esconder a identidade dos financiadores foi possibilitado pela popularização do Bitcoin e mais ainda pela Dark Wallet, criada por Cody Wilson. A ideia original é de Jim Bell, um dos fundadores do criptoanarquismo e autor de *[Assassination Politics.](https://sabotagem.net/pol%C3%ADtica-de-assassinato-8ec858033248)* Ele foi subsequentemente perseguido pelo governo federal dos Estados Unidos e vive entre a prisão e a liberdade há mais de uma década.
+
+O que esse mercado e essa ideia de política de assassinatos tem a ver com a ação direta? Tem a ver com o incentivo de atos individuais de sabotagem, vandalismo ou expropriação. Ao contrário do cenário anterior, os indivíduos têm um incentivo adicional além de alcançar a revolução: podem obter uma recompensa por seu ato de ativismo revolucionário. Isso aumenta a probabilidade de que, se alguém organizasse uma greve no trabalho, os colegas tivessem interesse em contrariar os desejos da empresa. Fura-greves frequentemente são motivados pela possibilidade de ganhar mais dinheiro e não pensam em apoiar o chefe. Podemos, então, dizer a ele: “Junte-se a nós e você poderá ganhar uma quantidade interessante de Bitcoins”.
+
+Claro, as sabotagens não precisam ser feitas apenas “no trabalho”. Podemos também incentivar atos de sabotagem e desobediência contra a política. “5 BTCs para o homem ou a mulher que furar todos os pneus de carros da polícia que estejam na avenida principal na quarta-feira!” Essa é uma motivação nova e talvez necessária para a execução de atos que talvez não sejam imediatamente recompensadores. Por que não se demitir do seu emprego principal e trancar por fora a porta do delegado do município? Poderíamos até apostar que os próprios policiais aceitariam dinheiro para fazer isso, se o valor fosse bom. Ficaríamos felizes em fornecer o dinheiro, policial.
+
+Essas ideias, embora implícitas na atitude criptoanarquista, não são novas dentro do anarquismo. Durante o apogeu do movimento abolicionista nos Estados Unidos, Lysander Spooner estimulava atos individuais de sabotagem e violência contra os senhores de escravos não apenas cometidos por escravos e por aqueles comprometidos com a causa da abolição, mas também por aqueles que trabalhavam como “homens livres” para os vigias de escravos. Spooner via que esses homens pouco se importavam com suas tarefas e estavam mais interessados em incentivos financeiros. “Que seja”, diz Spooner. Nós queremos que esses desgraçados frios e calculistas trabalhem para nós.
+
+Em *[A Plan for the Abolition of Slavery,](https://praxeology.net/LS-PAS.htm)* Spooner afirma:
+>“Vocês estão prontos para realizar todo aquele trabalho vil e desumano, que deve ser executado por alguém, mas que os senhores de escravos mais decentes não desejam realizar. No entanto, já ouvimos ao menos uma boa opinião a respeito de vocês. Isto é, a de que não possuem quaisquer preconceitos de cor e de que não são tão contrários à liberdade a ponto de dispensarem dinheiro em troca do auxílio para que um escravo chegue ao Canadá, da mesma maneira que não hesitariam em capturar fugitivos e devolvê-los aos senhores. Se vocês são, assim, tão indiferentes a quem servem, nós os aconselhamos a, a partir de agora, servir ao escravo, e não ao senhor. Deem meia-volta e ajudem o roubado a roubar os ladrões. Aqueles podem pagar melhor que estes. Ajudem-nos a reaver suas posses legítimas e seus pagamentos serão satisfatórios. Ajudem-nos a açoitar os senhores de escravos e eles poderão pagar dez vezes mais do que vocês jamais receberam pelo açoite de um escravo. Ajudem-nos a sequestrar escravos e eles poderão pagar mais do que você receberá ao capturar um fugitivo. Seja honesto com os escravos e acreditamos que eles pagarão bem por tais serviços. Sejam desonestos e esperamos que eles os matem.”
+
+Isso, sim, é a liberação por diversão e lucro. Não requer que um slogan moralista seja empunhado por todos aqueles que sejam contrários à escravidão, o trabalho assalariado ou outras instituições que se originam no estado. O momento de recitar lugares-comuns vazios sobre a decência da liberdade humana já passou. O mundo daqueles que servem a senhores de escravos e daqueles que não se interessam pela liberdade está ruindo. O cinto de utilidades do revolucionário se expande cada vez mais. Não é mais necessário apodrecer numa cela de prisão para reclamar o direito a uma vida que é legitimamente nossa. Junte-se a esta rebelião criptográfica.
+
+Essas comunidades online funcionariam como o que Spooner chamou de “comitês de vigilância”, em que as injustiças que não são punidas pelos meios políticos são julgadas diretamente por forças descentralizadas. Spooner também reconhecia os perigos dessas ações e, como afirmamos acima, tais planos não eram aplicáveis sem grandes riscos individuais. Isso não mais ocorre necessariamente. É hora de implementarmos essa ideia do século 19 no século 21.
+
+Evidentemente, há alguns problemas com a aplicação dessa ideia, [como um editorial anterior do C4SS mostrou.](https://c4ss.org/content/22655) Porém, esses mercados não se restringem a atividades revolucionárias. As pessoas podem utilizá-los para o que desejarem. Alguns temem que estruturas assim poderiam motivar atos de agressão e violência injustificáveis, contra pessoas que não merecem tratamentos hostis. Porém, como quase sempre é o caso, a caixa de Pandora está aberta. Nada impede que seu vizinho abra um mercado de linchamentos de uma classe desfavorecida. Também não há nada que impeça que essa mesma pessoa atire ou promova linchamentos individualmente. Assim, precisamos ter em mente que, no caso de ideias potencialmente perigosas como estas, há uma maior necessidade de educar e incentivar o tipo certo de cultura.
+
+Com novos mecanismos de defesa, sempre surgem novos mecanismos de opressão. Armas eram uma ótima ideia até que decidimos dar à instituição com o monopólio da violência a maior parte delas. Portanto, devemos desestimular atos verdadeiramente opressivos nesses mercados. Devemos fomentar uma sociedade de pessoas que rejeitem as autoridades econômicas e políticas e que estejam dispostas a sair de seus empregos e a ganhar dinheiro combatendo o sistema de opressão, um ato de cada vez. A hora de agir é agora. Nunca houve um momento mais oportuno. A comunidade libertária está na vanguarda desta tecnologia, empurrando-a à frente, facilitando a possibilidade de quebrar as leis injustas muito mais fácil a todo o momento, tornando mais simples se envolver em atividades consideradas ilegais e indesejáveis. Esta é nossa oportunidade.
+
+---
+Fonte: [A Market For Sabotage](https://c4ss.org/content/23270)

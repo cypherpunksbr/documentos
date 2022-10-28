@@ -37,7 +37,10 @@ Recomendações de textos, sites, manuais, livros sobre temas envolvendo o movim
 * Conteúdo em Português
     * Vídeos
         * [Cypherpunks Write Code - Documentário da Reason legendado](https://youtu.be/9vM0oIEhMag)
-        * [The Monopoly On Violence - Documentário legendado](https://odysee.com/@CypherpunksBrasil:d/output:cd)
+        * [The Monopoly On Violence - Documentário legendado](https://odysee.com/@CypherpunksBrasil:/output:cd)
+        * [Documentário Deep Web Legendado - Alex Winter](https://youtu.be/nxt5291DuLk)
+        * [The Pirate Bay AFK legendado - Simon Klose](https://www.youtube.com/watch?v=yDt_uAqkxRY)
+        * [Armas Impressas em 3D (Documentário) - Vice](https://youtu.be/DconsfGsXyA)
     * Livros
         * [Cypherpunks: Liberdade e o Futuro da Internet- Julian Assange](https://resistir.info/varios/assange_livro_port.pdf)
         * [A Ideologia Californiana - Richard Barbrook](https://baixacultura.org/wp-content/uploads/2019/02/ideologia-californiana_revisado1.pdf)
@@ -52,6 +55,7 @@ Recomendações de textos, sites, manuais, livros sobre temas envolvendo o movim
         * [Baixa Cultura](https://baixacultura.org/)
 * Conteúdo em Inglês
     * Vídeos
+        * [Plastic Defence: Secret 3D Printed Guns in Europe - Popular Front](https://youtu.be/jlB2QV5wVxg)
         * [What you need to know about stalkerware - Eva Galperin](https://www.ted.com/talks/eva_galperin_what_you_need_to_know_about_stalkerware)
     * Livros
         * [Areopagitica; A Speech of Mr. John Milton For the Liberty of Unlicens'd Printing, to the Parliament of England](https://nakamotoinstitute.org/areopagitica/)
@@ -86,11 +90,10 @@ Recomendações de textos, sites, manuais, livros sobre temas envolvendo o movim
     * Outros Projetos
 
 * Conteúdo em inglês
-* Conteúdo em Português
     * Vídeos
     * Livros
     * Guias e Manuais
-        * [autodefesa.org](https://autodefesa.org/)
+        * [An In-Depth Guide to Personal Cybersecurity - Nick Rosener](https://medium.com/@nickrosener/an-in-depth-guide-to-personal-cybersecurity-be98ba47c968)
     * Outros Projetos
         * [Electronic Frontier Foundation - The Electronic Frontier Foundation](https://www.eff.org/)
         * [Tech Learning Collective](https://techlearningcollective.com/)
@@ -125,16 +128,20 @@ Recomendações de textos, sites, manuais, livros sobre temas envolvendo o movim
 * Conteúdo em Português
     * Vídeos
     * Livros
+        * [Shell Script Profissional - Aurelio Marinho Jargas](https://ipfs.io/ipfs/bafykbzacebkmvbvsj3kfbtn2ydgbd4736lum5xwtommvfmrfnu22lufq5lfwu?filename=Aurelio%20Marinho%20Jargas%20-%20Shell%20Script%20Profissional-Novatec%20%282008%29.pdf)
     * Guias e Manuais
     * Outros Projetos
 
 * Conteúdo em inglês
     * Vídeos
     * Livros
+        * [A Hacker’s Manifesto - McKenzie Wark](https://anarchotranshuman.org/post/49990204445/a-hackers-manifesto-by-mckenzie)
         * [How To Become A Hacker - Eric Steven Raymond](http://www.catb.org/%7Eesr/faqs/hacker-howto.html)
+        * [PoweShell in Depth - Don Jones, Richard Siddaway, Jeffery Hicks](https://raw.githubusercontent.com/jidibinlin/Free-DevOps-Books-1/master/book/PowerShell%20in%20Depth.pdf)
     * Guias e Manuais
+        * [Hackbacks - Phineas Fisher(O primeiro Hackback está legendado no nosso site)](https://packetstormsecurity.com/files/author/12922/)
         * [Hacking Slack using postMessage and WebSocket-reconnect to steal your precious token](https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/)
-        * [Awesome Hacking - Hack with GitHub ](https://github.com/Hack-with-Github/Awesome-Hacking)
+        * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
         * [Exploit Database](https://www.exploit-db.com/?type=papers)
     * Outros Projetos
         * [Hack The Box](https://www.hackthebox.com/)
@@ -159,6 +166,7 @@ Recomendações de textos, sites, manuais, livros sobre temas envolvendo o movim
 
 * Conteúdo em inglês
     * Vídeos
+        * [DarkFi: Anonymous Engineering for Dank Net Markets - Amir Taaki](https://youtu.be/_N1Du4sLrQA)
     * Livros
         * [Agorism in the 21 Century: A Philosophical Journal (em breve traduzido)](https://agorist.xyz/)
     * Textos e Artigos
@@ -183,6 +191,8 @@ Recomendações de textos, sites, manuais, livros sobre temas envolvendo o movim
     * Livros
         * [Science As Radicalism - William Gillias (em revisão no nosso Github)](http://humaniterations.net/2015/08/18/science-as-radicalism/)
     * Textos e Artigos
+        * [Hello From the Wired: An Introduction to Cyber-Nihilism - n1x](https://b0x.neocities.org/v0x/hello_from_the_wired.html)
         * [The Orthogonality Thesis & Ontological Crises - William Gillias](http://humaniterations.net/2016/05/16/the-orthogonality-thesis-ontological-crises/)
     * Outros Projetos
         * [Human Iterations](http://humaniterations.net/)
+        * [Anarcho Transhuman](https://anarchotranshuman.org/)

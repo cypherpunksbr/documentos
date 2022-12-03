@@ -30,32 +30,31 @@ Amir Taaki[^2] é um dos mais notáveis criptoanarquistas. Ele defendeu a experi
 
 **3. Não estudem só a ideia em si, mas o contexto em que elas surgiram.**
 
-Isso é algo que muitos esquecem, o contexto é muito importante para entender como pensamentos políticos, sociológicos e econômicos se desenvolveram. Konkin não fazia juízo de valor de Marx, ao contrário, ele considerava que Marx era uma reação natural aos problemas que vieram junto com a revolução industrial e elaborou daí sua crítica à teoria de classe marxista.[^5] Estudem Max Stirner, Kropotkin, Emma Goldman, Renzo Novatore, entre outros[^6] e verão que eles têm muito a mostrar a vocês.
+Isso é algo que muitos esquecem, o contexto é muito importante para entender como pensamentos políticos, sociológicos e econômicos se desenvolveram. Konkin não fazia juízo de valor de Marx, ao contrário, ele considerava que Marx era uma reação natural aos problemas que vieram junto com a revolução industrial e elaborou daí sua crítica à teoria de classe marxista.[^5] Estudem Max Stirner, Kropotkin, Emma Goldman, Renzo Novatore, entre outros[^6] e verão que eles têm muito a mostrar a vocês.[^7]
 
 **4. Sindicatos autônomos são extremamente importantes para o funcionamento do mercado.**
 
-É comum as pessoas terem um pé atrás a respeito dos sindicatos. O motivo foi porque durante a era Vargas[^7] os sindicatos aqui no Brasil foram aparelhados pelo estado, e anos depois criaram o imposto sindical para tentarem legitimar de uma maneira porca os mesmos. Porém, sindicatos autônomos são *voluntários,* são uma forma legítima de trabalhadores se organizarem para negociarem melhores condições de trabalho. Existem situações em que sozinho você não vai conseguir ir muito longe e estará sujeito ao que os patrões decidirem, porém organizados é possível de fato negociar com os patrões e lutarem pelo que acharem melhor justo.[^8]
+É comum as pessoas terem um pé atrás a respeito dos sindicatos. O motivo foi porque durante a era Vargas[^8] os sindicatos aqui no Brasil foram aparelhados pelo estado, e anos depois criaram o imposto sindical para tentarem legitimar de uma maneira porca os mesmos. Porém, sindicatos autônomos são *voluntários,* são uma forma legítima de trabalhadores se organizarem para negociarem melhores condições de trabalho. Existem situações em que sozinho você não vai conseguir ir muito longe e estará sujeito ao que os patrões decidirem, porém organizados é possível de fato negociar com os patrões e lutarem pelo que acharem melhor justo.[^9]
 
 **5. Coletivo não é a mesma coisa que coletivismo, se organizem.**
 
-Muitos aqui tem medo de criarem coletivos justamente por causa dessa confusão, Cypherpunks Brasil é um coletivo, o Baixa Cultura é outro. Não existe nenhum problema em grupos de pessoas se organizarem em prol de um interesse comum. Max Stirner havia criado o conceito de "União dos Egoistas", que em resumo,  seria a uma forma de pessoas se manterem unidas por vantagens e interesses mútuos. Se ORGANIZEM, criem redes de apoio mútuo, grupos de estudo, ocupem espaços e coloquem os que tem a mesma visão junto. A Secessão individual é extremamente importante, mas nos dias atuais o melhor jeito de conseguir se separar do estado é se organizando e se ajudando, criando métodos junto para se separar do aparato do estado o máximo possível.
+Muitos aqui tem medo de criarem coletivos justamente por causa dessa confusão, o Cypherpunks Brasil, o projeto Baixa Cultura,[^10] o Razão Inadequada,[^11] entre outros, todos esses projetos são coletivos. Não existe nenhum problema em grupos de pessoas se organizarem em prol de um interesse comum. Max Stirner havia criado o conceito de "União dos Egoiístas",[^12] que em resumo,  seria a uma forma de pessoas se manterem unidas por vantagens e interesses mútuos. Se *organizem,* criem *redes de apoio mútuo,* grupos de estudo, ocupem espaços e coloquem os que tem a mesma visão junto. A Secessão individual é extremamente importante, mas nos dias atuais o melhor jeito de conseguir se separar do estado é se organizando e se ajudando, criando métodos junto para se separar do aparato do estado o máximo possível.
 
 **6. Hierarquias verticais não são naturais, são uma tentativa de emular a estrutura do estado em outras situações.**
 
-“Em uma sociedade agorista, a divisão do trabalho e o respeito próprio de cada trabalhador … provavelmente eliminará a organização empresarial tradicional — especialmente a hierarquia corporativa, uma imitação do Estado e não do Mercado. A maioria dos empreendimentos serão associações de contratantes independentes, consultores e outras companhias. Muitos podem ser apenas um empreendedor e todos os seus serviços, computadores, fornecedores e clientes. ”
-Konkin, Samuel, New Libertarian Manifesto
+>“Em uma sociedade agorista, a divisão do trabalho e o respeito próprio de cada trabalhador … provavelmente eliminará a organização empresarial tradicional — especialmente a hierarquia corporativa, uma imitação do Estado e não do Mercado. A maioria dos empreendimentos serão associações de contratantes independentes, consultores e outras companhias. Muitos podem ser apenas um empreendedor e todos os seus serviços, computadores, fornecedores e clientes." - Samuel Edward Konkin III.[^13]
 
 **7. O Mercado é um fator histórico que transcende o capitalismo, não fruto do mesmo.**
 
-Acredito que quando terminarmos a revisão do Agorismo no Século 21 e finalmente estiver publicado no nosso site isso ficará mais claro. Mas o mercado sempre existiu, o que devemos de fato é ocupar seu uso e tratá-lo como uma ferramenta, não como um fim mas como um meio de uso e organização para enfim chegarmos na Ágora.
+Acredito que quando terminarmos a revisão do Agorismo no Século 21[^14] e finalmente estiver publicado no nosso site isso ficará mais claro. Mas o mercado sempre existiu, o que devemos de fato é ocupar seu uso e tratá-lo como uma ferramenta, não como um fim mas como um meio de uso e organização para enfim chegarmos na Ágora.
 
 **8. Zelar pelo seus dados fora da internet também é importante**
 
-Quem é da área de segurança sabe como é fácil atacar pessoas através de engenharia social, mas além disso. Sempre é bom tomar cuidado com quem você entrega informações pessoais, seja segredos, pensamentos políticos, até mesmo o nome de algum familiar pode ser usado contra você se alguém estiver disposto a te atacar, seja parente, amigo, colega de trabalho, o que for.
+Quem é da área de segurança sabe como é fácil atacar pessoas através de engenharia social,[^14] mas além disso. Sempre é bom tomar cuidado com quem você entrega informações pessoais, seja segredos, pensamentos políticos, até mesmo o nome de algum familiar pode ser usado contra você se alguém estiver disposto a te atacar, seja parente, amigo, colega de trabalho, o que for.
 
 **9. Defender políticos e vertentes políticas estatistas não colaboram para diminuição ou desmantelamento do estado.**
 
-Pelo simples fato de as ideias  a serem propagadas são o de conciliamento com o estado, não o radicalismo de sua destruição. Sem contar o fato de existirem coisas mais importantes, como a aceitação pública, classes dominantes de setores da economia, intervenção nacional e internacional... Um político é apenas a marionete e acreditar em seus discursos é como uma criança acreditar no papai Noel
+Pelo simples fato de as ideias  a serem propagadas são o de conciliamento com o estado, não o radicalismo de sua destruição. Sem contar o fato de existirem coisas mais importantes, como a aceitação pública, classes dominantes de setores da economia, intervenção nacional e internacional... Um político é apenas a marionete e acreditar em seus discursos é como uma criança acreditar no papai Noel.
 
 **10. Procurem fazer amizades locais, em sua cidade e estado.**
 
@@ -79,7 +78,7 @@ Plantar árvores, reciclar o lixo, cuidar dos animais, conscientizar sobre os te
 
 
 **15. Não sejam caretas de se tornarem máquinas de sua ideologia.**
-O mundo é muito mais que apenas regurgitar os mesmos argumentos em todo local. Saber diferenciar o local com quem se deve falar e como falar é muito importante, é uma habilidade social a ser desenvolvida. Mesmo que defenda com radicalidade a propriedade privada, não é preciso ser o ser mais pão duro do planeta, mesmo defendendo isso é possível ajudar ao próximo do qual precisa de ajuda e principalmente, ajudando seus familiares e amigos próximos a crescerem junto com vocêgit
+O mundo é muito mais que apenas regurgitar os mesmos argumentos em todo local. Saber diferenciar o local com quem se deve falar e como falar é muito importante, é uma habilidade social a ser desenvolvida. Mesmo que defenda com radicalidade a propriedade privada, não é preciso ser o ser mais pão duro do planeta, mesmo defendendo isso é possível ajudar ao próximo do qual precisa de ajuda e principalmente, ajudando seus familiares e amigos próximos a crescerem junto com você.
 
 ---
 
@@ -88,8 +87,15 @@ O mundo é muito mais que apenas regurgitar os mesmos argumentos em todo local. 
 [^1]: Recomendo fortemente o material do [autodefesa.org](https://autodefesa.org/)
 [^2]: https://academy.bit2me.com/pt/quien-es-amir-taaki/
 [^3]: https://cypherpunks.com.br/author/derrick-broze/
-[^4]: Mesmo Konkin colocando o agorismo como esquerda radical, é preciso deixar algo bem claro. O Manifesto do Novo Libertário foi publicado na década de 80, porém, nas décadas seguintes surgiu uma corrente dentro do anarquismo chamado de *[Anarquismo pós-esquerda](https://pt.wikipedia.org/wiki/Anarquismo_p%C3%B3s-esquerdismo)* que se radicalizou para fora da espectro político, essa corrente engloba o *[anarquismo ontológico](https://baixacultura.org/2009/11/23/hakim-bey-taz-anarquismo-ontologico-e-outros-nomes-estranhos/)* e fica evidente que o agorismo entra nesse conceito por sua ligação com o *[ilegalismo](https://cypherpunks.com.br/documentos/empreendedores-e-o-lumpemproletariado-comparando-agorismo-e-ilegalismo/)* e com o *[individualismo-](http://www.spaz.org/~dan/individualist-anarchist/resources.html)*
+[^4]: Mesmo Konkin colocando o agorismo como esquerda radical, é preciso deixar algo bem claro. O Manifesto do Novo Libertário foi publicado na década de 80, porém, nas décadas seguintes surgiu uma corrente dentro do anarquismo chamado de *[Anarquismo pós-esquerda](https://pt.wikipedia.org/wiki/Anarquismo_p%C3%B3s-esquerdismo)* que se radicalizou para fora da espectro político tradicional, essa corrente engloba o *[anarquismo ontológico](https://baixacultura.org/2009/11/23/hakim-bey-taz-anarquismo-ontologico-e-outros-nomes-estranhos/)* e fica evidente que o agorismo entra nesse conceito por sua ligação com o *[ilegalismo](https://cypherpunks.com.br/documentos/empreendedores-e-o-lumpemproletariado-comparando-agorismo-e-ilegalismo/)* e com o *[individualismo](http://www.spaz.org/~dan/individualist-anarchist/resources.html)*
 [^5]: https://invisiblemolotov.files.wordpress.com/2008/06/agorist_class_theory.pdf
 [^6]: Muitos anarquistas clássicos estão no nosso site, vão conferir por data no início que acham eles.
-[^7]: https://mundoeducacao.uol.com.br/historiadobrasil/o-corporativismo-na-era-vargas.htm
-[^8]: https://cypherpunks.com.br/documentos/rumo-a-alianca-agorista-sindicalista/
+[^7]: Indicamos também a leitura do [Max Nettlau - A História da Anarquia](https://we.riseup.net/assets/177483/Max%20Nettlau%20Hist%C3%B3ria%20da%20anarquia%2C%20das%20origens%20ao%20anarco-comunismo.%20Frank%20Mintz%20%28org.%20e%20intro%29.%20Pl%C3%ADnio%20Augusto%20Co%C3%AAlho%20%28trad.%29.pdf) e o [SEK3 - History of the Libertarian Movement.](https://www.sek3.net/history-of-the-libertarian-movement.html)
+[^8]: https://mundoeducacao.uol.com.br/historiadobrasil/o-corporativismo-na-era-vargas.htm
+[^9]: https://cypherpunks.com.br/documentos/rumo-a-alianca-agorista-sindicalista/
+[^10]: https://baixacultura.org/
+[^11]: https://razaoinadequada.com/
+[^12]: https://pt.wikipedia.org/wiki/Uni%C3%A3o_de_ego%C3%ADstas
+[^13]: https://docplayer.com.br/9059377-O-manifesto-do-novo-libertario.html
+[^14]: Ele já está disponível em nosso [Github,](https://github.com/cypherpunksbr/documentos/blob/main/para%20revisar/agorismo-no-seculo-21.md) caso queiram conferir e se possível contribuir revisando, seriamos extremamente gratos.
+[^15]: https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering

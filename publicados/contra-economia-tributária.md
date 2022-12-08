@@ -1,5 +1,5 @@
 ---
-title:  "A comunidade contra-econômica: células de liberdade"
+title:  "Contra-economia Tributária"
 date:   2020-01-21
 author:
   - Derrick Broze
@@ -20,15 +20,15 @@ Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
 
 
 
-    “A vasta economia subterrânea que rivaliza em tamanho com toda a produção do Canadá, envolvendo até 20 milhões de pessoas e gerando centenas de bilhões de dólares em renda não tributada, está prosperando sob a corrente econômica dominante da América."
-
-    “Ao todo, mais de meio trilhão de dólares por ano - cerca de um quarto da produção registrada nos EUA - está envolvido, de acordo com algumas estimativas. Mesmo os julgamentos mais conservadores começam em quase 200 bilhões. ”
+>“A vasta economia subterrânea que rivaliza em tamanho com toda a produção do Canadá, envolvendo até 20 milhões de pessoas e gerando centenas de bilhões de dólares em renda não tributada, está prosperando sob a corrente econômica dominante da América."
+>
+>“Ao todo, mais de meio trilhão de dólares por ano - cerca de um quarto da produção registrada nos EUA - está envolvido, de acordo com algumas estimativas. Mesmo os julgamentos mais conservadores começam em quase 200 bilhões. ”
 
 Notícias capa do U.S. News & World Report, 22 de outubro de 1979
 
-    “Há algo acontecendo aqui. O que não está exatamente claro ... ”
-
-— *Stephen Stills, "For What It’s Worth" (gravado por Buffalo Springfield)*
+>“Há algo acontecendo aqui. O que não está exatamente claro ... ”
+>
+>— *Stephen Stills, "For What It’s Worth" (gravado por Buffalo Springfield)*
 
 Algo chamado de “Economia Subterrânea” foi descoberto pela grande circulação, a mídia do “Establishment”. O Los Angeles Times, por exemplo, durante os anos em que o autor manteve uma estreita vigilância, publicou as seguintes histórias:
 
@@ -49,11 +49,11 @@ A colunista Sylvia Porter, "O Valor do Seu Dinheiro", dedicou três colunas (10 
 
 Talvez sua visão não seja injustificada. Zodiac News Service, 1º de agosto de 1980, enviou a seguinte história:
 
-    “(ZNS) O Internal Revenue Service decidiu recentemente verificar seus próprios funcionários, auditando as declarações de imposto de renda de 168 de seus próprios auditores, que foram selecionados aleatoriamente.
-
-    O IRS relata que 110 dessas auditorias foram concluídas e que exatamente metade dos próprios auditores do Serviço cometeu erros graves em seus próprios retornos pessoais.
-
-    Das 55 declarações imprecisas, 13 pagaram a mais de seus impostos em uma média de $129. Os 42 restantes, no entanto, pagaram mal ao Tio Sam em uma média de $720. Este valor de $720, aliás, é mais do que o dobro da média de pagamento insuficiente do público (de cerca de $340).”
+>“(ZNS) O Internal Revenue Service decidiu recentemente verificar seus próprios funcionários, auditando as declarações de imposto de renda de 168 de seus próprios auditores, que foram selecionados aleatoriamente.
+>
+>O IRS relata que 110 dessas auditorias foram concluídas e que exatamente metade dos próprios auditores do Serviço cometeu erros graves em seus próprios retornos pessoais.
+>
+>Das 55 declarações imprecisas, 13 pagaram a mais de seus impostos em uma média de $129. Os 42 restantes, no entanto, pagaram mal ao Tio Sam em uma média de $720. Este valor de $720, aliás, é mais do que o dobro da média de pagamento insuficiente do público (de cerca de $340).”
 
 O IRS iria expandir sua auditoria de seus próprios auditores, mas desde então cancelou esse plano depois que os auditores rotularam o esquema de "ultrajante" e "muito, muito injusto".
 E a “ameaça” ainda não é limitada. Thomas Brom, para o Pacific News Service, 28 de novembro de 1980, no artigo “Economia 'Fora da Lei' em expansão na América - Empregos para muitos, proteção para ninguém”, começa com este terrível aviso como uma “Nota do Editor”: “O 'fora da lei' ou a economia "subterrânea", em que o dinheiro paga a conta e o IRS é evitado, está crescendo aos trancos e barrancos, de acordo com estimativas recentes. Ele passou a funcionar como uma espécie de sistema sombrio de sobrevivência e programa de bem-estar não oficial para as legiões crescentes de desempregados. Mas, embora ofereça sobrevivência para muitos, oferece pouco bem-estar e nenhuma proteção ao trabalhador e representa uma séria ameaça aos sindicatos americanos, relata Thomas Brom, editor de economia do PNS. ”
@@ -74,11 +74,11 @@ O U.S. News vê consideravelmente menos pessoas em sua "economia subterrânea". 
 
 Quem são os isentos de impostos? Vários exemplos, desde viúvas faxineiras a alfaiates donas de casa e agricultores que vendem vegetais à beira de estradas são dados. Este pode ser arquetípico:
 
-    “Uma atriz de 24 anos em dificuldades na cidade de Nova York tem três empregos para sobreviver: ela trabalha como bartender, um trabalho que lhe paga de $30 a $35 por dia, incluindo gorjetas; ajuda na joalheria de seu pai aos sábados e aparece ocasionalmente em sua própria apresentação de cabaré em uma casa noturna de Greenwich Village.
-
-    Todos os trabalhos dela estão fora dos livros. Em outras palavras, seus empregadores não retém nenhum imposto de seu salário e não contribuem para a Previdência Social ou seguro-desemprego como são obrigados a fazer. 'Estou completamente no subsolo', diz ela. ‘Não há registros de nada que eu esteja fazendo.’
-
-    Ela não demonstra culpa ou arrependimento por sua falha em prestar contas ao Estado por sua ação. Uma nota melancólica é feita pela faxineira. “'À medida que fico mais velha', diz ela, 'estou começando a pensar, talvez eu devesse ter feito meu pessoal pagar o Seguro Social para mim. Mas assim eu não pago impostos, nada. '”
+>“Uma atriz de 24 anos em dificuldades na cidade de Nova York tem três empregos para sobreviver: ela trabalha como bartender, um trabalho que lhe paga de $30 a $35 por dia, incluindo gorjetas; ajuda na joalheria de seu pai aos sábados e aparece ocasionalmente em sua própria apresentação de cabaré em uma casa noturna de Greenwich Village.
+>
+>Todos os trabalhos dela estão fora dos livros. Em outras palavras, seus empregadores não retém nenhum imposto de seu salário e não contribuem para a Previdência Social ou seguro-desemprego como são obrigados a fazer. 'Estou completamente no subsolo', diz ela. ‘Não há registros de nada que eu esteja fazendo.’
+>
+>Ela não demonstra culpa ou arrependimento por sua falha em prestar contas ao Estado por sua ação. Uma nota melancólica é feita pela faxineira. “'À medida que fico mais velha', diz ela, 'estou começando a pensar, talvez eu devesse ter feito meu pessoal pagar o Seguro Social para mim. Mas assim eu não pago impostos, nada. '”
 
 Embora o conceito de "economia subterrânea" seja fortemente voltado para a evasão fiscal, a interconexão com outras atividades contra-econômicas, como evasão da Previdência Social, evasão das regulamentações trabalhistas, descumprimento da inspeção de saúde e segurança e imigração ilegal é óbvia.
 
@@ -110,17 +110,17 @@ Além desses dois métodos de manter a renda “fora dos livros” para mantê-l
 
 E ele se parece com Ayn Rand:
 
-    “Comecei do nada e construí um negócio de milhões. O governo começou com bilhões e eles continuam endividados. Eles simplesmente desperdiçam o dinheiro. ”
+>“Comecei do nada e construí um negócio de milhões. O governo começou com bilhões e eles continuam endividados. Eles simplesmente desperdiçam o dinheiro. ”
 
 E, finalmente, pode-se simplesmente dobrar os livros, um para você e outro para o Estado:
 
-    “Uma cabeleireira de Houston mantém dois conjuntos de livros, um para si, outro para o IRS. A maioria dos negócios é em dinheiro; ela embolsa cerca de um terço disso, ou US $200 por semana, sem relatar. ”
+>“Uma cabeleireira de Houston mantém dois conjuntos de livros, um para si, outro para o IRS. A maioria dos negócios é em dinheiro; ela embolsa cerca de um terço disso, ou US $200 por semana, sem relatar. ”
 
 Um último exemplo do U.S. News reúne tudo isso:
 
-    “Um comerciante da Califórnia que se gaba de não pagar 1 por cento do imposto de renda em cinco anos oferece este conselho sobre como fazer o skimming: ‘O mais importante é a consistência. Se você ocultar, oculte a mesma quantidade a cada ano. Se você deixar um ano passar sem tirar nada e depois tirar 20 por cento no próximo, você será pego’.
-
-    Mesmo uma auditoria do IRS não significa o fim do mundo. Normalmente, você é notificado com antecedência. Tudo o que você precisa fazer é comprar alguns livros de recibos novos e ajustá-los aos seus números. Contanto que os recibos sejam numerados consecutivamente e os números coincidem, você está OK. Na verdade, o ano em que enganei o governo foi o ano em que fui auditado. O resultado foi que o inspetor acabou me parabenizando pela excelente situação em que meus registros estavam. Trair o governo é tão fácil que é lamentável. ”
+>“Um comerciante da Califórnia que se gaba de não pagar 1 por cento do imposto de renda em cinco anos oferece este conselho sobre como fazer o skimming: ‘O mais importante é a consistência. Se você ocultar, oculte a mesma quantidade a cada ano. Se você deixar um ano passar sem tirar nada e depois tirar 20 por cento no próximo, você será pego’.
+>
+>Mesmo uma auditoria do IRS não significa o fim do mundo. Normalmente, você é notificado com antecedência. Tudo o que você precisa fazer é comprar alguns livros de recibos novos e ajustá-los aos seus números. Contanto que os recibos sejam numerados consecutivamente e os números coincidem, você está OK. Na verdade, o ano em que enganei o governo foi o ano em que fui auditado. O resultado foi que o inspetor acabou me parabenizando pela excelente situação em que meus registros estavam. Trair o governo é tão fácil que é lamentável. ”
 
 **O que causa a “economia subterrânea”?**
 
@@ -128,7 +128,7 @@ A Contra-Economia existe porque o Estado existe. Toda intervenção do Estado no
 
 No caso especial da “economia subterrânea” sem impostos, todo imposto é um desafio. Vamos dar uma olhada na cidade de Nova York. Diz o US News:
 
-    “O mercado negro de cigarros piratas na cidade de Nova York, que segundo algumas estimativas responde por até metade de todas as vendas do produto no município, neste momento pode estar negando à metrópole e ao estado 'centenas de milhões de dólares por ano' em receita, diz David Durk, comissário assistente de fiscalização do Departamento de Finanças da cidade. A razão para o crescente mercado de contrabando: o alto imposto de consumo, que totaliza 23 centavos o pacote ”.
+>“O mercado negro de cigarros piratas na cidade de Nova York, que segundo algumas estimativas responde por até metade de todas as vendas do produto no município, neste momento pode estar negando à metrópole e ao estado 'centenas de milhões de dólares por ano' em receita, diz David Durk, comissário assistente de fiscalização do Departamento de Finanças da cidade. A razão para o crescente mercado de contrabando: o alto imposto de consumo, que totaliza 23 centavos o pacote ”.
 
 Único? Leia. “O imposto sobre vendas relativamente alto de Nova York, de 8%, representa outro problema. É comum que os comerciantes soneguem 20% dele, diz o economista Gutmann ”. E apenas em Nova York? “Um especialista em impostos sobre vendas, John F. Due, professor de economia da Universidade de Illinois, diz que de 3 a 5% do total de impostos sobre vendas devidos em todo o país, ou até 2 bilhões por ano, escapa da cobrança.”
 
@@ -148,7 +148,7 @@ Quem o contra-economista está prejudicando, segundo Conine? “Ele está prejud
 
 Conine culpa a "fraude fiscal" pelo aumento dos impostos e conclui:
 
-    "De alguma forma, este é um caso em que muitas pessoas instintivamente ficam do lado não dos policiais, mas dos ladrões ... A maioria de nós parece determinada a continuar olhando para os triviais fraudadores fiscais com uma tolerância estupefata - mesmo jogando seu jogo com pagamentos em dinheiro por serviços prestados fora dos livros - sem levar em conta o fato de que eles estão colocando sua parte justa da carga tributária sobre nossos ombros. ”
+>"De alguma forma, este é um caso em que muitas pessoas instintivamente ficam do lado não dos policiais, mas dos ladrões ... A maioria de nós parece determinada a continuar olhando para os triviais fraudadores fiscais com uma tolerância estupefata - mesmo jogando seu jogo com pagamentos em dinheiro por serviços prestados fora dos livros - sem levar em conta o fato de que eles estão colocando sua parte justa da carga tributária sobre nossos ombros. ”
 
 Mais adiante no livro, o “cara com o salário justo” encontrará mais maneiras, se ele ainda não pegou várias, de como ele pode se juntar aos isentos de impostos. Um capítulo tratará do medo de Brown, do Pacific News Service, da exploração ilegal de estrangeiros e da falta de segurança, a vasta literatura já existente sobre a economia de livre mercado responde aos temores de Sylvia Porter do colapso da sociedade e do colapso do Estado na sociedade, que é, como a Contra-Economia pode se expandir para esmagar a economia do Estado e criar uma sociedade livre, e vendê-la para um povo oprimido e raivoso que já está lutando contra os limites de seu entendimento, será tratado no capítulo final do livro .
 

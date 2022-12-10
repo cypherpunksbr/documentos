@@ -42,6 +42,7 @@ Isso é algo que muitos esquecem! O contexto é muito importante para entender c
 Muitos aqui tem medo de criarem coletivos justamente por causa dessa confusão. O Cypherpunks Brasil, o projeto Baixa Cultura,[^10] o Razão Inadequada,[^11] entre outros, todos esses projetos são coletivos. Não existe nenhum problema em grupos de pessoas se organizarem em prol de um interesse comum. Max Stirner havia criado o conceito de "União dos Egoístas",[^12] que em resumo,  seria a uma forma de pessoas se manterem unidas por vantagens e interesses mútuos. Se *organizem,* criem *redes de apoio mútuo,* grupos de estudo, ocupem espaços e coloquem os que tem a mesma visão junto. A Secessão individual é extremamente importante, mas nos dias atuais o melhor jeito de conseguir se separar do estado é se organizando e se ajudando, criando métodos em conjunto para se separar do aparato do estado o máximo possível.
 
 **6. Hierarquias verticais não são naturais, são uma tentativa de emular a estrutura do estado em outras situações.**
+
 A existencia do próprio estado altera toda a estrutura social que ele ocupa, dessa forma, onde houver estado, haverá assimetrias de poder, privilégios, corrupção... Euma dessa estruturas a serem corrompidas é a estrutura trabalhista, onde temos um centro (patrão, empresa) do qual toma as decisões de maneira centralizada e distribui a renda obtida dessa forma. Com a derrubada do estado, todas as estruturas sofrerão mudanças, desde a familia, até a organização trabalhista, fazendo o trabalho tender a ser remunerado com bases em contratos de renda volátil (porcentagem dos lucros do empreendimento), dessa forma, há uma mistura e mescla do trabalhador à empresa e não apenas como uma terceirização (salários)
 
 >“Em uma sociedade agorista, a divisão do trabalho e o respeito próprio de cada trabalhador … provavelmente eliminará a organização empresarial tradicional — especialmente a hierarquia corporativa, uma imitação do Estado e não do Mercado. A maioria dos empreendimentos serão associações de contratantes independentes, consultores e outras companhias. Muitos podem ser apenas um empreendedor e todos os seus serviços, computadores, fornecedores e clientes." - Samuel Edward Konkin III.[^13]
@@ -79,12 +80,13 @@ Isso não apenas amplia seu conhecimento profissional, mas também fornece mais 
 Por conta disso, certos atos não podem ser deixados de lado ou apenas considerados como algo de esquerdista ou outra coisa. Temas sobre racismo, lgbtfobia e violência contra as mulheres também deve ser levados em conta. Não é porque a esquerda usa e abusa desses grupos e outras minorias que elas devem ser excluídas, mas pelo contrário, deveriam também ser incluídas, já que isso minaria as possibilidades de discursos para a expansão do estado
 
 **14. O meio ambiente também é importante e se envolver em projetos de conservação não o fará ser comunista.**
-Plantar árvores, reciclar o lixo, cuidar dos animais, conscientizar sobre os temas ambientais é importante e extremamente cativante, ajuda tanto sua saúde mental, na forma como as pessoas te veem, tanto como o movimento é visto. Obviamente esse não é o nosso foco, mas o agorismo de mercado verde de fato é algo que deve ser defendido.
+Plantar árvores, reciclar o lixo, cuidar dos animais, conscientizar sobre os temas ambientais é importante e extremamente cativante, ajuda tanto sua saúde mental, na forma como as pessoas te veem, tanto como o movimento é visto. Obviamente esse não é o nosso foco, mas o agorismo de mercado verde[^16] de fato é algo que deve ser defendido.
 
 >“Podemos julgar o coração de um homem pela forma como ele trata os animais.” Immanuel Kant
 
 
 **15. Não sejam caretas de se tornarem máquinas de sua ideologia.**
+
 O mundo é muito mais que apenas regurgitar os mesmos argumentos em todo local. Saber diferenciar o local com quem se deve falar e como falar é muito importante, é uma habilidade social a ser desenvolvida. Mesmo que defenda com radicalidade a propriedade privada, não é preciso ser o ser mais pão duro do planeta, mesmo defendendo isso é possível ajudar ao próximo do qual precisa de ajuda e principalmente, ajudando seus familiares e amigos próximos a crescerem junto com você.
 
 >"Não há nada tão estúpido como a inteligência orgulhosa de si mesma." - Mikhail A. Bakunin
@@ -108,3 +110,4 @@ O mundo é muito mais que apenas regurgitar os mesmos argumentos em todo local. 
 [^13]: https://docplayer.com.br/9059377-O-manifesto-do-novo-libertario.html
 [^14]: Ele já está disponível em nosso [Github,](https://github.com/cypherpunksbr/documentos/blob/main/para%20revisar/agorismo-no-seculo-21.md) caso queiram conferir e se possível contribuir revisando, seriamos extremamente gratos.
 [^15]: https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering
+[^16]: https://cypherpunks.com.br/documentos/agorismo-de-mercado-verde/

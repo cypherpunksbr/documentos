@@ -47,4 +47,4 @@ De repente, essas perguntas se tornam mais fáceis de responder e podemos começ
 2. Do original “Greenwashing”, é um neologismo derivado das palavras green (verde) e whitewash (branquear ou encobrir), utilizado para indicar o uso de técnicas de marketing e relações públicas para expressar uma falsa preocupação de empresas, governos ou pessoas com o meio ambiente.
 
 ---
-Fonte: [Green Market Agorism - Logan Marie Glitterbomb](ttps://c4ss.org/content/51920)
+Fonte: [Green Market Agorism - Logan Marie Glitterbomb](https://c4ss.org/content/51920)

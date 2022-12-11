@@ -1,5 +1,5 @@
 ---
-title:  "Alguns pontos que devem ficar claros para o quem participa do movimento"
+title:  "Alguns pontos que devem ficar claros para quem participa do movimento"
 date:   2022-11-28
 author:
  - Harnizo
@@ -55,7 +55,7 @@ Acredito que quando terminarmos a revisão do Agorismo no Século 21[^14] e fina
 
 **8. Zelar pelo seus dados fora da internet também é importante**
 
-Quem é da área de segurança sabe como é fácil atacar pessoas através de engenharia social,[^14] mas além disso, sempre é bom tomar cuidado com quem você entrega informações pessoais, seja segredos, pensamentos políticos, até mesmo o nome de algum familiar pode ser usado contra você se alguém estiver disposto a te atacar, seja parente, amigo, colega de trabalho, o que for.
+Quem é da área de segurança sabe como é fácil atacar pessoas através de engenharia social,[^15] mas além disso, sempre é bom tomar cuidado com quem você entrega informações pessoais, seja segredos, pensamentos políticos, até mesmo o nome de algum familiar pode ser usado contra você se alguém estiver disposto a te atacar, seja parente, amigo, colega de trabalho, o que for.
 
 **9. Defender políticos e vertentes políticas estatistas não colaboram para diminuição ou desmantelamento do estado.**
 
@@ -104,7 +104,7 @@ O mundo é muito mais que apenas regurgitar os mesmos argumentos em todo local. 
 [^4]: Mesmo Konkin colocando o agorismo como esquerda radical, é preciso deixar algo bem claro. O Manifesto do Novo Libertário foi publicado na década de 80, porém, nas décadas seguintes surgiu uma corrente dentro do anarquismo chamado de *[Anarquismo pós-esquerda](https://pt.wikipedia.org/wiki/Anarquismo_p%C3%B3s-esquerdismo)* que se radicalizou para fora da espectro político tradicional, essa corrente engloba o *[anarquismo ontológico](https://baixacultura.org/2009/11/23/hakim-bey-taz-anarquismo-ontologico-e-outros-nomes-estranhos/)* e fica evidente que o agorismo entra nesse conceito por sua ligação com o *[ilegalismo](https://cypherpunks.com.br/documentos/empreendedores-e-o-lumpemproletariado-comparando-agorismo-e-ilegalismo/)* e com o *[individualismo](http://www.spaz.org/~dan/individualist-anarchist/resources.html)*
 [^5]: https://invisiblemolotov.files.wordpress.com/2008/06/agorist_class_theory.pdf
 [^6]: Muitos anarquistas clássicos estão no nosso site, vão conferir por data no início que acham eles.
-[^7]: Indicamos também a leitura do [George Woodcock - História das idéias e movimentos Anarquistas](https://we.riseup.net/assets/70972/George-Woodcock-Historia-Das-Ideias-e-Movimentos-Anarquistas-Vol-1.pdf) e o [SEK3 - History of the Libertarian Movement.](https://www.sek3.net/history-of-the-libertarian-movement.html)
+[^7]: Indicamos também a leitura do George Woodcock - História das idéias e movimentos Anarquistas [Volume 1](https://we.riseup.net/assets/70972/George-Woodcock-Historia-Das-Ideias-e-Movimentos-Anarquistas-Vol-1.pdf) e [Volume 2;](https://we.riseup.net/assets/70988/George-Woodcock-Historia-Das-Ideias-e-Movimentos-Anarquistas-Vol-2.pdf) e o [SEK3 - History of the Libertarian Movement.](https://www.sek3.net/history-of-the-libertarian-movement.html)
 [^8]: https://mundoeducacao.uol.com.br/historiadobrasil/o-corporativismo-na-era-vargas.htm
 [^9]: https://cypherpunks.com.br/documentos/rumo-a-alianca-agorista-sindicalista/
 [^10]: https://baixacultura.org/

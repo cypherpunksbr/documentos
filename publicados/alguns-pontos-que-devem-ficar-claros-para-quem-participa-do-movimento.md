@@ -1,5 +1,5 @@
 ---
-title:  "Alguns pontos que devem ficar claros para o quem participa do movimento"
+title:  "Alguns pontos que devem ficar claros para quem participa do movimento"
 date:   2022-11-28
 author:
  - Harnizo
@@ -21,7 +21,7 @@ Revisado por: Cypherpunks Brasil
 
 **1. Não pregue pra convertido, tente dar um foco em quem não é da área de tecnologia.**
 
-Pessoal de dev, eletrônica em geral tende a conseguir pesquisar solo sobre segurança e privacidade, Porém a população em geral não, por isso, devem priorizar e advogar pela privacidade[^1] à pessoas que justamente não tem muito contato com isso e não sabem a importância de manter sua privacidade. Será inútil se proteger e as pessoas ao seu redor se tornarem espiãs do estado de vigilância inconsciente.
+Pessoal de dev, eletrônica em geral tende a conseguir pesquisar solo sobre segurança e privacidade, Porém a população em geral não, por isso, devem priorizar e advogar pela privacidade[^1] à pessoas que justamente não tem muito contato com isso e não sabem a importância de manter sua privacidade. Será inútil se proteger e as pessoas ao seu redor se tornarem espiãs do estado de vigilância inconscientemente.
 
 >"A liberdade de todos é essencial para a minha liberdade" - Mikhail A. Bakunin
 
@@ -29,7 +29,7 @@ O mesmo serve quanto a nossa privacidade.
 
 **2. Não é porque uma idéia é diferente da sua que ela automaticamente é inimiga da sua visão.**
 
-Amir Taaki[^2] é um dos mais notáveis criptoanarquistas. Ele defendeu a experiência socialista de Rojava e inclusive foi lutar junto com povo curdo contra o Estado Islâmico. Derrick Broze[^3], que ouso dizer ser o maior nome do agorismo da atualidade, defende a experiência comunista de Chiapas e a considera legítima e também que é uma experiência contra-econômica. A maioria das vertentes anarquistas apenas discutem quais meios são melhores para abolir o estado, mas não necessariamente se contradizem. Vale lembrar que Konkin colocava o agorismo como *esquerda radical[^4]* justamente pelo potencial revolucionário que possuía. Claro que existem movimentos que não tem como andarem juntos, como o plataformismo e anarquismo sectário. Em geral o convívio entre vertentes anarquistas devem ser defendidas se as mesmas mostrarem uma boa convivência. Vale lembrar que o movimento mutualista, ilegalista e anarquista individualista praticam a contra-economia de forma consciente e ainda escrevem bastante sobre o assunto.
+Amir Taaki[^2] é um dos mais notáveis criptoanarquistas. Ele defendeu a experiência socialista de Rojava e inclusive foi lutar junto com povo curdo contra o Estado Islâmico. Derrick Broze[^3], que ouso dizer ser o maior nome do agorismo da atualidade, defende a experiência comunista de Chiapas e a considera legítima e também que é uma experiência contra-econômica. A maioria das vertentes anarquistas apenas discutem quais meios são melhores para abolir o estado, mas não necessariamente se contradizem. Vale lembrar que Konkin colocava o agorismo como *esquerda radical[^4]* justamente pelo potencial revolucionário que possuía. Claro que existem movimentos que não tem como andarem juntos, como o plataformismo e anarquismo sectário. Em geral o convívio entre vertentes anarquistas devem ser defendidas se as mesmas mostrarem uma boa convivência. Vale lembrar que os movimentos mutualista, ilegalista e anarquista individualista praticam a contra-economia de forma consciente e ainda escrevem bastante sobre o assunto.
 
 **3. Não estudem só a ideia em si, mas o contexto em que elas surgiram.**
 
@@ -55,7 +55,7 @@ Acredito que quando terminarmos a revisão do Agorismo no Século 21[^14] e fina
 
 **8. Zelar pelo seus dados fora da internet também é importante**
 
-Quem é da área de segurança sabe como é fácil atacar pessoas através de engenharia social,[^14] mas além disso, sempre é bom tomar cuidado com quem você entrega informações pessoais, seja segredos, pensamentos políticos, até mesmo o nome de algum familiar pode ser usado contra você se alguém estiver disposto a te atacar, seja parente, amigo, colega de trabalho, o que for.
+Quem é da área de segurança sabe como é fácil atacar pessoas através de engenharia social,[^15] mas além disso, sempre é bom tomar cuidado com quem você entrega informações pessoais, seja segredos, pensamentos políticos, até mesmo o nome de algum familiar pode ser usado contra você se alguém estiver disposto a te atacar, seja parente, amigo, colega de trabalho, o que for.
 
 **9. Defender políticos e vertentes políticas estatistas não colaboram para diminuição ou desmantelamento do estado.**
 
@@ -101,10 +101,10 @@ O mundo é muito mais que apenas regurgitar os mesmos argumentos em todo local. 
 [^1]: Recomendo fortemente o material do [autodefesa.org](https://autodefesa.org/)
 [^2]: https://academy.bit2me.com/pt/quien-es-amir-taaki/
 [^3]: https://cypherpunks.com.br/author/derrick-broze/
-[^4]: Mesmo Konkin colocando o agorismo como esquerda radical, é preciso deixar algo bem claro. O Manifesto do Novo Libertário foi publicado na década de 80, porém, nas décadas seguintes surgiu uma corrente dentro do anarquismo chamado de *[Anarquismo pós-esquerda](https://pt.wikipedia.org/wiki/Anarquismo_p%C3%B3s-esquerdismo)* que se radicalizou para fora da espectro político tradicional, essa corrente engloba o *[anarquismo ontológico](https://baixacultura.org/2009/11/23/hakim-bey-taz-anarquismo-ontologico-e-outros-nomes-estranhos/)* e fica evidente que o agorismo entra nesse conceito por sua ligação com o *[ilegalismo](https://cypherpunks.com.br/documentos/empreendedores-e-o-lumpemproletariado-comparando-agorismo-e-ilegalismo/)* e com o *[individualismo](http://www.spaz.org/~dan/individualist-anarchist/resources.html)*
+[^4]: Mesmo Konkin colocando o agorismo como esquerda radical, é preciso deixar algo bem claro. O Manifesto do Novo Libertário foi publicado na década de 80, porém, nas décadas seguintes surgiu uma corrente dentro do anarquismo chamado de *[Anarquismo pós-esquerda](https://pt.wikipedia.org/wiki/Anarquismo_p%C3%B3s-esquerdismo)* que se radicalizou para fora da espectro político tradicional, essa corrente engloba o *[anarquismo ontológico](https://protopia.fandom.com/pt-br/wiki/Anarquia_ontol%C3%B3gica_em_poucas_palavras)* e fica evidente que o agorismo entra nesse conceito por sua ligação com o *[ilegalismo](https://cypherpunks.com.br/documentos/empreendedores-e-o-lumpemproletariado-comparando-agorismo-e-ilegalismo/)* e com o *[individualismo](http://www.spaz.org/~dan/individualist-anarchist/resources.html)*
 [^5]: https://invisiblemolotov.files.wordpress.com/2008/06/agorist_class_theory.pdf
 [^6]: Muitos anarquistas clássicos estão no nosso site, vão conferir por data no início que acham eles.
-[^7]: Indicamos também a leitura do [George Woodcock - História das idéias e movimentos Anarquistas](https://we.riseup.net/assets/70972/George-Woodcock-Historia-Das-Ideias-e-Movimentos-Anarquistas-Vol-1.pdf) e o [SEK3 - History of the Libertarian Movement.](https://www.sek3.net/history-of-the-libertarian-movement.html)
+[^7]: Indicamos também a leitura do George Woodcock - História das idéias e movimentos Anarquistas [Volume 1](https://we.riseup.net/assets/70972/George-Woodcock-Historia-Das-Ideias-e-Movimentos-Anarquistas-Vol-1.pdf) e [Volume 2;](https://we.riseup.net/assets/70988/George-Woodcock-Historia-Das-Ideias-e-Movimentos-Anarquistas-Vol-2.pdf) e o [SEK3 - History of the Libertarian Movement.](https://www.sek3.net/history-of-the-libertarian-movement.html)
 [^8]: https://mundoeducacao.uol.com.br/historiadobrasil/o-corporativismo-na-era-vargas.htm
 [^9]: https://cypherpunks.com.br/documentos/rumo-a-alianca-agorista-sindicalista/
 [^10]: https://baixacultura.org/

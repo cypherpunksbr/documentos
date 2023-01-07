@@ -2,7 +2,7 @@
 title:  "Não elabore, apenas faça o que tiver que fazer"
 date:   2021-11-14
 author:
- - Harnizo
+ - Mestizo
 categories:
  - Artigo
 tags:
@@ -15,7 +15,7 @@ Revisado por: Matheus Bach, Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
-## Harnizo
+## Mestizo
 
 **Esse texto não tem pretensão a nada, é apenas um desabafo e vai para onde eu estiver afim. Talvez eu atualize ele um dia, duvido que isso aconteça.**
 

@@ -2,7 +2,7 @@
 title:  "Alguns pontos que devem ficar claros para quem participa do movimento"
 date:   2022-11-28
 author:
- - Harnizo
+ - Mestizo
  - Kakoy
 categories:
  - Artigo
@@ -17,7 +17,7 @@ Revisado por: Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
-## Harnizo, Kakoy
+## Mestizo, Kakoy
 
 **1. Não pregue pra convertido, tente dar um foco em quem não é da área de tecnologia.**
 
@@ -29,7 +29,7 @@ O mesmo serve quanto a nossa privacidade.
 
 **2. Não é porque uma idéia é diferente da sua que ela automaticamente é inimiga da sua visão.**
 
-Amir Taaki[^2] é um dos mais notáveis criptoanarquistas. Ele defendeu a experiência socialista de Rojava e inclusive foi lutar junto com povo curdo contra o Estado Islâmico. Derrick Broze[^3], que ouso dizer ser o maior nome do agorismo da atualidade, defende a experiência comunista de Chiapas e a considera legítima e também que é uma experiência contra-econômica. A maioria das vertentes anarquistas apenas discutem quais meios são melhores para abolir o estado, mas não necessariamente se contradizem. Vale lembrar que Konkin colocava o agorismo como *esquerda radical[^4]* justamente pelo potencial revolucionário que possuía. Claro que existem movimentos que não tem como andarem juntos, como o plataformismo e anarquismo sectário. Em geral o convívio entre vertentes anarquistas devem ser defendidas se as mesmas mostrarem uma boa convivência. Vale lembrar que os movimentos mutualista, ilegalista e anarquista individualista praticam a contra-economia de forma consciente e ainda escrevem bastante sobre o assunto.
+Amir Taaki[^2] é um dos mais notáveis criptoanarquistas. Ele defendeu a experiência socialista de Rojava e inclusive foi lutar junto com povo curdo contra o Estado Islâmico. Derrick Broze[^3], que ouso dizer ser o maior nome do agorismo da atualidade, defende a experiência comunista de Chiapas e a considera legítima e também que é uma experiência contra-econômica. A maioria das vertentes anarquistas apenas discutem quais meios são melhores para abolir o estado, mas não necessariamente se contradizem. Vale lembrar que Konkin colocava o agorismo como *esquerda radical[^4]* justamente pelo potencial revolucionário que possuía. Claro que existem movimentos que não tem como andarem juntos, como o plataformismo e anarquismo especifista. Em geral o convívio entre vertentes anarquistas devem ser defendidas se as mesmas mostrarem uma boa convivência. Vale lembrar que os movimentos mutualista, ilegalista e anarquista individualista praticam a contra-economia de forma consciente e ainda escrevem bastante sobre o assunto.
 
 **3. Não estudem só a ideia em si, mas o contexto em que elas surgiram.**
 

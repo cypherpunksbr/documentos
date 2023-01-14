@@ -10,6 +10,7 @@ tags:
   - Tecnologia
   - Filosofia
   - Ciberespaço
+  - Pós-estruturalismo
 author:
   - Dr. Paul Dylan-Ennis
   - W.W. Barlowe
@@ -17,7 +18,7 @@ author:
   - Nick Land
   - Amy Ireland
   - Harry Halpin
-description: 'Todos aqui discordam.'
+description: 'É com grande orgulho que nós do Cypherpunks Brasil trazemos mais uma obra, o Agorismo no Século 21 é um compilado de textos de vários autores de diferentes áreas e divergências políticas/filosóficas a respeito de temas como tecnologia, filosofia, anarquismo, pós-estruturalismo, criptoanarquismo e é claro, agorismo...'
 ---
 
 ```
@@ -26,6 +27,16 @@ Revisado por: Matheus Bach, Naka, Erika van der Leij, Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
+---
+* versão em PDF: [Agorismo no século 21 - PDF](https://raw.githubusercontent.com/cypherpunksbr/agorismo-no-seculo-21/main/agorismo-no-seculo-21.pdf?token=GHSAT0AAAAAAB3P7V2UQJP2MMG2PLR665MGY57HJTA)
+
+* versão em EPUB: [Agorismo no século 21 - Epub](https://github.com/cypherpunksbr/agorismo-no-seculo-21/raw/main/agorismo-no-seculo-21.epub)
+
+* versão em HTML: [Agorismo no século 21 - HTML](https://raw.githubusercontent.com/cypherpunksbr/agorismo-no-seculo-21/main/agorismo-no-seculo-21.html)
+
+* Zines: Em breve.
+
+* Versão em txt: Quando alguém quiser fazer.
 
 ---
 

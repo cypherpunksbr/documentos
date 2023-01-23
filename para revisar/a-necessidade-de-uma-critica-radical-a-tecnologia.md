@@ -72,4 +72,4 @@ Os avanços tecnológicos estão ocorrendo em uma velocidade sem precedentes e, 
 A tecnologia foi saboreada pela sociedade, tornando-se assim uma ferramenta para as elites promoverem seus interesses e visões. No entanto, ainda há algo que podemos fazer para recuperar a tecnologia, criticá-la, aprender sobre ela e, principalmente, reivindicar a existência de nossas visões.
 
 ---
-Fonte: https://fonte.fonte
+Fonte: [The Need for a Radical Critique of Technology](https://cypherpunkguild.medium.com/as-states-merge-with-the-internet-and-the-future-of-our-civilization-becomes-the-future-of-the-818d120fb582)

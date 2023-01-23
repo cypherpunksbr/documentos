@@ -17,7 +17,7 @@ Revisado por: Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
-**Nota do Tradutor:** Esse é o início de uma série de várias traduções dos textos escritos pelo projeto https://cypherpunkguild.org/, tentei editar a imagem no Gimp para traduzi-las, mas no Tipologia de Danos à Privacidade tive alguns problemas pra me decidir como localizar certinho, bem tá aí o resultado.
+**Nota do Tradutor:** Esse é o início de uma série de várias traduções dos textos escritos pelo projeto https://cypherpunkguild.org/, tentei editar as imagens no Gimp para traduzi-las, mas no Tipologia de Danos à Privacidade tive alguns problemas pra me decidir como localizar certinho, bem tá aí o resultado.
 
 # Cypherpunk Guild
 

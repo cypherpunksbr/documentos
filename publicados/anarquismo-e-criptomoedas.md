@@ -13,13 +13,13 @@ description: 'Criptomoeda, uma moeda digital em que as transações são verific
 
 ```
 Traduzido por: Vinicius Yaunner
-Revisado por: Cypherpunks Brasil
+Revisado por: Matheus Bach
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
 ## Rai Ling
 
-![](/stuff/anarchism-cryptocurrency.webp)
+![](../stuff/anarchism-cryptocurrency.webp)
 
 ### Introdução
 

@@ -17,26 +17,25 @@ Revisado por: Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
-**Nota do Tradutor:** Esse é o início de uma série de várias traduções dos textos escritos pelo projeto https://cypherpunkguild.org/, tentei editar as imagens no Gimp para traduzi-las, mas no Tipologia de Danos à Privacidade tive alguns problemas pra me decidir como localizar certinho, bem tá aí o resultado.
+**Nota do Tradutor:** Esse é o início de uma série de várias traduções dos textos escritos pelo projeto [Cypherpunk Guild,](https://cypherpunkguild.org/) tentei editar as imagens no Gimp para traduzi-las, mas no Tipologia de Danos à Privacidade tive alguns problemas - e preguiça - pra me decidir como localizar certinho, bem tá aí o resultado.
 
-# Cypherpunk Guild
+## Cypherpunk Guild
 
-![](/stuff/porque-precisamos-criticar-tecnologia.webp)
+![](../stuff/porque-precisamos-criticar-tecnologia.webp)
 
 >“À medida que os estados se fundem com a internet e o futuro de nossa civilização se torna o futuro da internet, devemos redefinir as relações de força. Se não o fizermos, a universalidade da internet fundirá a humanidade global em uma rede gigante de vigilância e controle de massa” -Julian Assange
 
-Nossas vidas estão repletas de tecnologia, desde nossos escritórios até nossos quartos. Trabalhamos, brincamos e criamos com elas, os vestimos e contamos com elas para inúmeras tarefas diárias. Nossas tecnologias e sistemas tecnológicos formam o pano de fundo, o contexto e o meio de nossas vidas. As coisas que fazemos e usamos moldam nosso ambiente, nossa cultura e, ao alterar os padrões da atividade humana, moldam quem somos e como vivemos. Em suma, o que fazemos e usamos não apenas nos permite manipular e controlar o meio ambiente, mas também nos transforma de maneiras fundamentais.
+Nossas vidas estão repletas de tecnologias, desde nossos escritórios até nossos quartos. Trabalhamos, brincamos e criamos com elas, nos vestimos e contamos com elas para inúmeras tarefas diárias. Nossas tecnologias e sistemas tecnológicos formam o pano de fundo, o contexto e o meio de nossas vidas. As coisas que fazemos e usamos moldam nosso ambiente, nossa cultura e, ao alterar os padrões da atividade humana, moldam quem somos e como vivemos. Em suma, o que fazemos e usamos não apenas nos permite manipular e controlar o meio ambiente, mas também nos transformam de maneiras fundamentais.
 
 A abordagem predominante da tecnologia apenas enfatiza seu lado benevolente que torna nossas vidas mais confortáveis, nosso trabalho mais eficiente e nossas brincadeiras mais divertidas. No entanto, aqueles que mantiveram uma visão mais crítica puderam ver quais são os verdadeiros custos das novas tecnologias.
 
 ## Os Custos Escondidos da Tecnologia
 
-![NSA Charge](/stuff/nsa-charge.webp)
->[The Cartonist Group](https://www.cartoonistgroup.com/?iid=106452)
+![NSA Charge](../stuff/nsa-charge.webp)
 
-O conforto e a conveniência de nossa tecnologia atual vieram à custa de liberdade e autonomia. Esta não é uma declaração controversa, pois as obras de Shoshana Zuboff, Julian Assange e muitos outros trouxeram à tona como os designs tecnológicos atuais estão permitindo que governos e corporações assumam o controle de cada vez mais aspectos de nossas vidas. Embora falemos mais detalhadamente sobre os problemas atuais que enfrentamos hoje na próxima série , é importante mencioná-los para aumentar a conscientização sobre a importância de se envolver com a tecnologia de forma mais crítica.
+[The Cartonist Group](https://www.cartoonistgroup.com/?iid=106452)
 
-
+O conforto e a conveniência de nossa tecnologia atual vieram à custa de liberdade e autonomia. Esta não é uma declaração controversa, pois as obras de Shoshana Zuboff, Julian Assange e muitos outros trouxeram à tona como os designs tecnológicos atuais estão permitindo que governos e corporações assumam o controle de cada vez mais aspectos de nossas vidas. Embora falemos mais detalhadamente sobre os problemas atuais que enfrentamos hoje na próxima série, é importante mencioná-los para aumentar a conscientização sobre a importância de se envolver com a tecnologia de forma mais crítica.
 
 ## Big Data e Modelagem Psicológica
 
@@ -50,8 +49,9 @@ Essa nova forma de controle é extremamente bem-sucedida, pois não se manifesta
 
 Somos constantemente solicitados por diferentes agências a compartilhar uma enorme quantidade de informações pessoais para obter serviços e benefícios públicos. Mesmo para a simples compra de um bilhete de teatro ou museu, muitas vezes somos obrigados a partilhar o nosso endereço de email e morada que ficará guardado na base de dados da entidade. Quão seguro é esse banco de dados, quem terá acesso a ele e como essas informações serão usadas, muitas vezes não é claro e, de qualquer maneira, não há alternativa a não ser sujeitar-se a ele para obter acesso a algo que precisamos ou desejo.
 
-![Tipologia de Danos à Privacidade](/stuff/pricavy-harms.webp)
->[Via Tech Privacy](https://teachprivacy.com/privacy-harms/)
+![Tipologia de Danos à Privacidade](../stuff/pricavy-harms.webp)
+
+[Via Tech Privacy](https://teachprivacy.com/privacy-harms/)
 
 A professora de direito de privacidade [Danielle K. Citron](https://en.wikipedia.org/wiki/Danielle_Citron) escreveu extensivamente sobre as graves violações de privacidade íntima que ocorrem diariamente por causa do tratamento de dados das pessoas por empresas e governos. E ao relatar as experiências vividas por muitos de seus clientes, ela chama a atenção para as consequências nefastas que uma violação de privacidade pode ter na vida de um indivíduo.
 

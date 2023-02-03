@@ -11,8 +11,14 @@ author:
   - Timothy C. May
 description: 'A combinação de criptografia de chave pública forte e inquebrável e comunidades de redes virtuais no ciberespaço produzirá mudanças interessantes e profundas na natureza dos sistemas econômicos e sociais. A criptoanarquia é a realização ciberespacial do anarco-capitalismo, transcendendo as fronteiras nacionais e libertando os indivíduos para fazer os arranjos econômicos que eles desejam fazer consensualmente.'
 ---
+
+```
+Traduzido por: OneTimePad
+Revisado por: Cypherpunks Brasil
+```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
+---
 ## Timothy C. May
 Dezembro de 1994
 
@@ -258,9 +264,12 @@ Meus agradecimentos aos meus colegas do grupo Cypherpunks, todos os 700 deles, p
     15.  Robin Hanson e David Friedman escreveram extensivamente sobre cenários para lidar com as ameaças de extorsionistas, pretensos assassinos, etc. Espero que algum trabalho deles seja publicado algum dia. (Grande parte da discussão foi em 1992-3, na lista de discussão "Extropians".) [↩](https://cypherpunks.com.br/criptoanarquia-e-comunidades-virtuais/#ref15)
 
     
-
-    ### Timothy C. May
-
-    <address>535 Monterey Drive Aptos, CA 95003 EUA tcmay@netcom.com Dezembro de 1994</address>
-
-    Fonte: [https://nakamotoinstitute.org/virtual-communities/](https://nakamotoinstitute.org/virtual-communities/)
+```
+Timothy C. May
+535 Monterey Drive
+Aptos, CA 95003 U.S.A.
+tcmay@netcom.com
+December, 19944
+```
+---
+Fonte: [https://nakamotoinstitute.org/virtual-communities/](https://nakamotoinstitute.org/virtual-communities/)

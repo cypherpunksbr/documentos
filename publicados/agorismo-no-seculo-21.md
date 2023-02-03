@@ -28,7 +28,7 @@ Revisado por: Matheus Bach, Naka, Erika van der Leij, Cypherpunks Brasil
 [```ver lista de contribuidores```](/about/#contribuidores)
 
 ---
-* versão em PDF: [Agorismo no século 21 - PDF](https://raw.githubusercontent.com/cypherpunksbr/agorismo-no-seculo-21/main/agorismo-no-seculo-21.pdf?token=GHSAT0AAAAAAB3P7V2UQJP2MMG2PLR665MGY57HJTA)
+* versão em PDF: [Agorismo no século 21 - PDF](https://raw.githubusercontent.com/cypherpunksbr/agorismo-no-seculo-21/main/agorismo-no-seculo-21.pdf)
 
 * versão em EPUB: [Agorismo no século 21 - Epub](https://github.com/cypherpunksbr/agorismo-no-seculo-21/raw/main/agorismo-no-seculo-21.epub)
 

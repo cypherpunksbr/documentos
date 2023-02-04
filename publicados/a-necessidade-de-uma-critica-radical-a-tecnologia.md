@@ -25,9 +25,9 @@ Revisado por: Cypherpunks Brasil
 
 >“À medida que os estados se fundem com a internet e o futuro de nossa civilização se torna o futuro da internet, devemos redefinir as relações de força. Se não o fizermos, a universalidade da internet fundirá a humanidade global em uma rede gigante de vigilância e controle de massa” -Julian Assange
 
-Nossas vidas estão repletas de tecnologias, desde nossos escritórios até nossos quartos. Trabalhamos, brincamos e criamos com elas, nos vestimos e contamos com elas para inúmeras tarefas diárias. Nossas tecnologias e sistemas tecnológicos formam o pano de fundo, o contexto e o meio de nossas vidas. As coisas que fazemos e usamos moldam nosso ambiente, nossa cultura e, ao alterar os padrões da atividade humana, moldam quem somos e como vivemos. Em suma, o que fazemos e usamos não apenas nos permite manipular e controlar o meio ambiente, mas também nos transformam de maneiras fundamentais.
+Nossas vidas estão repletas de tecnologias, desde nossos escritórios até nossos quartos. Trabalhamos, jogamos e criamos com elas, nos vestimos e contamos com elas para inúmeras tarefas diárias. Nossas tecnologias e sistemas tecnológicos formam o pano de fundo, o contexto e o meio de nossas vidas. As coisas que fazemos e usamos moldam nosso ambiente, nossa cultura e, ao alterar os padrões da atividade humana, moldam quem somos e como vivemos. Em suma, o que fazemos e usamos não apenas nos permite manipular e controlar o meio ambiente, mas também nos transformam de maneiras fundamentais.
 
-A abordagem predominante da tecnologia apenas enfatiza seu lado benevolente que torna nossas vidas mais confortáveis, nosso trabalho mais eficiente e nossas brincadeiras mais divertidas. No entanto, aqueles que mantiveram uma visão mais crítica puderam ver quais são os verdadeiros custos das novas tecnologias.
+A abordagem predominante da tecnologia apenas enfatiza seu lado benevolente que torna nossas vidas mais confortáveis, nosso trabalho mais eficiente e nossos jogos mais divertidas. No entanto, aqueles que mantiveram uma visão mais crítica puderam ver quais são os verdadeiros custos das novas tecnologias.
 
 ## Os Custos Escondidos da Tecnologia
 

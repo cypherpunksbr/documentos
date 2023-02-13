@@ -35,7 +35,7 @@ O ouro é um metal precioso, usado há muito tempo, como em decorações, reserv
 
 Diversas [formas de ouro](https://www.comproourobh.com.br/quais-os-tipos-de-ouro-conheca-os-principais) existem, 24k (100% ou 99% de pureza), 18k (75% de pureza) e outros com menor quantidade de ouro puro, quando o metal não é puro, ele é coberto por outras ligas metálicas geralmente menos valiosas e mais resistentes. No mercado das joalherias é geralmente usado o ouro de 18k, pois, o de 24k seria muito mais fácil da joia sofrer algum tipo de dano, como amassados.
 
-Existem outros tipos de ouro que provavelmente você já ouviu falar, como o ouro rosa e o ouro branco, eles são resultados de misturas com outros metais (vale a sua pesquisa).
+Existem outros tipos de ouro que provavelmente você já ouviu falar, como o rosa e o branco, eles são resultados de misturas com outros metais (vale a sua pesquisa). A valorização do ouro é surreal, desde 1900 até hoje (2023), o metal aumentou seu valor em 90 vezes, antes uma [onça de ouro](https://www.infopedia.pt/apoio/artigos/$onca-(oz)) custava US$ 20 (20 dólares), no momento atual está em US$ 1.800 (1.800 dólares), o apresentador e empresário Silvio Santos já falava: “Ouro vale mais que dinheiro”, ele estava certo!
 
 ## Padrão-ouro
 

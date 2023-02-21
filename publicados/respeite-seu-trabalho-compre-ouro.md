@@ -12,7 +12,7 @@ tags:
   - Liberdade
 author:
   - João Paulo Hotequil
-description: 'O ouro é um metal precioso, usado há muito tempo, como em decorações, reserva de valor, símbolo de poder, contextos religiosos (espirituais) e principalmente como moeda nas trocas dos indivíduos. Sua pureza é representada pela letra “k” (quilates). É um ativo com oferta limitada (escasso) que a maioria do mundo conhece.'
+description: 'O ouro é um metal precioso, usado há muito tempo, como decoração, reserva de valor, símbolo de poder, contextos religiosos (espirituais) e principalmente como moeda nas trocas dos indivíduos. Sua pureza é representada pela letra “k” (quilates). É um ativo de oferta limitada (escasso), com vasta demanda e que a maioria do mundo conhece.'
 ---
 
 ```
@@ -26,7 +26,7 @@ Revisado por: Matheus Bach
 
 ## Introdução
 
-O ouro é um metal precioso, usado há muito tempo, como decoração, reserva de valor, símbolo de poder, contextos religiosos (espirituais) e principalmente como moeda nas trocas dos indivíduos. Sua pureza é representada pela letra “k” (quilates). É um ativo com oferta limitada (escasso) que a maioria do mundo conhece.
+O ouro é um metal precioso, usado há muito tempo, como decoração, reserva de valor, símbolo de poder, contextos religiosos (espirituais) e principalmente como moeda nas trocas dos indivíduos. Sua pureza é representada pela letra “k” (quilates). É um ativo de oferta limitada (escasso), com vasta demanda e que a maioria do mundo conhece.
 
 Existem diversas [formas de ouro](https://www.comproourobh.com.br/quais-os-tipos-de-ouro-conheca-os-principais) disponíveis no mercado, com diferentes teores de pureza. O ouro de 24k é considerado o mais puro, com 100% ou 99% de pureza, enquanto o ouro de 18k possui uma pureza de 75%. Quando o ouro não é puro, é comum que ele seja coberto por outras ligas metálicas menos valiosas e mais resistentes. Na indústria de joalherias, é comum utilizar o ouro de 18k devido à sua maior resistência, já que o ouro de 24k é mais suscetível a danos físicos, como amassados e riscos, devido à sua menor dureza.
 
@@ -62,7 +62,7 @@ Se tem registro do uso do ouro desde 4600 *a.C.*, diferente de [diversas moedas]
 
 Muitas pessoas perderam todo seu patrimônio rapidamente por conta da insegurança monetária feita pelo governo brasileiro nessa época, especialmente nas décadas de 1980 e 1990. Pergunte aos mais velhos como estava a economia nessa fase, mas não pense que esse fenômeno é exclusivo de um tempo e que nunca irá mais acontecer. Uma grande favorita para sua quebra, é o Real que utilizamos hoje, é uma moeda que foi impressa de forma desenfreada nesses últimos anos, principalmente na pandemia do COVID-19.
 
-Dinheiro só faz sentido existir se ele refletir na quantidade de produtos e serviços disponíveis no mercado, se tem dinheiro e não tem com o que gastar, irá gerar inflação, foi o que aconteceu com o álcool em gel no tempo da pandemia (COVID-19): a população tinha uma demanda por esse produto, porém, não tinha quantidades para suprir a demanda, logo o preço aumentou, isso é básico.
+Dinheiro só faz sentido existir se ele refletir na quantidade de produtos e serviços disponíveis no mercado, se tem dinheiro e não tem com o que gastar, irá gerar inflação, foi o que aconteceu com o álcool em gel no tempo da pandemia (COVID-19): a população tinha uma demanda por esse produto, porém, não tinha quantidade suficiente para suprir a necessidade, logo o preço aumentou, isso é básico.
 
 Não adianta ter dinheiro em abundância, ninguém come papel (moeda). Uma coisa é certa: a conta irá chegar. Governos podem postergar e aumentar a bola de neve, mas você deve estar preparado para esse momento. Não confie em moedas lastreadas em lábia de burocratas e pseudo-economistas.
 

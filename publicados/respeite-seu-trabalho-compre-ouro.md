@@ -30,7 +30,9 @@ O ouro é um metal precioso, usado há muito tempo, como decoração, reserva de
 
 Existem diversas [formas de ouro](https://www.comproourobh.com.br/quais-os-tipos-de-ouro-conheca-os-principais) disponíveis no mercado, com diferentes teores de pureza. O ouro de 24k é considerado o mais puro, com 100% ou 99% de pureza, enquanto o ouro de 18k possui uma pureza de 75%. Quando o ouro não é puro, é comum que ele seja coberto por outras ligas metálicas menos valiosas e mais resistentes. Na indústria de joalherias, é comum utilizar o ouro de 18k devido à sua maior resistência, já que o ouro de 24k é mais suscetível a danos físicos, como amassados e riscos, devido à sua menor dureza.
 
-Existem outros tipos de ouro que provavelmente você já ouviu falar, como o rosa e o branco; eles são resultados de misturas com outros metais (vale a sua pesquisa). A valorização do ouro é surreal. Desde 1900 até hoje (2023), o metal aumentou seu valor em 90 vezes. Antes, uma onça de ouro (1 oz = 0,028349 kg) custava US$ 20, mas no momento atual está em US$ 1.800. O apresentador e empresário Silvio Santos já falava: “Ouro vale mais que dinheiro” e ele estava certo!
+Provavelmente você já ouviu falar de outros tipos de ouro, como o rosa e o branco; eles são resultados de misturas com outros metais (vale a sua pesquisa). A valorização do ouro é surreal. Desde 1900 até hoje (2023), o metal aumentou seu valor em 90 vezes. Antes, uma onça de ouro (1oz = 0,028349kg) custava US$ 20, mas no momento atual está em US$ 1.800. O apresentador e empresário Silvio Santos já falava: “Ouro vale mais que dinheiro” e ele estava certo!
+
+O Brasil é um grande minerador de ouro, já a prata não é tão presente no território, grande parte vem do exterior ou é adquirida através da reciclagem de objetos (sucata), como talheres, joias, peças eletrônicas e outros. Nas joias é geralmente usada a prata 950 ou 925, que tem grande parte do seu percentual em prata pura, o restante são demais metais.
 
 ## Padrão-ouro
 
@@ -127,5 +129,7 @@ O ouro pode ser uma ótima opção para deixar de herança para futuras geraçõ
 Fique esperto se for comprar metais. Saiba da procedência, tenha cuidado ao armazenar e tenha pelo menos o mínimo de noção da verificação de veracidade dele. Existem muitos testes simples e complexos para verificar metais. A internet está aí, assim como bons equipamentos que fazem isso e profissionais de confiança para ajudar.
 
 Existem outros materiais interessantes, como paládio, platina, ródio e outros. Mas como moeda, o ouro e a prata são mais comuns. Lembre-se de que o ouro é um próximo passo para uma vida mais segura. Antes, tenha uma casa, comida, dívidas pagas e armas. Comece pelo básico.
+
+Acabei colocando o título do artigo baseado no longo prazo, dificilmente alguém perderá valor com ouro, pois, ele respeita sua força de trabalho, seu suor não cairá em vão. 
 
 Seu indivíduo e sua família são mais importantes do que um senso falso de nação soberana (coletivo). Proteja-se. Obrigado por ler até aqui. Fique à vontade para copiar, compartilhar, criticar e elogiar este texto, pois ideias não são finitas.

@@ -17,7 +17,7 @@ Formatação e revisão: revise_para_estar_aqui
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
-**Nota do tradutor:** Esse não é a tradução do *A Hacker Manifesto,* mas do *A Hacker's manifesto,* uma versão mais curta produzida para o formato de zines pela [anarchotranshuman.org.](https://anarchotranshuman.org/) caso queiram saber mais sobre a autora recomendo o [texto do BaixaCultura](https://baixacultura.org/2023/02/15/mckenzie-wark-e-a-morte-do-capital/) sobre ela.
+**Nota do tradutor:** Esse não é a tradução do *A Hacker Manifesto* mas do *A Hacker's manifesto,* uma versão mais curta produzida para o formato de zines pela [anarchotranshuman.org,](https://anarchotranshuman.org/) caso queiram saber mais sobre a autora recomendo o [texto do BaixaCultura](https://baixacultura.org/2023/02/15/mckenzie-wark-e-a-morte-do-capital/) sobre ela.
 
 
 # McKenzie Wark

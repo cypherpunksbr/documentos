@@ -4,7 +4,7 @@ date:   2002-02-08
 author:
   - Eric S. Raymond
 categories:
-  - Artigo
+  - Livro
 tags:
   - Linux
   - Software

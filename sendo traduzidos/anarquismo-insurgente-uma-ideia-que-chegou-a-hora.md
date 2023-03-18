@@ -2,8 +2,7 @@
 title:  'Anarquismo Insurgente; Uma ideia que chegou a hora'
 date:   2022-04-20
 categories:
-  - Guia
-  - Template
+  - Artigo
 tags:
   - Contribuição
   - Ajuda para novatos
@@ -94,7 +93,7 @@ From screen to screen across the Internet, the centralized structures of outer s
 
 ### Revolutionary Cypherpunks
 
- At first, this digital space appeared as a lawless Wild West with no borders. Nobody owned the Internet. It was a field of potential that could evolve in many directions.
+At first, this digital space appeared as a lawless Wild West with no borders. Nobody owned the Internet. It was a field of potential that could evolve in many directions.
 
 A panel of speakers at the HOPE 9 conference in New York City on 13 July 2012 discussed WikiLeaks, Whistle-blowers, and the War on the First Amendment. ACLU lawyer Catherine Crump pointed out how the WikiLeaks case revealed a need to reexamine laws of nation-states, specifically how to apply the First Amendment in a digitized world.
 

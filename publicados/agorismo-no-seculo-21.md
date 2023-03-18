@@ -2,7 +2,7 @@
 title:  'Agorismo no século 21: Uma revista filosófica'
 date:   2023-01-02
 categories:
-  - Documentos
+  - Livro
 tags:
   - Agorismo
   - Contra-economia

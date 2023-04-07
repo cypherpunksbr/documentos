@@ -1,0 +1,43 @@
+---
+title:  "Agorismo vs. Consumismo Ético: Quanto Vale Seu Dinheiro?"
+date:   2016-09-11
+author:
+  - Logan Marie Glitterbomb
+categories:
+  - Artigo
+tags:  
+  - Agorismo
+  - Contra-economia
+description: "Utilizar os mercados para combater práticas de negócios antiéticas é uma longa tradição entre ativistas de várias ideologias. Considerando que o agorismo busca combater as práticas de compadrio de utilização do bem-estar corporativo, incentivos fiscais, lobby, leis de propriedade intelectual e outros privilégios especiais concedidos por governos para manter o status econômico e até mesmo o monopólio sobre certos produtos ou ideias, bem como outras práticas de maus negócios, mudando mais e mais nossas atividades para os mercados negro e cinza agoristas/livres, o consumismo ético, por outro lado, busca combater práticas comerciais injustas sendo consumidores conscientes no mercado branco, utilizando táticas de boicote e compra consciente."
+
+---
+```
+Traduzido por: Iann Zorkot
+Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
+```
+[```ver lista de contribuidores```](/about/#contribuidores)
+
+# Agorismo vs. Consumismo Ético: Quanto Vale Seu Dinheiro?
+
+## Logan Marie Glitterbomb
+
+Utilizar os mercados para combater práticas de negócios antiéticas é uma longa tradição entre ativistas de várias ideologias. Considerando que o agorismo busca combater as práticas de compadrio de utilização do bem-estar corporativo, incentivos fiscais, lobby, leis de propriedade intelectual e outros privilégios especiais concedidos por governos para manter o status econômico e até mesmo o monopólio sobre certos produtos ou ideias, bem como outras práticas de maus negócios, mudando mais e mais nossas atividades para os mercados negro e cinza agoristas/livres, o consumismo ético, por outro lado, busca combater práticas comerciais injustas sendo consumidores conscientes no mercado branco, utilizando táticas de boicote e compra consciente.
+
+O consumismo ético é tradicionalmente conhecido como votar com seu dinheiro na economia convencional. É simplesmente a ideia de comprar produtos e serviços que consideramos éticos e não comprar aqueles que consideramos antiéticos, a fim de promover a atividade ética do mercado por meio da demanda. Não gosta da Monsanto? Não compre produtos alimentícios fornecidos por eles. Não gosta da Chick-fil-A por causa de sua posição sobre os direitos dos homossexuais? Não compre deles. Essa é uma tática tão antiga quanto os próprios mercados. No entanto, não leva em consideração vários fatores externos que tornam essa tática extremamente ineficaz em grande escala.
+Konkin começa descrevendo a contra-economia como crescendo horizontalmente no sentido de uma porção crescente da população dominante voltando suas atividades para a economia não estatista. O crescimento vertical, no sentido konkiniano, envolve a criação real de contra-instituições às contrapartes estatistas. Isso significa construir alternativas não apenas para os centros de poder econômico por meio de moedas alternativas, mas alternativas para a mídia corporativa morta, os sistemas corporativos de produção de alimentos, os centros acadêmicos complacentes e o crescente complexo industrial sem fins lucrativos.
+
+Em um mercado verdadeiramente liberto, o consumismo ético faz todo o sentido, mas infelizmente nossa economia é tudo menos um mercado liberto. Nosso mercado está tão inclinado a favor de certos atores que é difícil travar efetivamente essas batalhas contra eles em uma escala grande o suficiente para afetá-los substancialmente. A pobreza e a distribuição injusta da riqueza tornam quase impossível que alguns sobrevivam como consumidores “éticos”, pois o custo de tais produtos tende a ser muito mais caro. Assim, os consumidores mais pobres são forçados a comprar itens de baixo custo produzidos de forma antiética sem necessidade. Os consumidores mais pobres já têm dificuldade em utilizar o potencial democrático dos mercados como estão, quanto mais de maneiras eticamente corretas. Portanto, o consumismo ético se torna a base para transferir a culpa de corporações antiéticas para consumidores antiéticos e pode levar a uma humilhação do pobre.
+
+Viver em uma sociedade hierárquica onde os negócios são estruturados principalmente de cima para baixo significa que as informações também estão dispersas de forma assimétrica. Por isso, muitos de nós estamos muito distantes da realidade dos produtos que consumimos. Esse [problema de conhecimento](https://aesquerdalibertaria.blogspot.com/2013/12/calculo-economico-na-comunidade.html#.ZC-MjevMI9c) nos leva, como consumidores, a fazer escolhas antiéticas no que compramos por ignorância e falta de informação. Grupos de certificação como o Fairtrade International surgiram para ajudar a complementar nosso conhecimento pessoal, supostamente garantindo que as empresas sigam os rígidos padrões éticos estabelecidos por cada grupo de certificação para receber seu selo de aprovação. No entanto, não apenas alguns desses grupos foram descobertos por vender certificações sem inspeção, mas também foram criticados por empurrar a ética ocidental para outras culturas onde certas visões éticas podem diferir. Esses agricultores e produtores não ocidentais que desejam obter ou manter o status de comércio justo são forçados a adotar padrões éticos estrangeiros para manter os negócios, fazendo com que o movimento pareça mais uma forma de colonialismo ético do que um sistema ético construído sobre autonomia ou liberdade.
+
+A realidade do consumismo ético é que ele falha em desafiar fundamentalmente o sistema econômico capitalista atual de qualquer forma substancial, ao invés disso, opta por trabalhar dentro do sistema. Como acontece com a maioria das atividades econômicas, os capitalistas geralmente encontram uma maneira de incorporar movimentos de mercado como esse tendências de consumo, marketing de causa, capitalismo verde e outros nichos de mercado. Em vez de mercados libertos onde o consumidor tem mais controle, somos deixados com falsas promessas de eletrodomésticos Energy Star, alimentos de comércio equitativo e outros produtos “éticos”, promessas de que o capitalismo pode ser poupado e tornado mais ético.
+
+O agorismo, em contraste, não vê, de forma alguma, a economia do mercado branco estatista como ética e opta por não trabalhar dentro dela para sabotá-la ou descentralizá-la ao máximo. Não envergonha aqueles por suas compras no mercado branco, sua falta de poder de voto econômico ou suas compras “antiéticas”. Não há organizações guardiãs, como certificadores de comércio justo, que impedem os produtores de participar. O melhor de tudo é que o agorismo é uma tática acessível a todos em vários níveis.
+
+Ao contrário do consumismo ético, que pinta tudo de uma maneira muito preta e branca, os agoristas vêem suas táticas funcionando em estágios. Assim, não é necessário ser firme e inabalavelmente “ético” por meio de apenas participar dos mercados negro e cinza, excluindo os [mercados brancos.](https://cypherpunks.com.br/documentos/agorismo-do-mercado-branco/) Em vez disso, os agoristas individuais se esforçam para transferir o máximo possível de sua atividade econômica para a [economia subterrânea](https://cypherpunks.com.br/documentos/contra-economia-tribut%C3%A1ria/) enquanto navegam pela sobrevivência no mundo real. Mesmo a pessoa mais pobre sem poder de voto real no mercado branco pode evitar pagar impostos, trabalhar por baixo da mesa, utilizar moedas alternativas ou a economia sem dinheiro, vender drogas, iniciar negócios não licenciados, etc. E enquanto muitos nos estágios iniciais do movimento agorista realizam apenas algumas de suas atividades diárias através da economia subterrânea, à medida que os mercados negro e cinza crescem e se desenvolvem, eles se tornarão mais seguros e irão englobar cada vez mais produtos e serviços, permitindo assim que mais pessoas participem com menos custo financeiro e mais segurança.
+
+Embora seja importante levar em consideração a ética pessoal ao se engajar na economia subterrânea para que ela não se torne um paraíso para cartéis, violência e outras práticas injustas, o consumo ético no mercado branco é, na melhor das hipóteses, ineficaz e, na pior, impossível. Embora táticas como boicotes tenham algum sucesso, elas não são exclusivas da filosofia do consumismo ético. Em suma, o agorismo parece mais realista e mais bem equipado para desafiar significativamente nossa economia capitalista atual pelo lado de fora. Lembre-se de que não existe consumismo ético sob o capitalismo e o mercado estatista!
+
+---
+Fonte: 
+[Agorism vs Ethical Consumerism: What’s Worth Your Money?](https://c4ss.org/content/45991)

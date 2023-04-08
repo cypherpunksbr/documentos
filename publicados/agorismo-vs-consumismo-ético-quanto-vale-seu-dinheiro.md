@@ -1,5 +1,5 @@
 ---
-title:  "Agorismo vs. Consumismo Ético: Quanto Vale Seu Dinheiro?"
+title:  "Agorismo vs Consumismo Ético: Quanto Vale Seu Dinheiro?"
 date:   2016-09-11
 author:
   - Logan Marie Glitterbomb
@@ -17,7 +17,7 @@ Revisado por: C4SS, Instituto Ágora, Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 
-# Agorismo vs. Consumismo Ético: Quanto Vale Seu Dinheiro?
+# Agorismo vs Consumismo Ético: Quanto Vale Seu Dinheiro?
 
 ## Logan Marie Glitterbomb
 

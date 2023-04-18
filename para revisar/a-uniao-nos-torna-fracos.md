@@ -14,7 +14,7 @@ description: 'Talvez isso fosse pragmático há um século, mas hoje a massa imp
 
 ```
 Tradução por: Vinicius Yaunner
-Formatação e revisão: Matheus Bach, revise_para_estar_aqui
+Formatação e revisão: Matheus Bach, Cerjinho, revise_para_estar_aqui
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 

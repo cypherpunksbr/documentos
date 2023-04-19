@@ -4,8 +4,8 @@ date:   2013-05-01
 categories:
   - Artigo
 tags:
-  - Hackerativismo
-  - Transhumanismo
+  - hackerativismo
+  - transumanismo
 author:
   - McKenzie Wark
 description: 'Qualquer que seja o código que hackeamos, seja linguagem de programação, linguagem poética, matemática ou música, curvas ou cores, criamos a possibilidade de coisas novas entrarem no mundo. Nem sempre grandes coisas, ou mesmo coisas boas, mas coisas novas. Na arte, na ciência, na filosofia e na cultura, em qualquer produção de conhecimento onde os dados podem ser coletados, onde a informação pode ser extraída, e onde nessa informação são produzidas novas possibilidades para o mundo, há hackers hackeando o novo. do velho. Enquanto os hackers criam esses novos mundos, nós não os possuímos. Aquilo que criamos está hipotecado a outros, e aos interesses de outros, a estados e corporações que controlam os meios para fazer mundos que só nós descobrimos. Nós não possuímos o que produzimos – ele nos possui.'

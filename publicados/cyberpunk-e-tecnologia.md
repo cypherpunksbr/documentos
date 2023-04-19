@@ -8,7 +8,7 @@ categories:
 tags:  
   - cyberpunk
   - tecnologia
-  - transhumanismo
+  - transumanismo
   - cultura
 description: "A principal característica do cyberpunk é que ele foge à definição. Isso não se deve apenas à ampla gama de escolhas nas ideias de seus apoiadores, mas também a um efeito direto das possibilidades oferecidas pelos novos métodos de tecnologia da informação. Nada neste campo pode ser separado nitidamente do resto. Em muitos textos narrativos, o estilo da história reflete os meios que a tornam um objeto transmissível, e essa mesma história tem conseqüências na elaboração da tecnologia futura."
 ---

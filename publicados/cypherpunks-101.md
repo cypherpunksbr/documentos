@@ -1,46 +1,40 @@
 ---
-title:  'Cypherpunks 101 - Introdução aos Cypherpunks'
-date:   06-05-2023
+title:  "Cypherpunks 101 - Introdução aos Cypherpunks"
+date:   2023-05-06
+author:
+  - Cypherpunk Guild
+  - La Devochka
 categories:
   - Artigo
 tags:
-  - Cypherpunks
   - Criptoanarquismo
   - Privacidade
   - Segurança
-author:
-  - Cypherpunks Guild
-  - La Devochka
-description: '"Os movimentos Cypherpunk e Cripto-Anarquista têm sido ferozes ativistas da Privacidade e Liberdade desde os anos 1980, e previram exatamente o que nossa sociedade se tornaria, caso a pulverização da tecnologia não fosse acompanhada de tecnologias que melhoram a privacidade e regulações. Quarenta anos depois, nos encontramos num mundo no qual corporações e governos podem acessar nossas informações pessoais sem que nós sequer saibamos. A mesma tecnologia, que tinha como objetivo nos dar maiores habilidades de livre a ssociação e liberdade de expressão, está se transformando numa jaula."'
+description: "Os movimentos cypherpunk e cripto-Anarquista têm sido ferozes ativistas da Privacidade e Liberdade desde os anos 1980, e previram exatamente o que nossa sociedade se tornaria, caso a pulverização da tecnologia não fosse acompanhada de tecnologias que melhoram a privacidade e regulações. Quarenta anos depois, nos encontramos num mundo no qual corporações e governos podem acessar nossas informações pessoais sem que nós sequer saibamos. A mesma tecnologia, que tinha como objetivo nos dar maiores habilidades de livre a ssociação e liberdade de expressão, está se transformando numa jaula."
+
 ---
 
 ```
 Traduzido por: mem3tic@mut8ion
-Revisado por: 
+Revisado por: Vinicius Yaunner
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
+
+Zine: (Em Breve)
 
 # Cypherpunks 101
 
 ## Privacidade Importa: Cypherpunks, Cripto-Anarquistas e Seus Inimigos
 
-Os termos "cypherpunk" e "cripto-anarquismo" não aparecem muito na mídia. Nos últimos anos, Edward Snowden e Julian Assange ajudar
-am a popularizar esses termos até um certo grau, mas ainda não está claro para a maioria o que esses termos significam. Conhecer e
-sses movimentos agora tem se tornado inegociável para aumentar a consciência acerca dos primeiros sinais do nascimento dos aparatos
- distópicos de vigilância.
+Os termos "cypherpunk" e "cripto-anarquismo" não aparecem muito na mídia. Nos últimos anos, Edward Snowden e Julian Assange ajudaram a popularizar esses termos até um certo grau, mas ainda não está claro para a maioria o que esses termos significam. Conhecer esses movimentos agora tem se tornado inegociável para aumentar a consciência acerca dos primeiros sinais do nascimento dos aparatos distópicos de vigilância.
 
-Os movimentos Cypherpunk e Cripto-Anarquista têm sido ferozes ativistas da Privacidade e Liberdade desde os anos 1980, e previram 
-exatamente o que nossa sociedade se tornaria, caso a pulverização da tecnologia não fosse acompanhada de tecnologias que melhoram 
-a privacidade e regulações. Quarenta anos depois, nos encontramos num mundo no qual corporações e governos podem acessar nossas in
-formações pessoais sem que nós sequer saibamos. A mesma tecnologia, que tinha como objetivo nos dar maiores habilidades de livre a
-ssociação e liberdade de expressão, está se transformando numa jaula.
+Os movimentos Cypherpunk e Cripto-Anarquista têm sido ferozes ativistas da privacidade e liberdade desde os anos 1980, e previram exatamente o que nossa sociedade se tornaria, caso a disseminação da tecnologia não fosse acompanhada de tecnologias que melhoram a privacidade e regulações. Quarenta anos depois, nos encontramos num mundo no qual corporações e governos podem acessar nossas informações pessoais sem que nós sequer saibamos. A mesma tecnologia, que tinha como objetivo nos dar maiores habilidades de livre associação e liberdade de expressão, está se transformando numa jaula.
 
 ### Cypherpunks & Cripto-Anarquistas: Quem são eles?
 
 O movimento Cypherpunk nasceu no final dos anos 80 e foi criado por Eric Hughes, Timothy C. May, e John Gilmore. Inaugurado pelo Manifesto Cripto-Anarquista, de Timothy May, o movimento Cypherpunk foca nas questões de privacidade na rede aberta, definindo privacidade como: "o poder de revelar seletivamente a si mesmo para o mundo" (Hughes, ed. Ludlaw, 2001, p. 81). Seu principal objetivo é prevenir a revelação de informações desnecessárias comumente requeridas em transações. Como Hughes escreve:
 
-
->"Nós, os Cypherpunks, nos dedicamos a construir sistemas anônimos. Nós estamos defendendo nossa privacidade com criptografia, com encaminhadores anônimos de emails, com assinaturas digitais, e com dinheiro eletrônico. Cypherpunks escrevem código. Nós sabemos que alguém há de escrever programas para defender a nossa privacidade e, como sabemos que ninguém terá privacidade até que todos a tenhamos, nós mesmos os escreveremos. Nós tornamos públicos nossos códigos para que nossos colegas Cypherpunks possam brincar com eles e utilizá-los na prática [...]. Cypherpunks deploram regulações sobre criptografia, pois encriptar é fundamentalmente um ato privado. O ato de encriptar, de fato, remove informações do domínio público. Mesmo as leis contra criptografia alcançam tão somente as fronteiras de uma nação e o braço de sua violência. Criptografia inevitavelmente se espalhará por todo o globo e, com ela, todos os sistemas de transações anônimas que através dela se fazem possíveis." (May, ed. Ludlaw, 2001, p. 83).
+>"Nós, os Cypherpunks, somos dedicados a construir sistema anônimos. Nós defendemos nossa própria privacidade com criptografia, com sistemas avançados de e-mail anônimos, com assinaturas digitais, com dinheiro eletrônico. Cypherpunks escrevem códigos. Nós sabemos que alguém deve escrever códigos que garantem a privacidade, e desde que nós não conseguimos a privacidade a menos que façamos isso, nós vamos escrever a privacidade. Nós publicamos o nosso código para nossos parceiros Cypherpunks poderem praticar e atuar com ele[...]. Cypherpunks não se importam com regulamentos sobre a criptografia, pois a mesma por si só é um ato privado. O ato de cifrar, de fato, remove a informação do conhecimento público. Mesmo leis sobre a criptografia só chegam longe o bastante da fronteira da nação e seu escopo de atuação e violência. Criptografia irá se espalhar para todo o mundo e com ela as possibilidades de existir sistemas de transações anônimas que a mesma possibilita." (May, ed. Ludlaw, 2001, p. 83).
 
 ![bitcoin magazine](../stuff/cypherpunks_bitcoinmagazine.webp)
 *Fonte: [Bitcoin Magazine](https://bitcoinmagazine.com/culture/crypto-art-of-resistance-remember-remember-the-legacy-of-the-cypherpunks)*
@@ -49,7 +43,7 @@ Cypherpunks têm lutado diversas batalhas contra o governo dos EUA, particularme
 
 Cripto-Anarquismo é outro movimento importante desenvolvido pelos primeiros Cypherpunks. Enquanto retém os mesmos princípios do movimento Cypherpunk, o movimento Cripto-Anarquista se enquadra como um movimento político mais abrangente. Como o nome sugere, o movimento Cripto-Anarquista se propõe a superar o alcance do modelo tradicional de nações-Estados através da fundação de uma sociedade baseada na livre associação, cooperação, igualitarismo, libertarianismo econômico e descentralização.
 
-Segundo o Cripto-Anarquismo, métodos criptográficos vão alterar a natureza das corporações e da interferência governamental em transações econômicas e sociais. Como May coloca: "Combinada com mercados emergentes de informação, a Cripto-Anarquia vai criar um mercado líquido para todo e qualquer material que possa ser colocado na forma de palavras e imagens" (May, ed. Ludlaw, 2001).
+Segundo o Cripto-Anarquismo, métodos criptográficos vão alterar a natureza das corporações e da interferência governamental em transações econômicas e sociais. Como May coloca: "Combinado com mercados de informação emergentes, a Cripto-Anarquia criará um mercado líquido para todo e qualquer material que possa ser colocado em palavras e imagens." (May, ed. Ludlaw, 2001).
 
 Cripto-Anarquistas não só estão comprometidos com criar programas que podem proteger contra os abusos do Estado: Eles também lutam para construir novas estruturas socioeconômicas através de código. Neste contexto, é possível entender como ideias e valores cripto-anarquistas estão refletidos na arquitetura da tecnologia _Blockchain_. _Blockchain_ permite que um coletivo de pessoas possa formular, disseminar, manter e verificar um sistema institucional enquanto registram as interações dentro da mesma (MacDonald, Allen and Potts, 2016). Isso nos permite mudar os meios pelos quais governamos a nós mesmos enquanto coletivos, e provém as bases parauma sociedade não-coercitiva baseada em concenso.
 
@@ -61,7 +55,7 @@ Hoje, nós somos forçados a conviver com instituições político-econômicas c
 
 Empresas como Facebook, Google e Amazon têm tido sucesso em tornar a vida online de seus usuários mais confortável ao permitir que comprem coisas em poucos minutos, que recebam informações relevantes baseadas no histórico recente de navegação na internet, e que identificam automaticamente o rosto de seus amigos numa foto. O lado ruim de tal "conveniência" é que Grandes Corporações e Agências Governamentais abusam e muitas vezes usam indevidamente os dados privados de usuários para retornos pessoais (veja Shoshana Zuboff, "A Era do Capitalismo de Viligância" - "The Age of Surveillance Capitalism").
 
->"Privacidade é necessária para uma sociedade aberta na era eletrônica. Privacidade não é segredo. Um assunto privado é algo que não se quer que o mundo inteiro saiba, enquanto um assunto secreto é algo que não se quer que absolutamente ninguém saiba. *Privacidade é o poder de se revelar seletivamente ao mundo*."
+>"Privacidade é necessário para uma sociedade aberta na Era da eletrônica. Privacidade não é segredo. Um assunto privado é algo que não queremos que o mundo inteiro saiba, entretanto um assunto secreto é algo que não queremos que ninguém saiba. *A privacidade é o poder de se revelar seletivamente para o mundo.*"
 
 Embora a tecnologia tenha, sem dúvida, se tornado um grande trunfo para aumentar nossa eficiência, não podemos ignorar o fato de que as assimetrias de poder que resultam do atual estado de coisas aumentam a vulnerabilidade dos usuários. Assim, o objetivo é encontrar uma maneira ideal de implantar a tecnologia para atender aos melhores interesses dos usuários, além de garantir a integridade do processo do início ao fim.
 
@@ -69,7 +63,7 @@ Embora a tecnologia tenha, sem dúvida, se tornado um grande trunfo para aumenta
 
 ### Criptografia e o Sistema Financeiro
 
-O Cripto-Anarquismo é um movimento que usa Criptografia para permitir que os usuários existam on-line de forma anônima. Ele se esforça para libertari os dados privados da vigilância institucional. “Criptografia” é o método de armazenar e transmitir dados de uma forma particular, para que apenas aqueles a quem se destina possam lê-los e processá-los. Embora a Criptografia possa ser altamente benéfica para usuários individuais, muitas vezes é interpretada como uma *ameaça* para governos e agências relacionadas, que têm interesse em monitorar as comunicações e as transações econômicas.
+O Cripto-Anarquismo é um movimento que usa Criptografia para permitir que os usuários existam online de forma anônima. Ele se esforça para libertar os dados privados da vigilância institucional. “Criptografia” é o método de armazenar e transmitir dados de uma forma particular, para que apenas aqueles a quem se destina possam lê-los e processá-los. Embora a Criptografia possa ser altamente benéfica para usuários individuais, muitas vezes é interpretada como uma *ameaça* para governos e agências relacionadas, que têm interesse em monitorar as comunicações e as transações econômicas.
 
 ![Cypherpunks Write Code](../stuff/cypherpunks_write_code.webp)
 
@@ -124,7 +118,9 @@ A seminal work in the field, Diffie and Hellman’s [“New Directions in Crypto
 [“Battle of the Clipper Chip”](https://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html) in The New York Times (1994)
 
 [The Evolution of US Government Restrictions on Using and Exporting Encryption Technologies](http://www.foia.cia.gov/sites/default/files/DOC_0006231614.pdf) (FOIA: 2010)
+
 ---
+
 Fonte: 
 * https://cypherpunkguild.medium.com/cypherpunks-101-ep-1-82d91f13aa2
 

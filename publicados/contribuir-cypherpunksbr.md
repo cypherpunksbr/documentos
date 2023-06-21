@@ -166,7 +166,7 @@ Você pode revisar um documento que já esteja traduzido e disponível na pasta 
 
 Quer ajudar a melhorar o [cypherpunks.com.br](https://cypherpunks.com.br/)?
 
-**1.** Vá até o nosso [repositório do site(https://github.com/cypherpunksbr/cypherpunks.com.br) no Github e faça o [Fork](/documentos/wiki-gitub-browser#criando-um-fork).
+**1.** Vá até o nosso [repositório do site](https://github.com/cypherpunksbr/cypherpunks.com.br) no Github e faça o [Fork](/documentos/wiki-gitub-browser#criando-um-fork).
 
 **2.** Dentro do seu Fork (```github.com/seu-nome-de-usuário/cypherpunks.com.br```), crie uma **nova** [Branch](/documentos/wiki-gitub-browser#criando-uma-nova-branch) com um nome que especifique o objetivo. Por exemplo: ```corrige-link-quebrado```.
 

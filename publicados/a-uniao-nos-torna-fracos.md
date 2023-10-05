@@ -12,8 +12,8 @@ description: 'Talvez isso fosse pragmático há um século, mas hoje a massa imp
 ---
 
 ```
-Tradução por: Vinicius Yaunner
-Formatação e revisão: Cypherpunks Brasil, Cerjinho
+Tradução por: Cypherpunks Brasil
+Formatação e revisão: Cerjinho
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
 

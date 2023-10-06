@@ -61,7 +61,7 @@ Os regimes autoritários dão origem a forças que se opõem a eles, empurrando 
 
 ## Conspirações terroristas como *grafos conectados*
 
-Antes e depois do 11 de setembro, o Escritório de Compras de Maryland (Agência de Segurança Nacional, cobertura leve para financiamento acadêmico, google para código de concessão “MDA904”) e outros financiaram matemáticos para olhar para conspirações terroristas como *grafos conectados* (nenhuma formação matemática é necessária para siga este artigo).
+Antes e depois do 11 de setembro, o Maryland Procurement Office (Agência de Segurança Nacional, cobertura leve para financiamento acadêmico, google para código de concessão “MDA904”) e outros financiaram matemáticos para olhar para conspirações terroristas como *grafos conectados* (nenhuma formação matemática é necessária para siga este artigo).
 
 Ampliamos esta compreensão das organizações terroristas e voltamo-la para os seus criadores, onde se torna uma faca para dissecar as conspirações de poder usadas para manter um governo autoritário.
 
@@ -156,47 +156,47 @@ Os regimes autoritários criam forças que se opõem a eles, pressionando contra
 >
 >-O Príncipe, Niccolo Machiavelli [1469-1527]
 
-# Terrorist conspiracies as *connected graphs*
+## Conspirações terroristas como *grafos conectados*
 
-Pre and post 9/11 the Maryland Procurement Office[^2] (National Security Agency light cover for academic funding, google for grant code “MDA904”) and others have funded mathematicians to look at terrorist conspiracies as *connected graphs* (no mathematical background is needed to follow this article).
+Antes e depois do 11 de setembro, o Maryland Procurement Office[^2] (Agência de Segurança Nacional, cobertura leve para financiamento acadêmico, google para código de concessão “MDA904”) e outros financiaram matemáticos para olhar para conspirações terroristas como *grafos conectados* (nenhuma formação matemática é necessária para siga este artigo).
 
-We extend this understanding of terrorist organizations and turn it on the likes of its creators where it becomes a knife to dissect the power conspiracies used to maintain authoritarian government.
+Ampliamos esta compreensão das organizações terroristas e voltamo-la para os seus criadores, onde se torna uma faca para dissecar as conspirações de poder usadas para manter um governo autoritário.
 
-We will use *connected graphs* as a way to apply our spatial reasoning abilities to political relationships. These graphs are very easy to visualize. First take some nails (“conspirators”) and hammer them into a board at random. Then take twine (“communication”) and loop it from nail to nail without breaking. Call the twine connecting two nails a *link.* Unbroken twine means it is possible to travel from any nail to any other nail via twine and intermediary nails. Mathematicians say that this type of graph is *connected.*
+Usaremos *grafos conectados* como forma de aproveitar a capacidade de raciocínio espacial do cérebro para pensar de uma nova maneira sobre as relações políticas. Esses grafos são fáceis de visualizar. Primeiro pegue alguns pregos (“conspiradores”) e martele-os aleatoriamente em uma tábua. Em seguida, pegue o barbante (“comunicação”) e passe-o de prego em prego sem arrebentar. Chame o fio que conecta dois pregos de *elo.* Fio inteiro significa que é possível passar de qualquer prego a qualquer outro através de barbante e pregos intermediários. Os matemáticos dizem que este tipo de grafo é *conectado.*
 
-Information flows from conspirator to conspirator. Not every conspirator trusts or knows every other conspirator even though all are connected. Some are on the fringe of the conspiracy, others are central and communicate with many conspirators and others still may know only two conspirators but be a bridge between important sections or groupings of the conspiracy.
+A informação flui de conspirador para conspirador. Nem todo conspirador confia ou conhece todos os outros conspiradores, embora todos estejam *conectados.* Alguns estão à margem da conspiração, outros são centrais e se comunicam com muitos conspiradores e outros ainda podem conhecer apenas dois conspiradores, mas ser uma ponte entre seções importantes ou agrupamentos da conspiração.
 
-## Separating a conspiracy
+## Separando uma conspiração
 
-If all conspirators are assassinated or all the links between them are destroyed, then a conspiracy no longer exists. This is usually requires more resources than we can deploy, so we ask our first question: What is the minimum number of links that must be cut to separate the conspiracy into two groups of equal number? (divide and conquer). The answer depends on the structure of the conspiracy. Sometimes there are no alternative paths for conspiratorial information to flow between conspirators, othertimes there are many. This is a useful and interesting characteristic of a conspiracy. For instance, by assassinating one “bridge” conspirator, it may be possible to split a conspiracy. But we want to say something about all conspiracies.
+Se todos os conspiradores forem assassinados ou todas as ligações entre eles forem destruídas, então uma conspiração deixa de existir. Isto normalmente requer mais recursos do que podemos mobilizar, por isso fazemos a nossa primeira pergunta: Qual é o número mínimo de ligações que devem ser cortadas para separar a conspiração em dois grupos de igual número? (dividir e conquistar). A resposta depende da estrutura da conspiração. Às vezes não há caminhos alternativos para o fluxo de informações conspiratórias entre os conspiradores, outras vezes há muitos. Esta é uma característica útil e interessante de uma conspiração. Por exemplo, ao assassinar um conspirador “ponte”, pode ser possível dividir uma conspiração. Mas queremos dizer algo sobre todas as conspirações.
 
-## Some conspirators dance closer than others
+## Alguns conspiradores dançam mais próximos que outros
 
-Conspirators are often discerning, for some trust and depend each other, while others say little. Important information flows frequently through some links, trivial information through others. So we expand our simple connected graph model to include not only links, but their “importance”.
+Os conspiradores costumam ser perspicazes, pois alguns confiam e dependem uns dos outros, enquanto outros dizem pouco. Informações importantes fluem frequentemente através de alguns elos, informações triviais através de outros. Portanto, expandimos nosso modelo simples de gráfico conectado para incluir não apenas elos, mas sua “importância”.
 
-Return to our board-and-nails analogy. Imagine a thick heavy cord between some nails and fine light thread between others. Call the importance, thickness or heaviness of a link its *weight.* Between conspirators that never communicate the weight is zero. The “importance” of communication passing through a link is difficult to evaluate apriori, since its true value depends on the outcome of the conspiracy. We simply say that the “importance” of communication contributes to the weight of a link in the most obvious way; the weight of a link is proportional to the amount of important communication flowing across it. Questions about conspiracies in general won’t require us to know the weight of any link, since that changes from conspiracy to conspiracy.
+Volte à nossa analogia com tábuas e pregos. Imagine um cordão grosso e pesado entre alguns pregos e um fio fino e leve entre outros. Chame a importância, a espessura ou o peso de um elo de seu *peso*. Entre conspiradores que nunca se comunicam, o peso é zero. A “importância” da comunicação que passa por um elo é difícil de avaliar a priori, pois o seu verdadeiro valor depende do resultado da conspiração. Dizemos simplesmente que a “importância” da comunicação contribui para o peso de um elo da forma mais óbvia; o peso de um elo é proporcional à quantidade de comunicação importante que flui através dele. Perguntas sobre conspirações em geral não exigirão que saibamos o peso de qualquer ligação, uma vez que isso muda de conspiração para conspiração.
 
-## Conspiracies are cognitive devices. They are able to outthink the same group of individuals acting alone
+## Conspirações são artifícios cognitivos. Eles são capazes de superar o mesmo grupo de indivíduos agindo sozinhos
 
-Conspiracies take information about the world in which they operate (the conspiratorial environment), pass through the conspirators and then act on the result. We can see conspiracies as a type of device that has inputs (information about the environment), a computational network (the conspirators and their links to each other) and outputs (actions intending to change or maintain the environment).
+As conspirações pegam informações sobre o mundo em que atuam (o ambiente conspiratório), passam pelos conspiradores e depois agem de acordo com o resultado. Podemos ver as conspirações como um tipo de dispositivo que possui entradas (informações sobre o ambiente), uma rede computacional (os conspiradores e suas ligações entre si) e saídas (ações que pretendem mudar ou manter o ambiente).
 
-## Deceiving conspiracies
+## Conspirações enganosas
 
-Since a conspiracy is a type of cognitive device that acts on information acquired from its environment, distorting or restricting these inputs means acts based on them are likely to be misplaced. Programmers call this effect garbage in, garbage out.
+Uma vez que uma conspiração é um tipo de artifício cognitivo que actua sobre informações adquiridas do seu ambiente, distorcer ou restringir estes inputs significa que os actos baseados neles serão provavelmente equivocados. Os programadores chamam esse efeito de lixo que entra e lixo que sai.
 
-Usually the effect runs the other way; it is conspiracy that is the agent of deception and information restriction. In the US, the programmer’s aphorism is sometimes called “the Fox News effect”.
+Geralmente o efeito ocorre no sentido inverso; é a conspiração o agente do engano e da restrição de informações. Nos EUA, o aforismo do programador é por vezes chamado de “efeito Fox News”.
 
-## What does a conspiracy compute? It computes the next action of the conspiracy
+## O que uma conspiração calcula? Ela calcula a próxima ação da conspiração
 
-Now we ask the question: how effective is this device? Can we compare it to itself at different times? Is the conspiracy growing stronger or is it weakening? This question asks us to compare two values over time.
+Agora fazemos a pergunta: quão eficaz é este dispositivo? Podemos compará-lo consigo mesmo em momentos diferentes? A conspiração está ficando mais forte ou enfraquecendo? Esta questão nos pede para comparar dois valores ao longo do tempo.
 
-## Can we find a value that describes the power of a conspiracy?
+## Podemos encontrar um valor que descreva o poder de uma conspiração?
 
-We could count the number of conspirators, but that would not capture the key difference between a conspiracy and the individuals which comprise it. How do they differ? In a conspiracy, individuals conspire, while when isolated they do not. We can show most of this difference by adding up all the important communication (weights) between all the conspirators. Call this *total conspiratorial power.*
+Poderíamos contar o número de conspiradores, mas isso não captaria a diferença fundamental entre uma conspiração e os indivíduos que a compõem. Como eles diferem? Numa conspiração, os indivíduos conspiram, mas quando isolados não o fazem. Podemos mostrar a maior parte desta diferença somando todas as comunicações (pesos) importantes entre todos os conspiradores. Chame isso de *poder conspiratório total.*
 
-## Total conspiratorial power
+## Poder conspiratório total
 
-This number is an abstraction. The pattern of connections in a conspiracy is usually unique. But by looking at a value that is independent of the arrangement of connections between conspirators we can say something about conspiracies in general.
+Este número é uma abstração. O padrão de conexões em uma conspiração costuma ser único. Mas olhando para um valor que é independente do arranjo de conexões entre conspiradores, podemos dizer algo sobre as conspirações em geral.
 
 ## If total conspiratorial power is zero, there is no conspiracy
 

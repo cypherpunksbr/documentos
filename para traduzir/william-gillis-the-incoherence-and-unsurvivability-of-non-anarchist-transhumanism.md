@@ -5,7 +5,7 @@ categories:
   - Artigo
 tags:
   - Adicione tags aqui, um item por linha
-  - transhumanismo
+  - transumanismo
 author:
   - William Gillis
 description: 'Favor colocar aqui uma descrição'

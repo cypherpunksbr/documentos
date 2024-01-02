@@ -30,7 +30,7 @@ Recomendações de textos, sites, manuais, livros sobre temas envolvendo o movim
 * [Criptografia](#criptografia)
 * [Hacking/Hackerativismo](#hackinghackerativismo)
 * [Agorismo](#agorismo)
-* [Transhumanismo](#transhumanismo)
+* [Transumanismo](#Transumanismo)
 
 ---
 #### Envolvimento com o Movimento
@@ -178,7 +178,7 @@ Recomendações de textos, sites, manuais, livros sobre temas envolvendo o movim
 
 ---
 
-#### Transhumanismo
+#### Transumanismo
 * Conteúdo em Português
     * Vídeos
     * Livros

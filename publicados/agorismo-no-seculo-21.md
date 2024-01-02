@@ -22,7 +22,7 @@ description: 'É com grande orgulho que nós do Cypherpunks Brasil trazemos mais
 ---
 
 ```
-Traduzido por: Vinicius Yaunner
+Traduzido por: Cypherpunks Brasil
 Revisado por: Matheus Bach, Naka, Erika van der Leij, Cypherpunks Brasil
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)

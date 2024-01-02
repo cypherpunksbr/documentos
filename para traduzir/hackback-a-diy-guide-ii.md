@@ -5,7 +5,7 @@ categories:
   - Artigo
 tags:
   - Hackerativismo
-  - Transhumanismo
+  - transumanismo
 author:
   - Phineas Fischer
   - Subcowmandante Marcos

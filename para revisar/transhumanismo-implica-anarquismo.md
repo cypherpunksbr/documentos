@@ -1,12 +1,12 @@
 ---
-title:  "Transhumanismo Implica Anarquismo"
+title:  "Transumanismo Implica Anarquismo"
 date:   2016-09-16
 author:
   - William Gillis
 categories:
   - Artigo
 tags:
-  - transhumanismo
+  - transumanismo
   - anarco-transumanismo
   - anarquismo
 ---
@@ -17,7 +17,7 @@ Revisado por: Cypherpunks Brasil
 
 **Nota do tradutor:** Atacante e defensor são gírias na área de segurança. Atacante é o hacker que está invadindo, fazendo teste de penetração, etc. Já o defensor é que está trabalhando na manutenção e proteção do sistema, servidor, etc.
 
-# Transhumanismo Implica Anarquismo
+# Transumanismo Implica Anarquismo
 ## William Gillis
 
     Transcrição de uma palestra proferida na conferência Future Of Politics do IEET em 2015
@@ -58,7 +58,7 @@ Essa corrente reacionária se espalha por toda a nossa sociedade. É imensamente
 
 A liberdade de fazer é disruptiva e complexa. Ele expande opções. E quando realmente descentralizado - espalhado para os indivíduos - torna impossível o funcionamento do poder. Para qualquer ator, indivíduo ou instituição, controlar a vasta e insondável diversidade e complexidade do mundo. Impossível impor editais, mesmo “democráticos”.
 
-Quando transhumanistas liberais ou social-democratas declaram que o que precisamos é de tecnologia “sob o controle do povo”, o que nunca está incluído nisso é como exatamente esse tipo de controle deve funcionar.
+Quando transumanistas liberais ou social-democratas declaram que o que precisamos é de tecnologia “sob o controle do povo”, o que nunca está incluído nisso é como exatamente esse tipo de controle deve funcionar.
 
 Como é um mundo em que temos a capacidade de impedir que as pessoas imprimam AR-15? Esqueça as associações confusas de “democracia”, até mesmo de “democracia direta”. Pergunte a si mesmo o que realmente precisa ser feito para controlar a terapia genética? Instalações únicas do governo supervisionam o uso de tecnologias de ponta? Backdoors massivos nos dispositivos de todos que monitoram e limitam o uso de forma agressiva? Controle totalitário de todas as comunicações do planeta? Ataques agressivos contra todos os *hackers* e *tinkerers*? Contabilidade sistemática de todas as máquinas de fabricação existentes? Vigilância constante de qualquer pessoa com conhecimento de como essas coisas funcionam? Controle total de toda a alocação de recursos do planeta? Este é o único resultado para a lógica da “social-democracia” quando aplicada às aspirações transumanas.
 

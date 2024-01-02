@@ -5,7 +5,7 @@ categories:
    - Artigo
 tags:
   - anarquismo
-  - transhumanismo
+  - transumanismo
   - ciência
   - tecnologia
 author:

@@ -6,7 +6,7 @@ author:
 categories:
   - Artigo
 tags:
-  - Transhumanismo
+  - Transumanismo
   - Anarquismo
 description: O anarco-transumanismo é o reconhecimento de que a liberdade social está inerentemente ligada à liberdade material e que a liberdade é, em última análise, uma questão de expandir nossa capacidade e oportunidades de nos envolver com o mundo ao nosso redor. Isso significa não apenas estar livre das limitações arbitrárias que nossos corpos podem impor, mas também para moldar o mundo ao nosso redor e aprofundar o potencial de nossas conexões entre si por meio dele.
 ---
@@ -36,6 +36,6 @@ Significa desafiar e alterar as condições que poderiam nos governar. Significa
 
 Significa criptografia — canais inquebráveis de comunicação privada somados a uma colmeia inquebrável de ideias e conhecimento. Também significa a abolição da privacidade pública — a criação de um mundo onde as ações que realizamos uns com os outros são compartilháveis e verificáveis em um instante. E, em última análise, será a liberdade de ultrapassar a largura de banda limitada da linguagem e conectar-se cada vez mais diretamente uns aos outros — para fundir mentes e transcender subjetividades individuais conforme desejado.
 
-Anarco-Transhumanismo é todas essas coisas e qualquer uma delas.
+Anarco-Transumanismo é todas essas coisas e qualquer uma delas.
 
 Fonte: [Accelerating Anarchism  - An Introduction to Anarcho-Transhumanism](http://www.blueshifted.net/)

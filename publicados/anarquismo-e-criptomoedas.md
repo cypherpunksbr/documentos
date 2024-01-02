@@ -12,7 +12,7 @@ description: 'Criptomoeda, uma moeda digital em que as transações são verific
 ---
 
 ```
-Traduzido por: Vinicius Yaunner
+Traduzido por: Cypherpunks Brasil
 Revisado por: Matheus Bach
 ```
 [```ver lista de contribuidores```](/about/#contribuidores)
